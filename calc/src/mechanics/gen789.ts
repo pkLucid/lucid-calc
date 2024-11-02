@@ -210,6 +210,8 @@ export function calculateSMSSSV(
   let isRefrigerate = false;
   let isGalvanize = false;
   let isLiquidVoice = false;
+  let isAcidCoat = false;
+  let isEclipsate = false;
   let isNormalize = false;
   const noTypeChange = move.named(
     'Revelation Dance',
@@ -234,7 +236,11 @@ export function calculateSMSSSV(
       type = 'Fairy';
     } else if ((isRefrigerate = attacker.hasAbility('Refrigerate') && normal)) {
       type = 'Ice';
-    } else if ((isNormalize = attacker.hasAbility('Normalize'))) { // Boosts any type
+    } else if ((isAcidCoat = attacker.hasAbility('Acid Coat') && normal)) {
+      type = 'Poison';
+    } else if ((isEclipsate = attacker.hasAbility('Eclipsate') && normal)) {
+      type = 'Dark';
+    } else if ((isNormalize = attacker.hasAbility('Normalize') && normal)) { // Boosts any type
       type = 'Normal';
     }
     if (isGalvanize || isPixilate || isRefrigerate || isAerilate || isNormalize) {
@@ -812,10 +818,10 @@ export function calculateBasePowerSMSSSV(
       desc.moveName = 'Tri Attack';
     }
     break;
-  case 'Water Shuriken':
-    basePower = attacker.named('Greninja-Ash') && attacker.hasAbility('Battle Bond') ? 20 : 15;
-    desc.moveBP = basePower;
-    break;
+  // case 'Water Shuriken':
+  //   basePower = attacker.named('Greninja-Ash') && attacker.hasAbility('Battle Bond') ? 20 : 15;
+  //   desc.moveBP = basePower;
+  //   break;
   // Triple Axel's damage doubles after each consecutive hit (20, 40, 60), this is a hack
   case 'Triple Axel':
     basePower = move.hits === 2 ? 30 : move.hits === 3 ? 40 : 20;
@@ -985,7 +991,7 @@ export function calculateBPModsSMSSSV(
 
   // Field effects
 
-  const terrainMultiplier = 6144;
+  const terrainMultiplier = gen.num > 7 ? 5325 : 6144;
   if (isGrounded(attacker, field)) {
     if ((field.hasTerrain('Electric') && move.hasType('Electric')) ||
         (field.hasTerrain('Grassy') && move.hasType('Grass')) ||
@@ -1085,6 +1091,7 @@ export function calculateBPModsSMSSSV(
   }
 
   if ((attacker.hasAbility('Reckless') && (move.recoil || move.hasCrashDamage)) ||
+      (attacker.hasAbility('Fiery Charge') && (move.recoil)) ||
       (attacker.hasAbility('Iron Fist') && move.flags.punch)
   ) {
     bpMods.push(4915);
@@ -1092,7 +1099,7 @@ export function calculateBPModsSMSSSV(
   }
 
   if (attacker.hasItem('Punching Glove') && move.flags.punch) {
-    bpMods.push(4506);
+    bpMods.push(4505);
     desc.attackerItem = attacker.item;
   }
 
@@ -1137,7 +1144,7 @@ export function calculateBPModsSMSSSV(
   ) {
     bpMods.push(4915);
     desc.attackerItem = attacker.item;
-  
+
   } else if (attacker.hasItem('Soul Dew') &&
         attacker.named('Latios', 'Latias', 'Latios-Mega', 'Latias-Mega') &&
         move.hasType('Psychic', 'Dragon')) {
@@ -1258,11 +1265,12 @@ export function calculateAtModsSMSSSV(
   } else if (
     (attacker.hasAbility('Steelworker') && move.hasType('Steel')) ||
     (attacker.hasAbility('Dragon\'s Maw') && move.hasType('Dragon')) ||
-    (attacker.hasAbility('Transistor') && move.hasType('Electric')) ||
     (attacker.hasAbility('Rocky Payload') && move.hasType('Rock'))
   ) {
     atMods.push(6144);
     desc.attackerAbility = attacker.ability;
+  } else if (attacker.hasAbility('Transistor') && move.hasType('Electric')) {
+    atMods.push(gen.num >= 9 ? 5325 : 6144);
   } else if (attacker.hasAbility('Stakeout') && attacker.abilityOn) {
     atMods.push(8192);
     desc.attackerAbility = attacker.ability;
@@ -1446,10 +1454,6 @@ export function calculateDfModsSMSSSV(
       desc[hitsPhysical ? 'isSwordOfRuin' : 'isBeadsOfRuin'] = true;
     }
     dfMods.push(3072);
-  }
-
-  if (move.named('Explosion', 'Self-Destruct', 'Misty Explosion')){
-    dfMods.push(2048);
   }
 
   if (

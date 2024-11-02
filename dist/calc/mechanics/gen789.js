@@ -143,6 +143,8 @@ function calculateSMSSSV(gen, attacker, defender, move, field) {
     var isRefrigerate = false;
     var isGalvanize = false;
     var isLiquidVoice = false;
+    var isAcidCoat = false;
+    var isEclipsate = false;
     var isNormalize = false;
     var noTypeChange = move.named('Revelation Dance', 'Judgment', 'Nature Power', 'Techno Blast', 'Multi Attack', 'Natural Gift', 'Weather Ball', 'Terrain Pulse') || (move.named('Tera Blast') && attacker.teraType);
     if (!move.isZ && !noTypeChange) {
@@ -162,7 +164,13 @@ function calculateSMSSSV(gen, attacker, defender, move, field) {
         else if ((isRefrigerate = attacker.hasAbility('Refrigerate') && normal)) {
             type = 'Ice';
         }
-        else if ((isNormalize = attacker.hasAbility('Normalize'))) {
+        else if ((isAcidCoat = attacker.hasAbility('Acid Coat') && normal)) {
+            type = 'Poison';
+        }
+        else if ((isEclipsate = attacker.hasAbility('Eclipsate') && normal)) {
+            type = 'Dark';
+        }
+        else if ((isNormalize = attacker.hasAbility('Normalize') && normal)) {
             type = 'Normal';
         }
         if (isGalvanize || isPixilate || isRefrigerate || isAerilate || isNormalize) {
@@ -617,10 +625,6 @@ function calculateBasePowerSMSSSV(gen, attacker, defender, move, field, hasAteAb
                     desc.moveName = 'Tri Attack';
             }
             break;
-        case 'Water Shuriken':
-            basePower = attacker.named('Greninja-Ash') && attacker.hasAbility('Battle Bond') ? 20 : 15;
-            desc.moveBP = basePower;
-            break;
         case 'Triple Axel':
             basePower = move.hits === 2 ? 30 : move.hits === 3 ? 40 : 20;
             desc.moveBP = basePower;
@@ -730,7 +734,7 @@ function calculateBPModsSMSSSV(gen, attacker, defender, move, field, desc, baseP
         bpMods.push(6144);
         desc.isHelpingHand = true;
     }
-    var terrainMultiplier = 6144;
+    var terrainMultiplier = gen.num > 7 ? 5325 : 6144;
     if ((0, util_2.isGrounded)(attacker, field)) {
         if ((field.hasTerrain('Electric') && move.hasType('Electric')) ||
             (field.hasTerrain('Grassy') && move.hasType('Grass')) ||
@@ -815,12 +819,13 @@ function calculateBPModsSMSSSV(gen, attacker, defender, move, field, desc, baseP
         bpMods.push(4915);
     }
     if ((attacker.hasAbility('Reckless') && (move.recoil || move.hasCrashDamage)) ||
+        (attacker.hasAbility('Fiery Charge') && (move.recoil)) ||
         (attacker.hasAbility('Iron Fist') && move.flags.punch)) {
         bpMods.push(4915);
         desc.attackerAbility = attacker.ability;
     }
     if (attacker.hasItem('Punching Glove') && move.flags.punch) {
-        bpMods.push(4506);
+        bpMods.push(4505);
         desc.attackerItem = attacker.item;
     }
     if (defender.hasAbility('Heatproof') && move.hasType('Fire')) {
@@ -960,10 +965,12 @@ function calculateAtModsSMSSSV(gen, attacker, defender, move, field, desc) {
     }
     else if ((attacker.hasAbility('Steelworker') && move.hasType('Steel')) ||
         (attacker.hasAbility('Dragon\'s Maw') && move.hasType('Dragon')) ||
-        (attacker.hasAbility('Transistor') && move.hasType('Electric')) ||
         (attacker.hasAbility('Rocky Payload') && move.hasType('Rock'))) {
         atMods.push(6144);
         desc.attackerAbility = attacker.ability;
+    }
+    else if (attacker.hasAbility('Transistor') && move.hasType('Electric')) {
+        atMods.push(gen.num >= 9 ? 5325 : 6144);
     }
     else if (attacker.hasAbility('Stakeout') && attacker.abilityOn) {
         atMods.push(8192);
@@ -1107,17 +1114,14 @@ function calculateDfModsSMSSSV(gen, attacker, defender, move, field, desc, isCri
         }
         dfMods.push(3072);
     }
-    if (move.named('Explosion', 'Self-Destruct', 'Misty Explosion')) {
-        dfMods.push(2048);
-    }
     if ((defender.hasAbility('Protosynthesis') &&
         (field.hasWeather('Sun') || attacker.hasItem('Booster Energy'))) ||
         (defender.hasAbility('Quark Drive') &&
             (field.hasTerrain('Electric') || attacker.hasItem('Booster Energy')))) {
         if ((hitsPhysical && (0, util_2.getMostProficientStat)(defender) === 'def') ||
             (!hitsPhysical && (0, util_2.getMostProficientStat)(defender) === 'spd')) {
+            dfMods.push(5325);
             desc.defenderAbility = defender.ability;
-            dfMods.push(5324);
         }
     }
     if ((defender.hasItem('Eviolite') &&

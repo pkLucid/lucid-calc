@@ -1,4 +1,4 @@
-import * as I from './interface';
+import type * as I from './interface';
 export interface SpeciesData {
     readonly types: [I.TypeName] | [I.TypeName, I.TypeName];
     readonly bs: {
@@ -18,7 +18,6 @@ export interface SpeciesData {
     readonly abilities?: {
         0: string;
     };
-    readonly forceTeraType?: I.TypeName;
 }
 export declare const SPECIES: {
     [name: string]: SpeciesData;
