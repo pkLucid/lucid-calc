@@ -1,2 +1,18048 @@
-/* AUTOMATICALLY GENERATED FROM @smogon/sets, DO NOT EDIT! */
-var SETDEX_SV = {"Abomasnow":{"UU Showdown Usage":{"level":100,"ability":"Snow Warning","item":"Icy Rock","nature":"Modest","evs":{"hp":248,"sa":252,"sd":8},"moves":["Aurora Veil","Blizzard","Giga Drain","Leech Seed"]},"Doubles Showdown Usage":{"level":100,"ability":"Snow Warning","item":"Icy Rock","nature":"Modest","evs":{"hp":248,"sa":252,"sd":8},"moves":["Aurora Veil","Blizzard","Protect","Giga Drain"]}},"Abra":{"LC Shed Shell":{"level":5,"ability":"Magic Guard","item":"Shed Shell","nature":"Hasty","evs":{"at":36,"sa":236,"sp":196},"moves":["Psychic","Shadow Ball","Focus Punch","Substitute"]},"LC Focus Sash":{"level":5,"ability":"Magic Guard","item":"Focus Sash","nature":"Timid","evs":{"df":76,"sa":236,"sp":196},"moves":["Psychic","Shadow Ball","Protect","Counter"]},"LC Life Orb":{"level":5,"ability":"Magic Guard","item":"Life Orb","nature":"Hasty","evs":{"at":36,"sa":236,"sp":196},"moves":["Psychic","Shadow Ball","Drain Punch","Substitute"]}},"Absol":{"NU Wallbreaker":{"level":100,"ability":"Super Luck","item":"Life Orb","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Knock Off","Close Combat","Sucker Punch","Iron Tail"]},"PU Choice Band":{"level":100,"ability":"Justified","item":"Choice Band","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Knock Off","Sucker Punch","Close Combat","Iron Tail"]},"PU Swords Dance":{"level":100,"ability":"Justified","item":"Life Orb","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Swords Dance","Knock Off","Sucker Punch","Iron Tail"]}},"Accelgor":{"PU Spikes":{"level":100,"ability":"Sticky Hold","item":"Heavy-Duty Boots","nature":"Timid","evs":{"hp":4,"sa":252,"sp":252},"moves":["Spikes","Bug Buzz","Knock Off","Focus Blast"]},"PU Throat Spray":{"level":100,"ability":"Unburden","item":"Throat Spray","nature":"Modest","evs":{"sa":252,"sd":4,"sp":252},"moves":["Bug Buzz","Focus Blast","Energy Ball","Sludge Bomb"]},"ZU Throat Spray":{"level":100,"ability":"Unburden","item":"Throat Spray","nature":"Modest","evs":{"hp":112,"sa":252,"sp":144},"moves":["Bug Buzz","Focus Blast","Sludge Bomb","Giga Drain"]},"ZU Suicide Lead":{"level":100,"ability":"Unburden","item":"Focus Sash","nature":"Timid","evs":{"hp":252,"df":4,"sp":252},"moves":["Spikes","Final Gambit","Encore","Yawn"]}},"Aegislash-Blade":{"OU Mixed Wallbreaker":{"level":100,"ability":"Stance Change","item":"Choice Specs","nature":"Modest","evs":{"df":4,"sa":252,"sp":252},"moves":["Shadow Ball","Flash Cannon","Close Combat","Shadow Sneak"]},"Monotype Swords Dance (Ghost)":{"level":100,"ability":"Stance Change","item":"Weakness Policy","nature":"Adamant","evs":{"hp":252,"at":252,"sd":4},"moves":["Swords Dance","Shadow Sneak","Close Combat","Iron Head"]},"Monotype Choice Specs (Steel)":{"level":100,"ability":"Stance Change","item":"Choice Specs","nature":"Modest","evs":{"hp":252,"sa":252,"sd":4},"moves":["Shadow Ball","Flash Cannon","Steel Beam","Shadow Sneak"]},"Monotype SubToxic (Steel)":{"level":100,"ability":"Stance Change","item":"Leftovers","nature":"Calm","evs":{"hp":252,"df":4,"sd":252},"moves":["Substitute","Toxic","King's Shield","Shadow Ball"]},"Monotype Swords Dance (Steel)":{"level":100,"ability":"Stance Change","item":"Weakness Policy","nature":"Adamant","evs":{"hp":252,"at":252,"sd":4},"moves":["Swords Dance","Shadow Claw","Shadow Sneak","Close Combat"]},"BH Prankster":{"level":100,"ability":"Prankster","item":"Leftovers","nature":"Relaxed","ivs":{"sp":0},"evs":{"hp":252,"at":252,"df":252,"sa":252,"sd":252,"sp":252},"moves":["Recover","Haze","Glare","Parting Shot"]},"1v1 Weakness Policy":{"level":100,"ability":"Stance Change","item":"Weakness Policy","nature":"Brave","ivs":{"sp":0},"evs":{"hp":248,"at":224,"df":28,"sd":8},"moves":["King's Shield","Iron Head","Shadow Sneak","Shadow Ball"]},"1v1 Physical Life Orb":{"level":100,"ability":"Stance Change","item":"Life Orb","nature":"Adamant","evs":{"hp":248,"at":192,"df":12,"sd":12,"sp":44},"moves":["Swords Dance","Iron Head","Shadow Sneak","Sacred Sword"]},"1v1 Special Life Orb":{"level":100,"ability":"Stance Change","item":"Life Orb","nature":"Modest","evs":{"hp":248,"df":12,"sa":192,"sd":12,"sp":44},"moves":["Shadow Ball","Flash Cannon","Shadow Sneak","Metal Sound"]},"1v1 Air Balloon":{"level":100,"ability":"Stance Change","item":"Air Balloon","nature":"Modest","evs":{"hp":248,"df":52,"sa":152,"sd":12,"sp":44},"moves":["Shadow Ball","Shadow Sneak","King's Shield","Flash Cannon"]}},"Aegislash-Shield":{"OU Mixed Wallbreaker":{"level":100,"ability":"Stance Change","item":"Choice Specs","nature":"Modest","evs":{"df":4,"sa":252,"sp":252},"moves":["Shadow Ball","Flash Cannon","Close Combat","Shadow Sneak"]},"Monotype Swords Dance (Ghost)":{"level":100,"ability":"Stance Change","item":"Weakness Policy","nature":"Adamant","evs":{"hp":252,"at":252,"sd":4},"moves":["Swords Dance","Shadow Sneak","Close Combat","Iron Head"]},"Monotype Choice Specs (Steel)":{"level":100,"ability":"Stance Change","item":"Choice Specs","nature":"Modest","evs":{"hp":252,"sa":252,"sd":4},"moves":["Shadow Ball","Flash Cannon","Steel Beam","Shadow Sneak"]},"Monotype SubToxic (Steel)":{"level":100,"ability":"Stance Change","item":"Leftovers","nature":"Calm","evs":{"hp":252,"df":4,"sd":252},"moves":["Substitute","Toxic","King's Shield","Shadow Ball"]},"Monotype Swords Dance (Steel)":{"level":100,"ability":"Stance Change","item":"Weakness Policy","nature":"Adamant","evs":{"hp":252,"at":252,"sd":4},"moves":["Swords Dance","Shadow Claw","Shadow Sneak","Close Combat"]},"BH Prankster":{"level":100,"ability":"Prankster","item":"Leftovers","nature":"Relaxed","ivs":{"sp":0},"evs":{"hp":252,"at":252,"df":252,"sa":252,"sd":252,"sp":252},"moves":["Recover","Haze","Glare","Parting Shot"]},"1v1 Weakness Policy":{"level":100,"ability":"Stance Change","item":"Weakness Policy","nature":"Brave","ivs":{"sp":0},"evs":{"hp":248,"at":224,"df":28,"sd":8},"moves":["King's Shield","Iron Head","Shadow Sneak","Shadow Ball"]},"1v1 Physical Life Orb":{"level":100,"ability":"Stance Change","item":"Life Orb","nature":"Adamant","evs":{"hp":248,"at":192,"df":12,"sd":12,"sp":44},"moves":["Swords Dance","Iron Head","Shadow Sneak","Sacred Sword"]},"1v1 Special Life Orb":{"level":100,"ability":"Stance Change","item":"Life Orb","nature":"Modest","evs":{"hp":248,"df":12,"sa":192,"sd":12,"sp":44},"moves":["Shadow Ball","Flash Cannon","Shadow Sneak","Metal Sound"]},"1v1 Air Balloon":{"level":100,"ability":"Stance Change","item":"Air Balloon","nature":"Modest","evs":{"hp":248,"df":52,"sa":152,"sd":12,"sp":44},"moves":["Shadow Ball","Shadow Sneak","King's Shield","Flash Cannon"]}},"Aerodactyl":{"RU 3 Attacks + Roost":{"level":100,"ability":"Unnerve","item":"Life Orb","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Stone Edge","Earthquake","Dual Wingbeat","Roost"]},"RU Dragon Dance":{"level":100,"ability":"Unnerve","item":"Life Orb","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Dragon Dance","Stone Edge","Dual Wingbeat","Earthquake"]},"NU Utility":{"level":100,"ability":"Pressure","item":"Heavy-Duty Boots","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Stone Edge","Earthquake","Roost","Stealth Rock"]},"NU Dragon Dance":{"level":100,"ability":"Pressure","item":"Heavy-Duty Boots","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Dragon Dance","Stone Edge","Earthquake","Aqua Tail"]},"Uber Stealth Rock Lead":{"level":100,"ability":"Unnerve","item":"Focus Sash","nature":"Jolly","evs":{"hp":4,"at":252,"sp":252},"moves":["Stealth Rock","Taunt","Rock Tomb","Defog"]}},"Aggron":{"PU Choice Band":{"level":100,"ability":"Rock Head","item":"Choice Band","nature":"Adamant","evs":{"at":252,"df":4,"sp":252},"moves":["Head Smash","Heavy Slam","Aqua Tail","Earthquake"]},"PU Specially Defensive":{"level":100,"ability":"Rock Head","item":"Leftovers","nature":"Careful","evs":{"hp":252,"at":4,"sd":252},"moves":["Stealth Rock","Head Smash","Earthquake","Protect"]},"1v1 Choice Band":{"level":100,"ability":"Sturdy","item":"Choice Band","nature":"Adamant","evs":{"at":252,"df":4,"sp":252},"moves":["Head Smash","Heavy Slam","Rock Blast","Avalanche"]},"1v1 Choice Scarf":{"level":100,"ability":"Sturdy","item":"Choice Scarf","nature":"Adamant","evs":{"at":252,"df":4,"sp":252},"moves":["Heavy Slam","Head Smash","Superpower","Rock Blast"]},"1v1 Custap Berry":{"level":100,"ability":"Sturdy","item":"Custap Berry","nature":"Brave","ivs":{"df":0,"sd":0,"sp":0},"evs":{"hp":252,"at":252},"moves":["Head Smash","Heavy Slam","Metal Burst","Endure"]}},"Alakazam":{"Monotype Focus Sash":{"level":100,"ability":"Magic Guard","item":"Focus Sash","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Counter","Expanding Force","Dazzling Gleam","Focus Blast"]}},"Alcremie":{"PU Offensive":{"level":100,"ability":"Aroma Veil","item":"Heavy-Duty Boots","nature":"Timid","evs":{"hp":252,"sa":72,"sp":184},"moves":["Dazzling Gleam","Mystical Fire","Recover","Calm Mind"]},"PU Bulky Booster":{"level":100,"ability":"Aroma Veil","item":"Chesto Berry","nature":"Bold","evs":{"hp":252,"df":252,"sd":4},"moves":["Acid Armor","Calm Mind","Rest","Stored Power"]},"PU Three Attacks":{"level":100,"ability":"Aroma Veil","item":"Life Orb","nature":"Modest","evs":{"sa":252,"sd":4,"sp":252},"moves":["Dazzling Gleam","Mystical Fire","Psychic","Recover"]},"ZU Defensive Calm Mind + Recover":{"level":100,"ability":"Aroma Veil","item":"Leftovers","nature":"Bold","evs":{"hp":252,"df":252,"sa":4},"moves":["Calm Mind","Recover","Dazzling Gleam","Mystical Fire"]},"ZU Double Dance":{"level":100,"ability":"Aroma Veil","item":"Leftovers","nature":"Bold","evs":{"hp":252,"df":252,"sa":4},"moves":["Calm Mind","Acid Armor","Stored Power","Rest"]},"ZU Offensive":{"level":100,"ability":"Sweet Veil","item":"Heavy-Duty Boots","nature":"Timid","evs":{"df":4,"sa":252,"sp":252},"moves":["Dazzling Gleam","Mystical Fire","Psychic","Recover"]}},"Alcremie-Gmax":{"PU Offensive":{"level":100,"ability":"Aroma Veil","item":"Heavy-Duty Boots","nature":"Timid","evs":{"hp":252,"sa":72,"sp":184},"moves":["Dazzling Gleam","Mystical Fire","Recover","Calm Mind"]},"PU Bulky Booster":{"level":100,"ability":"Aroma Veil","item":"Chesto Berry","nature":"Bold","evs":{"hp":252,"df":252,"sd":4},"moves":["Acid Armor","Calm Mind","Rest","Stored Power"]},"PU Three Attacks":{"level":100,"ability":"Aroma Veil","item":"Life Orb","nature":"Modest","evs":{"sa":252,"sd":4,"sp":252},"moves":["Dazzling Gleam","Mystical Fire","Psychic","Recover"]},"ZU Defensive Calm Mind + Recover":{"level":100,"ability":"Aroma Veil","item":"Leftovers","nature":"Bold","evs":{"hp":252,"df":252,"sa":4},"moves":["Calm Mind","Recover","Dazzling Gleam","Mystical Fire"]},"ZU Double Dance":{"level":100,"ability":"Aroma Veil","item":"Leftovers","nature":"Bold","evs":{"hp":252,"df":252,"sa":4},"moves":["Calm Mind","Acid Armor","Stored Power","Rest"]},"ZU Offensive":{"level":100,"ability":"Sweet Veil","item":"Heavy-Duty Boots","nature":"Timid","evs":{"df":4,"sa":252,"sp":252},"moves":["Dazzling Gleam","Mystical Fire","Psychic","Recover"]}},"Alomomola":{"OU Defensive":{"level":100,"ability":"Regenerator","item":"Heavy-Duty Boots","nature":"Bold","teraType":"Ghost","evs":{"hp":252,"df":252,"sa":4},"moves":["Wish","Protect","Chilling Water","Whirlpool"]},"UU Showdown Usage":{"level":100,"ability":"Regenerator","item":"Leftovers","nature":"Bold","evs":{"hp":252,"df":252,"sa":4},"moves":["Wish","Protect","Chilling Water","Whirlpool"]},"Uber Defensive Pivot":{"level":100,"ability":"Regenerator","item":"Leftovers","nature":"Relaxed","teraType":"Fairy","evs":{"hp":166,"df":252,"sd":92},"moves":["Play Rough","Wish","Protect","Chilling Water"]}},"Altaria":{"UU Showdown Usage":{"level":100,"ability":"Natural Cure","item":"Heavy-Duty Boots","nature":"Calm","evs":{"hp":252,"sa":4,"sd":252},"moves":["Roost","Defog","Will-O-Wisp","Hurricane"]}},"Amaura":{"LC Choice Scarf":{"level":5,"ability":"Snow Warning","item":"Choice Scarf","nature":"Timid","evs":{"hp":60,"sa":220,"sp":228},"moves":["Blizzard","Freeze-Dry","Thunderbolt","Earth Power"]},"LC Screens Setter":{"level":5,"ability":"Snow Warning","item":"Light Clay","nature":"Timid","evs":{"hp":60,"sa":220,"sp":228},"moves":["Aurora Veil","Blizzard","Thunderbolt","Earth Power"]}},"Amoonguss":{"OU Defensive":{"level":100,"ability":"Regenerator","item":"Rocky Helmet","nature":"Bold","teraType":"Water","evs":{"hp":252,"df":172,"sd":84},"moves":["Giga Drain","Clear Smog","Foul Play","Spore"]},"Doubles Redirection Support":{"level":100,"ability":"Regenerator","item":"Sitrus Berry","nature":"Bold","teraType":"Water","ivs":{"at":0,"sp":28},"evs":{"hp":240,"df":200,"sd":68},"moves":["Rage Powder","Spore","Pollen Puff","Leaf Storm"]}},"Annihilape":{"OU Showdown Usage":{"level":100,"ability":"Defiant","item":"Leftovers","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Rage Fist","Drain Punch","Bulk Up","Taunt"]},"Uber Bulk Up":{"level":100,"ability":"Defiant","item":"Leftovers","nature":"Careful","teraType":"Water","evs":{"hp":252,"df":4,"sd":252},"moves":["Bulk Up","Taunt","Drain Punch","Rage Fist"]},"Doubles Thanos":{"level":100,"ability":"Defiant","item":"Leftovers","nature":"Adamant","teraType":"Fire","evs":{"hp":252,"at":36,"sd":156,"sp":56},"moves":["Rage Fist","Drain Punch","Bulk Up","Protect"]},"1v1 Sitrus Berry":{"level":100,"ability":"Defiant","item":"Sitrus Berry","nature":"Impish","evs":{"hp":184,"df":252,"sp":72},"moves":["Taunt","Counter","Rage Fist","Bulk Up"]},"1v1 Specially Defensive Weakness Policy":{"level":100,"ability":"Defiant","item":"Weakness Policy","nature":"Careful","evs":{"hp":248,"sd":248,"sp":12},"moves":["Low Sweep","Rage Fist","Encore","Bulk Up"]},"1v1 Defensive Weakness Policy":{"level":100,"ability":"Defiant","item":"Weakness Policy","nature":"Adamant","evs":{"hp":104,"at":140,"df":248,"sp":16},"moves":["Bulk Up","Rage Fist","Close Combat","Encore"]},"1v1 Roseli Berry":{"level":100,"ability":"Defiant","item":"Roseli Berry","nature":"Careful","evs":{"hp":136,"at":116,"sd":240,"sp":16},"moves":["Bulk Up","Gunk Shot","Rage Fist","Drain Punch"]}},"Appletun":{"UU Showdown Usage":{"level":100,"ability":"Thick Fat","item":"Leftovers","nature":"Calm","evs":{"hp":252,"sa":4,"sd":252},"moves":["Apple Acid","Leech Seed","Recover","Dragon Pulse"]}},"Appletun-Gmax":{"UU Showdown Usage":{"level":100,"ability":"Thick Fat","item":"Leftovers","nature":"Calm","evs":{"hp":252,"sa":4,"sd":252},"moves":["Apple Acid","Leech Seed","Recover","Dragon Pulse"]}},"Araquanid":{"NU Substitute Attacker":{"level":100,"ability":"Water Bubble","item":"Heavy-Duty Boots","nature":"Adamant","evs":{"hp":68,"at":252,"sp":188},"moves":["Substitute","Liquidation","Toxic","Leech Life"]},"Monotype Sticky Web (Bug)":{"level":100,"ability":"Water Bubble","item":"Heavy-Duty Boots","nature":"Adamant","evs":{"hp":252,"at":100,"sp":156},"moves":["Sticky Web","Liquidation","Mirror Coat","Toxic"]},"Monotype Sticky Web (Water)":{"level":100,"ability":"Water Bubble","item":"Focus Sash","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Sticky Web","Liquidation","Leech Life","Magic Coat"]}},"Araquanid-Totem":{"NU Substitute Attacker":{"level":100,"ability":"Water Bubble","item":"Heavy-Duty Boots","nature":"Adamant","evs":{"hp":68,"at":252,"sp":188},"moves":["Substitute","Liquidation","Toxic","Leech Life"]},"Monotype Sticky Web (Bug)":{"level":100,"ability":"Water Bubble","item":"Heavy-Duty Boots","nature":"Adamant","evs":{"hp":252,"at":100,"sp":156},"moves":["Sticky Web","Liquidation","Mirror Coat","Toxic"]},"Monotype Sticky Web (Water)":{"level":100,"ability":"Water Bubble","item":"Focus Sash","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Sticky Web","Liquidation","Leech Life","Magic Coat"]}},"Arboliva":{"OU Showdown Usage":{"level":100,"ability":"Seed Sower","item":"Leftovers","nature":"Modest","evs":{"hp":248,"sa":252,"sd":8},"moves":["Giga Drain","Earth Power","Leech Seed","Strength Sap"]},"UU Showdown Usage":{"level":100,"ability":"Seed Sower","item":"Leftovers","nature":"Modest","evs":{"hp":248,"sa":252,"sd":8},"moves":["Giga Drain","Earth Power","Strength Sap","Leech Seed"]},"Uber Grassy Terrain":{"level":100,"ability":"Seed Sower","item":"Leftovers","nature":"Calm","teraType":"Steel","evs":{"hp":252,"df":4,"sd":252},"moves":["Strength Sap","Energy Ball","Leech Seed","Dazzling Gleam"]},"Doubles Showdown Usage":{"level":100,"ability":"Seed Sower","item":"Leftovers","nature":"Modest","evs":{"hp":248,"sa":252,"sd":8},"moves":["Giga Drain","Strength Sap","Leech Seed","Earth Power"]}},"Arcanine":{"OU Utility":{"level":100,"ability":"Intimidate","item":"Heavy-Duty Boots","nature":"Impish","teraType":"Water","evs":{"hp":252,"df":236,"sp":20},"moves":["Flare Blitz","Will-O-Wisp","Morning Sun","Roar"]},"UU Showdown Usage":{"level":100,"ability":"Intimidate","item":"Heavy-Duty Boots","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Flare Blitz","Extreme Speed","Morning Sun","Will-O-Wisp"]},"Doubles Bulky Utility":{"level":100,"ability":"Intimidate","item":"Sitrus Berry","nature":"Jolly","teraType":"Grass","evs":{"hp":252,"sd":4,"sp":252},"moves":["Flare Blitz","Snarl","Will-O-Wisp","Protect"]},"1v1 Assault Vest":{"level":100,"ability":"Intimidate","item":"Assault Vest","nature":"Adamant","evs":{"hp":224,"at":252,"sp":32},"moves":["Flare Blitz","Close Combat","Play Rough","Extreme Speed"]}},"Archen":{"LC Choice Scarf":{"level":5,"ability":"Defeatist","item":"Choice Scarf","nature":"Jolly","evs":{"hp":76,"at":180,"sp":196},"moves":["Dual Wingbeat","Earthquake","U-turn","Knock Off"]},"LC Berry Juice":{"level":5,"ability":"Defeatist","item":"Berry Juice","nature":"Jolly","evs":{"at":180,"sa":4,"sd":76,"sp":196},"moves":["Head Smash","Acrobatics","Earthquake","Substitute"]}},"Archeops":{"PU Meteor Beam":{"level":100,"ability":"Defeatist","item":"Power Herb","nature":"Timid","evs":{"df":4,"sa":252,"sp":252},"moves":["Meteor Beam","Air Slash","Earth Power","Stealth Rock"]},"PU Heavy-Duty Boots":{"level":100,"ability":"Defeatist","item":"Heavy-Duty Boots","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Stone Edge","Earthquake","U-turn","Roost"]},"PU Suicide Lead":{"level":100,"ability":"Defeatist","item":"Focus Sash","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Head Smash","Earthquake","Taunt","Stealth Rock"]},"1v1 Life Orb":{"level":100,"ability":"Defeatist","item":"Life Orb","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["Head Smash","Quick Attack","Dual Wingbeat","Outrage"]},"1v1 Choice Band":{"level":100,"ability":"Defeatist","item":"Choice Band","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["Head Smash","Dual Wingbeat","Outrage","Switcheroo"]},"1v1 Choice Scarf":{"level":100,"ability":"Defeatist","item":"Choice Scarf","nature":"Naive","evs":{"hp":40,"at":252,"sp":216},"moves":["Head Smash","Heat Wave","Switcheroo","Rest"]}},"Arctovish":{"RU Hail Wallbreaker":{"level":100,"ability":"Slush Rush","item":"Life Orb","nature":"Naive","evs":{"at":236,"sa":40,"sp":232},"moves":["Fishious Rend","Freeze-Dry","Icicle Crash","Substitute"]},"PU Use Fishious Rend":{"level":100,"ability":"Water Absorb","item":"Choice Band","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Fishious Rend","Icicle Crash","Crunch","Psychic Fangs"]}},"Arctozolt":{"OU Substitute":{"level":100,"ability":"Slush Rush","item":"Heavy-Duty Boots","nature":"Naive","evs":{"at":252,"sa":4,"sp":252},"moves":["Substitute","Bolt Beak","Blizzard","Low Kick"]},"Monotype Wallbreaker (Ice)":{"level":100,"ability":"Slush Rush","item":"Heavy-Duty Boots","nature":"Naughty","evs":{"at":252,"sa":4,"sp":252},"moves":["Bolt Beak","Blizzard","Freeze-Dry","Substitute"]}},"Arghonaut":{"CAP Special Wall":{"level":100,"ability":"Unaware","item":"Leftovers","nature":"Careful","teraType":"Fairy","evs":{"hp":252,"df":40,"sd":216},"moves":["Spikes","Circle Throw","Knock Off","Recover"]}},"Armaldo":{"ZU Utility":{"level":100,"ability":"Battle Armor","item":"Heavy-Duty Boots","nature":"Adamant","evs":{"at":252,"df":4,"sp":252},"moves":["Stealth Rock","Rapid Spin","Stone Edge","Knock Off"]}},"Armarouge":{"OU Showdown Usage":{"level":100,"ability":"Weak Armor","item":"Weakness Policy","nature":"Modest","evs":{"hp":252,"sa":252,"sd":4},"moves":["Armor Cannon","Psychic","Aura Sphere","Energy Ball"]},"UU Showdown Usage":{"level":100,"ability":"Weak Armor","item":"Weakness Policy","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Armor Cannon","Psychic","Energy Ball","Aura Sphere"]},"Doubles TR Attacker":{"level":100,"ability":"Flash Fire","item":"Life Orb","nature":"Quiet","teraType":"Grass","ivs":{"at":0,"sp":0},"evs":{"hp":252,"sa":252,"sd":4},"moves":["Armor Cannon","Expanding Force","Trick Room","Protect"]}},"Aromatisse":{"PU Defensive":{"level":100,"ability":"Aroma Veil","item":"Leftovers","nature":"Bold","evs":{"hp":252,"df":252,"sd":4},"moves":["Moonblast","Wish","Protect","Heal Bell"]},"1v1 Defensive Rocky Helmet":{"level":100,"ability":"Aroma Veil","item":"Rocky Helmet","nature":"Bold","ivs":{"at":0},"evs":{"hp":252,"df":252,"sd":4},"moves":["Trick Room","Encore","Disable","Moonblast"]},"1v1 Bulky Rocky Helmet":{"level":100,"ability":"Aroma Veil","item":"Rocky Helmet","nature":"Calm","ivs":{"at":0},"evs":{"hp":244,"df":40,"sd":224},"moves":["Trick Room","Encore","Disable","Draining Kiss"]},"1v1 Bulky Wiki Berry":{"level":100,"ability":"Aroma Veil","item":"Wiki Berry","nature":"Calm","ivs":{"at":0},"evs":{"hp":252,"df":4,"sd":252},"moves":["Trick Room","Encore","Disable","Moonblast"]}},"Arrokuda":{"LC Showdown Usage":{"level":5,"ability":"Swift Swim","item":"Choice Band","nature":"Adamant","evs":{"at":252,"sp":228},"moves":["Close Combat","Liquidation","Aqua Jet","Psychic Fangs"]}},"Articuno":{"UU Specially Defensive":{"level":100,"ability":"Pressure","item":"Heavy-Duty Boots","nature":"Calm","evs":{"hp":248,"sd":204,"sp":56},"moves":["Freeze-Dry","Defog","Heal Bell","Roost"]},"PU Specially Defensive":{"level":100,"ability":"Pressure","item":"Heavy-Duty Boots","nature":"Careful","evs":{"hp":252,"sd":160,"sp":96},"moves":["Roost","Defog","Freeze-Dry","Brave Bird"]},"ZU Specially Defensive":{"level":100,"ability":"Pressure","item":"Heavy-Duty Boots","nature":"Calm","evs":{"hp":248,"sd":204,"sp":56},"moves":["Roost","Defog","Freeze-Dry","Toxic"]},"ZU SubRoost":{"level":100,"ability":"Pressure","item":"Heavy-Duty Boots","nature":"Timid","evs":{"df":4,"sa":252,"sp":252},"moves":["Substitute","Roost","Toxic","Freeze-Dry"]},"ZU Roost + 3 Attacks":{"level":100,"ability":"Pressure","item":"Heavy-Duty Boots","nature":"Timid","evs":{"df":4,"sa":252,"sp":252},"moves":["Roost","Hurricane","Freeze-Dry","U-turn"]}},"Articuno-Galar":{"NU Future Sight":{"level":100,"ability":"Competitive","item":"Heavy-Duty Boots","nature":"Timid","evs":{"hp":144,"sa":180,"sp":184},"moves":["Future Sight","Hurricane","U-turn","Recover"]},"PU Heavy-Duty Boots":{"level":100,"ability":"Competitive","item":"Heavy-Duty Boots","nature":"Timid","evs":{"df":4,"sa":252,"sp":252},"moves":["Future Sight","Hurricane","Recover","U-turn"]},"PU Choice Specs":{"level":100,"ability":"Competitive","item":"Choice Specs","nature":"Timid","evs":{"df":4,"sa":252,"sp":252},"moves":["Future Sight","Psyshock","Hurricane","Shadow Ball"]}},"Audino":{"PU Cleric":{"level":100,"ability":"Regenerator","item":"Heavy-Duty Boots","nature":"Careful","evs":{"hp":252,"df":4,"sd":252},"moves":["Wish","Protect","Knock Off","Heal Bell"]},"Uber Support":{"level":100,"ability":"Regenerator","item":"Heavy-Duty Boots","nature":"Impish","evs":{"hp":248,"df":252,"sd":8},"moves":["Wish","Protect","Heal Bell","Knock Off"]}},"Aurorus":{"RU Hail Lead":{"level":100,"ability":"Snow Warning","item":"Focus Sash","nature":"Modest","ivs":{"at":0},"evs":{"sa":252,"sd":4,"sp":252},"moves":["Stealth Rock","Blizzard","Encore","Earth Power"]},"NU Wallbreaker":{"level":100,"ability":"Snow Warning","item":"Power Herb","nature":"Modest","evs":{"sa":252,"sd":4,"sp":252},"moves":["Meteor Beam","Blizzard","Earth Power","Stealth Rock"]},"NU Dedicated Lead":{"level":100,"ability":"Snow Warning","item":"Focus Sash","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Stealth Rock","Aurora Veil","Blizzard","Earth Power"]},"PU Choice Specs":{"level":100,"ability":"Snow Warning","item":"Choice Specs","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Blizzard","Ancient Power","Earth Power","Freeze-Dry"]},"PU Meteor Beam":{"level":100,"ability":"Refrigerate","item":"Power Herb","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Meteor Beam","Rock Polish","Hyper Voice","Earth Power"]}},"Aurumoth":{"CAP Final Gambit":{"level":100,"ability":"No Guard","item":"Choice Scarf","nature":"Timid","evs":{"hp":252,"sa":4,"sp":252},"moves":["Final Gambit","Trick","Healing Wish","Blizzard"]},"CAP Nasty Plot":{"level":100,"ability":"Weak Armor","item":"Weakness Policy","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Nasty Plot","Psyshock","Thunder","Focus Blast"]}},"Avalugg":{"OU Defensive":{"level":100,"ability":"Sturdy","item":"Heavy-Duty Boots","nature":"Careful","teraType":"Fighting","evs":{"hp":252,"df":4,"sd":252},"moves":["Body Press","Avalanche","Recover","Rapid Spin"]},"UU Showdown Usage":{"level":100,"ability":"Sturdy","item":"Heavy-Duty Boots","nature":"Impish","evs":{"hp":252,"at":4,"df":252},"moves":["Body Press","Rapid Spin","Recover","Avalanche"]}},"Axew":{"LC Showdown Usage":{"level":5,"ability":"Mold Breaker","item":"Eviolite","nature":"Adamant","evs":{"at":220,"sd":36,"sp":220},"moves":["Dragon Dance","Dragon Claw","First Impression","Outrage"]}},"Azelf":{"UU Pivot":{"level":100,"ability":"Levitate","item":"Expert Belt","nature":"Timid","evs":{"df":4,"sa":252,"sp":252},"moves":["Psychic","Flamethrower","U-turn","Energy Ball"]},"UU Nasty Plot":{"level":100,"ability":"Levitate","item":"Expert Belt","nature":"Timid","evs":{"df":4,"sa":252,"sp":252},"moves":["Nasty Plot","Psyshock","Fire Blast","Energy Ball"]}},"Azumarill":{"OU Choice Band":{"level":100,"ability":"Huge Power","item":"Choice Band","nature":"Adamant","teraType":"Water","evs":{"hp":116,"at":252,"sp":140},"moves":["Aqua Jet","Play Rough","Liquidation","Superpower"]},"OU Assault Vest":{"level":100,"ability":"Huge Power","item":"Assault Vest","nature":"Adamant","teraType":"Water","evs":{"hp":252,"at":252,"sp":4},"moves":["Aqua Jet","Play Rough","Liquidation","Ice Spinner"]},"Uber Physically Offensive":{"level":100,"ability":"Huge Power","item":"Choice Band","nature":"Adamant","teraType":"Ground","evs":{"hp":116,"at":252,"sp":140},"moves":["Liquidation","Play Rough","Aqua Jet","Ice Punch"]},"Uber Defensive":{"level":100,"ability":"Thick Fat","item":"Leftovers","nature":"Relaxed","teraType":"Ground","evs":{"hp":252,"df":252,"sd":4},"moves":["Protect","Chilling Water","Encore","Play Rough"]},"1v1 Assault Vest":{"level":100,"ability":"Huge Power","item":"Assault Vest","nature":"Careful","evs":{"hp":136,"at":252,"sd":104,"sp":16},"moves":["Liquidation","Play Rough","Superpower","Aqua Jet"]},"1v1 Choice Band":{"level":100,"ability":"Huge Power","item":"Choice Band","nature":"Impish","evs":{"hp":132,"at":240,"df":136},"moves":["Play Rough","Liquidation","Superpower","Aqua Jet"]},"1v1 Stall":{"level":100,"ability":"Sap Sipper","item":"Leftovers","nature":"Calm","evs":{"hp":248,"df":116,"sd":144},"moves":["Chilling Water","Charm","Amnesia","Rest"]}},"Azurill":{"LC Belly Drum":{"level":5,"ability":"Huge Power","item":"Oran Berry","nature":"Adamant","teraType":"Water","evs":{"hp":36,"at":196,"df":116,"sd":36,"sp":116},"moves":["Belly Drum","Facade","Aqua Jet","Protect"]}},"Bagon":{"LC Showdown Usage":{"level":5,"ability":"Sheer Force","item":"Life Orb","nature":"Adamant","evs":{"at":236,"sd":36,"sp":196},"moves":["Dragon Dance","Iron Head","Crunch","Dragon Claw"]}},"Barbaracle":{"RU Shell Smash":{"level":100,"ability":"Tough Claws","item":"Life Orb","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Shell Smash","Liquidation","Stone Edge","Grass Knot"]},"Monotype Shell Smash (Rock)":{"level":100,"ability":"Tough Claws","item":"White Herb","nature":"Naive","evs":{"at":252,"sa":4,"sp":252},"moves":["Shell Smash","Liquidation","Grass Knot","Stone Edge"]}},"Barboach":{"LC Showdown Usage":{"level":5,"ability":"Oblivious","item":"Eviolite","nature":"Adamant","evs":{"at":212,"sd":28,"sp":196},"moves":["Earthquake","Dragon Dance","Liquidation","Outrage"]}},"Barraskewda":{"OU Rain Sweeper":{"level":100,"ability":"Swift Swim","item":"Choice Band","nature":"Adamant","teraType":"Water","evs":{"hp":4,"at":252,"sp":252},"moves":["Liquidation","Close Combat","Psychic Fangs","Crunch"]},"UU Showdown Usage":{"level":100,"ability":"Swift Swim","item":"Choice Band","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Liquidation","Close Combat","Aqua Jet","Psychic Fangs"]},"Doubles Swift Swim Attacker":{"level":100,"ability":"Swift Swim","item":"Choice Band","nature":"Jolly","teraType":"Ghost","evs":{"at":252,"sd":4,"sp":252},"moves":["Liquidation","Close Combat","Psychic Fangs","Aqua Jet"]}},"Basculin":{"PU All-out Attacker":{"level":100,"ability":"Adaptability","item":"Life Orb","nature":"Jolly","evs":{"at":252,"sa":4,"sp":252},"moves":["Liquidation","Flip Turn","Superpower","Psychic Fangs"]},"PU Choice Specs":{"level":100,"ability":"Adaptability","item":"Choice Specs","nature":"Naive","evs":{"at":4,"sa":252,"sp":252},"moves":["Hydro Pump","Ice Beam","Flip Turn","Toxic"]}},"Baxcalibur":{"OU Offensive":{"level":100,"ability":"Thermal Exchange","item":"Heavy-Duty Boots","nature":"Jolly","teraType":"Dragon","evs":{"at":252,"sd":4,"sp":252},"moves":["Dragon Dance","Icicle Crash","Earthquake","Glaive Rush"]},"Uber Dragon Dance":{"level":100,"ability":"Thermal Exchange","item":"Loaded Dice","nature":"Jolly","teraType":"Dragon","evs":{"at":252,"sd":4,"sp":252},"moves":["Dragon Dance","Glaive Rush","Icicle Spear","Earthquake"]},"Doubles Showdown Usage":{"level":100,"ability":"Thermal Exchange","item":"Loaded Dice","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Glaive Rush","Dragon Dance","Icicle Crash","Protect"]}},"Beartic":{"UU Showdown Usage":{"level":100,"ability":"Slush Rush","item":"Life Orb","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Icicle Crash","Close Combat","Earthquake","Aqua Jet"]}},"Beheeyem":{"PU Bulky Pivot":{"level":100,"ability":"Analytic","item":"Colbur Berry","nature":"Bold","evs":{"hp":248,"df":252,"sa":8},"moves":["Psychic","Thunderbolt","Recover","Teleport"]},"PU Choice Specs":{"level":100,"ability":"Analytic","item":"Choice Specs","nature":"Modest","evs":{"hp":252,"sa":252,"sd":4},"moves":["Psyshock","Shadow Ball","Thunderbolt","Teleport"]},"PU Offensive Trick Room":{"level":100,"ability":"Analytic","item":"Life Orb","nature":"Quiet","ivs":{"sp":0},"evs":{"hp":252,"sa":252,"sd":4},"moves":["Trick Room","Psychic","Thunderbolt","Recover"]},"ZU Future Sight Pivot":{"level":100,"ability":"Synchronize","item":"Colbur Berry","nature":"Bold","ivs":{"at":0},"evs":{"hp":252,"df":252,"sa":4},"moves":["Future Sight","Teleport","Recover","Thunderbolt"]},"ZU Nasty Plot":{"level":100,"ability":"Analytic","item":"Colbur Berry","nature":"Bold","ivs":{"at":0},"evs":{"hp":252,"df":252,"sa":4},"moves":["Nasty Plot","Psychic","Thunderbolt","Recover"]},"ZU Offensive Trick Room":{"level":100,"ability":"Analytic","item":"Power Herb","nature":"Quiet","ivs":{"at":0,"sp":0},"evs":{"hp":252,"sa":252,"sd":4},"moves":["Trick Room","Meteor Beam","Psychic","Thunderbolt"]}},"Bellibolt":{"OU Showdown Usage":{"level":100,"ability":"Electromorphosis","item":"Leftovers","nature":"Bold","evs":{"hp":252,"df":252,"sa":4},"moves":["Slack Off","Parabolic Charge","Volt Switch","Muddy Water"]},"UU Showdown Usage":{"level":100,"ability":"Electromorphosis","item":"Leftovers","nature":"Bold","evs":{"hp":252,"df":252,"sa":4},"moves":["Slack Off","Volt Switch","Parabolic Charge","Muddy Water"]}},"Bellossom":{"ZU Quiver Dance":{"level":100,"ability":"Chlorophyll","item":"Kee Berry","nature":"Timid","evs":{"hp":252,"df":4,"sp":252},"moves":["Quiver Dance","Strength Sap","Giga Drain","Safeguard"]}},"Bergmite":{"LC Showdown Usage":{"level":5,"ability":"Sturdy","item":"Eviolite","nature":"Impish","evs":{"df":236,"sd":236},"moves":["Rapid Spin","Recover","Avalanche","Ice Spinner"]}},"Bewear":{"RU Swords Dance":{"level":100,"ability":"Fluffy","item":"Chople Berry","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Swords Dance","Double-Edge","Drain Punch","Darkest Lariat"]},"RU Choice Band":{"level":100,"ability":"Fluffy","item":"Choice Band","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Close Combat","Double-Edge","Drain Punch","Darkest Lariat"]},"Monotype Bulk Up (Normal)":{"level":100,"ability":"Fluffy","item":"Leftovers","nature":"Impish","evs":{"hp":252,"df":196,"sp":60},"moves":["Drain Punch","Darkest Lariat","Bulk Up","Substitute"]}},"Bisharp":{"UU Showdown Usage":{"level":100,"ability":"Defiant","item":"Eviolite","nature":"Adamant","evs":{"hp":252,"at":252,"sd":4},"moves":["Iron Head","Sucker Punch","Swords Dance","Night Slash"]}},"Blacephalon":{"OU Choice Specs":{"level":100,"ability":"Beast Boost","item":"Choice Specs","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Shadow Ball","Flamethrower","Overheat","Trick"]},"OU Choice Scarf":{"level":100,"ability":"Beast Boost","item":"Choice Scarf","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Shadow Ball","Flamethrower","Fire Blast","Trick"]},"Monotype Choice Scarf (Fire)":{"level":100,"ability":"Beast Boost","item":"Choice Scarf","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Shadow Ball","Flamethrower","Psyshock","Trick"]},"Monotype Choice Scarf (Ghost)":{"level":100,"ability":"Beast Boost","item":"Choice Scarf","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Flamethrower","Shadow Ball","Psyshock","Trick"]},"BH Life Orb Adaptability":{"level":100,"ability":"Adaptability","item":"Life Orb","nature":"Naive","evs":{"hp":252,"at":252,"df":252,"sa":252,"sd":252,"sp":252},"moves":["V-create","Astral Barrage","Blue Flare","Strength Sap"]},"BH Choice Specs Adaptability":{"level":100,"ability":"Adaptability","item":"Choice Specs","nature":"Timid","evs":{"hp":252,"at":252,"df":252,"sa":252,"sd":252,"sp":252},"moves":["Blue Flare","Moongeist Beam","Volt Switch","V-create"]},"BH Magic Guard":{"level":100,"ability":"Magic Guard","item":"Life Orb","nature":"Naive","evs":{"hp":252,"at":252,"df":252,"sa":252,"sd":252,"sp":252},"moves":["Mind Blown","Astral Barrage","V-create","Strength Sap"]},"1v1 Choice Specs":{"level":100,"ability":"Beast Boost","item":"Choice Specs","nature":"Timid","evs":{"hp":16,"sa":244,"sd":24,"sp":224},"moves":["Mind Blown","Shadow Ball","Trick","Psyshock"]},"1v1 Choice Scarf":{"level":100,"ability":"Beast Boost","item":"Choice Scarf","nature":"Timid","evs":{"hp":32,"sa":188,"sd":72,"sp":216},"moves":["Mind Blown","Shadow Ball","Trick","Rest"]}},"Blastoise":{"Doubles Follow Me Support":{"level":100,"ability":"Torrent","item":"Sitrus Berry","nature":"Impish","evs":{"hp":252,"df":216,"sd":40},"moves":["Fake Out","Follow Me","Flip Turn","Toxic"]},"1v1 Life Orb":{"level":100,"ability":"Torrent","item":"Life Orb","nature":"Calm","evs":{"hp":228,"df":12,"sa":192,"sp":76},"moves":["Shell Smash","Hydro Cannon","Ice Beam","Substitute"]},"1v1 Wacan Berry":{"level":100,"ability":"Torrent","item":"Wacan Berry","nature":"Calm","evs":{"hp":192,"sa":140,"sd":96,"sp":80},"moves":["Yawn","Endure","Shell Smash","Hydro Cannon"]}},"Blastoise-Gmax":{"Doubles Follow Me Support":{"level":100,"ability":"Torrent","item":"Sitrus Berry","nature":"Impish","evs":{"hp":252,"df":216,"sd":40},"moves":["Fake Out","Follow Me","Flip Turn","Toxic"]},"1v1 Life Orb":{"level":100,"ability":"Torrent","item":"Life Orb","nature":"Calm","evs":{"hp":228,"df":12,"sa":192,"sp":76},"moves":["Shell Smash","Hydro Cannon","Ice Beam","Substitute"]},"1v1 Wacan Berry":{"level":100,"ability":"Torrent","item":"Wacan Berry","nature":"Calm","evs":{"hp":192,"sa":140,"sd":96,"sp":80},"moves":["Yawn","Endure","Shell Smash","Hydro Cannon"]}},"Blaziken":{"OU Swords Dance":{"level":100,"ability":"Speed Boost","item":"Air Balloon","nature":"Adamant","evs":{"at":252,"df":4,"sp":252},"moves":["Swords Dance","Flare Blitz","Close Combat","Thunder Punch"]},"OU Choice Band":{"level":100,"ability":"Speed Boost","item":"Choice Band","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Flare Blitz","Close Combat","Knock Off","U-turn"]},"Battle Stadium Singles Physical Sweeper":{"level":50,"ability":"Speed Boost","item":"Life Orb","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Close Combat","Flare Blitz","Protect","Swords Dance"]},"Battle Stadium Singles Baton Pass":{"level":50,"ability":"Speed Boost","item":"Focus Sash","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Swords Dance","Baton Pass","Protect","Close Combat"]},"Battle Stadium Singles Dynamax Special Attacker":{"level":50,"ability":"Speed Boost","item":"Life Orb","nature":"Modest","evs":{"sa":252,"sd":4,"sp":252},"moves":["Fire Blast","Solar Beam","Protect","Scorching Sands"]},"1v1 Weakness Policy":{"level":100,"ability":"Speed Boost","item":"Weakness Policy","nature":"Naive","evs":{"hp":228,"df":12,"sa":192,"sp":76},"moves":["Will-O-Wisp","Overheat","Close Combat","Endure"]}},"Blissey":{"OU Defensive":{"level":100,"ability":"Natural Cure","item":"Heavy-Duty Boots","nature":"Calm","teraType":"Fairy","evs":{"hp":252,"df":4,"sd":252},"moves":["Stealth Rock","Soft-Boiled","Seismic Toss","Shadow Ball"]},"UU Showdown Usage":{"level":100,"ability":"Natural Cure","item":"Leftovers","nature":"Bold","evs":{"hp":252,"df":252,"sd":4},"moves":["Soft-Boiled","Seismic Toss","Thunder Wave","Stealth Rock"]},"Uber Pink Blob":{"level":100,"ability":"Natural Cure","item":"Heavy-Duty Boots","nature":"Bold","teraType":"Ghost","evs":{"hp":4,"df":252,"sd":252},"moves":["Soft-Boiled","Stealth Rock","Seismic Toss","Thunder Wave"]}},"Boltund":{"ZU All-out Attacker":{"level":100,"ability":"Strong Jaw","item":"Life Orb","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Thunder Fang","Volt Switch","Fire Fang","Crunch"]}},"Bombirdier":{"UU Showdown Usage":{"level":100,"ability":"Rocky Payload","item":"Heavy-Duty Boots","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Knock Off","Stone Edge","Brave Bird","U-turn"]}},"Bonsly":{"LC Showdown Usage":{"level":5,"ability":"Sturdy","item":"Eviolite","nature":"Adamant","evs":{"at":196,"df":76,"sd":236},"moves":["Sucker Punch","Earthquake","Stealth Rock","Stone Edge"]}},"Bouffalant":{"ZU Sap Sipper Wallbreaker":{"level":100,"ability":"Sap Sipper","item":"Leftovers","nature":"Adamant","evs":{"hp":180,"at":252,"sp":76},"moves":["Swords Dance","Substitute","Head Charge","Throat Chop"]}},"Brambleghast":{"UU Showdown Usage":{"level":100,"ability":"Wind Rider","item":"Heavy-Duty Boots","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Rapid Spin","Strength Sap","Power Whip","Shadow Sneak"]}},"Bramblin":{"LC Spinner":{"level":5,"ability":"Infiltrator","item":"Eviolite","nature":"Jolly","teraType":"Grass","evs":{"at":236,"df":36,"sp":196},"moves":["Rapid Spin","Power Whip","Shadow Sneak","Strength Sap"]}},"Braviary":{"UU Showdown Usage":{"level":100,"ability":"Defiant","item":"Heavy-Duty Boots","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Brave Bird","U-turn","Close Combat","Roost"]}},"Breloom":{"OU Focus Sash":{"level":100,"ability":"Technician","item":"Focus Sash","nature":"Jolly","teraType":"Fire","evs":{"at":252,"sd":4,"sp":252},"moves":["Tera Blast","Bullet Seed","Spore","Mach Punch"]},"OU Choice Band":{"level":100,"ability":"Technician","item":"Choice Band","nature":"Jolly","teraType":"Fire","evs":{"at":252,"sd":4,"sp":252},"moves":["Bullet Seed","Close Combat","Mach Punch","Bulldoze"]},"Uber Showdown Usage":{"level":100,"ability":"Technician","item":"Focus Sash","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Mach Punch","Spore","Bullet Seed","Swords Dance"]}},"Bronzong":{"UU Showdown Usage":{"level":100,"ability":"Levitate","item":"Leftovers","nature":"Sassy","evs":{"hp":252,"at":4,"sd":252},"moves":["Stealth Rock","Gyro Ball","Body Press","Iron Defense"]},"Doubles Showdown Usage":{"level":100,"ability":"Levitate","item":"Leftovers","nature":"Sassy","evs":{"hp":252,"at":4,"sd":252},"moves":["Trick Room","Gyro Ball","Body Press","Light Screen"]}},"Bronzor":{"LC Showdown Usage":{"level":5,"ability":"Levitate","item":"Eviolite","nature":"Modest","evs":{"sa":244,"sd":228,"sp":12},"moves":["Stealth Rock","Psychic","Calm Mind","Flash Cannon"]}},"Brute Bonnet":{"OU Offensive":{"level":100,"ability":"Protosynthesis","item":"Loaded Dice","nature":"Adamant","teraType":"Dark","evs":{"at":252,"sd":4,"sp":252},"moves":["Crunch","Bullet Seed","Sucker Punch","Growth"]},"UU Showdown Usage":{"level":100,"ability":"Protosynthesis","item":"Booster Energy","nature":"Adamant","evs":{"hp":252,"at":252,"sd":4},"moves":["Sucker Punch","Seed Bomb","Spore","Close Combat"]},"Doubles All-out Attacker":{"level":100,"ability":"Protosynthesis","item":"Booster Energy","nature":"Adamant","teraType":"Dark","evs":{"at":252,"df":4,"sp":252},"moves":["Spore","Seed Bomb","Sucker Punch","Close Combat"]}},"Buizel":{"LC Rain Wallbreaker":{"level":5,"ability":"Swift Swim","item":"Oran Berry","nature":"Jolly","teraType":"Water","evs":{"at":236,"sd":36,"sp":236},"moves":["Bulk Up","Wave Crash","Ice Spinner","Brick Break"]}},"Bunnelby":{"LC Wallbreaker":{"level":5,"ability":"Huge Power","item":"Eviolite","nature":"Adamant","evs":{"hp":52,"at":228,"sp":228},"moves":["Strength","Earthquake","Quick Attack","Stone Edge"]}},"Butterfree":{"ZU Quiver Dance":{"level":100,"ability":"Compound Eyes","item":"Leftovers","nature":"Timid","evs":{"df":4,"sa":252,"sp":252},"moves":["Quiver Dance","Substitute","Hurricane","Sleep Powder"]},"AG Quiver Dance":{"level":100,"ability":"Compound Eyes","item":"Leftovers","nature":"Timid","evs":{"hp":200,"df":28,"sa":52,"sp":228},"moves":["Quiver Dance","Hurricane","Sleep Powder","Substitute"]}},"Butterfree-Gmax":{"ZU Quiver Dance":{"level":100,"ability":"Compound Eyes","item":"Leftovers","nature":"Timid","evs":{"df":4,"sa":252,"sp":252},"moves":["Quiver Dance","Substitute","Hurricane","Sleep Powder"]},"AG Quiver Dance":{"level":100,"ability":"Compound Eyes","item":"Leftovers","nature":"Timid","evs":{"hp":200,"df":28,"sa":52,"sp":228},"moves":["Quiver Dance","Hurricane","Sleep Powder","Substitute"]}},"Buzzwole":{"OU Offensive Tank":{"level":100,"ability":"Beast Boost","item":"Rocky Helmet","nature":"Adamant","evs":{"hp":152,"at":168,"sp":188},"moves":["Close Combat","Ice Punch","Roost","Leech Life"]},"Uber Defensive":{"level":100,"ability":"Beast Boost","item":"Heavy-Duty Boots","nature":"Impish","evs":{"hp":252,"df":152,"sp":104},"moves":["Bulk Up","Ice Punch","Drain Punch","Roost"]},"Uber Bulky Attacker":{"level":100,"ability":"Beast Boost","item":"Heavy-Duty Boots","nature":"Adamant","evs":{"hp":152,"at":172,"df":80,"sp":104},"moves":["Close Combat","Ice Punch","Rock Slide","Roost"]},"Monotype Revenge Killer (Bug)":{"level":100,"ability":"Beast Boost","item":"Choice Scarf","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Close Combat","Stone Edge","Earthquake","Ice Punch"]},"Monotype Choice Scarf (Fighting)":{"level":100,"ability":"Beast Boost","item":"Choice Scarf","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Close Combat","Ice Punch","Earthquake","Leech Life"]},"1v1 Occa Berry":{"level":100,"ability":"Beast Boost","item":"Occa Berry","nature":"Impish","evs":{"hp":248,"df":236,"sp":24},"moves":["Taunt","Counter","Roost","Low Sweep"]},"1v1 Choice Band":{"level":100,"ability":"Beast Boost","item":"Choice Band","nature":"Adamant","evs":{"hp":24,"at":208,"df":24,"sp":252},"moves":["Close Combat","Dual Wingbeat","Earthquake","Ice Punch"]}},"Cacnea":{"LC Showdown Usage":{"level":5,"ability":"Water Absorb","item":"Eviolite","nature":"Adamant","evs":{"at":236,"df":36,"sd":196},"moves":["Sucker Punch","Drain Punch","Swords Dance","Seed Bomb"]}},"Calyrex":{"ZU Double Dance":{"level":100,"ability":"Unnerve","item":"Weakness Policy","nature":"Modest","ivs":{"at":0},"evs":{"df":4,"sa":252,"sp":252},"moves":["Agility","Calm Mind","Giga Drain","Stored Power"]}},"Calyrex-Ice":{"Uber SubSeed":{"level":100,"ability":"As One (Glastrier)","item":"Leftovers","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["Substitute","Glacial Lance","Swords Dance","Leech Seed"]},"Uber Choice Band":{"level":100,"ability":"As One (Glastrier)","item":"Choice Band","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Glacial Lance","High Horsepower","Trick","Aromatherapy"]},"AG SubSeed":{"level":100,"ability":"As One (Glastrier)","item":"Leftovers","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Substitute","Leech Seed","Swords Dance","Glacial Lance"]},"BH Poison Heal Shift Gear":{"level":100,"ability":"Poison Heal","item":"Toxic Orb","nature":"Adamant","evs":{"hp":252,"at":252,"df":252,"sd":252,"sp":252},"moves":["Shift Gear","Glacial Lance","V-create","Spiky Shield"]},"BH Shift Gear Sweeper":{"level":100,"ability":"Mold Breaker","item":"Life Orb","nature":"Adamant","evs":{"hp":252,"at":252,"df":252,"sd":252,"sp":252},"moves":["Shift Gear","Glacial Lance","V-create","Photon Geyser"]},"BH Magic Guard Shift Gear":{"level":100,"ability":"Magic Guard","item":"Life Orb","nature":"Adamant","evs":{"hp":252,"at":252,"df":252,"sd":252,"sp":252},"moves":["Shift Gear","Glacial Lance","High Jump Kick","Volt Tackle"]},"BH Refrigerate Rapid Spin":{"level":100,"ability":"Refrigerate","item":"Heavy-Duty Boots","nature":"Adamant","evs":{"hp":252,"at":252,"df":252,"sd":252,"sp":252},"moves":["Extreme Speed","Rapid Spin","V-create","Recover"]},"BH Regenvest":{"level":100,"ability":"Regenerator","item":"Assault Vest","nature":"Brave","ivs":{"at":0},"evs":{"hp":252,"at":252,"df":252,"sd":252},"moves":["Icicle Spear","Nuzzle","U-turn","Low Kick"]}},"Calyrex-Shadow":{"Uber Choice Item":{"level":100,"ability":"As One (Spectrier)","item":"Choice Specs","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Astral Barrage","Psyshock","Trick","Aromatherapy"]},"Uber SubSeed":{"level":100,"ability":"As One (Spectrier)","item":"Leftovers","nature":"Timid","evs":{"df":60,"sa":196,"sp":252},"moves":["Astral Barrage","Nasty Plot","Substitute","Leech Seed"]},"Uber Nasty Plot":{"level":100,"ability":"As One (Spectrier)","item":"Focus Sash","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Astral Barrage","Psyshock","Nasty Plot","Draining Kiss"]},"Uber Disable":{"level":100,"ability":"As One (Spectrier)","item":"Mental Herb","nature":"Timid","evs":{"hp":48,"df":128,"sa":76,"sd":4,"sp":252},"moves":["Astral Barrage","Disable","Substitute","Nasty Plot"]},"AG Choice Specs":{"level":100,"ability":"As One (Spectrier)","item":"Choice Specs","nature":"Timid","evs":{"df":4,"sa":252,"sp":252},"moves":["Astral Barrage","Psyshock","Trick","Aromatherapy"]},"AG Nasty Plot":{"level":100,"ability":"As One (Spectrier)","item":"Life Orb","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Nasty Plot","Astral Barrage","Draining Kiss","Substitute"]},"AG Choice Scarf":{"level":100,"ability":"As One (Spectrier)","item":"Choice Scarf","nature":"Timid","evs":{"df":4,"sa":252,"sp":252},"moves":["Astral Barrage","Psyshock","Trick","Aromatherapy"]},"AG SubSeed":{"level":100,"ability":"As One (Spectrier)","item":"Leftovers","nature":"Timid","evs":{"df":52,"sa":204,"sp":252},"moves":["Astral Barrage","Substitute","Leech Seed","Nasty Plot"]}},"Carbink":{"ZU IronPress":{"level":100,"ability":"Clear Body","item":"Leftovers","nature":"Calm","evs":{"hp":252,"sd":252,"sp":4},"moves":["Iron Defense","Body Press","Rest","Moonblast"]}},"Carracosta":{"ZU Shell Smash":{"level":100,"ability":"Solid Rock","item":"Life Orb","nature":"Naive","evs":{"at":252,"sa":4,"sp":252},"moves":["Shell Smash","Stone Edge","Aqua Jet","Ice Beam"]},"1v1 Power Herb":{"level":100,"ability":"Sturdy","item":"Power Herb","nature":"Naive","evs":{"at":16,"sa":252,"sp":240},"moves":["Shell Smash","Meteor Beam","Aqua Jet","Ice Beam"]}},"Carvanha":{"LC Physical Sweeper":{"level":5,"ability":"Speed Boost","item":"Life Orb","nature":"Adamant","ivs":{"hp":9},"evs":{"at":196,"sd":36,"sp":236},"moves":["Flip Turn","Crunch","Psychic Fangs","Protect"]}},"Celebi":{"RU Nasty Plot":{"level":100,"ability":"Natural Cure","item":"Heavy-Duty Boots","nature":"Timid","ivs":{"at":0},"evs":{"sa":252,"sd":4,"sp":252},"moves":["Nasty Plot","Psychic","Aura Sphere","Recover"]},"Monotype Stealth Rock (Psychic)":{"level":100,"ability":"Natural Cure","item":"Leftovers","nature":"Timid","evs":{"hp":248,"df":20,"sp":240},"moves":["Stealth Rock","Giga Drain","Recover","U-turn"]},"Monotype Nasty Plot (Grass)":{"level":100,"ability":"Natural Cure","item":"Life Orb","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Nasty Plot","Giga Drain","Psychic","Earth Power"]},"1v1 Choice Specs":{"level":100,"ability":"Natural Cure","item":"Choice Specs","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Leaf Storm","Trick","Rest","Dazzling Gleam"]},"1v1 Choice Scarf":{"level":100,"ability":"Natural Cure","item":"Choice Scarf","nature":"Jolly","evs":{"at":188,"df":184,"sp":136},"moves":["Trick","Recover","Zen Headbutt","Leaf Blade"]},"1v1 Leech Seed Stall":{"level":100,"ability":"Natural Cure","item":"Occa Berry","nature":"Timid","evs":{"hp":252,"sd":20,"sp":236},"moves":["Leech Seed","Substitute","Protect","Pollen Puff"]}},"Celesteela":{"OU Defensive":{"level":100,"ability":"Beast Boost","item":"Leftovers","nature":"Sassy","evs":{"hp":248,"df":8,"sd":252},"moves":["Leech Seed","Protect","Heavy Slam","Flamethrower"]},"UU Defensive":{"level":100,"ability":"Beast Boost","item":"Leftovers","nature":"Sassy","evs":{"hp":252,"df":4,"sd":252},"moves":["Heavy Slam","Flamethrower","Leech Seed","Toxic"]},"UU Autotomize":{"level":100,"ability":"Beast Boost","item":"Power Herb","nature":"Modest","evs":{"sa":252,"sd":4,"sp":252},"moves":["Autotomize","Air Slash","Fire Blast","Meteor Beam"]},"Monotype Defensive (Flying)":{"level":100,"ability":"Beast Boost","item":"Leftovers","nature":"Relaxed","evs":{"hp":252,"at":4,"df":252},"moves":["Leech Seed","Protect","Heavy Slam","Flamethrower"]},"Monotype Defensive Leech Seed (Steel)":{"level":100,"ability":"Beast Boost","item":"Leftovers","nature":"Relaxed","evs":{"hp":252,"df":252,"sd":4},"moves":["Heavy Slam","Leech Seed","Protect","Flamethrower"]},"Doubles Meteor Beam":{"level":100,"ability":"Beast Boost","item":"Power Herb","nature":"Modest","evs":{"sa":252,"sd":4,"sp":252},"moves":["Meteor Beam","Air Slash","Flash Cannon","Protect"]},"Battle Stadium Singles SubSeed":{"level":50,"ability":"Beast Boost","item":"Leftovers","nature":"Timid","evs":{"hp":188,"df":4,"sa":4,"sd":60,"sp":252},"moves":["Air Slash","Leech Seed","Substitute","Flamethrower"]},"Battle Stadium Singles Special Sweeper":{"level":50,"ability":"Beast Boost","item":"Weakness Policy","nature":"Modest","evs":{"sa":244,"sd":20,"sp":244},"moves":["Air Slash","Flash Cannon","Flamethrower","Protect"]},"BH Bulky Triage":{"level":100,"ability":"Triage","item":"Rocky Helmet","nature":"Relaxed","ivs":{"at":0,"sp":0},"evs":{"hp":252,"df":252,"sa":252,"sd":252},"moves":["Oblivion Wing","Nasty Plot","Leech Seed","Strength Sap"]},"BH Offensive Triage":{"level":100,"ability":"Triage","item":"Life Orb","nature":"Quiet","ivs":{"at":0,"sp":0},"evs":{"hp":252,"df":252,"sa":252,"sd":252},"moves":["Oblivion Wing","Nasty Plot","Earth Power","Leech Seed"]},"BH Primordial Sea":{"level":100,"ability":"Primordial Sea","item":"Leftovers","nature":"Relaxed","ivs":{"sp":0},"evs":{"hp":252,"at":252,"df":252,"sd":252},"moves":["Anchor Shot","Recover","Topsy-Turvy","Entrainment"]},"BH Prankster":{"level":100,"ability":"Prankster","item":"Leftovers","nature":"Relaxed","ivs":{"sp":0},"evs":{"hp":252,"at":252,"df":252,"sd":252},"moves":["Haze","Recover","Anchor Shot","Glare"]},"BH Aerilate":{"level":100,"ability":"Aerilate","item":"Leftovers","nature":"Modest","evs":{"hp":252,"at":252,"df":252,"sa":252,"sd":252,"sp":252},"moves":["Boomburst","Rapid Spin","Anchor Shot","Recover"]},"1v1 Standard Occa Berry":{"level":100,"ability":"Beast Boost","item":"Occa Berry","nature":"Adamant","evs":{"hp":96,"at":88,"df":156,"sp":168},"moves":["Heavy Slam","Flamethrower","Leech Seed","Protect"]},"1v1 Fast Occa Berry":{"level":100,"ability":"Beast Boost","item":"Occa Berry","nature":"Jolly","evs":{"hp":108,"df":148,"sp":252},"moves":["Leech Seed","Substitute","Protect","Heavy Slam"]},"1v1 Custap Berry":{"level":100,"ability":"Beast Boost","item":"Custap Berry","nature":"Relaxed","evs":{"hp":252,"at":56,"df":60,"sd":140},"moves":["Endure","Heavy Slam","Flamethrower","Air Slash"]},"1v1 Life Orb":{"level":100,"ability":"Beast Boost","item":"Life Orb","nature":"Quiet","evs":{"hp":248,"at":28,"df":40,"sa":180,"sd":12},"moves":["Superpower","Flash Cannon","Air Slash","Flamethrower"]},"1v1 Anti-Urshifu":{"level":100,"ability":"Beast Boost","item":"Sitrus Berry","nature":"Quiet","evs":{"hp":252,"at":4,"df":36,"sa":148,"sd":68},"moves":["Air Slash","Heavy Slam","Flamethrower","Leech Seed"]},"1v1 Anti-Primarina":{"level":100,"ability":"Beast Boost","item":"Mental Herb","nature":"Careful","evs":{"hp":252,"df":36,"sd":52,"sp":168},"moves":["Heavy Slam","Flamethrower","Leech Seed","Protect"]},"1v1 Choice Band":{"level":100,"ability":"Beast Boost","item":"Choice Band","nature":"Adamant","evs":{"hp":252,"at":80,"df":36,"sd":140},"moves":["Heavy Slam","Superpower","Megahorn","Earthquake"]},"1v1 Choice Specs":{"level":100,"ability":"Beast Boost","item":"Choice Specs","nature":"Bold","evs":{"hp":112,"df":236,"sa":160},"moves":["Flash Cannon","Air Slash","Fire Blast","Giga Drain"]}},"Centiskorch":{"PU Wallbreaker":{"level":100,"ability":"Flash Fire","item":"Heavy-Duty Boots","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Fire Lash","Leech Life","Power Whip","Knock Off"]}},"Centiskorch-Gmax":{"PU Wallbreaker":{"level":100,"ability":"Flash Fire","item":"Heavy-Duty Boots","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Fire Lash","Leech Life","Power Whip","Knock Off"]}},"Ceruledge":{"OU Bulk Up":{"level":100,"ability":"Flash Fire","item":"Heavy-Duty Boots","nature":"Careful","teraType":"Fairy","evs":{"hp":252,"sd":200,"sp":56},"moves":["Bulk Up","Bitter Blade","Shadow Sneak","Taunt"]},"OU Swords Dance":{"level":100,"ability":"Weak Armor","item":"Heavy-Duty Boots","nature":"Jolly","teraType":"Fighting","evs":{"at":252,"sd":4,"sp":252},"moves":["Swords Dance","Shadow Sneak","Bitter Blade","Close Combat"]},"Uber Swords Dance":{"level":100,"ability":"Flash Fire","item":"Heavy-Duty Boots","nature":"Adamant","teraType":"Fairy","evs":{"at":252,"sd":4,"sp":252},"moves":["Swords Dance","Bitter Blade","Shadow Claw","Shadow Sneak"]},"Monotype Swords Dance (Fire)":{"level":100,"ability":"Weak Armor","item":"Focus Sash","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Swords Dance","Shadow Sneak","Shadow Claw","Close Combat"]},"Monotype Swords Dance (Ghost)":{"level":100,"ability":"Weak Armor","item":"Focus Sash","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Swords Dance","Bitter Blade","Shadow Sneak","Close Combat"]},"Doubles Set-up Attacker":{"level":100,"ability":"Flash Fire","item":"Clear Amulet","nature":"Adamant","teraType":"Grass","evs":{"hp":252,"at":252,"df":4},"moves":["Swords Dance","Bitter Blade","Shadow Sneak","Protect"]}},"Cetitan":{"OU Slush Rush Sweeper":{"level":100,"ability":"Slush Rush","item":"Sitrus Berry","nature":"Adamant","teraType":"Fairy","evs":{"hp":4,"at":252,"df":76,"sp":176},"moves":["Belly Drum","Ice Shard","Play Rough","Earthquake"]},"UU Showdown Usage":{"level":100,"ability":"Slush Rush","item":"Sitrus Berry","nature":"Jolly","evs":{"hp":4,"at":252,"sp":252},"moves":["Earthquake","Ice Shard","Ice Spinner","Belly Drum"]},"Uber Slush Rush Sweeper":{"level":100,"ability":"Slush Rush","item":"Sitrus Berry","nature":"Adamant","teraType":"Ice","evs":{"hp":4,"at":252,"sp":252},"moves":["Belly Drum","Ice Shard","Play Rough","Earthquake"]},"Doubles Showdown Usage":{"level":100,"ability":"Slush Rush","item":"Sitrus Berry","nature":"Jolly","evs":{"hp":4,"at":252,"sp":252},"moves":["Belly Drum","Earthquake","Ice Shard","Ice Spinner"]}},"Cetoddle":{"LC Showdown Usage":{"level":5,"ability":"Sheer Force","item":"Eviolite","nature":"Adamant","evs":{"at":212,"df":36,"sd":196,"sp":12},"moves":["Ice Shard","Earthquake","Liquidation","Play Rough"]}},"Chandelure":{"UU Hex":{"level":100,"ability":"Flame Body","item":"Heavy-Duty Boots","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Flamethrower","Hex","Toxic","Protect"]},"UU Choice Specs":{"level":100,"ability":"Flame Body","item":"Choice Specs","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Fire Blast","Shadow Ball","Flamethrower","Sleep Talk"]},"RU Wallbreaker":{"level":100,"ability":"Flame Body","item":"Heavy-Duty Boots","nature":"Timid","ivs":{"at":0},"evs":{"sa":252,"sd":4,"sp":252},"moves":["Fire Blast","Shadow Ball","Toxic","Energy Ball"]},"RU Choice Specs":{"level":100,"ability":"Flame Body","item":"Choice Specs","nature":"Timid","ivs":{"at":0},"evs":{"sa":252,"sd":4,"sp":252},"moves":["Fire Blast","Shadow Ball","Energy Ball","Trick"]},"RU Choice Scarf":{"level":100,"ability":"Infiltrator","item":"Choice Scarf","nature":"Timid","ivs":{"at":0},"evs":{"sa":252,"sd":4,"sp":252},"moves":["Fire Blast","Shadow Ball","Energy Ball","Trick"]},"1v1 Custap Berry":{"level":100,"ability":"Infiltrator","item":"Custap Berry","nature":"Modest","evs":{"hp":156,"df":232,"sa":120},"moves":["Overheat","Shadow Ball","Endure","Taunt"]}},"Chansey":{"OU Defensive":{"level":100,"ability":"Natural Cure","item":"Eviolite","nature":"Bold","teraType":"Fairy","evs":{"hp":252,"df":252,"sd":4},"moves":["Soft-Boiled","Seismic Toss","Thunder Wave","Stealth Rock"]},"Uber Pink Blob":{"level":100,"ability":"Natural Cure","item":"Eviolite","nature":"Bold","teraType":"Ghost","evs":{"hp":4,"df":252,"sd":252},"moves":["Soft-Boiled","Stealth Rock","Seismic Toss","Thunder Wave"]},"BH Imposter":{"level":100,"ability":"Imposter","item":"Eviolite","nature":"Sassy","teraType":"Normal","ivs":{"at":0,"sp":0},"evs":{"hp":252,"df":252,"sa":252,"sd":252},"moves":["Whirlwind","Shore Up","Teleport","Heal Bell"]}},"Charcadet":{"LC Showdown Usage":{"level":5,"ability":"Flash Fire","item":"Eviolite","nature":"Calm","evs":{"hp":36,"sa":36,"sd":196},"moves":["Will-O-Wisp","Destiny Bond","Flamethrower","Clear Smog"]}},"Charizard":{"OU Choice Specs":{"level":100,"ability":"Solar Power","item":"Choice Specs","nature":"Timid","teraType":"Fire","evs":{"sa":252,"sd":4,"sp":252},"moves":["Flamethrower","Solar Beam","Focus Blast","Overheat"]}},"Charizard-Gmax":{"OU Choice Specs":{"level":100,"ability":"Solar Power","item":"Choice Specs","nature":"Timid","teraType":"Fire","evs":{"sa":252,"sd":4,"sp":252},"moves":["Flamethrower","Solar Beam","Focus Blast","Overheat"]}},"Charmander":{"LC Sun Wallbreaker":{"level":5,"ability":"Solar Power","item":"Choice Scarf","nature":"Timid","teraType":"Fire","evs":{"hp":44,"df":12,"sa":196,"sp":236},"moves":["Flamethrower","Fire Blast","Overheat","Sleep Talk"]}},"Cherrim":{"ZU Sun Wallbreaker":{"level":100,"ability":"Flower Gift","item":"Life Orb","nature":"Naive","evs":{"at":252,"sa":4,"sp":252},"moves":["Growth","Solar Blade","Play Rough","Weather Ball"]}},"Chewtle":{"LC Shell Smash":{"level":5,"ability":"Strong Jaw","item":"Eviolite","nature":"Jolly","teraType":"Dark","evs":{"at":244,"sp":244},"moves":["Shell Smash","Liquidation","Crunch","Ice Fang"]}},"Chi-Yu":{"OU Showdown Usage":{"level":100,"ability":"Beads of Ruin","item":"Choice Scarf","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Dark Pulse","Flamethrower","Overheat","Psychic"]},"Uber Feesh (Offensive Wallbreaker)":{"level":100,"ability":"Beads of Ruin","item":"Choice Specs","nature":"Modest","teraType":"Fire","evs":{"df":4,"sa":252,"sp":252},"moves":["Overheat","Flamethrower","Fire Blast","Dark Pulse"]},"Uber Choice Scarf":{"level":100,"ability":"Beads of Ruin","item":"Choice Scarf","nature":"Modest","teraType":"Fire","evs":{"sa":252,"sd":4,"sp":252},"moves":["Flamethrower","Dark Pulse","Fire Blast","Psychic"]},"Uber Nasty Plot":{"level":100,"ability":"Beads of Ruin","item":"Life Orb","nature":"Modest","teraType":"Fire","evs":{"hp":4,"sa":252,"sp":252},"moves":["Overheat","Flamethrower","Dark Pulse","Nasty Plot"]},"Doubles Choice Scarf":{"level":100,"ability":"Beads of Ruin","item":"Choice Scarf","nature":"Timid","teraType":"Fire","evs":{"sa":252,"sd":4,"sp":252},"moves":["Heat Wave","Dark Pulse","Flamethrower","Snarl"]},"Doubles All-out Attacker":{"level":100,"ability":"Beads of Ruin","item":"Choice Specs","nature":"Timid","teraType":"Fire","evs":{"sa":252,"sd":4,"sp":252},"moves":["Heat Wave","Dark Pulse","Flamethrower","Snarl"]}},"Chien-Pao":{"OU All-out Attacker":{"level":100,"ability":"Sword of Ruin","item":"Heavy-Duty Boots","nature":"Jolly","teraType":"Dark","evs":{"at":252,"df":4,"sp":252},"moves":["Icicle Crash","Crunch","Sucker Punch","Sacred Sword"]},"OU Choice Band":{"level":100,"ability":"Sword of Ruin","item":"Choice Band","nature":"Jolly","teraType":"Dark","evs":{"at":252,"sd":4,"sp":252},"moves":["Icicle Crash","Crunch","Sucker Punch","Sacred Sword"]},"Uber All-out Attacker":{"level":100,"ability":"Sword of Ruin","item":"Heavy-Duty Boots","nature":"Jolly","teraType":"Dark","evs":{"at":252,"df":4,"sp":252},"moves":["Crunch","Icicle Crash","Ice Shard","Sacred Sword"]},"Uber Choice Band":{"level":100,"ability":"Sword of Ruin","item":"Choice Band","nature":"Adamant","teraType":"Dark","evs":{"at":252,"df":4,"sp":252},"moves":["Icicle Crash","Crunch","Ice Shard","Sacred Sword"]},"Uber Swords Dance":{"level":100,"ability":"Sword of Ruin","item":"Life Orb","nature":"Jolly","teraType":"Dark","evs":{"at":252,"df":4,"sp":252},"moves":["Swords Dance","Icicle Crash","Crunch","Ice Shard"]},"Monotype Choice Band (Dark)":{"level":100,"ability":"Sword of Ruin","item":"Choice Band","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Ice Spinner","Crunch","Ice Shard","Sacred Sword"]},"Doubles All-out Attacker":{"level":100,"ability":"Sword of Ruin","item":"Focus Sash","nature":"Jolly","teraType":"Dark","evs":{"at":252,"sd":4,"sp":252},"moves":["Ice Spinner","Sucker Punch","Sacred Sword","Protect"]}},"Chinchou":{"LC Offensive Pivot":{"level":5,"ability":"Volt Absorb","item":"Eviolite","nature":"Timid","evs":{"df":132,"sa":148,"sp":228},"moves":["Volt Switch","Ice Beam","Thunderbolt","Scald"]}},"Cinccino":{"PU Offensive Pivot":{"level":100,"ability":"Skill Link","item":"Protective Pads","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["Tail Slap","Bullet Seed","Knock Off","U-turn"]}},"Cinderace":{"Uber Physical Attacker":{"level":100,"ability":"Libero","item":"Heavy-Duty Boots","nature":"Jolly","evs":{"hp":80,"at":164,"sd":48,"sp":216},"moves":["Pyro Ball","U-turn","Court Change","Gunk Shot"]},"Monotype Offensive (Fire)":{"level":100,"ability":"Libero","item":"Heavy-Duty Boots","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Pyro Ball","Sucker Punch","Low Kick","Bulk Up"]},"Battle Stadium Singles Gmax Libero":{"level":50,"ability":"Libero","item":"Life Orb","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Pyro Ball","High Jump Kick","Bounce","Sucker Punch"]},"Battle Stadium Singles Sash":{"level":50,"ability":"Libero","item":"Focus Sash","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Pyro Ball","Counter","Sucker Punch","Gunk Shot"]},"Battle Stadium Singles Gmax Choice":{"level":50,"ability":"Libero","item":"Choice Scarf","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["High Jump Kick","U-turn","Pyro Ball","Gunk Shot"]}},"Cinderace-Gmax":{"Uber Physical Attacker":{"level":100,"ability":"Libero","item":"Heavy-Duty Boots","nature":"Jolly","evs":{"hp":80,"at":164,"sd":48,"sp":216},"moves":["Pyro Ball","U-turn","Court Change","Gunk Shot"]},"Monotype Offensive (Fire)":{"level":100,"ability":"Libero","item":"Heavy-Duty Boots","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Pyro Ball","Sucker Punch","Low Kick","Bulk Up"]},"Battle Stadium Singles Gmax Libero":{"level":50,"ability":"Libero","item":"Life Orb","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Pyro Ball","High Jump Kick","Bounce","Sucker Punch"]},"Battle Stadium Singles Sash":{"level":50,"ability":"Libero","item":"Focus Sash","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Pyro Ball","Counter","Sucker Punch","Gunk Shot"]},"Battle Stadium Singles Gmax Choice":{"level":50,"ability":"Libero","item":"Choice Scarf","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["High Jump Kick","U-turn","Pyro Ball","Gunk Shot"]}},"Clauncher":{"LC Showdown Usage":{"level":5,"ability":"Mega Launcher","item":"Choice Scarf","nature":"Modest","evs":{"df":20,"sa":212,"sd":252,"sp":4},"moves":["Dark Pulse","Water Pulse","Aura Sphere","Dragon Pulse"]}},"Clawitzer":{"UU Showdown Usage":{"level":100,"ability":"Mega Launcher","item":"Choice Specs","nature":"Modest","evs":{"hp":252,"sa":252,"sd":4},"moves":["Water Pulse","Dark Pulse","Aura Sphere","Dragon Pulse"]}},"Claydol":{"PU Defensive":{"level":100,"ability":"Levitate","item":"Colbur Berry","nature":"Bold","evs":{"hp":252,"df":240,"sp":16},"moves":["Stealth Rock","Toxic","Psychic","Teleport"]}},"Clefable":{"OU Utility":{"level":100,"ability":"Magic Guard","item":"Leftovers","nature":"Calm","evs":{"hp":252,"df":200,"sd":56},"moves":["Moonblast","Soft-Boiled","Stealth Rock","Knock Off"]},"OU Calm Mind":{"level":100,"ability":"Magic Guard","item":"Life Orb","nature":"Bold","evs":{"hp":252,"df":196,"sp":60},"moves":["Calm Mind","Moonblast","Soft-Boiled","Thunder"]},"Uber Defensive":{"level":100,"ability":"Magic Guard","item":"Leftovers","nature":"Bold","evs":{"hp":252,"df":252,"sa":4},"moves":["Moonblast","Soft-Boiled","Stealth Rock","Knock Off"]},"Monotype Stealth Rock":{"level":100,"ability":"Magic Guard","item":"Rocky Helmet","nature":"Bold","evs":{"hp":252,"df":240,"sp":16},"moves":["Stealth Rock","Moonblast","Knock Off","Soft-Boiled"]},"Monotype Calm Mind (Fairy)":{"level":100,"ability":"Magic Guard","item":"Life Orb","nature":"Bold","evs":{"hp":252,"df":240,"sp":16},"moves":["Calm Mind","Moonblast","Flamethrower","Soft-Boiled"]},"Battle Stadium Singles Kee Berry Sweeper":{"level":50,"ability":"Unaware","item":"Kee Berry","nature":"Bold","evs":{"hp":244,"df":252,"sa":4,"sd":4,"sp":4},"moves":["Moonblast","Moonlight","Calm Mind","Flamethrower"]},"Battle Stadium Singles Trick Crippler":{"level":50,"ability":"Magic Guard","item":"Flame Orb","nature":"Bold","evs":{"hp":244,"df":252,"sa":4,"sd":4,"sp":4},"moves":["Moonblast","Moonlight","Trick","Stealth Rock"]},"CAP Utility":{"level":100,"ability":"Magic Guard","item":"Leftovers","nature":"Calm","evs":{"hp":252,"df":200,"sd":56},"moves":["Moonblast","Soft-Boiled","Stealth Rock","Knock Off"]},"CAP Calm Mind":{"level":100,"ability":"Magic Guard","item":"Life Orb","nature":"Bold","evs":{"hp":252,"df":196,"sp":60},"moves":["Calm Mind","Moonblast","Soft-Boiled","Flamethrower"]},"1v1 Rocky Helmet":{"level":100,"ability":"Unaware","item":"Rocky Helmet","nature":"Bold","evs":{"hp":252,"df":252,"sd":4},"moves":["Moonblast","Counter","Encore","Soft-Boiled"]},"1v1 Sitrus Berry":{"level":100,"ability":"Unaware","item":"Sitrus Berry","nature":"Bold","evs":{"hp":252,"df":252,"sa":4},"moves":["Soft-Boiled","Moonblast","Counter","Calm Mind"]}},"Clefairy":{"PU Stealth Rock":{"level":100,"ability":"Magic Guard","item":"Eviolite","nature":"Calm","evs":{"hp":252,"df":4,"sd":252},"moves":["Stealth Rock","Soft-Boiled","Seismic Toss","Knock Off"]},"ZU Specially Defensive":{"level":100,"ability":"Magic Guard","item":"Eviolite","nature":"Calm","evs":{"hp":252,"df":4,"sd":252},"moves":["Soft-Boiled","Moonblast","Knock Off","Toxic"]}},"Clodsire":{"OU Defensive":{"level":100,"ability":"Unaware","item":"Heavy-Duty Boots","nature":"Careful","teraType":"Water","evs":{"hp":248,"df":8,"sd":252},"moves":["Stealth Rock","Earthquake","Toxic","Recover"]},"Uber Defensive":{"level":100,"ability":"Water Absorb","item":"Leftovers","nature":"Careful","teraType":"Fairy","evs":{"hp":248,"df":8,"sd":252},"moves":["Spikes","Earthquake","Toxic","Recover"]},"Doubles Showdown Usage":{"level":100,"ability":"Water Absorb","item":"Leftovers","nature":"Careful","evs":{"hp":252,"at":4,"sd":252},"moves":["Earthquake","Recover","Toxic","Poison Jab"]}},"Cloyster":{"OU Shell Smash Sweeper":{"level":100,"ability":"Skill Link","item":"Focus Sash","nature":"Naughty","teraType":"Ice","evs":{"at":252,"sd":4,"sp":252},"moves":["Shell Smash","Icicle Spear","Rock Blast","Hydro Pump"]},"UU Showdown Usage":{"level":100,"ability":"Skill Link","item":"White Herb","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Icicle Spear","Shell Smash","Rock Blast","Liquidation"]},"Uber Lead":{"level":100,"ability":"Skill Link","item":"Focus Sash","nature":"Adamant","teraType":"Ghost","evs":{"at":252,"sd":4,"sp":252},"moves":["Shell Smash","Spikes","Icicle Spear","Rock Blast"]},"Monotype Shell Smash Sweeper (Ice)":{"level":100,"ability":"Skill Link","item":"Focus Sash","nature":"Naughty","evs":{"at":252,"df":4,"sp":252},"moves":["Shell Smash","Icicle Spear","Rock Blast","Hydro Pump"]}},"Coalossal":{"UU Showdown Usage":{"level":100,"ability":"Flame Body","item":"Heavy-Duty Boots","nature":"Impish","evs":{"hp":252,"df":252,"sd":4},"moves":["Rapid Spin","Stealth Rock","Spikes","Will-O-Wisp"]}},"Coalossal-Gmax":{"UU Showdown Usage":{"level":100,"ability":"Flame Body","item":"Heavy-Duty Boots","nature":"Impish","evs":{"hp":252,"df":252,"sd":4},"moves":["Rapid Spin","Stealth Rock","Spikes","Will-O-Wisp"]}},"Cobalion":{"UU Utility":{"level":100,"ability":"Justified","item":"Rocky Helmet","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Stealth Rock","Close Combat","Iron Head","Volt Switch"]},"UU Swords Dance":{"level":100,"ability":"Justified","item":"Leftovers","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Swords Dance","Close Combat","Stone Edge","Megahorn"]},"Monotype Stealth Rock (Fighting)":{"level":100,"ability":"Justified","item":"Leftovers","nature":"Jolly","evs":{"hp":252,"sd":4,"sp":252},"moves":["Stealth Rock","Taunt","Iron Head","Thunder Wave"]}},"Cofagrigus":{"PU Defensive":{"level":100,"ability":"Mummy","item":"Chesto Berry","nature":"Bold","evs":{"hp":248,"df":240,"sp":20},"moves":["Iron Defense","Body Press","Toxic Spikes","Rest"]}},"Colossoil":{"CAP Flame Orb":{"level":100,"ability":"Guts","item":"Flame Orb","nature":"Jolly","teraType":"Normal","evs":{"at":252,"df":4,"sp":252},"moves":["Knock Off","Facade","Earthquake","Sucker Punch"]}},"Comfey":{"PU Defog":{"level":100,"ability":"Natural Cure","item":"Heavy-Duty Boots","nature":"Bold","evs":{"hp":252,"df":240,"sp":16},"moves":["Defog","Dazzling Gleam","U-turn","Synthesis"]}},"Conkeldurr":{"OU Guts":{"level":100,"ability":"Guts","item":"Flame Orb","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Close Combat","Mach Punch","Knock Off","Facade"]},"UU Guts Wallbreaker":{"level":100,"ability":"Guts","item":"Flame Orb","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Drain Punch","Facade","Knock Off","Mach Punch"]},"1v1 Life Orb":{"level":100,"ability":"Sheer Force","item":"Life Orb","nature":"Adamant","evs":{"hp":44,"at":252,"sp":212},"moves":["Close Combat","Mach Punch","Poison Jab","Ice Punch"]}},"Copperajah":{"UU Showdown Usage":{"level":100,"ability":"Sheer Force","item":"Assault Vest","nature":"Adamant","evs":{"hp":248,"at":252,"sd":8},"moves":["Earthquake","Play Rough","Iron Head","Heavy Slam"]}},"Copperajah-Gmax":{"UU Showdown Usage":{"level":100,"ability":"Sheer Force","item":"Assault Vest","nature":"Adamant","evs":{"hp":248,"at":252,"sd":8},"moves":["Earthquake","Play Rough","Iron Head","Heavy Slam"]}},"Corsola":{"ZU Special Wall":{"level":100,"ability":"Regenerator","item":"Rocky Helmet","nature":"Careful","evs":{"hp":252,"df":4,"sd":252},"moves":["Stealth Rock","Rock Slide","Toxic","Recover"]}},"Corsola-Galar":{"Monotype Defensive Wall (Ghost)":{"level":100,"ability":"Cursed Body","item":"Eviolite","nature":"Bold","evs":{"hp":252,"df":252,"sd":4},"moves":["Will-O-Wisp","Strength Sap","Stealth Rock","Night Shade"]},"1v1 Stall":{"level":100,"ability":"Cursed Body","item":"Eviolite","nature":"Impish","evs":{"hp":248,"df":212,"sd":48},"moves":["Rest","Strength Sap","Amnesia","Will-O-Wisp"]}},"Corviknight":{"OU Physically Defensive":{"level":100,"ability":"Pressure","item":"Leftovers","nature":"Impish","teraType":"Water","evs":{"hp":248,"df":252,"sd":8},"moves":["Brave Bird","U-turn","Roost","Defog"]},"Uber Physically Defensive":{"level":100,"ability":"Pressure","item":"Rocky Helmet","nature":"Bold","teraType":"Steel","evs":{"hp":248,"df":252,"sd":8},"moves":["Body Press","U-turn","Roost","Defog"]},"Uber Specially Defensive":{"level":100,"ability":"Pressure","item":"Leftovers","nature":"Careful","teraType":"Steel","evs":{"hp":248,"df":8,"sd":252},"moves":["Iron Head","U-turn","Roost","Defog"]},"Monotype Defog (Flying)":{"level":100,"ability":"Mirror Armor","item":"Leftovers","nature":"Careful","evs":{"hp":248,"at":4,"df":4,"sd":252},"moves":["Defog","Iron Head","Body Press","Roost"]},"Monotype Bulk Up (Steel)":{"level":100,"ability":"Pressure","item":"Leftovers","nature":"Careful","evs":{"hp":248,"df":8,"sd":252},"moves":["Bulk Up","Brave Bird","Body Press","Roost"]}},"Corviknight-Gmax":{"OU Physically Defensive":{"level":100,"ability":"Pressure","item":"Leftovers","nature":"Impish","teraType":"Water","evs":{"hp":248,"df":252,"sd":8},"moves":["Brave Bird","U-turn","Roost","Defog"]},"Uber Physically Defensive":{"level":100,"ability":"Pressure","item":"Rocky Helmet","nature":"Bold","teraType":"Steel","evs":{"hp":248,"df":252,"sd":8},"moves":["Body Press","U-turn","Roost","Defog"]},"Uber Specially Defensive":{"level":100,"ability":"Pressure","item":"Leftovers","nature":"Careful","teraType":"Steel","evs":{"hp":248,"df":8,"sd":252},"moves":["Iron Head","U-turn","Roost","Defog"]},"Monotype Defog (Flying)":{"level":100,"ability":"Mirror Armor","item":"Leftovers","nature":"Careful","evs":{"hp":248,"at":4,"df":4,"sd":252},"moves":["Defog","Iron Head","Body Press","Roost"]},"Monotype Bulk Up (Steel)":{"level":100,"ability":"Pressure","item":"Leftovers","nature":"Careful","evs":{"hp":248,"df":8,"sd":252},"moves":["Bulk Up","Brave Bird","Body Press","Roost"]}},"Cottonee":{"LC Memento":{"level":5,"ability":"Prankster","item":"Eviolite","nature":"Timid","evs":{"hp":36,"df":36,"sa":140,"sd":36,"sp":228},"moves":["Memento","Knock Off","Dazzling Gleam","Encore"]}},"Crabrawler":{"LC Bulk Up":{"level":5,"ability":"Iron Fist","item":"Eviolite","nature":"Jolly","teraType":"Electric","evs":{"at":20,"df":140,"sd":60,"sp":252},"moves":["Drain Punch","Ice Punch","Thunder Punch","Bulk Up"]}},"Cradily":{"Monotype Specially Defensive (Grass)":{"level":100,"ability":"Storm Drain","item":"Leftovers","nature":"Careful","evs":{"hp":252,"at":4,"sd":252},"moves":["Rock Blast","Stealth Rock","Toxic","Recover"]}},"Cramorant":{"ZU Defog":{"level":100,"ability":"Gulp Missile","item":"Heavy-Duty Boots","nature":"Bold","evs":{"hp":248,"df":216,"sd":28,"sp":16},"moves":["Defog","Roost","Surf","Hurricane"]}},"Crawdaunt":{"OU Choice Band":{"level":100,"ability":"Adaptability","item":"Choice Band","nature":"Adamant","evs":{"at":252,"df":4,"sp":252},"moves":["Crabhammer","Knock Off","Aqua Jet","Close Combat"]},"OU Swords Dance":{"level":100,"ability":"Adaptability","item":"Life Orb","nature":"Adamant","evs":{"at":252,"df":4,"sp":252},"moves":["Swords Dance","Crabhammer","Knock Off","Aqua Jet"]},"UU Choice Band":{"level":100,"ability":"Adaptability","item":"Choice Band","nature":"Adamant","evs":{"at":252,"df":4,"sp":252},"moves":["Crabhammer","Knock Off","Aqua Jet","Close Combat"]},"Monotype Choice Band (Dark)":{"level":100,"ability":"Adaptability","item":"Choice Band","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Knock Off","Crabhammer","Aqua Jet","Close Combat"]},"Monotype Choice Band (Water)":{"level":100,"ability":"Adaptability","item":"Choice Band","nature":"Adamant","evs":{"at":252,"df":4,"sp":252},"moves":["Knock Off","Crabhammer","Close Combat","Aqua Jet"]}},"Cresselia":{"OU Lunar Dance":{"level":100,"ability":"Levitate","item":"Choice Scarf","nature":"Calm","evs":{"hp":252,"sd":148,"sp":108},"moves":["Ice Beam","Lunar Dance","Trick","Moonlight"]},"UU Trick Room Setter":{"level":100,"ability":"Levitate","item":"Colbur Berry","nature":"Relaxed","ivs":{"at":0,"sp":0},"evs":{"hp":248,"df":84,"sd":176},"moves":["Trick Room","Moonblast","Lunar Dance","Shadow Ball"]},"RU Choice Scarf":{"level":100,"ability":"Levitate","item":"Choice Scarf","nature":"Timid","evs":{"hp":64,"sa":192,"sp":252},"moves":["Ice Beam","Thunder Wave","Lunar Dance","Trick"]},"Doubles Calm Mind":{"level":100,"ability":"Levitate","item":"Leftovers","nature":"Bold","evs":{"hp":252,"df":252,"sd":4},"moves":["Stored Power","Calm Mind","Moonlight","Icy Wind"]},"Battle Stadium Singles Calm Mind":{"level":50,"ability":"Levitate","item":"Kee Berry","nature":"Bold","evs":{"hp":252,"df":252,"sp":4},"moves":["Calm Mind","Moonlight","Stored Power","Ice Beam"]},"Battle Stadium Singles Trick Room Support":{"level":50,"ability":"Levitate","item":"Sitrus Berry","nature":"Bold","evs":{"hp":252,"df":252,"sp":4},"moves":["Trick Room","Psychic","Moonlight","Lunar Dance"]},"BH Prankster Utility":{"level":100,"ability":"Prankster","item":"Rocky Helmet","nature":"Bold","ivs":{"at":0},"evs":{"hp":252,"df":252,"sa":252,"sd":252,"sp":252},"moves":["Haze","Recover","Parting Shot","Glare"]},"BH Tower of Power (Prankster Dual Screens)":{"level":100,"ability":"Prankster","item":"Light Clay","nature":"Bold","ivs":{"at":0},"evs":{"hp":252,"df":252,"sa":252,"sd":252,"sp":252},"moves":["Haze","Reflect","Light Screen","Recover"]},"1v1 Choice Scarf":{"level":100,"ability":"Levitate","item":"Choice Scarf","nature":"Timid","evs":{"hp":200,"df":12,"sa":44,"sp":252},"moves":["Psychic","Moonblast","Trick","Moonlight"]},"1v1 Defensive Kee Berry":{"level":100,"ability":"Levitate","item":"Kee Berry","nature":"Bold","evs":{"hp":252,"df":252,"sd":4},"moves":["Psyshock","Calm Mind","Moonlight","Reflect"]},"1v1 Fast Kee Berry":{"level":100,"ability":"Levitate","item":"Kee Berry","nature":"Timid","evs":{"hp":240,"df":12,"sd":4,"sp":252},"moves":["Moonlight","Calm Mind","Stored Power","Reflect"]}},"Croagunk":{"LC Showdown Usage":{"level":5,"ability":"Dry Skin","item":"Eviolite","nature":"Adamant","evs":{"at":188,"df":116,"sd":196},"moves":["Drain Punch","Vacuum Wave","Sucker Punch","Sludge Bomb"]}},"Crobat":{"UU Offensive Pivot":{"level":100,"ability":"Inner Focus","item":"Heavy-Duty Boots","nature":"Jolly","evs":{"hp":108,"at":148,"sp":252},"moves":["Brave Bird","U-turn","Roost","Taunt"]},"RU Pivot":{"level":100,"ability":"Inner Focus","item":"Heavy-Duty Boots","nature":"Jolly","evs":{"hp":252,"df":56,"sp":200},"moves":["Brave Bird","U-turn","Roost","Defog"]},"RU Nasty Plot":{"level":100,"ability":"Inner Focus","item":"Heavy-Duty Boots","nature":"Timid","ivs":{"at":0},"evs":{"sa":252,"sd":4,"sp":252},"moves":["Nasty Plot","Sludge Bomb","Heat Wave","Giga Drain"]},"Monotype Utility (Poison)":{"level":100,"ability":"Infiltrator","item":"Heavy-Duty Boots","nature":"Jolly","evs":{"hp":252,"sd":72,"sp":184},"moves":["Brave Bird","Roost","Defog","Toxic"]},"Doubles Fast Utility":{"level":100,"ability":"Inner Focus","item":"Sitrus Berry","nature":"Jolly","evs":{"hp":240,"sd":84,"sp":184},"moves":["Tailwind","Taunt","Brave Bird","Super Fang"]}},"Crustle":{"ZU Shell Smash":{"level":100,"ability":"Sturdy","item":"Heavy-Duty Boots","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Shell Smash","Stone Edge","X-Scissor","Earthquake"]},"1v1 Shell Smash":{"level":100,"ability":"Sturdy","item":"Mental Herb","nature":"Adamant","evs":{"hp":4,"at":252,"sp":252},"moves":["Shell Smash","Rock Wrecker","Rock Blast","Counter"]},"1v1 Choice Band":{"level":100,"ability":"Sturdy","item":"Choice Band","nature":"Adamant","ivs":{"sp":29},"evs":{"hp":232,"at":252,"df":24},"moves":["Rock Wrecker","Rock Blast","Earthquake","Heavy Slam"]}},"Cryogonal":{"UU Showdown Usage":{"level":100,"ability":"Levitate","item":"Heavy-Duty Boots","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Rapid Spin","Freeze-Dry","Recover","Haze"]}},"Cufant":{"LC Showdown Usage":{"level":5,"ability":"Sheer Force","item":"Eviolite","nature":"Adamant","evs":{"at":196,"df":44,"sd":204,"sp":36},"moves":["Iron Head","Play Rough","Earthquake","Heavy Slam"]}},"Cursola":{"ZU Choice Specs":{"level":100,"ability":"Weak Armor","item":"Choice Specs","nature":"Modest","evs":{"df":4,"sa":252,"sp":252},"moves":["Shadow Ball","Power Gem","Earth Power","Hex"]}},"Cyclizar":{"OU Showdown Usage":{"level":100,"ability":"Regenerator","item":"Heavy-Duty Boots","nature":"Jolly","evs":{"hp":248,"at":8,"sp":252},"moves":["Shed Tail","Rapid Spin","Knock Off","U-turn"]},"Uber Shed Tail":{"level":100,"ability":"Regenerator","item":"Choice Scarf","nature":"Jolly","teraType":"Fairy","evs":{"hp":4,"df":252,"sd":252},"moves":["Shed Tail","Draco Meteor","U-turn","Knock Off"]},"Doubles Showdown Usage":{"level":100,"ability":"Regenerator","item":"Sitrus Berry","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Shed Tail","Knock Off","Rapid Spin","Dragon Claw"]}},"Cyclohm":{"CAP Physically Defensive":{"level":100,"ability":"Shield Dust","item":"Heavy-Duty Boots","nature":"Bold","teraType":"Fairy","evs":{"hp":252,"df":252,"sa":4},"moves":["Volt Switch","Flamethrower","Ice Beam","Slack Off"]}},"Dachsbun":{"OU Showdown Usage":{"level":100,"ability":"Well-Baked Body","item":"Leftovers","nature":"Impish","evs":{"hp":252,"at":4,"df":252},"moves":["Play Rough","Wish","Protect","Body Press"]},"UU Showdown Usage":{"level":100,"ability":"Well-Baked Body","item":"Leftovers","nature":"Impish","evs":{"hp":252,"at":4,"df":252},"moves":["Play Rough","Wish","Body Press","Protect"]},"Uber Defensive":{"level":100,"ability":"Well-Baked Body","item":"Leftovers","nature":"Impish","teraType":"Water","evs":{"hp":252,"df":252,"sd":4},"moves":["Play Rough","Charm","Wish","Protect"]}},"Darmanitan":{"UU Choice Scarf":{"level":100,"ability":"Sheer Force","item":"Choice Scarf","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Flare Blitz","U-turn","Rock Slide","Earthquake"]},"BH Regenvest":{"level":100,"ability":"Regenerator","item":"Assault Vest","nature":"Sassy","ivs":{"at":0,"sp":0},"evs":{"hp":252,"df":252,"sa":252,"sd":252},"moves":["Lava Plume","U-turn","Future Sight","Spectral Thief"]},"BH Prankster":{"level":100,"ability":"Prankster","item":"Heavy-Duty Boots","nature":"Calm","ivs":{"at":0},"evs":{"hp":252,"df":252,"sa":252,"sd":252,"sp":252},"moves":["Haze","Recover","Parting Shot","Lava Plume"]},"BH Poison Heal":{"level":100,"ability":"Poison Heal","item":"Toxic Orb","nature":"Sassy","ivs":{"at":0,"sp":0},"evs":{"hp":252,"df":252,"sa":252,"sd":252},"moves":["Baneful Bunker","Lava Plume","Teleport","Spectral Thief"]},"1v1 Choice Scarf":{"level":100,"ability":"Sheer Force","item":"Choice Scarf","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Flare Blitz","Trick","Earthquake","Superpower"]},"1v1 Choice Band":{"level":100,"ability":"Sheer Force","item":"Choice Band","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Flare Blitz","Superpower","Trick","Rest"]}},"Darmanitan-Galar":{"Uber Choice Scarf":{"level":100,"ability":"Gorilla Tactics","item":"Choice Scarf","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["U-turn","Icicle Crash","Flare Blitz","Rock Slide"]},"Uber Choice Band":{"level":100,"ability":"Gorilla Tactics","item":"Choice Band","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["Icicle Crash","Flare Blitz","Earthquake","U-turn"]},"AG Choice Scarf":{"level":100,"ability":"Gorilla Tactics","item":"Choice Scarf","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["Icicle Crash","U-turn","Flare Blitz","Rock Slide"]},"Monotype Choice Scarf (Ice)":{"level":100,"ability":"Gorilla Tactics","item":"Choice Scarf","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Icicle Crash","Flare Blitz","U-turn","Superpower"]},"Monotype Choice Band (Ice)":{"level":100,"ability":"Gorilla Tactics","item":"Choice Band","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Icicle Crash","Fire Punch","Earthquake","U-turn"]},"Battle Stadium Singles Gorilla Tactics":{"level":50,"ability":"Gorilla Tactics","item":"Choice Scarf","nature":"Jolly","evs":{"hp":4,"at":252,"sp":252},"moves":["Icicle Crash","Flare Blitz","Earthquake","U-turn"]},"1v1 Choice Band":{"level":100,"ability":"Gorilla Tactics","item":"Choice Band","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Icicle Crash","Giga Impact","Flare Blitz","Superpower"]},"1v1 Choice Scarf":{"level":100,"ability":"Gorilla Tactics","item":"Choice Scarf","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Icicle Crash","Earthquake","Superpower","Flare Blitz"]},"1v1 Zen Mode":{"level":100,"ability":"Zen Mode","item":"Salac Berry","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Icicle Crash","Flare Blitz","Endure","Encore"]}},"Darmanitan-Galar-Zen":{"Uber Choice Scarf":{"level":100,"ability":"Gorilla Tactics","item":"Choice Scarf","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["U-turn","Icicle Crash","Flare Blitz","Rock Slide"]},"Uber Choice Band":{"level":100,"ability":"Gorilla Tactics","item":"Choice Band","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["Icicle Crash","Flare Blitz","Earthquake","U-turn"]},"AG Choice Scarf":{"level":100,"ability":"Gorilla Tactics","item":"Choice Scarf","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["Icicle Crash","U-turn","Flare Blitz","Rock Slide"]},"Monotype Choice Scarf (Ice)":{"level":100,"ability":"Gorilla Tactics","item":"Choice Scarf","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Icicle Crash","Flare Blitz","U-turn","Superpower"]},"Monotype Choice Band (Ice)":{"level":100,"ability":"Gorilla Tactics","item":"Choice Band","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Icicle Crash","Fire Punch","Earthquake","U-turn"]},"Battle Stadium Singles Gorilla Tactics":{"level":50,"ability":"Gorilla Tactics","item":"Choice Scarf","nature":"Jolly","evs":{"hp":4,"at":252,"sp":252},"moves":["Icicle Crash","Flare Blitz","Earthquake","U-turn"]},"1v1 Choice Band":{"level":100,"ability":"Gorilla Tactics","item":"Choice Band","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Icicle Crash","Giga Impact","Flare Blitz","Superpower"]},"1v1 Choice Scarf":{"level":100,"ability":"Gorilla Tactics","item":"Choice Scarf","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Icicle Crash","Earthquake","Superpower","Flare Blitz"]},"1v1 Zen Mode":{"level":100,"ability":"Zen Mode","item":"Salac Berry","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Icicle Crash","Flare Blitz","Endure","Encore"]}},"Darmanitan-Zen":{"UU Choice Scarf":{"level":100,"ability":"Zen Mode","item":"Choice Scarf","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Flare Blitz","U-turn","Rock Slide","Earthquake"]},"BH Regenvest":{"level":100,"ability":"Regenerator","item":"Assault Vest","nature":"Sassy","ivs":{"at":0,"sp":0},"evs":{"hp":252,"df":252,"sa":252,"sd":252},"moves":["Lava Plume","U-turn","Future Sight","Spectral Thief"]},"BH Prankster":{"level":100,"ability":"Prankster","item":"Heavy-Duty Boots","nature":"Calm","ivs":{"at":0},"evs":{"hp":252,"df":252,"sa":252,"sd":252,"sp":252},"moves":["Haze","Recover","Parting Shot","Lava Plume"]},"BH Poison Heal":{"level":100,"ability":"Poison Heal","item":"Toxic Orb","nature":"Sassy","ivs":{"at":0,"sp":0},"evs":{"hp":252,"df":252,"sa":252,"sd":252},"moves":["Baneful Bunker","Lava Plume","Teleport","Spectral Thief"]},"1v1 Choice Scarf":{"level":100,"ability":"Zen Mode","item":"Choice Scarf","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Flare Blitz","Trick","Earthquake","Superpower"]},"1v1 Choice Band":{"level":100,"ability":"Zen Mode","item":"Choice Band","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Flare Blitz","Superpower","Trick","Rest"]}},"Decidueye":{"RU Choice Band":{"level":100,"ability":"Long Reach","item":"Choice Band","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Poltergeist","U-turn","Leaf Blade","Shadow Sneak"]},"NU Physical Attacker":{"level":100,"ability":"Long Reach","item":"Choice Band","nature":"Adamant","evs":{"at":252,"df":4,"sp":252},"moves":["Leaf Blade","Spirit Shackle","U-turn","Shadow Sneak"]},"NU Swords Dance":{"level":100,"ability":"Long Reach","item":"Spell Tag","nature":"Adamant","evs":{"at":252,"df":4,"sp":252},"moves":["Swords Dance","Leaf Blade","Spirit Shackle","Shadow Sneak"]},"NU Choice Specs":{"level":100,"ability":"Overgrow","item":"Choice Specs","nature":"Modest","evs":{"df":4,"sa":252,"sp":252},"moves":["Leaf Storm","Shadow Ball","U-turn","Giga Drain"]}},"Dedenne":{"ZU Offensive Pivot":{"level":100,"ability":"Pickup","item":"Heavy-Duty Boots","nature":"Adamant","ivs":{"at":0},"evs":{"sa":252,"sd":4,"sp":252},"moves":["Volt Switch","Dazzling Gleam","Super Fang","Grass Knot"]}},"Deerling":{"LC Offensive":{"level":5,"ability":"Serene Grace","item":"Eviolite","nature":"Jolly","teraType":"Ghost","evs":{"at":36,"df":196,"sd":36,"sp":236},"moves":["Thunder Wave","Headbutt","Zen Headbutt","Synthesis"]}},"Delibird":{"ZU Suicide Lead":{"level":100,"ability":"Vital Spirit","item":"Focus Sash","nature":"Timid","evs":{"hp":252,"sa":4,"sp":252},"moves":["Spikes","Rapid Spin","Memento","Freeze-Dry"]}},"Dhelmise":{"UU Spinblocker":{"level":100,"ability":"Steelworker","item":"Heavy-Duty Boots","nature":"Careful","evs":{"hp":252,"at":12,"sd":136,"sp":108},"moves":["Power Whip","Poltergeist","Rapid Spin","Synthesis"]},"RU Offensive Utility":{"level":100,"ability":"Steelworker","item":"Heavy-Duty Boots","nature":"Adamant","evs":{"hp":192,"at":216,"sp":100},"moves":["Rapid Spin","Power Whip","Poltergeist","Synthesis"]},"NU Defensive":{"level":100,"ability":"Steelworker","item":"Heavy-Duty Boots","nature":"Impish","evs":{"hp":252,"at":4,"df":252},"moves":["Power Whip","Poltergeist","Rapid Spin","Synthesis"]}},"Dialga":{"Uber Choice Specs":{"level":100,"ability":"Pressure","item":"Choice Specs","nature":"Modest","evs":{"df":4,"sa":252,"sp":252},"moves":["Draco Meteor","Fire Blast","Thunder","Power Gem"]},"AG Support":{"level":100,"ability":"Pressure","item":"Chople Berry","nature":"Modest","evs":{"hp":252,"df":20,"sa":160,"sp":76},"moves":["Stealth Rock","Draco Meteor","Fire Blast","Thunder"]},"BH RegenVest":{"level":100,"ability":"Regenerator","item":"Assault Vest","nature":"Sassy","ivs":{"sp":0},"evs":{"hp":252,"at":252,"df":252,"sa":252,"sd":252},"moves":["Core Enforcer","Doom Desire","Nuzzle","U-turn"]},"BH Doom Desire":{"level":100,"ability":"Steely Spirit","item":"Adamant Orb","nature":"Modest","evs":{"hp":252,"at":252,"df":252,"sa":252,"sd":252,"sp":252},"moves":["Doom Desire","Core Enforcer","Recover","Nasty Plot"]},"BH Defensive Trapper":{"level":100,"ability":"Magic Bounce","item":"Leftovers","nature":"Relaxed","evs":{"hp":252,"at":252,"df":252,"sa":252,"sd":252,"sp":252},"moves":["Anchor Shot","Core Enforcer","Recover","Doom Desire"]},"BH Magic Guard Life Orb":{"level":100,"ability":"Magic Guard","item":"Life Orb","nature":"Modest","evs":{"hp":252,"at":252,"df":252,"sa":252,"sd":252,"sp":252},"moves":["Steel Beam","Core Enforcer","Mind Blown","Quiver Dance"]}},"Diancie":{"RU Defensive":{"level":100,"ability":"Clear Body","item":"Leftovers","nature":"Careful","evs":{"hp":252,"at":20,"sd":216,"sp":20},"moves":["Stealth Rock","Diamond Storm","Body Press","Heal Bell"]},"NU Stealth Rock":{"level":100,"ability":"Clear Body","item":"Leftovers","nature":"Careful","evs":{"hp":252,"sd":56,"sp":200},"moves":["Stealth Rock","Diamond Storm","Body Press","Heal Bell"]},"Doubles Trick Room Attacker":{"level":100,"ability":"Clear Body","item":"Weakness Policy","nature":"Sassy","ivs":{"sp":0},"evs":{"hp":252,"at":252,"df":4},"moves":["Diamond Storm","Moonblast","Trick Room","Protect"]},"1v1 Weakness Policy":{"level":100,"ability":"Clear Body","item":"Weakness Policy","nature":"Sassy","evs":{"hp":252,"df":108,"sd":148},"moves":["Diamond Storm","Moonblast","Trick Room","Encore"]}},"Diggersby":{"UU Swords Dance":{"level":100,"ability":"Huge Power","item":"Life Orb","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Swords Dance","Quick Attack","Earthquake","Fire Punch"]},"UU Choice Scarf":{"level":100,"ability":"Huge Power","item":"Choice Scarf","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Body Slam","Earthquake","U-turn","Fire Punch"]},"Monotype Wallbreaker (Normal)":{"level":100,"ability":"Huge Power","item":"Choice Band","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Body Slam","Earthquake","Quick Attack","Fire Punch"]},"1v1 Life Orb":{"level":100,"ability":"Huge Power","item":"Life Orb","nature":"Adamant","evs":{"hp":4,"at":232,"sd":40,"sp":232},"moves":["Swords Dance","Earthquake","Quick Attack","Gunk Shot"]}},"Diglett":{"LC Life Orb":{"level":5,"ability":"Arena Trap","item":"Life Orb","nature":"Jolly","teraType":"Flying","evs":{"hp":36,"at":236,"sp":236},"moves":["Earthquake","Substitute","Rock Blast","Sucker Punch"]},"LC Eviolite":{"level":5,"ability":"Arena Trap","item":"Eviolite","nature":"Jolly","teraType":"Flying","evs":{"hp":36,"at":236,"sp":236},"moves":["Earthquake","Rock Blast","Stealth Rock","Protect"]}},"Ditto":{"OU Imposter":{"level":100,"ability":"Imposter","item":"Choice Scarf","nature":"Relaxed","teraType":"Poison","ivs":{"sp":0},"evs":{"hp":248,"at":8,"df":252},"moves":["Transform"]},"Uber Imposter":{"level":100,"ability":"Imposter","item":"Choice Scarf","nature":"Relaxed","teraType":"Fairy","ivs":{"sp":0},"evs":{"hp":248,"at":8,"df":252},"moves":["Transform"]}},"Dondozo":{"OU Wall":{"level":100,"ability":"Unaware","item":"Heavy-Duty Boots","nature":"Impish","teraType":"Grass","evs":{"hp":252,"df":252,"sd":4},"moves":["Liquidation","Body Press","Rest","Sleep Talk"]},"OU Curse":{"level":100,"ability":"Unaware","item":"Leftovers","nature":"Careful","teraType":"Grass","evs":{"hp":252,"df":4,"sd":252},"moves":["Curse","Liquidation","Body Press","Protect"]},"Uber Wall":{"level":100,"ability":"Unaware","item":"Leftovers","nature":"Impish","teraType":"Steel","evs":{"hp":252,"df":252,"sd":4},"moves":["Liquidation","Rest","Curse","Sleep Talk"]},"Doubles Showdown Usage":{"level":100,"ability":"Unaware","item":"Leftovers","nature":"Adamant","evs":{"hp":248,"at":252,"sd":8},"moves":["Order Up","Earthquake","Liquidation","Wave Crash"]},"BH Fur Coat":{"level":100,"ability":"Fur Coat","item":"Heavy-Duty Boots","nature":"Relaxed","teraType":"Fire","ivs":{"at":0,"sp":0},"evs":{"hp":252,"df":252,"sd":252},"moves":["Spikes","Strength Sap","Knock Off","Flip Turn"]},"BH Prankster":{"level":100,"ability":"Prankster","item":"Heavy-Duty Boots","nature":"Relaxed","teraType":"Fire","ivs":{"at":0,"sp":0},"evs":{"hp":252,"df":252,"sd":252},"moves":["Haze","Recover","Entrainment","Parting Shot"]},"1v1 Clear Amulet":{"level":100,"ability":"Unaware","item":"Clear Amulet","nature":"Impish","evs":{"hp":168,"at":60,"df":28,"sd":252},"moves":["Curse","Heavy Slam","Wave Crash","Rest"]},"1v1 Sitrus Berry":{"level":100,"ability":"Unaware","item":"Sitrus Berry","nature":"Impish","evs":{"hp":196,"df":140,"sd":172},"moves":["Curse","Body Press","Wave Crash","Rest"]},"1v1 Choice Band":{"level":100,"ability":"Water Veil","item":"Choice Band","nature":"Adamant","evs":{"hp":120,"at":252,"df":124,"sd":12},"moves":["Wave Crash","Body Press","Avalanche","Surf"]}},"Donphan":{"UU Showdown Usage":{"level":100,"ability":"Sturdy","item":"Leftovers","nature":"Adamant","evs":{"hp":248,"at":252,"sd":8},"moves":["Rapid Spin","Earthquake","Stealth Rock","Knock Off"]},"1v1 Choice Band":{"level":100,"ability":"Sturdy","item":"Choice Band","nature":"Adamant","evs":{"hp":4,"at":252,"sp":252},"moves":["Earthquake","Gunk Shot","Ice Shard","Counter"]},"1v1 Lum Berry":{"level":100,"ability":"Sturdy","item":"Lum Berry","nature":"Adamant","evs":{"hp":32,"at":252,"df":96,"sp":128},"moves":["Earthquake","Counter","Encore","Ice Shard"]},"1v1 Endeavor":{"level":100,"ability":"Sturdy","item":"Sitrus Berry","nature":"Brave","ivs":{"sd":0,"sp":0},"evs":{"hp":4,"at":252,"df":252},"moves":["Substitute","Endeavor","Ice Shard","Earthquake"]}},"Doublade":{"RU Swords Dance":{"level":100,"ability":"No Guard","item":"Eviolite","nature":"Adamant","evs":{"hp":220,"at":252,"sp":36},"moves":["Swords Dance","Shadow Sneak","Shadow Claw","Close Combat"]},"NU Swords Dance":{"level":100,"ability":"No Guard","item":"Eviolite","nature":"Adamant","evs":{"hp":208,"at":252,"sp":48},"moves":["Swords Dance","Iron Head","Shadow Sneak","Close Combat"]},"PU Swords Dance":{"level":100,"ability":"No Guard","item":"Eviolite","nature":"Adamant","evs":{"hp":248,"at":252,"sp":8},"moves":["Swords Dance","Shadow Sneak","Shadow Claw","Close Combat"]}},"Dracovish":{"Uber Choice Item":{"level":100,"ability":"Strong Jaw","item":"Choice Band","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Fishious Rend","Psychic Fangs","Crunch","Outrage"]},"AG Choice Band":{"level":100,"ability":"Strong Jaw","item":"Choice Band","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Fishious Rend","Dragon Rush","Crunch","Psychic Fangs"]},"Doubles Choice Band":{"level":100,"ability":"Sand Rush","item":"Choice Band","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Fishious Rend","Psychic Fangs","Dragon Rush","Sleep Talk"]},"Battle Stadium Singles Choice Attacker":{"level":50,"ability":"Strong Jaw","item":"Choice Scarf","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["Fishious Rend","Outrage","Psychic Fangs","Sleep Talk"]},"1v1 Life Orb":{"level":100,"ability":"Strong Jaw","item":"Life Orb","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Fishious Rend","Outrage","Substitute","Protect"]},"1v1 Custap Berry":{"level":100,"ability":"Strong Jaw","item":"Custap Berry","nature":"Adamant","evs":{"hp":140,"at":252,"sd":60,"sp":56},"moves":["Fishious Rend","Outrage","Endure","Rock Tomb"]},"1v1 Choice Scarf":{"level":100,"ability":"Strong Jaw","item":"Choice Scarf","nature":"Jolly","evs":{"hp":8,"at":212,"df":36,"sp":252},"moves":["Fishious Rend","Outrage","Psychic Fangs","Rock Tomb"]}},"Dracozolt":{"OU Substitute + Fire Spin":{"level":100,"ability":"Sand Rush","item":"Leftovers","nature":"Lonely","evs":{"at":184,"sa":140,"sp":184},"moves":["Bolt Beak","Draco Meteor","Substitute","Fire Spin"]},"OU Life Orb":{"level":100,"ability":"Sand Rush","item":"Life Orb","nature":"Naughty","evs":{"at":148,"sa":176,"sp":184},"moves":["Bolt Beak","Draco Meteor","Earthquake","Fire Blast"]},"Monotype Choice Scarf (Electric)":{"level":100,"ability":"Hustle","item":"Choice Scarf","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Bolt Beak","Dragon Claw","Outrage","Fire Fang"]},"Doubles Sand Attacker":{"level":100,"ability":"Sand Rush","item":"Life Orb","nature":"Naughty","evs":{"at":252,"sa":4,"sp":252},"moves":["Bolt Beak","Draco Meteor","Substitute","Protect"]},"1v1 Choice Scarf":{"level":100,"ability":"Hustle","item":"Choice Scarf","nature":"Naive","evs":{"at":252,"sa":4,"sp":252},"moves":["Bolt Beak","Outrage","Flamethrower","Earthquake"]},"1v1 Life Orb":{"level":100,"ability":"Hustle","item":"Life Orb","nature":"Adamant","evs":{"at":252,"df":4,"sp":252},"moves":["Bolt Beak","Outrage","Protect","Substitute"]},"1v1 Custap Berry":{"level":100,"ability":"Hustle","item":"Custap Berry","nature":"Naughty","evs":{"at":252,"sa":4,"sp":252},"moves":["Bolt Beak","Outrage","Flamethrower","Endure"]}},"Dragalge":{"UU Showdown Usage":{"level":100,"ability":"Adaptability","item":"Choice Specs","nature":"Modest","evs":{"hp":252,"sa":252,"sd":4},"moves":["Sludge Bomb","Draco Meteor","Toxic Spikes","Thunderbolt"]}},"Dragapult":{"OU Choice Specs":{"level":100,"ability":"Infiltrator","item":"Choice Specs","nature":"Timid","teraType":"Ghost","evs":{"sa":252,"sd":4,"sp":252},"moves":["Draco Meteor","Shadow Ball","Flamethrower","U-turn"]},"OU Utility":{"level":100,"ability":"Infiltrator","item":"Heavy-Duty Boots","nature":"Hasty","teraType":"Dragon","evs":{"at":76,"sa":180,"sp":252},"moves":["Will-O-Wisp","Hex","Dragon Darts","U-turn"]},"OU Choice Band":{"level":100,"ability":"Infiltrator","item":"Choice Band","nature":"Adamant","teraType":"Dragon","evs":{"at":252,"sd":4,"sp":252},"moves":["Dragon Darts","Phantom Force","Sucker Punch","U-turn"]},"Uber Choice Specs":{"level":100,"ability":"Infiltrator","item":"Choice Specs","nature":"Timid","teraType":"Ghost","evs":{"sa":252,"sd":4,"sp":252},"moves":["Draco Meteor","Shadow Ball","Flamethrower","U-turn"]},"Uber Choice Band":{"level":100,"ability":"Infiltrator","item":"Choice Band","nature":"Jolly","teraType":"Ghost","evs":{"at":252,"sd":4,"sp":252},"moves":["Dragon Darts","U-turn","Tera Blast","Flamethrower"]},"Doubles Choice Band":{"level":100,"ability":"Clear Body","item":"Choice Band","nature":"Jolly","teraType":"Ghost","evs":{"at":252,"df":4,"sp":252},"moves":["Dragon Darts","U-turn","Phantom Force","Sucker Punch"]},"Doubles Special Attacker":{"level":100,"ability":"Infiltrator","item":"Choice Specs","nature":"Timid","teraType":"Dragon","evs":{"sa":252,"sd":4,"sp":252},"moves":["Draco Meteor","Shadow Ball","Hydro Pump","U-turn"]},"1v1 Choice Band":{"level":100,"ability":"Clear Body","item":"Choice Band","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Outrage","Dragon Darts","Phantom Force","U-turn"]},"1v1 Hex":{"level":100,"ability":"Clear Body","item":"Weakness Policy","nature":"Timid","evs":{"hp":84,"df":56,"sa":156,"sp":212},"moves":["Will-O-Wisp","Hex","Disable","Substitute"]},"1v1 Choice Specs":{"level":100,"ability":"Clear Body","item":"Choice Specs","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Draco Meteor","Shadow Ball","Fire Blast","Hydro Pump"]}},"Dragonite":{"OU Dragon Dance":{"level":100,"ability":"Multiscale","item":"Heavy-Duty Boots","nature":"Adamant","teraType":"Normal","evs":{"at":252,"sd":4,"sp":252},"moves":["Dragon Dance","Extreme Speed","Earthquake","Ice Spinner"]},"OU Bulky Dragon Dance":{"level":100,"ability":"Multiscale","item":"Heavy-Duty Boots","nature":"Adamant","teraType":"Normal","evs":{"hp":144,"at":252,"sp":112},"moves":["Dragon Dance","Extreme Speed","Earthquake","Roost"]},"Uber Dragon Dance":{"level":100,"ability":"Multiscale","item":"Heavy-Duty Boots","nature":"Adamant","teraType":"Normal","evs":{"at":252,"sd":4,"sp":252},"moves":["Dragon Dance","Extreme Speed","Earthquake","Ice Spinner"]},"Doubles Choice Band":{"level":100,"ability":"Inner Focus","item":"Choice Band","nature":"Adamant","teraType":"Normal","evs":{"hp":252,"at":252,"sd":4},"moves":["Extreme Speed","Dragon Claw","Facade","Earthquake"]},"Doubles Assault Vest":{"level":100,"ability":"Multiscale","item":"Assault Vest","nature":"Adamant","teraType":"Normal","evs":{"hp":252,"at":252,"sd":4},"moves":["Extreme Speed","Dragon Claw","Facade","Earthquake"]}},"Drampa":{"NU Calm Mind Sweeper":{"level":100,"ability":"Berserk","item":"Leftovers","nature":"Modest","evs":{"hp":52,"sa":240,"sp":216},"moves":["Calm Mind","Roost","Hyper Voice","Flamethrower"]},"NU Choice Specs":{"level":100,"ability":"Sap Sipper","item":"Choice Specs","nature":"Modest","evs":{"hp":4,"sa":252,"sp":252},"moves":["Draco Meteor","Hyper Voice","Fire Blast","Focus Blast"]}},"Drapion":{"RU Swords Dance":{"level":100,"ability":"Battle Armor","item":"Shuca Berry","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["Swords Dance","Knock Off","Poison Jab","Earthquake"]},"NU Swords Dance":{"level":100,"ability":"Battle Armor","item":"Shuca Berry","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["Swords Dance","Knock Off","Poison Jab","Aqua Tail"]},"Monotype Specially Defensive (Poison)":{"level":100,"ability":"Battle Armor","item":"Black Sludge","nature":"Careful","evs":{"hp":252,"sd":200,"sp":56},"moves":["Knock Off","Poison Jab","Protect","Whirlwind"]},"Monotype Choice Scarf (Dark)":{"level":100,"ability":"Battle Armor","item":"Choice Scarf","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["Toxic","Toxic Spikes","Knock Off","Poison Jab"]}},"Dratini":{"LC Showdown Usage":{"level":5,"ability":"Shed Skin","item":"Eviolite","nature":"Adamant","evs":{"at":244,"sd":36,"sp":196},"moves":["Extreme Speed","Dragon Dance","Outrage","Iron Head"]}},"Drednaw":{"UU Showdown Usage":{"level":100,"ability":"Swift Swim","item":"White Herb","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Liquidation","Shell Smash","Stone Edge","Earthquake"]}},"Drednaw-Gmax":{"UU Showdown Usage":{"level":100,"ability":"Swift Swim","item":"White Herb","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Liquidation","Shell Smash","Stone Edge","Earthquake"]}},"Drifblim":{"UU Showdown Usage":{"level":100,"ability":"Unburden","item":"Heavy-Duty Boots","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Shadow Ball","Strength Sap","Defog","Air Slash"]},"Doubles Tailwind Setter":{"level":100,"ability":"Unburden","item":"Psychic Seed","nature":"Jolly","teraType":"Steel","evs":{"at":28,"df":184,"sd":184,"sp":112},"moves":["Acrobatics","Hypnosis","Strength Sap","Tailwind"]}},"Drifloon":{"LC Showdown Usage":{"level":5,"ability":"Unburden","item":"Oran Berry","nature":"Adamant","evs":{"hp":36,"at":196,"df":164,"sd":84},"moves":["Will-O-Wisp","Acrobatics","Defog","Shadow Ball"]}},"Drilbur":{"LC Fast Utility":{"level":5,"ability":"Mold Breaker","item":"Eviolite","nature":"Jolly","evs":{"hp":36,"at":236,"sp":212},"moves":["Earthquake","Rock Slide","Rapid Spin","Stealth Rock"]}},"Druddigon":{"NU Stealth Rock":{"level":100,"ability":"Mold Breaker","item":"Leftovers","nature":"Impish","evs":{"hp":252,"df":108,"sd":148},"moves":["Stealth Rock","Earthquake","Dragon Tail","Glare"]},"PU Defensive":{"level":100,"ability":"Rough Skin","item":"Rocky Helmet","nature":"Impish","evs":{"hp":248,"at":8,"df":252},"moves":["Dragon Tail","Stealth Rock","Glare","Earthquake"]}},"Dubwool":{"ZU Cotton Guard":{"level":100,"ability":"Fluffy","item":"Leftovers","nature":"Timid","evs":{"hp":252,"df":4,"sp":252},"moves":["Cotton Guard","Body Press","Rest","Sleep Talk"]}},"Dudunsparce":{"UU Showdown Usage":{"level":100,"ability":"Serene Grace","item":"Leftovers","nature":"Adamant","evs":{"hp":252,"at":252,"sd":4},"moves":["Roost","Boomburst","Glare","Coil"]},"Uber Defensive":{"level":100,"ability":"Serene Grace","item":"Leftovers","nature":"Careful","teraType":"Steel","evs":{"hp":252,"df":4,"sd":252},"moves":["Coil","Body Slam","Roost","Smart Strike"]}},"Dugtrio":{"Uber Choice Scarf":{"level":100,"ability":"Arena Trap","item":"Choice Scarf","nature":"Adamant","teraType":"Fairy","evs":{"at":252,"sd":4,"sp":252},"moves":["Earthquake","Stone Edge","Final Gambit","Tera Blast"]}},"Dugtrio-Alola":{"ZU SubToxic":{"level":100,"ability":"Tangling Hair","item":"Leftovers","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Substitute","Toxic","Earthquake","Iron Head"]},"ZU Offensive Stealth Rock":{"level":100,"ability":"Tangling Hair","item":"Life Orb","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["Stealth Rock","Earthquake","Iron Head","Sucker Punch"]}},"Dunsparce":{"ZU Coil":{"level":100,"ability":"Serene Grace","item":"Leftovers","nature":"Careful","evs":{"at":252,"sd":252,"sp":4},"moves":["Coil","Roost","Body Slam","Bite"]}},"Duraludon":{"NU Expert Belt":{"level":100,"ability":"Light Metal","item":"Expert Belt","nature":"Modest","evs":{"df":4,"sa":252,"sp":252},"moves":["Draco Meteor","Flash Cannon","Body Press","Thunderbolt"]},"NU Eject Pack":{"level":100,"ability":"Light Metal","item":"Eject Pack","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Draco Meteor","Flash Cannon","Body Press","Stealth Rock"]},"Monotype Physically Defensive (Dragon)":{"level":100,"ability":"Light Metal","item":"Leftovers","nature":"Bold","evs":{"hp":248,"df":244,"sp":16},"moves":["Stealth Rock","Flash Cannon","Body Press","Thunder Wave"]}},"Duraludon-Gmax":{"NU Expert Belt":{"level":100,"ability":"Light Metal","item":"Expert Belt","nature":"Modest","evs":{"df":4,"sa":252,"sp":252},"moves":["Draco Meteor","Flash Cannon","Body Press","Thunderbolt"]},"NU Eject Pack":{"level":100,"ability":"Light Metal","item":"Eject Pack","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Draco Meteor","Flash Cannon","Body Press","Stealth Rock"]},"Monotype Physically Defensive (Dragon)":{"level":100,"ability":"Light Metal","item":"Leftovers","nature":"Bold","evs":{"hp":248,"df":244,"sp":16},"moves":["Stealth Rock","Flash Cannon","Body Press","Thunder Wave"]}},"Durant":{"UU All-out Attacker":{"level":100,"ability":"Hustle","item":"Life Orb","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["First Impression","Iron Head","Rock Slide","Superpower"]},"Monotype Life Orb Attacker (Steel)":{"level":100,"ability":"Hustle","item":"Life Orb","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["First Impression","Superpower","Rock Slide","Iron Head"]},"1v1 Life Orb":{"level":100,"ability":"Hustle","item":"Life Orb","nature":"Adamant","evs":{"hp":72,"at":240,"sd":4,"sp":192},"moves":["Protect","First Impression","Iron Head","Superpower"]},"1v1 Entrainment":{"level":100,"ability":"Truant","item":"Leftovers","nature":"Jolly","evs":{"hp":216,"df":84,"sp":208},"moves":["Entrainment","Toxic","Protect","Stomping Tantrum"]}},"Dusknoir":{"ZU Substitute + 3 Attacks":{"level":100,"ability":"Pressure","item":"Leftovers","nature":"Adamant","evs":{"hp":132,"at":252,"sp":124},"moves":["Substitute","Poltergeist","Shadow Sneak","Focus Punch"]}},"Dwebble":{"LC Entry Hazard Setter":{"level":5,"ability":"Weak Armor","item":"Eviolite","nature":"Jolly","evs":{"at":156,"df":116,"sp":236},"moves":["Stealth Rock","Spikes","Knock Off","Rock Blast"]},"LC Shell Smash":{"level":5,"ability":"Sturdy","item":"Berry Juice","nature":"Adamant","evs":{"at":236,"sp":236},"moves":["Shell Smash","Rock Blast","Earthquake","Knock Off"]}},"Eelektross":{"UU Showdown Usage":{"level":100,"ability":"Levitate","item":"Assault Vest","nature":"Modest","evs":{"hp":252,"sa":252,"sd":4},"moves":["Giga Drain","Flamethrower","Volt Switch","Thunderbolt"]}},"Eevee":{"LC Showdown Usage":{"level":5,"ability":"Adaptability","item":"Eviolite","nature":"Adamant","evs":{"at":236,"df":36,"sd":236},"moves":["Quick Attack","Double-Edge","Trailblaze"]}},"Eevee-Gmax":{"LC Showdown Usage":{"level":5,"ability":"Adaptability","item":"Eviolite","nature":"Adamant","evs":{"at":236,"df":36,"sd":236},"moves":["Quick Attack","Double-Edge","Trailblaze"]}},"Eiscue":{"ZU Belly Drum":{"level":100,"ability":"Ice Face","item":"Salac Berry","nature":"Jolly","evs":{"hp":4,"at":252,"sp":252},"moves":["Belly Drum","Substitute","Icicle Spear","Zen Headbutt"]}},"Eldegoss":{"NU Defensive Utility":{"level":100,"ability":"Regenerator","item":"Heavy-Duty Boots","nature":"Calm","evs":{"hp":252,"df":224,"sd":16,"sp":16},"moves":["Giga Drain","Rapid Spin","Aromatherapy","Leech Seed"]},"PU Defensive Spinner":{"level":100,"ability":"Regenerator","item":"Heavy-Duty Boots","nature":"Bold","evs":{"hp":252,"df":252,"sd":4},"moves":["Giga Drain","Rapid Spin","Sleep Powder","Leech Seed"]},"PU Offensive Spinner":{"level":100,"ability":"Regenerator","item":"Heavy-Duty Boots","nature":"Modest","evs":{"hp":252,"sa":220,"sp":36},"moves":["Leaf Storm","Rapid Spin","Sleep Powder","Pollen Puff"]}},"Electivire":{"ZU Mixed Attacker":{"level":100,"ability":"Motor Drive","item":"Life Orb","nature":"Hasty","evs":{"at":4,"sa":252,"sp":252},"moves":["Thunderbolt","Flamethrower","Focus Blast","Earthquake"]}},"Elekid":{"LC Offensive":{"level":5,"ability":"Vital Spirit","item":"Life Orb","nature":"Naive","evs":{"at":12,"sa":236,"sp":236},"moves":["Volt Switch","Thunderbolt","Psychic","Ice Punch"]}},"Emolga":{"ZU Offensive Utility":{"level":100,"ability":"Motor Drive","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["Acrobatics","Knock Off","U-turn","Roost"]}},"Entei":{"UU Wallbreaker":{"level":100,"ability":"Inner Focus","item":"Choice Band","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Sacred Fire","Flare Blitz","Stone Edge","Extreme Speed"]},"RU Choice Band":{"level":100,"ability":"Inner Focus","item":"Choice Band","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Extreme Speed","Sacred Fire","Stone Edge","Flare Blitz"]},"1v1 Pressure Stall":{"level":100,"ability":"Pressure","item":"Leftovers","nature":"Jolly","evs":{"at":4,"df":252,"sp":252},"moves":["Protect","Substitute","Sacred Fire","Toxic"]},"1v1 Assault Vest":{"level":100,"ability":"Inner Focus","item":"Assault Vest","nature":"Adamant","evs":{"hp":8,"at":164,"sd":120,"sp":216},"moves":["Flare Blitz","Bulldoze","Eruption","Extreme Speed"]}},"Escavalier":{"RU Swords Dance":{"level":100,"ability":"Shell Armor","item":"Leftovers","nature":"Careful","evs":{"hp":248,"at":16,"sd":160,"sp":84},"moves":["Swords Dance","Iron Head","Close Combat","Knock Off"]},"NU Specially Defensive":{"level":100,"ability":"Shell Armor","item":"Leftovers","nature":"Careful","evs":{"hp":252,"at":4,"sd":252},"moves":["Iron Head","Knock Off","Toxic","Protect"]},"NU Swords Dance":{"level":100,"ability":"Shell Armor","item":"Leftovers","nature":"Adamant","evs":{"hp":92,"at":252,"sp":164},"moves":["Swords Dance","Iron Head","Close Combat","Knock Off"]},"1v1 Assault Vest":{"level":100,"ability":"Overcoat","item":"Assault Vest","nature":"Relaxed","ivs":{"sp":0},"evs":{"hp":252,"df":76,"sd":180},"moves":["Metal Burst","Iron Head","Megahorn","Drill Run"]},"1v1 Sitrus Berry":{"level":100,"ability":"Shell Armor","item":"Sitrus Berry","nature":"Impish","evs":{"hp":252,"df":252,"sd":4},"moves":["Iron Defense","Rest","Iron Head","Encore"]}},"Espathra":{"OU Calm Mind":{"level":100,"ability":"Speed Boost","item":"Leftovers","nature":"Bold","teraType":"Fairy","evs":{"hp":252,"df":252,"sp":4},"moves":["Calm Mind","Stored Power","Dazzling Gleam","Protect"]},"Uber Calm Mind":{"level":100,"ability":"Speed Boost","item":"Leftovers","nature":"Bold","teraType":"Fairy","evs":{"hp":144,"df":252,"sp":112},"moves":["Calm Mind","Stored Power","Dazzling Gleam","Roost"]},"Monotype Calm Mind":{"level":100,"ability":"Speed Boost","item":"Leftovers","nature":"Bold","evs":{"hp":252,"df":108,"sp":148},"moves":["Calm Mind","Stored Power","Substitute","Dazzling Gleam"]},"Doubles Showdown Usage":{"level":100,"ability":"Speed Boost","item":"Mirror Herb","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Dazzling Gleam","Lumina Crash","Protect","Stored Power"]}},"Espeon":{"OU Showdown Usage":{"level":100,"ability":"Magic Bounce","item":"Focus Sash","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Psychic","Dazzling Gleam","Shadow Ball","Calm Mind"]},"UU Showdown Usage":{"level":100,"ability":"Magic Bounce","item":"Choice Specs","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Psychic","Dazzling Gleam","Shadow Ball","Calm Mind"]}},"Eternatus":{"Uber Specially Defensive":{"level":100,"ability":"Pressure","item":"Heavy-Duty Boots","nature":"Timid","evs":{"hp":164,"sd":252,"sp":92},"moves":["Recover","Toxic","Flamethrower","Dynamax Cannon"]},"Uber Meteor Beam":{"level":100,"ability":"Pressure","item":"Power Herb","nature":"Timid","evs":{"hp":4,"sa":252,"sp":252},"moves":["Sludge Bomb","Flamethrower","Meteor Beam","Dynamax Cannon"]},"Uber Demon (Cosmic Power)":{"level":100,"ability":"Pressure","item":"Power Herb","nature":"Timid","evs":{"hp":40,"sd":252,"sp":216},"moves":["Dragon Pulse","Meteor Beam","Cosmic Power","Recover"]},"Uber Life Orb":{"level":100,"ability":"Pressure","item":"Life Orb","nature":"Timid","evs":{"hp":4,"sa":252,"sp":252},"moves":["Recover","Flamethrower","Sludge Bomb","Dynamax Cannon"]},"Uber Physically Defensive":{"level":100,"ability":"Pressure","item":"Heavy-Duty Boots","nature":"Bold","evs":{"hp":48,"df":244,"sp":216},"moves":["Recover","Toxic","Flamethrower","Dynamax Cannon"]},"AG Specially Defensive":{"level":100,"ability":"Pressure","item":"Heavy-Duty Boots","nature":"Timid","evs":{"hp":252,"sd":164,"sp":92},"moves":["Dynamax Cannon","Flamethrower","Toxic","Recover"]},"AG Wallbreaker":{"level":100,"ability":"Pressure","item":"Life Orb","nature":"Modest","evs":{"df":4,"sa":252,"sp":252},"moves":["Dynamax Cannon","Flamethrower","Sludge Bomb","Recover"]},"BH Nasty Plot + 3 Attacks":{"level":100,"ability":"Simple","item":"Black Sludge","nature":"Timid","evs":{"hp":252,"df":252,"sa":252,"sd":252,"sp":252},"moves":["Nasty Plot","Core Enforcer","Sludge Bomb","Blue Flare"]},"BH Regenerator + Spikes":{"level":100,"ability":"Regenerator","item":"Life Orb","nature":"Timid","evs":{"hp":252,"df":252,"sa":252,"sd":252,"sp":252},"moves":["Spikes","Dragon Energy","Sludge Bomb","Volt Switch"]},"BH Taunt 3 Attacks":{"level":100,"ability":"Adaptability","item":"Black Sludge","nature":"Timid","ivs":{"at":0},"evs":{"hp":252,"df":252,"sa":252,"sd":252,"sp":252},"moves":["Taunt","Core Enforcer","Sludge Bomb","Blue Flare"]},"BH Ice Scales Wall":{"level":100,"ability":"Ice Scales","item":"Black Sludge","nature":"Calm","ivs":{"at":0},"evs":{"hp":252,"df":252,"sa":252,"sd":252,"sp":252},"moves":["Sludge Bomb","Core Enforcer","Recover","Trick"]},"BH Recover + Dragon Energy":{"level":100,"ability":"Dragon's Maw","item":"Dragon Fang","nature":"Timid","ivs":{"at":0},"evs":{"hp":252,"df":252,"sa":252,"sd":252,"sp":252},"moves":["Dragon Energy","Recover","Sludge Bomb","Blue Flare"]},"BH Choice Specs":{"level":100,"ability":"Dragon's Maw","item":"Choice Specs","nature":"Timid","ivs":{"at":0},"evs":{"hp":252,"df":252,"sa":252,"sd":252,"sp":252},"moves":["Dragon Energy","Clanging Scales","Sludge Bomb","Blue Flare"]},"BH Flare Boost":{"level":100,"ability":"Flare Boost","item":"Flame Orb","nature":"Timid","ivs":{"at":0},"evs":{"hp":252,"df":252,"sa":252,"sd":252,"sp":252},"moves":["Nasty Plot","Core Enforcer","Earth Power","Recover"]},"BH Sniper":{"level":100,"ability":"Sniper","item":"Scope Lens","nature":"Timid","ivs":{"at":0},"evs":{"hp":252,"df":252,"sa":252,"sd":252,"sp":252},"moves":["Focus Energy","Draco Meteor","Overheat","Sludge Bomb"]}},"Excadrill":{"OU Sand Rush":{"level":100,"ability":"Sand Rush","item":"Leftovers","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Swords Dance","Earthquake","Iron Head","Rapid Spin"]},"OU Utility":{"level":100,"ability":"Mold Breaker","item":"Leftovers","nature":"Jolly","evs":{"at":4,"sd":252,"sp":252},"moves":["Earthquake","Iron Head","Stealth Rock","Toxic"]},"UU Utility":{"level":100,"ability":"Mold Breaker","item":"Leftovers","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Earthquake","Iron Head","Rapid Spin","Toxic"]},"UU Suicide Lead":{"level":100,"ability":"Mold Breaker","item":"Focus Sash","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Stealth Rock","Earthquake","Rapid Spin","Rock Tomb"]},"UU Swords Dance":{"level":100,"ability":"Mold Breaker","item":"Leftovers","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Earthquake","Iron Head","Rapid Spin","Swords Dance"]},"Uber Entry Hazard Lead":{"level":100,"ability":"Mold Breaker","item":"Focus Sash","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Stealth Rock","Rapid Spin","Rock Tomb","Earthquake"]},"Uber Sand Rush":{"level":100,"ability":"Sand Rush","item":"Life Orb","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Earthquake","Rock Slide","Rapid Spin","Swords Dance"]},"AG Swords Dance":{"level":100,"ability":"Sand Rush","item":"Life Orb","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["Swords Dance","Earthquake","Rock Slide","Rapid Spin"]},"AG Entry Hazard Lead":{"level":100,"ability":"Mold Breaker","item":"Focus Sash","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["Stealth Rock","Rapid Spin","Rock Tomb","Earthquake"]},"Monotype Sand Rush (Ground)":{"level":100,"ability":"Sand Rush","item":"Choice Band","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Earthquake","Iron Head","X-Scissor","Rapid Spin"]},"Monotype Choice Scarf (Steel)":{"level":100,"ability":"Mold Breaker","item":"Choice Scarf","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Earthquake","Rock Slide","Rapid Spin","Iron Head"]},"Monotype Swords Dance (Steel)":{"level":100,"ability":"Mold Breaker","item":"Leftovers","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Swords Dance","Earthquake","Rock Slide","Rapid Spin"]},"Doubles Sand Attacker":{"level":100,"ability":"Sand Rush","item":"Life Orb","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["High Horsepower","Iron Head","Earthquake","Protect"]},"Battle Stadium Singles Offensive Support":{"level":50,"ability":"Mold Breaker","item":"Focus Sash","nature":"Jolly","evs":{"hp":4,"at":252,"sp":252},"moves":["Earthquake","Iron Head","Rock Tomb","Stealth Rock"]},"Battle Stadium Singles Choice Scarf":{"level":50,"ability":"Mold Breaker","item":"Choice Scarf","nature":"Jolly","evs":{"hp":4,"at":252,"sp":252},"moves":["Earthquake","Iron Head","Horn Drill","Rock Slide"]},"Battle Stadium Singles Sand Sweeper":{"level":50,"ability":"Sand Rush","item":"Weakness Policy","nature":"Jolly","evs":{"hp":4,"at":252,"sp":252},"moves":["Earthquake","Iron Head","Rock Slide","Swords Dance"]},"1v1 Life Orb":{"level":100,"ability":"Mold Breaker","item":"Life Orb","nature":"Lonely","evs":{"at":240,"sd":36,"sp":232},"moves":["Earthquake","Iron Head","Steel Beam","Swords Dance"]}},"Exeggutor":{"PU Choice Specs":{"level":100,"ability":"Chlorophyll","item":"Choice Specs","nature":"Modest","evs":{"df":4,"sa":252,"sp":252},"moves":["Leaf Storm","Psychic","Giga Drain","Psyshock"]},"ZU Choice Specs":{"level":100,"ability":"Chlorophyll","item":"Choice Specs","nature":"Modest","evs":{"df":4,"sa":252,"sp":252},"moves":["Leaf Storm","Psychic","Psyshock","Giga Drain"]}},"Exeggutor-Alola":{"NU Offensive Pivot":{"level":100,"ability":"Harvest","item":"Sitrus Berry","nature":"Modest","evs":{"sa":252,"sd":4,"sp":252},"moves":["Draco Meteor","Leaf Storm","Flamethrower","Teleport"]}},"Exploud":{"NU DAT LOUD":{"level":100,"ability":"Scrappy","item":"Choice Specs","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Boomburst","Overheat","Surf","Focus Blast"]}},"Falinks":{"ZU Choice Band":{"level":100,"ability":"Defiant","item":"Choice Band","nature":"Adamant","evs":{"at":252,"df":4,"sp":252},"moves":["Close Combat","First Impression","Throat Chop","Rock Slide"]}},"Farfetch’d":{"ZU All-Out Attacker":{"level":100,"ability":"Defiant","item":"Leek","nature":"Adamant","evs":{"at":252,"df":4,"sp":252},"moves":["Brave Bird","Close Combat","Knock Off","First Impression"]}},"Farfetch’d-Galar":{"LC Choice Scarf":{"level":5,"ability":"Scrappy","item":"Choice Scarf","nature":"Jolly","evs":{"hp":20,"at":236,"sp":236},"moves":["Close Combat","Brave Bird","Final Gambit","Knock Off"]},"LC Life Orb":{"level":5,"ability":"Scrappy","item":"Life Orb","nature":"Jolly","evs":{"hp":20,"at":236,"sp":236},"moves":["Close Combat","Knock Off","Brave Bird","Quick Attack"]}},"Farigiraf":{"UU Showdown Usage":{"level":100,"ability":"Armor Tail","item":"Leftovers","nature":"Modest","evs":{"hp":252,"sa":252,"sd":4},"moves":["Calm Mind","Agility","Tera Blast","Stored Power"]},"Doubles TR Attacker":{"level":100,"ability":"Armor Tail","item":"Safety Goggles","nature":"Quiet","teraType":"Fairy","evs":{"hp":252,"df":4,"sa":252},"moves":["Trick Room","Psychic","Tera Blast","Protect"]}},"Ferroseed":{"PU Defensive":{"level":100,"ability":"Iron Barbs","item":"Eviolite","nature":"Relaxed","ivs":{"sp":0},"evs":{"hp":252,"df":252,"sd":4},"moves":["Spikes","Gyro Ball","Leech Seed","Protect"]},"LC Defensive Support":{"level":5,"ability":"Iron Barbs","item":"Eviolite","nature":"Relaxed","evs":{"hp":84,"df":108,"sa":84,"sd":228},"moves":["Giga Drain","Knock Off","Thunder Wave","Stealth Rock"]}},"Ferrothorn":{"OU Utility":{"level":100,"ability":"Iron Barbs","item":"Leftovers","nature":"Impish","evs":{"hp":252,"df":252,"sd":4},"moves":["Spikes","Knock Off","Leech Seed","Power Whip"]},"Uber Physically Defensive":{"level":100,"ability":"Iron Barbs","item":"Leftovers","nature":"Impish","evs":{"hp":252,"df":252,"sd":4},"moves":["Leech Seed","Spikes","Iron Defense","Body Press"]},"Uber Specially Defensive":{"level":100,"ability":"Iron Barbs","item":"Leftovers","nature":"Careful","evs":{"hp":252,"df":4,"sd":252},"moves":["Leech Seed","Spikes","Knock Off","Power Whip"]},"AG Physically Defensive":{"level":100,"ability":"Iron Barbs","item":"Leftovers","nature":"Bold","evs":{"hp":252,"df":252,"sd":4},"moves":["Body Press","Leech Seed","Iron Defense","Spikes"]},"AG Specially Defensive":{"level":100,"ability":"Iron Barbs","item":"Leftovers","nature":"Careful","evs":{"hp":252,"df":4,"sd":252},"moves":["Spikes","Leech Seed","Power Whip","Protect"]},"Monotype Defensive Utility (Grass)":{"level":100,"ability":"Iron Barbs","item":"Leftovers","nature":"Relaxed","evs":{"hp":252,"df":252,"sd":4},"moves":["Stealth Rock","Spikes","Leech Seed","Gyro Ball"]},"Monotype Utility (Steel)":{"level":100,"ability":"Iron Barbs","item":"Leftovers","nature":"Impish","evs":{"hp":252,"df":252,"sd":4},"moves":["Power Whip","Leech Seed","Protect","Stealth Rock"]},"Doubles Iron Defense":{"level":100,"ability":"Iron Barbs","item":"Leftovers","nature":"Bold","evs":{"hp":252,"df":200,"sd":56},"moves":["Body Press","Iron Defense","Leech Seed","Protect"]},"Battle Stadium Singles Defensive":{"level":50,"ability":"Iron Barbs","item":"Leftovers","nature":"Relaxed","ivs":{"sp":0},"evs":{"hp":252,"df":252,"sd":4},"moves":["Leech Seed","Gyro Ball","Protect","Power Whip"]},"Battle Stadium Singles Set-Up":{"level":50,"ability":"Iron Barbs","item":"Leftovers","nature":"Relaxed","ivs":{"sp":0},"evs":{"hp":252,"df":252,"sd":4},"moves":["Iron Defense","Body Press","Leech Seed","Gyro Ball"]},"Battle Stadium Singles Choice Band":{"level":50,"ability":"Iron Barbs","item":"Choice Band","nature":"Brave","evs":{"hp":252,"at":252,"df":4},"moves":["Gyro Ball","Power Whip","Knock Off","Bulldoze"]},"BH Defensive":{"level":100,"ability":"Magic Bounce","item":"Leftovers","nature":"Relaxed","ivs":{"sp":0},"evs":{"hp":252,"at":252,"df":252,"sa":252,"sd":252},"moves":["Recover","Anchor Shot","Topsy-Turvy","Entrainment"]},"CAP Utility":{"level":100,"ability":"Iron Barbs","item":"Leftovers","nature":"Relaxed","ivs":{"sp":0},"evs":{"hp":252,"df":252,"sd":4},"moves":["Leech Seed","Spikes","Body Press","Gyro Ball"]},"1v1 Iron Defense + Chople Berry":{"level":100,"ability":"Iron Barbs","item":"Chople Berry","nature":"Relaxed","ivs":{"sp":0},"evs":{"hp":248,"at":28,"df":52,"sd":180},"moves":["Gyro Ball","Body Press","Iron Defense","Leech Seed"]},"1v1 Custap Berry":{"level":100,"ability":"Iron Barbs","item":"Custap Berry","nature":"Relaxed","ivs":{"sp":0},"evs":{"hp":240,"at":216,"df":52},"moves":["Gyro Ball","Swords Dance","Endure","Payback"]}},"Fidgit":{"CAP Persistent":{"level":100,"ability":"Persistent","item":"Mental Herb","nature":"Jolly","teraType":"Grass","evs":{"hp":252,"df":4,"sp":252},"moves":["Tailwind","Encore","Stealth Rock","U-turn"]}},"Fidough":{"LC Showdown Usage":{"level":5,"ability":"Own Tempo","item":"Eviolite","nature":"Adamant","evs":{"at":236,"df":36,"sd":236},"moves":["Play Rough","Wish","Yawn","Protect"]}},"Finizen":{"LC Showdown Usage":{"level":5,"ability":"Water Veil","item":"Eviolite","nature":"Timid","evs":{"sa":236,"sd":36,"sp":236},"moves":["Ice Beam","Boomburst","Hydro Pump","Surf"]}},"Flamigo":{"UU Showdown Usage":{"level":100,"ability":"Scrappy","item":"Choice Scarf","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Close Combat","Brave Bird","U-turn","Liquidation"]},"Doubles Showdown Usage":{"level":100,"ability":"Costar","item":"Life Orb","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Close Combat","Brave Bird","Liquidation","Throat Chop"]}},"Flapple":{"PU Wallbreaker":{"level":100,"ability":"Hustle","item":"Choice Band","nature":"Adamant","evs":{"at":252,"df":4,"sp":252},"moves":["Grav Apple","Outrage","U-turn","Sucker Punch"]},"ZU Wallbreaker":{"level":100,"ability":"Hustle","item":"Life Orb","nature":"Naive","evs":{"at":252,"sd":4,"sp":252},"moves":["Grav Apple","Draco Meteor","Sucker Punch","U-turn"]},"ZU Dragon Dance":{"level":100,"ability":"Hustle","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Dragon Dance","Grav Apple","Acrobatics","Sucker Punch"]}},"Flapple-Gmax":{"PU Wallbreaker":{"level":100,"ability":"Hustle","item":"Choice Band","nature":"Adamant","evs":{"at":252,"df":4,"sp":252},"moves":["Grav Apple","Outrage","U-turn","Sucker Punch"]},"ZU Wallbreaker":{"level":100,"ability":"Hustle","item":"Life Orb","nature":"Naive","evs":{"at":252,"sd":4,"sp":252},"moves":["Grav Apple","Draco Meteor","Sucker Punch","U-turn"]},"ZU Dragon Dance":{"level":100,"ability":"Hustle","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Dragon Dance","Grav Apple","Acrobatics","Sucker Punch"]}},"Flareon":{"ZU Wallbreaker":{"level":100,"ability":"Guts","item":"Toxic Orb","nature":"Adamant","evs":{"at":252,"df":4,"sp":252},"moves":["Flare Blitz","Facade","Superpower","Quick Attack"]}},"Fletchling":{"LC Showdown Usage":{"level":5,"ability":"Gale Wings","item":"Heavy-Duty Boots","nature":"Adamant","evs":{"at":196,"df":92,"sd":212},"moves":["Brave Bird","U-turn","Defog","Flare Blitz"]}},"Floatzel":{"OU Rain Breaker":{"level":100,"ability":"Swift Swim","item":"Choice Band","nature":"Adamant","teraType":"Water","evs":{"at":252,"sd":4,"sp":252},"moves":["Wave Crash","Liquidation","Ice Spinner","Aqua Jet"]},"UU Showdown Usage":{"level":100,"ability":"Swift Swim","item":"Choice Band","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Wave Crash","Ice Spinner","Aqua Jet","Crunch"]}},"Florges":{"UU Showdown Usage":{"level":100,"ability":"Flower Veil","item":"Leftovers","nature":"Calm","evs":{"hp":252,"sa":4,"sd":252},"moves":["Moonblast","Wish","Calm Mind","Protect"]}},"Flutter Mane":{"Uber Choice Specs":{"level":100,"ability":"Protosynthesis","item":"Choice Specs","nature":"Timid","teraType":"Fairy","evs":{"sa":252,"sd":4,"sp":252},"moves":["Shadow Ball","Moonblast","Mystical Fire","Psyshock"]},"Uber Wallbreaker":{"level":100,"ability":"Protosynthesis","item":"Life Orb","nature":"Timid","teraType":"Fairy","evs":{"sa":252,"sd":4,"sp":252},"moves":["Shadow Ball","Moonblast","Calm Mind","Thunderbolt"]},"AG Choice Specs":{"level":100,"ability":"Protosynthesis","item":"Choice Specs","nature":"Timid","teraType":"Fairy","evs":{"sa":252,"sd":4,"sp":252},"moves":["Moonblast","Shadow Ball","Mystical Fire","Psyshock"]},"AG Calm Mind":{"level":100,"ability":"Protosynthesis","item":"Life Orb","nature":"Timid","teraType":"Fairy","evs":{"sa":252,"sd":4,"sp":252},"moves":["Shadow Ball","Moonblast","Calm Mind","Taunt"]},"Monotype Calm Mind (Ghost)":{"level":100,"ability":"Protosynthesis","item":"Leftovers","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Moonblast","Shadow Ball","Calm Mind","Substitute"]},"Doubles Showdown Usage":{"level":100,"ability":"Protosynthesis","item":"Booster Energy","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Shadow Ball","Dazzling Gleam","Moonblast","Protect"]},"BH Normalize":{"level":100,"ability":"Normalize","item":"Pixie Plate","nature":"Modest","evs":{"hp":252,"df":252,"sa":252,"sd":252,"sp":252},"moves":["Judgment","Entrainment","Quiver Dance","Taunt"]},"BH Pixilate":{"level":100,"ability":"Pixilate","item":"Life Orb","nature":"Modest","teraType":"Fairy","ivs":{"at":0},"evs":{"hp":252,"df":252,"sa":252,"sd":252,"sp":252},"moves":["Boomburst","Astral Barrage","Quiver Dance","Strength Sap"]},"1v1 Charm":{"level":100,"ability":"Protosynthesis","item":"Weakness Policy","nature":"Timid","evs":{"hp":208,"df":244,"sp":56},"moves":["Charm","Shadow Ball","Draining Kiss","Fake Tears"]},"1v1 Choice Specs":{"level":100,"ability":"Protosynthesis","item":"Choice Specs","nature":"Modest","evs":{"sa":252,"sd":4,"sp":252},"moves":["Moonblast","Shadow Ball","Thunder","Psyshock"]},"1v1 Specially Defensive":{"level":100,"ability":"Protosynthesis","item":"Booster Energy","nature":"Calm","evs":{"hp":240,"sd":176,"sp":92},"moves":["Calm Mind","Shadow Ball","Draining Kiss","Pain Split"]}},"Flygon":{"UU Defog":{"level":100,"ability":"Levitate","item":"Leftovers","nature":"Timid","evs":{"sa":128,"sd":128,"sp":252},"moves":["Earth Power","Flamethrower","Defog","Roost"]},"RU Dragon Dance":{"level":100,"ability":"Levitate","item":"Life Orb","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Dragon Dance","Earthquake","Outrage","Stone Edge"]},"RU Defog":{"level":100,"ability":"Levitate","item":"Leftovers","nature":"Jolly","evs":{"hp":172,"at":112,"sp":224},"moves":["Earthquake","Defog","Roost","Toxic"]},"RU Choice Scarf":{"level":100,"ability":"Levitate","item":"Choice Scarf","nature":"Jolly","evs":{"at":236,"sd":20,"sp":252},"moves":["Earthquake","U-turn","Stone Edge","Outrage"]},"RU Choice Band":{"level":100,"ability":"Levitate","item":"Choice Band","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Earthquake","Outrage","Stone Edge","U-turn"]}},"Fomantis":{"LC Showdown Usage":{"level":5,"ability":"Contrary","item":"Eviolite","nature":"Timid","evs":{"sa":196,"sd":76,"sp":236},"moves":["Leaf Storm","Tera Blast","Giga Drain","Defog"]}},"Foongus":{"LC Defensive":{"level":5,"ability":"Regenerator","item":"Eviolite","nature":"Bold","teraType":"Grass","evs":{"hp":124,"df":156,"sd":156},"moves":["Spore","Giga Drain","Sludge Bomb","Synthesis"]}},"Forretress":{"UU Showdown Usage":{"level":100,"ability":"Sturdy","item":"Leftovers","nature":"Bold","evs":{"hp":252,"df":252,"sd":4},"moves":["Rapid Spin","Stealth Rock","Volt Switch","Spikes"]}},"Frigibax":{"LC Showdown Usage":{"level":5,"ability":"Thermal Exchange","item":"Eviolite","nature":"Adamant","evs":{"at":236,"sd":236},"moves":["Crunch","Dragon Claw","Icicle Crash","Swords Dance"]}},"Frillish":{"LC Special Tank":{"level":5,"ability":"Cursed Body","item":"Eviolite","nature":"Bold","evs":{"hp":236,"df":116,"sa":76,"sp":36},"moves":["Scald","Hex","Will-O-Wisp","Recover"]},"LC Choice Scarf":{"level":5,"ability":"Cursed Body","item":"Choice Scarf","nature":"Timid","evs":{"sa":236,"sd":76,"sp":196},"moves":["Water Spout","Hydro Pump","Shadow Ball","Ice Beam"]}},"Froslass":{"UU Showdown Usage":{"level":100,"ability":"Cursed Body","item":"Focus Sash","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Spikes","Destiny Bond","Taunt","Ice Beam"]},"Uber Spikes Lead":{"level":100,"ability":"Cursed Body","item":"Focus Sash","nature":"Timid","teraType":"Steel","evs":{"hp":248,"sa":8,"sp":252},"moves":["Spikes","Taunt","Icy Wind","Destiny Bond"]},"Monotype Entry Hazard Lead (Ice)":{"level":100,"ability":"Cursed Body","item":"Focus Sash","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Taunt","Spikes","Destiny Bond","Shadow Ball"]}},"Frosmoth":{"UU Showdown Usage":{"level":100,"ability":"Ice Scales","item":"Heavy-Duty Boots","nature":"Modest","evs":{"sa":252,"sd":4,"sp":252},"moves":["Quiver Dance","Ice Beam","Bug Buzz","Giga Drain"]}},"Fuecoco":{"LC Defensive":{"level":5,"ability":"Unaware","item":"Eviolite","nature":"Calm","teraType":"Water","evs":{"hp":140,"df":124,"sa":12,"sd":196},"moves":["Will-O-Wisp","Flamethrower","Slack Off","Roar"]}},"Gallade":{"OU Swords Dance":{"level":100,"ability":"Sharpness","item":"Life Orb","nature":"Adamant","teraType":"Fighting","evs":{"at":252,"sd":4,"sp":252},"moves":["Swords Dance","Sacred Sword","Psycho Cut","Shadow Sneak"]},"UU Showdown Usage":{"level":100,"ability":"Sharpness","item":"Choice Scarf","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Psycho Cut","Sacred Sword","Leaf Blade","Agility"]},"Monotype Choice Scarf (Psychic)":{"level":100,"ability":"Sharpness","item":"Choice Scarf","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Sacred Sword","Psycho Cut","Knock Off","Leaf Blade"]}},"Galvantula":{"PU Offensive Support":{"level":100,"ability":"Compound Eyes","item":"Heavy-Duty Boots","nature":"Timid","evs":{"df":4,"sa":252,"sp":252},"moves":["Sticky Web","Volt Switch","Bug Buzz","Thunder"]},"Uber Sticky Web Setter":{"level":100,"ability":"Compound Eyes","item":"Focus Sash","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Sticky Web","Thunder","Thunder Wave","Toxic"]},"AG Sticky Web Lead":{"level":100,"ability":"Compound Eyes","item":"Focus Sash","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Sticky Web","Thunder","Thunder Wave","Toxic"]},"Monotype Agility (Bug)":{"level":100,"ability":"Compound Eyes","item":"Focus Sash","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Agility","Thunder","Bug Buzz","Energy Ball"]},"Monotype Sticky Web (Electric)":{"level":100,"ability":"Compound Eyes","item":"Focus Sash","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Sticky Web","Thunder","Bug Buzz","String Shot"]}},"Garbodor":{"NU Defensive":{"level":100,"ability":"Aftermath","item":"Rocky Helmet","nature":"Impish","evs":{"hp":80,"df":252,"sp":176},"moves":["Gunk Shot","Spikes","Stomping Tantrum","Pain Split"]},"PU Spiker":{"level":100,"ability":"Aftermath","item":"Rocky Helmet","nature":"Impish","evs":{"hp":252,"df":200,"sp":56},"moves":["Spikes","Gunk Shot","Pain Split","Stomping Tantrum"]}},"Garbodor-Gmax":{"NU Defensive":{"level":100,"ability":"Aftermath","item":"Rocky Helmet","nature":"Impish","evs":{"hp":80,"df":252,"sp":176},"moves":["Gunk Shot","Spikes","Stomping Tantrum","Pain Split"]},"PU Spiker":{"level":100,"ability":"Aftermath","item":"Rocky Helmet","nature":"Impish","evs":{"hp":252,"df":200,"sp":56},"moves":["Spikes","Gunk Shot","Pain Split","Stomping Tantrum"]}},"Garchomp":{"OU Tank":{"level":100,"ability":"Rough Skin","item":"Rocky Helmet","nature":"Jolly","teraType":"Ghost","evs":{"hp":252,"sd":4,"sp":252},"moves":["Stealth Rock","Earthquake","Spikes","Dragon Tail"]},"OU Swords Dance":{"level":100,"ability":"Rough Skin","item":"Leftovers","nature":"Jolly","teraType":"Ground","evs":{"at":252,"sd":4,"sp":252},"moves":["Swords Dance","Earthquake","Dragon Claw","Substitute"]},"Uber Bulky Lead":{"level":100,"ability":"Rough Skin","item":"Rocky Helmet","nature":"Jolly","teraType":"Steel","evs":{"hp":252,"df":4,"sp":252},"moves":["Stealth Rock","Spikes","Earthquake","Dragon Tail"]},"Doubles Fast Attacker":{"level":100,"ability":"Rough Skin","item":"Clear Amulet","nature":"Jolly","teraType":"Ground","evs":{"at":252,"sd":4,"sp":252},"moves":["Earthquake","Dragon Claw","Stealth Rock","Protect"]}},"Gardevoir":{"UU Showdown Usage":{"level":100,"ability":"Trace","item":"Choice Scarf","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Moonblast","Psychic","Trick","Psyshock"]}},"Garganacl":{"OU Defensive":{"level":100,"ability":"Purifying Salt","item":"Leftovers","nature":"Careful","teraType":"Water","evs":{"hp":252,"df":4,"sd":252},"moves":["Recover","Body Press","Salt Cure","Iron Defense"]},"OU Stealth Rock":{"level":100,"ability":"Purifying Salt","item":"Leftovers","nature":"Impish","teraType":"Water","evs":{"hp":252,"df":228,"sd":28},"moves":["Stealth Rock","Salt Cure","Protect","Recover"]},"Uber Defensive":{"level":100,"ability":"Purifying Salt","item":"Leftovers","nature":"Careful","teraType":"Steel","evs":{"hp":252,"df":4,"sd":252},"moves":["Salt Cure","Body Press","Iron Defense","Recover"]},"Doubles Iron Defense":{"level":100,"ability":"Purifying Salt","item":"Leftovers","nature":"Careful","teraType":"Ghost","evs":{"hp":252,"df":4,"sd":252},"moves":["Salt Cure","Iron Defense","Body Press","Recover"]}},"Gastly":{"LC Life Orb":{"level":5,"ability":"Levitate","item":"Life Orb","nature":"Timid","teraType":"Fighting","evs":{"df":36,"sa":196,"sd":76,"sp":196},"moves":["Shadow Ball","Sludge Bomb","Tera Blast","Substitute"]},"LC Choice Scarf":{"level":5,"ability":"Levitate","item":"Choice Scarf","nature":"Timid","teraType":"Fighting","evs":{"df":36,"sa":196,"sd":76,"sp":196},"moves":["Shadow Ball","Sludge Bomb","Thunderbolt","Tera Blast"]}},"Gastrodon":{"OU Specially Defensive":{"level":100,"ability":"Storm Drain","item":"Leftovers","nature":"Calm","teraType":"Grass","evs":{"hp":252,"df":4,"sd":252},"moves":["Chilling Water","Recover","Stealth Rock","Spikes"]},"UU Specially Defensive Wall":{"level":100,"ability":"Storm Drain","item":"Leftovers","nature":"Calm","teraType":"Poison","evs":{"hp":252,"df":4,"sd":252},"moves":["Spikes","Sludge Bomb","Earth Power","Recover"]},"Doubles Showdown Usage":{"level":100,"ability":"Storm Drain","item":"Leftovers","nature":"Modest","evs":{"hp":252,"sa":252,"sd":4},"moves":["Earth Power","Recover","Muddy Water","Ice Beam"]}},"Genesect":{"Uber Choice Scarf":{"level":100,"ability":"Download","item":"Choice Scarf","nature":"Hasty","evs":{"at":252,"sa":4,"sp":252},"moves":["U-turn","Iron Head","Ice Beam","Flamethrower"]},"Doubles Choice Band":{"level":100,"ability":"Download","item":"Choice Band","nature":"Jolly","evs":{"hp":4,"at":252,"sp":252},"moves":["Iron Head","U-turn","Extreme Speed","Blaze Kick"]},"Doubles Choice Scarf":{"level":100,"ability":"Download","item":"Choice Scarf","nature":"Naive","evs":{"at":104,"sa":152,"sp":252},"moves":["Iron Head","U-turn","Ice Beam","Thunderbolt"]},"Doubles Shift Gear":{"level":100,"ability":"Download","item":"Life Orb","nature":"Adamant","evs":{"hp":204,"at":252,"sp":52},"moves":["Shift Gear","Leech Life","Iron Head","Protect"]}},"Gengar":{"OU Choice Specs":{"level":100,"ability":"Cursed Body","item":"Choice Specs","nature":"Timid","teraType":"Ghost","evs":{"sa":252,"sd":4,"sp":252},"moves":["Trick","Shadow Ball","Focus Blast","Sludge Bomb"]},"UU Choice Specs":{"level":100,"ability":"Cursed Body","item":"Choice Specs","nature":"Timid","teraType":"Ghost","evs":{"sa":252,"sd":4,"sp":252},"moves":["Shadow Ball","Sludge Bomb","Focus Blast","Trick"]},"UU Choice Scarf":{"level":100,"ability":"Cursed Body","item":"Choice Scarf","nature":"Timid","teraType":"Ghost","evs":{"sa":252,"sd":4,"sp":252},"moves":["Shadow Ball","Sludge Bomb","Focus Blast","Trick"]},"UU Substitute + 3 Attacks":{"level":100,"ability":"Cursed Body","item":"Leftovers","nature":"Timid","teraType":"Ghost","evs":{"sa":252,"sd":4,"sp":252},"moves":["Shadow Ball","Sludge Bomb","Focus Blast","Substitute"]},"UU Nasty Plot":{"level":100,"ability":"Cursed Body","item":"Life Orb","nature":"Timid","teraType":"Ghost","evs":{"sa":252,"sd":4,"sp":252},"moves":["Nasty Plot","Shadow Ball","Sludge Bomb","Focus Blast"]},"UU Hex":{"level":100,"ability":"Cursed Body","item":"Leftovers","nature":"Timid","teraType":"Ghost","evs":{"sa":252,"sd":4,"sp":252},"moves":["Will-O-Wisp","Hex","Sludge Bomb","Focus Blast"]}},"Gengar-Gmax":{"OU Choice Specs":{"level":100,"ability":"Cursed Body","item":"Choice Specs","nature":"Timid","teraType":"Ghost","evs":{"sa":252,"sd":4,"sp":252},"moves":["Trick","Shadow Ball","Focus Blast","Sludge Bomb"]},"UU Choice Specs":{"level":100,"ability":"Cursed Body","item":"Choice Specs","nature":"Timid","teraType":"Ghost","evs":{"sa":252,"sd":4,"sp":252},"moves":["Shadow Ball","Sludge Bomb","Focus Blast","Trick"]},"UU Choice Scarf":{"level":100,"ability":"Cursed Body","item":"Choice Scarf","nature":"Timid","teraType":"Ghost","evs":{"sa":252,"sd":4,"sp":252},"moves":["Shadow Ball","Sludge Bomb","Focus Blast","Trick"]},"UU Substitute + 3 Attacks":{"level":100,"ability":"Cursed Body","item":"Leftovers","nature":"Timid","teraType":"Ghost","evs":{"sa":252,"sd":4,"sp":252},"moves":["Shadow Ball","Sludge Bomb","Focus Blast","Substitute"]},"UU Nasty Plot":{"level":100,"ability":"Cursed Body","item":"Life Orb","nature":"Timid","teraType":"Ghost","evs":{"sa":252,"sd":4,"sp":252},"moves":["Nasty Plot","Shadow Ball","Sludge Bomb","Focus Blast"]},"UU Hex":{"level":100,"ability":"Cursed Body","item":"Leftovers","nature":"Timid","teraType":"Ghost","evs":{"sa":252,"sd":4,"sp":252},"moves":["Will-O-Wisp","Hex","Sludge Bomb","Focus Blast"]}},"Gholdengo":{"OU Defensive":{"level":100,"ability":"Good as Gold","item":"Leftovers","nature":"Bold","teraType":"Ghost","evs":{"hp":252,"df":252,"sa":4},"moves":["Thunder Wave","Hex","Nasty Plot","Recover"]},"OU Air Balloon":{"level":100,"ability":"Good as Gold","item":"Air Balloon","nature":"Timid","teraType":"Fighting","ivs":{"at":0},"evs":{"sa":252,"sd":4,"sp":252},"moves":["Make It Rain","Shadow Ball","Nasty Plot","Recover"]},"OU Choice Scarf":{"level":100,"ability":"Good as Gold","item":"Choice Scarf","nature":"Timid","teraType":"Fighting","evs":{"sa":252,"sd":4,"sp":252},"moves":["Shadow Ball","Make It Rain","Trick","Focus Blast"]},"OU Choice Specs":{"level":100,"ability":"Good as Gold","item":"Choice Specs","nature":"Timid","teraType":"Fighting","evs":{"sa":252,"sd":4,"sp":252},"moves":["Shadow Ball","Make It Rain","Trick","Focus Blast"]},"Uber Choice Scarf":{"level":100,"ability":"Good as Gold","item":"Choice Scarf","nature":"Timid","teraType":"Fighting","evs":{"sa":252,"sd":4,"sp":252},"moves":["Make It Rain","Shadow Ball","Trick","Focus Blast"]},"Uber Air Balloon":{"level":100,"ability":"Good as Gold","item":"Air Balloon","nature":"Timid","teraType":"Steel","evs":{"sa":252,"sd":4,"sp":252},"moves":["Make It Rain","Shadow Ball","Nasty Plot","Recover"]},"Monotype Nasty Plot (Steel)":{"level":100,"ability":"Good as Gold","item":"Air Balloon","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Nasty Plot","Make It Rain","Shadow Ball","Focus Blast"]},"Monotype Choice Scarf (Ghost)":{"level":100,"ability":"Good as Gold","item":"Choice Scarf","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Make It Rain","Shadow Ball","Nasty Plot","Trick"]},"Doubles Choice Specs":{"level":100,"ability":"Good as Gold","item":"Choice Specs","nature":"Timid","teraType":"Steel","evs":{"sa":252,"sd":4,"sp":252},"moves":["Make It Rain","Shadow Ball","Thunderbolt","Power Gem"]},"Doubles Choice Scarf":{"level":100,"ability":"Good as Gold","item":"Choice Scarf","nature":"Timid","teraType":"Steel","evs":{"sa":252,"sd":4,"sp":252},"moves":["Make It Rain","Shadow Ball","Thunderbolt","Trick"]},"Doubles Nasty Plot":{"level":100,"ability":"Good as Gold","item":"Life Orb","nature":"Timid","teraType":"Steel","evs":{"sa":252,"sd":4,"sp":252},"moves":["Make It Rain","Shadow Ball","Nasty Plot","Protect"]},"1v1 Weakness Policy":{"level":100,"ability":"Good as Gold","item":"Weakness Policy","nature":"Bold","evs":{"hp":240,"df":252,"sp":16},"moves":["Reflect","Make It Rain","Recover","Metal Sound"]},"1v1 Choice-locked Attacker":{"level":100,"ability":"Good as Gold","item":"Choice Specs","nature":"Modest","evs":{"sa":252,"sd":4,"sp":252},"moves":["Make It Rain","Shadow Ball","Focus Blast","Thunder"]}},"Gible":{"LC Showdown Usage":{"level":5,"ability":"Rough Skin","item":"Eviolite","nature":"Adamant","evs":{"at":196,"df":76,"sd":236},"moves":["Earthquake","Dragon Claw","Stealth Rock","Iron Head"]}},"Gigalith":{"NU Specially Defensive":{"level":100,"ability":"Sand Stream","item":"Leftovers","nature":"Careful","evs":{"hp":252,"df":4,"sd":252},"moves":["Stealth Rock","Rock Blast","Toxic","Earthquake"]},"PU Specially Defensive":{"level":100,"ability":"Sand Stream","item":"Leftovers","nature":"Careful","evs":{"hp":252,"df":4,"sd":252},"moves":["Stealth Rock","Rock Blast","Earthquake","Protect"]}},"Gimmighoul":{"LC Showdown Usage":{"level":5,"ability":"Rattled","item":"Eviolite","nature":"Modest","evs":{"df":36,"sa":236,"sd":196,"sp":36},"moves":["Shadow Ball","Power Gem","Nasty Plot","Tera Blast"]}},"Girafarig":{"LC Nasty Plot":{"level":5,"ability":"Sap Sipper","item":"Eviolite","nature":"Timid","teraType":"Fighting","evs":{"df":76,"sa":196,"sp":236},"moves":["Nasty Plot","Twin Beam","Tera Blast","Thunderbolt"]},"LC Physical Attacker":{"level":5,"ability":"Sap Sipper","item":"Eviolite","nature":"Jolly","teraType":"Dark","evs":{"at":196,"df":76,"sp":236},"moves":["Psychic Fangs","Earthquake","Crunch","Body Slam"]},"LC Screen Setter":{"level":5,"ability":"Inner Focus","item":"Light Clay","nature":"Jolly","teraType":"Flying","evs":{"at":196,"df":76,"sp":236},"moves":["Reflect","Light Screen","Thunder Wave","Body Slam"]}},"Giratina":{"Uber Defog":{"level":100,"ability":"Pressure","item":"Leftovers","nature":"Bold","evs":{"hp":252,"df":252,"sd":4},"moves":["Defog","Toxic","Will-O-Wisp","Rest"]},"AG Defensive":{"level":100,"ability":"Pressure","item":"Leftovers","nature":"Relaxed","ivs":{"sp":0},"evs":{"hp":248,"df":220,"sd":40},"moves":["Defog","Toxic","Will-O-Wisp","Rest"]},"BH Magic Bounce":{"level":100,"ability":"Magic Bounce","item":"Griseous Orb","nature":"Relaxed","ivs":{"sp":0},"evs":{"hp":252,"at":252,"df":252,"sa":252,"sd":252},"moves":["Teleport","Spectral Thief","Core Enforcer","Shore Up"]},"BH Poison Heal":{"level":100,"ability":"Poison Heal","item":"Toxic Orb","nature":"Relaxed","ivs":{"at":0,"sp":0},"evs":{"hp":252,"df":252,"sa":252,"sd":252},"moves":["Core Enforcer","Spikes","Teleport","Baneful Bunker"]},"BH Prankster":{"level":100,"ability":"Prankster","item":"Leftovers","nature":"Relaxed","ivs":{"at":0,"sp":0},"evs":{"hp":252,"df":252,"sa":252,"sd":252},"moves":["Haze","Recover","Parting Shot","Core Enforcer"]},"BH Defensive":{"level":100,"ability":"Fur Coat","item":"Leftovers","nature":"Relaxed","ivs":{"at":0,"sp":0},"evs":{"hp":252,"df":252,"sa":252,"sd":252},"moves":["Recover","Core Enforcer","Spectral Thief","Teleport"]}},"Giratina-Origin":{"Uber Special Attacker":{"level":100,"ability":"Levitate","item":"Griseous Orb","nature":"Quiet","evs":{"at":12,"df":216,"sa":252,"sp":28},"moves":["Hex","Draco Meteor","Shadow Sneak","Will-O-Wisp"]},"Uber Physical Attacker":{"level":100,"ability":"Levitate","item":"Griseous Orb","nature":"Adamant","evs":{"hp":176,"at":252,"df":4,"sp":76},"moves":["Poltergeist","Stone Edge","Shadow Sneak","Defog"]},"BH Fur Coat":{"level":100,"ability":"Fur Coat","item":"Griseous Orb","nature":"Bold","ivs":{"at":0},"evs":{"hp":252,"df":252,"sa":252,"sd":252,"sp":252},"moves":["Hex","Core Enforcer","Nuzzle","Recover"]}},"Glaceon":{"ZU Choice Specs":{"level":100,"ability":"Ice Body","item":"Choice Specs","nature":"Modest","evs":{"sa":252,"sd":4,"sp":252},"moves":["Ice Beam","Freeze-Dry","Shadow Ball","Water Pulse"]}},"Glalie":{"ZU Suicide Lead":{"level":100,"ability":"Inner Focus","item":"Focus Sash","nature":"Naive","evs":{"at":4,"sa":252,"sp":252},"moves":["Spikes","Taunt","Freeze-Dry","Explosion"]}},"Glastrier":{"OU Swords Dance":{"level":100,"ability":"Chilling Neigh","item":"Heavy-Duty Boots","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Swords Dance","Icicle Crash","High Horsepower","Close Combat"]},"NU Swords Dance":{"level":100,"ability":"Chilling Neigh","item":"Leftovers","nature":"Jolly","evs":{"hp":252,"sd":20,"sp":236},"moves":["Swords Dance","Substitute","Icicle Crash","Close Combat"]},"Monotype Swords Dance":{"level":100,"ability":"Chilling Neigh","item":"Leftovers","nature":"Jolly","evs":{"hp":252,"df":56,"sp":200},"moves":["Substitute","Swords Dance","Icicle Crash","High Horsepower"]},"Battle Stadium Singles Chilling Dynamax Sweeper":{"level":50,"ability":"Chilling Neigh","item":"Weakness Policy","nature":"Adamant","evs":{"hp":252,"at":252,"sp":4},"moves":["Icicle Spear","High Horsepower","Close Combat","Heavy Slam"]},"1v1 Assault Vest":{"level":100,"ability":"Chilling Neigh","item":"Assault Vest","nature":"Adamant","evs":{"hp":248,"at":208,"df":4,"sd":48},"moves":["Icicle Spear","Avalanche","Heavy Slam","High Horsepower"]},"1v1 Custap Berry":{"level":100,"ability":"Chilling Neigh","item":"Custap Berry","nature":"Adamant","evs":{"hp":248,"at":252,"df":4,"sp":4},"moves":["Endure","Swords Dance","Icicle Spear","Close Combat"]},"1v1 Choice Band":{"level":100,"ability":"Chilling Neigh","item":"Choice Band","nature":"Impish","evs":{"hp":248,"at":28,"df":64,"sd":168},"moves":["Icicle Spear","Avalanche","Heavy Slam","Outrage"]},"1v1 Life Orb":{"level":100,"ability":"Chilling Neigh","item":"Life Orb","nature":"Adamant","evs":{"hp":248,"at":16,"df":4,"sd":52,"sp":188},"moves":["Swords Dance","Icicle Spear","Close Combat","Taunt"]}},"Glimmet":{"LC Entry Hazard Setter":{"level":5,"ability":"Toxic Debris","item":"Eviolite","nature":"Timid","teraType":"Grass","evs":{"df":20,"sa":236,"sd":36,"sp":196},"moves":["Stealth Rock","Sludge Bomb","Power Gem","Spikes"]}},"Glimmora":{"OU Focus Sash":{"level":100,"ability":"Toxic Debris","item":"Focus Sash","nature":"Timid","teraType":"Grass","evs":{"df":4,"sa":252,"sp":252},"moves":["Stealth Rock","Earth Power","Sludge Wave","Mortal Spin"]},"OU Offensive":{"level":100,"ability":"Toxic Debris","item":"Choice Specs","nature":"Timid","teraType":"Flying","evs":{"df":4,"sa":252,"sp":252},"moves":["Power Gem","Earth Power","Sludge Wave","Energy Ball"]},"Uber Suicide Lead":{"level":100,"ability":"Toxic Debris","item":"Focus Sash","nature":"Timid","teraType":"Ghost","evs":{"sa":252,"sd":4,"sp":252},"moves":["Stealth Rock","Mortal Spin","Earth Power","Power Gem"]},"Monotype Entry Hazard Support (Poison)":{"level":100,"ability":"Toxic Debris","item":"Air Balloon","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Mortal Spin","Stealth Rock","Earth Power","Energy Ball"]},"Doubles Hazards Setter":{"level":100,"ability":"Toxic Debris","item":"Focus Sash","nature":"Timid","teraType":"Flying","evs":{"sa":252,"sd":4,"sp":252},"moves":["Stealth Rock","Mortal Spin","Sludge Bomb","Spiky Shield"]}},"Golbat":{"ZU Stallbreaker":{"level":100,"ability":"Infiltrator","item":"Eviolite","nature":"Jolly","evs":{"hp":248,"df":44,"sp":216},"moves":["Toxic","Taunt","Super Fang","Roost"]}},"Golduck":{"UU Showdown Usage":{"level":100,"ability":"Swift Swim","item":"Life Orb","nature":"Modest","evs":{"sa":252,"sd":4,"sp":252},"moves":["Ice Beam","Nasty Plot","Hydro Pump","Grass Knot"]}},"Golett":{"LC Choice Scarf":{"level":5,"ability":"No Guard","item":"Choice Scarf","nature":"Jolly","evs":{"at":244,"sp":236},"moves":["Poltergeist","Earthquake","Dynamic Punch","Rock Slide"]}},"Golisopod":{"UU Spikes":{"level":100,"ability":"Emergency Exit","item":"Heavy-Duty Boots","nature":"Adamant","evs":{"hp":196,"at":252,"sp":60},"moves":["First Impression","Liquidation","Knock Off","Spikes"]},"RU Revenge Killer":{"level":100,"ability":"Emergency Exit","item":"Heavy-Duty Boots","nature":"Adamant","evs":{"hp":156,"at":252,"sp":100},"moves":["First Impression","Leech Life","Liquidation","Knock Off"]},"Monotype Utility (Water)":{"level":100,"ability":"Emergency Exit","item":"Heavy-Duty Boots","nature":"Adamant","evs":{"hp":84,"at":252,"sp":172},"moves":["First Impression","Knock Off","Leech Life","Spikes"]},"BH Poison Heal":{"level":100,"ability":"Poison Heal","item":"Toxic Orb","nature":"Relaxed","ivs":{"sp":0},"evs":{"hp":252,"at":252,"df":252,"sa":252,"sd":252},"moves":["U-turn","Baneful Bunker","Scald","Spikes"]},"BH Prankster":{"level":100,"ability":"Prankster","item":"Heavy-Duty Boots","nature":"Relaxed","ivs":{"sp":0},"evs":{"hp":252,"at":252,"df":252,"sd":252},"moves":["Haze","Recover","U-turn","Will-O-Wisp"]},"1v1 Assault Vest":{"level":100,"ability":"Emergency Exit","item":"Assault Vest","nature":"Impish","ivs":{"sp":26},"evs":{"hp":244,"at":16,"df":16,"sd":232},"moves":["Liquidation","Leech Life","Sucker Punch","Poison Jab"]}},"Golurk":{"RU Wallbreaker":{"level":100,"ability":"No Guard","item":"Choice Band","nature":"Adamant","evs":{"at":252,"df":4,"sp":252},"moves":["Poltergeist","Earthquake","Close Combat","Trick"]},"NU Choice Band":{"level":100,"ability":"No Guard","item":"Choice Band","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Poltergeist","Earthquake","Close Combat","Stone Edge"]},"NU TrickyBarb":{"level":100,"ability":"Klutz","item":"Sticky Barb","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Trick","Stealth Rock","Poltergeist","Earthquake"]}},"Goodra":{"UU Showdown Usage":{"level":100,"ability":"Sap Sipper","item":"Assault Vest","nature":"Modest","evs":{"hp":248,"sa":252,"sd":8},"moves":["Draco Meteor","Thunderbolt","Flamethrower","Sludge Bomb"]}},"Gothita":{"LC Choice Scarf":{"level":5,"ability":"Shadow Tag","item":"Choice Scarf","nature":"Modest","teraType":"Fighting","evs":{"df":36,"sa":236,"sp":236},"moves":["Trick","Psychic","Tera Blast","Dark Pulse"]}},"Gothitelle":{"Uber Trapper":{"level":100,"ability":"Shadow Tag","item":"Choice Scarf","nature":"Timid","teraType":"Fairy","evs":{"hp":252,"df":4,"sp":252},"moves":["Trick","Psychic","Taunt","Rest"]}},"Gourgeist":{"ZU Weakness Policy":{"level":100,"ability":"Frisk","item":"Weakness Policy","nature":"Adamant","evs":{"at":252,"df":4,"sp":252},"moves":["Flame Charge","Poltergeist","Power Whip","Shadow Sneak"]}},"Gourgeist-Large":{"ZU Bulky Attacker":{"level":100,"ability":"Frisk","nature":"Adamant","evs":{"hp":104,"at":252,"sp":152},"moves":["Synthesis","Poltergeist","Power Whip","Shadow Sneak"]}},"Gourgeist-Small":{"PU Offensive":{"level":100,"ability":"Frisk","item":"Life Orb","nature":"Naive","evs":{"at":252,"df":4,"sp":252},"moves":["Power Whip","Poltergeist","Rock Slide","Fire Blast"]},"PU Choice Scarf":{"level":100,"ability":"Frisk","item":"Choice Scarf","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["Power Whip","Poltergeist","Rock Slide","Trick"]},"PU Nasty Plot":{"level":100,"ability":"Frisk","item":"Life Orb","nature":"Timid","evs":{"df":4,"sa":252,"sp":252},"moves":["Nasty Plot","Shadow Ball","Fire Blast","Giga Drain"]},"ZU Choice Scarf":{"level":100,"ability":"Frisk","item":"Choice Scarf","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["Power Whip","Poltergeist","Trick","Synthesis"]},"ZU Choice Band":{"level":100,"ability":"Frisk","item":"Choice Band","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["Power Whip","Poltergeist","Shadow Sneak","Trick"]}},"Gourgeist-Super":{"ZU Physical Wall":{"level":100,"ability":"Frisk","nature":"Impish","evs":{"hp":252,"df":252,"sd":4},"moves":["Synthesis","Foul Play","Toxic","Power Whip"]},"ZU Tank":{"level":100,"ability":"Frisk","nature":"Adamant","evs":{"hp":252,"at":252,"sp":4},"moves":["Power Whip","Poltergeist","Shadow Sneak","Synthesis"]}},"Grafaiai":{"OU Showdown Usage":{"level":100,"ability":"Prankster","item":"Black Sludge","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Parting Shot","Knock Off","Encore","Gunk Shot"]},"UU Offensive Pivot":{"level":100,"ability":"Poison Touch","item":"Heavy-Duty Boots","nature":"Jolly","teraType":"Poison","evs":{"at":252,"sd":4,"sp":252},"moves":["Knock Off","Gunk Shot","U-turn","Toxic"]},"UU Prankster Utility":{"level":100,"ability":"Prankster","item":"Heavy-Duty Boots","nature":"Jolly","teraType":"Poison","evs":{"at":252,"sd":4,"sp":252},"moves":["Knock Off","Gunk Shot","Parting Shot","Encore"]},"Doubles Showdown Usage":{"level":100,"ability":"Prankster","item":"Focus Sash","nature":"Calm","evs":{"hp":252,"df":4,"sd":252},"moves":["Parting Shot","Doodle","Taunt","Knock Off"]}},"Grapploct":{"ZU Octolock":{"level":100,"ability":"Limber","item":"Leftovers","nature":"Adamant","evs":{"at":252,"df":4,"sp":252},"moves":["Octolock","Drain Punch","Ice Punch","Substitute"]}},"Great Tusk":{"OU Physically Defensive":{"level":100,"ability":"Protosynthesis","item":"Leftovers","nature":"Impish","teraType":"Fighting","evs":{"hp":252,"df":252,"sd":4},"moves":["Earthquake","Stealth Rock","Knock Off","Rapid Spin"]},"OU Offensive":{"level":100,"ability":"Protosynthesis","item":"Heavy-Duty Boots","nature":"Jolly","teraType":"Fighting","evs":{"at":252,"sd":4,"sp":252},"moves":["Headlong Rush","Close Combat","Knock Off","Rapid Spin"]},"OU Choice Band":{"level":100,"ability":"Protosynthesis","item":"Choice Band","nature":"Jolly","teraType":"Fighting","evs":{"at":252,"sd":4,"sp":252},"moves":["Headlong Rush","Close Combat","Knock Off","Ice Spinner"]},"OU Bulk Up":{"level":100,"ability":"Protosynthesis","item":"Leftovers","nature":"Impish","teraType":"Fighting","evs":{"hp":252,"df":252,"sd":4},"moves":["Bulk Up","Body Press","Earthquake","Knock Off"]},"Uber Choice Item":{"level":100,"ability":"Protosynthesis","item":"Choice Scarf","nature":"Adamant","teraType":"Ground","evs":{"at":252,"df":4,"sp":252},"moves":["Headlong Rush","Close Combat","Earthquake","Rapid Spin"]},"Uber Offensive Utility":{"level":100,"ability":"Protosynthesis","item":"Leftovers","nature":"Jolly","teraType":"Ground","evs":{"at":252,"df":4,"sp":252},"moves":["Stealth Rock","Headlong Rush","Close Combat","Rapid Spin"]},"Uber Setup Sweeper":{"level":100,"ability":"Protosynthesis","item":"Leftovers","nature":"Jolly","teraType":"Ground","evs":{"at":252,"df":4,"sp":252},"moves":["Bulk Up","Close Combat","Headlong Rush","Rapid Spin"]},"Uber Defensive":{"level":100,"ability":"Protosynthesis","item":"Leftovers","nature":"Impish","teraType":"Ground","evs":{"hp":252,"at":4,"df":252},"moves":["Stealth Rock","Rapid Spin","Earthquake","Play Rough"]},"Doubles Assault Vest":{"level":100,"ability":"Protosynthesis","item":"Assault Vest","nature":"Adamant","teraType":"Ground","evs":{"at":4,"sd":252,"sp":252},"moves":["Headlong Rush","Close Combat","Ice Spinner","Rapid Spin"]},"1v1 Booster Energy (Speed)":{"level":100,"ability":"Protosynthesis","item":"Booster Energy","nature":"Jolly","evs":{"hp":248,"at":4,"df":4,"sp":252},"moves":["Bulk Up","Headlong Rush","Close Combat","Taunt"]},"1v1 Booster Energy (Attack)":{"level":100,"ability":"Protosynthesis","item":"Booster Energy","nature":"Adamant","evs":{"hp":240,"at":204,"df":24,"sp":40},"moves":["Bulk Up","Headlong Rush","Close Combat","Taunt"]},"1v1 Choice Scarf":{"level":100,"ability":"Protosynthesis","item":"Choice Scarf","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Close Combat","Headlong Rush","Head Smash","Heavy Slam"]}},"Greavard":{"LC Bulky Spinblocker":{"level":5,"ability":"Fluffy","item":"Eviolite","nature":"Impish","teraType":"Ghost","evs":{"hp":116,"at":188,"df":196,"sp":4},"moves":["Shadow Sneak","Ice Fang","Stomping Tantrum","Rest"]}},"Greedent":{"ZU Belly Drum":{"level":100,"ability":"Cheek Pouch","item":"Sitrus Berry","nature":"Brave","ivs":{"sp":0},"evs":{"hp":252,"at":252,"sd":4},"moves":["Belly Drum","Facade","Earthquake","Crunch"]}},"Grimer":{"LC Showdown Usage":{"level":5,"ability":"Sticky Hold","item":"Eviolite","nature":"Adamant","evs":{"hp":36,"at":196,"df":36,"sd":196},"moves":["Drain Punch","Shadow Sneak","Poison Jab","Gunk Shot"]}},"Grimmsnarl":{"OU Dual Screens":{"level":100,"ability":"Prankster","item":"Light Clay","nature":"Calm","teraType":"Steel","evs":{"hp":252,"df":4,"sd":252},"moves":["Light Screen","Reflect","Taunt","Parting Shot"]},"Uber Dual Screens":{"level":100,"ability":"Prankster","item":"Light Clay","nature":"Careful","teraType":"Steel","evs":{"hp":252,"df":4,"sd":252},"moves":["Light Screen","Reflect","Taunt","Spirit Break"]},"Doubles Dual Screens":{"level":100,"ability":"Prankster","item":"Light Clay","nature":"Careful","teraType":"Ghost","evs":{"hp":252,"df":164,"sd":92},"moves":["Reflect","Light Screen","Spirit Break","Parting Shot"]}},"Grimmsnarl-Gmax":{"OU Dual Screens":{"level":100,"ability":"Prankster","item":"Light Clay","nature":"Calm","teraType":"Steel","evs":{"hp":252,"df":4,"sd":252},"moves":["Light Screen","Reflect","Taunt","Parting Shot"]},"Uber Dual Screens":{"level":100,"ability":"Prankster","item":"Light Clay","nature":"Careful","teraType":"Steel","evs":{"hp":252,"df":4,"sd":252},"moves":["Light Screen","Reflect","Taunt","Spirit Break"]},"Doubles Dual Screens":{"level":100,"ability":"Prankster","item":"Light Clay","nature":"Careful","teraType":"Ghost","evs":{"hp":252,"df":164,"sd":92},"moves":["Reflect","Light Screen","Spirit Break","Parting Shot"]}},"Grookey":{"LC Life Orb":{"level":5,"ability":"Grassy Surge","item":"Life Orb","nature":"Jolly","evs":{"at":236,"df":36,"sp":236},"moves":["Grassy Glide","Knock Off","Drain Punch","Protect"]},"LC Eviolite":{"level":5,"ability":"Grassy Surge","item":"Eviolite","nature":"Jolly","evs":{"at":236,"df":36,"sp":236},"moves":["Grassy Glide","Knock Off","Drain Punch","U-turn"]},"LC Grassy Seed":{"level":5,"ability":"Grassy Surge","item":"Grassy Seed","nature":"Jolly","evs":{"at":236,"df":36,"sp":236},"moves":["Grassy Glide","Acrobatics","Drain Punch","Swords Dance"]}},"Groudon":{"Uber Bulky Booster":{"level":100,"ability":"Drought","item":"Leftovers","nature":"Adamant","evs":{"hp":240,"at":252,"sp":16},"moves":["Precipice Blades","Stone Edge","Bulk Up","Heat Crash"]},"Uber Double Dance":{"level":100,"ability":"Drought","item":"Life Orb","nature":"Adamant","evs":{"hp":180,"at":252,"sp":76},"moves":["Precipice Blades","Stone Edge","Rock Polish","Swords Dance"]},"Uber Defensive":{"level":100,"ability":"Drought","item":"Leftovers","nature":"Impish","evs":{"hp":252,"df":240,"sp":16},"moves":["Precipice Blades","Stone Edge","Stealth Rock","Toxic"]},"AG Dynamax Sweeper":{"level":100,"ability":"Drought","item":"Life Orb","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["Swords Dance","Precipice Blades","Stone Edge","Aerial Ace"]},"AG Offensive Stealth Rock":{"level":100,"ability":"Drought","item":"Leftovers","nature":"Adamant","evs":{"hp":252,"at":252,"df":4},"moves":["Stealth Rock","Swords Dance","Precipice Blades","Stone Edge"]},"AG Defensive Stealth Rock":{"level":100,"ability":"Drought","item":"Leftovers","nature":"Careful","evs":{"hp":252,"df":28,"sd":228},"moves":["Stealth Rock","Precipice Blades","Stone Edge","Toxic"]},"BH Mold Breaker + Spikes":{"level":100,"ability":"Mold Breaker","item":"Soft Sand","nature":"Adamant","evs":{"hp":252,"at":252,"df":252,"sd":252,"sp":252},"moves":["Spikes","Thousand Arrows","Glare","Strength Sap"]},"BH Choice Band":{"level":100,"ability":"Mold Breaker","item":"Choice Band","nature":"Adamant","evs":{"hp":252,"at":252,"df":252,"sd":252,"sp":252},"moves":["Thousand Arrows","Precipice Blades","Trick","U-turn"]},"BH Prankster":{"level":100,"ability":"Prankster","item":"Soft Sand","nature":"Impish","evs":{"hp":252,"at":252,"df":252,"sd":252,"sp":252},"moves":["Haze","Thousand Arrows","Parting Shot","Shore Up"]},"BH Ice Scales":{"level":100,"ability":"Ice Scales","item":"Soft Sand","nature":"Careful","evs":{"hp":252,"at":252,"df":252,"sd":252,"sp":252},"moves":["Thousand Waves","Volt Switch","Recover","Spectral Thief"]},"BH Fur Coat":{"level":100,"ability":"Fur Coat","item":"Leftovers","nature":"Impish","evs":{"hp":252,"at":252,"df":252,"sd":252,"sp":252},"moves":["Thousand Waves","Entrainment","Recover","Poison Fang"]},"BH Poison Heal Setup":{"level":100,"ability":"Poison Heal","item":"Toxic Orb","nature":"Adamant","evs":{"hp":252,"at":252,"df":252,"sd":252,"sp":252},"moves":["Swords Dance","Precipice Blades","Glacial Lance","Glare"]}},"Growlithe":{"LC Showdown Usage":{"level":5,"ability":"Intimidate","item":"Eviolite","nature":"Adamant","evs":{"at":196,"df":76,"sd":196,"sp":36},"moves":["Flare Blitz","Morning Sun","Will-O-Wisp","Close Combat"]}},"Gurdurr":{"ZU Bulk Up":{"level":100,"ability":"Guts","item":"Eviolite","nature":"Adamant","evs":{"hp":252,"at":196,"df":60},"moves":["Bulk Up","Drain Punch","Knock Off","Mach Punch"]}},"Guzzlord":{"RU Tank":{"level":100,"ability":"Beast Boost","item":"Leftovers","nature":"Adamant","evs":{"at":104,"df":152,"sd":252},"moves":["Knock Off","Heavy Slam","Earthquake","Protect"]},"RU RestTalk":{"level":100,"ability":"Beast Boost","item":"Leftovers","nature":"Adamant","evs":{"at":48,"df":208,"sd":252},"moves":["Knock Off","Dragon Tail","Rest","Sleep Talk"]},"NU Choice Band":{"level":100,"ability":"Beast Boost","item":"Choice Band","nature":"Adamant","evs":{"at":252,"df":4,"sp":252},"moves":["Knock Off","Heavy Slam","Earthquake","Outrage"]},"NU Defensive":{"level":100,"ability":"Beast Boost","item":"Leftovers","nature":"Careful","evs":{"df":76,"sd":252,"sp":180},"moves":["Knock Off","Dragon Tail","Rest","Sleep Talk"]}},"Gyarados":{"OU Dragon Dance":{"level":100,"ability":"Moxie","item":"Lum Berry","nature":"Jolly","teraType":"Flying","evs":{"at":252,"sd":4,"sp":252},"moves":["Dragon Dance","Waterfall","Tera Blast","Taunt"]},"UU Showdown Usage":{"level":100,"ability":"Moxie","item":"Heavy-Duty Boots","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Waterfall","Dragon Dance","Earthquake","Ice Fang"]},"Uber Dragon Dance":{"level":100,"ability":"Moxie","item":"Heavy-Duty Boots","nature":"Jolly","teraType":"Flying","evs":{"at":252,"sd":4,"sp":252},"moves":["Dragon Dance","Waterfall","Tera Blast","Earthquake"]},"Doubles Dragon Dance":{"level":100,"ability":"Intimidate","item":"Clear Amulet","nature":"Adamant","teraType":"Ground","evs":{"at":252,"sd":4,"sp":252},"moves":["Dragon Dance","Waterfall","Earthquake","Protect"]}},"Hariyama":{"UU Showdown Usage":{"level":100,"ability":"Guts","item":"Flame Orb","nature":"Adamant","evs":{"hp":252,"at":252,"sd":4},"moves":["Bullet Punch","Drain Punch","Knock Off","Close Combat"]}},"Hatenna":{"LC Showdown Usage":{"level":5,"ability":"Magic Bounce","item":"Eviolite","nature":"Modest","evs":{"sa":228,"sd":252},"moves":["Psychic","Nuzzle","Mystical Fire","Healing Wish"]}},"Hatterene":{"OU Calm Mind":{"level":100,"ability":"Magic Bounce","item":"Leftovers","nature":"Bold","teraType":"Water","evs":{"hp":252,"df":204,"sp":52},"moves":["Calm Mind","Draining Kiss","Mystical Fire","Psyshock"]},"OU Healing Wish":{"level":100,"ability":"Magic Bounce","item":"Eject Button","nature":"Bold","teraType":"Steel","evs":{"hp":248,"df":116,"sp":144},"moves":["Nuzzle","Healing Wish","Psychic","Dazzling Gleam"]},"Uber Calm Mind":{"level":100,"ability":"Magic Bounce","item":"Leftovers","nature":"Bold","teraType":"Water","evs":{"hp":252,"df":204,"sp":52},"moves":["Calm Mind","Draining Kiss","Mystical Fire","Psyshock"]},"Doubles Trick Room Attacker":{"level":100,"ability":"Magic Bounce","item":"Life Orb","nature":"Quiet","teraType":"Fire","evs":{"hp":252,"sa":252,"sd":4},"moves":["Dazzling Gleam","Psychic","Trick Room","Protect"]}},"Hatterene-Gmax":{"OU Calm Mind":{"level":100,"ability":"Magic Bounce","item":"Leftovers","nature":"Bold","teraType":"Water","evs":{"hp":252,"df":204,"sp":52},"moves":["Calm Mind","Draining Kiss","Mystical Fire","Psyshock"]},"OU Healing Wish":{"level":100,"ability":"Magic Bounce","item":"Eject Button","nature":"Bold","teraType":"Steel","evs":{"hp":248,"df":116,"sp":144},"moves":["Nuzzle","Healing Wish","Psychic","Dazzling Gleam"]},"Uber Calm Mind":{"level":100,"ability":"Magic Bounce","item":"Leftovers","nature":"Bold","teraType":"Water","evs":{"hp":252,"df":204,"sp":52},"moves":["Calm Mind","Draining Kiss","Mystical Fire","Psyshock"]},"Doubles Trick Room Attacker":{"level":100,"ability":"Magic Bounce","item":"Life Orb","nature":"Quiet","teraType":"Fire","evs":{"hp":252,"sa":252,"sd":4},"moves":["Dazzling Gleam","Psychic","Trick Room","Protect"]}},"Hattrem":{"PU Tank":{"level":100,"ability":"Magic Bounce","item":"Eviolite","nature":"Bold","evs":{"hp":252,"df":244,"sp":12},"moves":["Psychic","Giga Drain","Healing Wish","Mystical Fire"]},"ZU Offense Support":{"level":100,"ability":"Magic Bounce","item":"Eviolite","nature":"Bold","evs":{"hp":252,"df":252,"sp":4},"moves":["Psychic","Giga Drain","Mystical Fire","Healing Wish"]},"ZU Stall Support":{"level":100,"ability":"Magic Bounce","item":"Eviolite","nature":"Bold","evs":{"hp":252,"df":252,"sd":4},"moves":["Psychic","Giga Drain","Rest","Sleep Talk"]}},"Haunter":{"PU Substitute + 3 Attacks":{"level":100,"ability":"Levitate","item":"Life Orb","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Substitute","Shadow Ball","Sludge Bomb","Dazzling Gleam"]},"PU Choice Scarf":{"level":100,"ability":"Levitate","item":"Choice Scarf","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Shadow Ball","Sludge Bomb","Dazzling Gleam","Trick"]}},"Hawlucha":{"OU Unburden Sweeper":{"level":100,"ability":"Unburden","item":"Electric Seed","nature":"Adamant","teraType":"Fighting","evs":{"hp":80,"at":252,"sp":176},"moves":["Swords Dance","Close Combat","Acrobatics","Thunder Punch"]},"UU Showdown Usage":{"level":100,"ability":"Unburden","item":"Psychic Seed","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Acrobatics","Swords Dance","Close Combat","Drain Punch"]}},"Haxorus":{"OU Swords Dance":{"level":100,"ability":"Mold Breaker","item":"Life Orb","nature":"Adamant","teraType":"Electric","evs":{"at":252,"sd":4,"sp":252},"moves":["Swords Dance","Close Combat","Earthquake","Tera Blast"]},"UU Dragon Dance":{"level":100,"ability":"Mold Breaker","item":"Lum Berry","nature":"Jolly","teraType":"Steel","evs":{"at":252,"df":4,"sp":252},"moves":["Dragon Dance","Dragon Claw","Close Combat","Iron Head"]}},"Heatmor":{"ZU Physical Attacker":{"level":100,"ability":"Flash Fire","item":"Heavy-Duty Boots","nature":"Adamant","evs":{"at":252,"df":4,"sp":252},"moves":["Fire Lash","Knock Off","Sucker Punch","Superpower"]}},"Heatran":{"OU Specially Defensive":{"level":100,"ability":"Flash Fire","item":"Leftovers","nature":"Calm","evs":{"hp":252,"sd":232,"sp":24},"moves":["Magma Storm","Earth Power","Taunt","Toxic"]},"OU Offensive":{"level":100,"ability":"Flash Fire","item":"Leftovers","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Magma Storm","Earth Power","Taunt","Toxic"]},"Uber Specially Defensive Trapper":{"level":100,"ability":"Flash Fire","item":"Leftovers","nature":"Calm","evs":{"hp":244,"sd":244,"sp":20},"moves":["Magma Storm","Earth Power","Taunt","Toxic"]},"Monotype Specially Defensive (Steel)":{"level":100,"ability":"Flash Fire","item":"Leftovers","nature":"Calm","evs":{"hp":252,"sa":4,"sd":252},"moves":["Lava Plume","Earth Power","Toxic","Stealth Rock"]},"Monotype Choice Scarf (Steel)":{"level":100,"ability":"Flash Fire","item":"Choice Scarf","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Eruption","Flamethrower","Earth Power","Dragon Pulse"]},"Monotype Stallbreaker (Fire)":{"level":100,"ability":"Flash Fire","item":"Air Balloon","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Magma Storm","Earth Power","Flash Cannon","Taunt"]},"Doubles Eruption":{"level":100,"ability":"Flash Fire","item":"Charcoal","nature":"Timid","evs":{"df":4,"sa":252,"sp":252},"moves":["Eruption","Heat Wave","Earth Power","Protect"]},"Battle Stadium Singles Offensive":{"level":50,"ability":"Flash Fire","item":"Assault Vest","nature":"Modest","evs":{"hp":20,"df":4,"sa":252,"sd":12,"sp":220},"moves":["Flash Cannon","Lava Plume","Earth Power","Solar Beam"]},"Battle Stadium Singles Stealth Rock Setter":{"level":50,"ability":"Flash Fire","item":"Air Balloon","nature":"Modest","evs":{"hp":20,"df":4,"sa":252,"sd":12,"sp":220},"moves":["Stealth Rock","Lava Plume","Earth Power","Flash Cannon"]},"BH RegenVest":{"level":100,"ability":"Regenerator","item":"Assault Vest","nature":"Calm","evs":{"hp":252,"at":252,"df":252,"sa":252,"sd":252,"sp":24},"moves":["Lava Plume","Doom Desire","U-turn","Nuzzle"]},"CAP Specially Defensive":{"level":100,"ability":"Flash Fire","item":"Leftovers","nature":"Calm","evs":{"hp":252,"sd":252,"sp":4},"moves":["Magma Storm","Earth Power","Taunt","Toxic"]},"CAP Balloon Frog":{"level":100,"ability":"Flash Fire","item":"Air Balloon","nature":"Modest","evs":{"sa":252,"sd":4,"sp":252},"moves":["Magma Storm","Earth Power","Eruption","Stealth Rock"]},"1v1 Air Balloon Offensive":{"level":100,"ability":"Flash Fire","item":"Air Balloon","nature":"Modest","evs":{"hp":252,"sa":60,"sd":76,"sp":120},"moves":["Flash Cannon","Eruption","Taunt","Will-O-Wisp"]},"1v1 Choice Scarf":{"level":100,"ability":"Flash Fire","item":"Choice Scarf","nature":"Modest","evs":{"hp":8,"df":36,"sa":212,"sp":252},"moves":["Eruption","Steel Beam","Earth Power","Dragon Pulse"]},"1v1 Air Balloon Defensive":{"level":100,"ability":"Flash Fire","item":"Air Balloon","nature":"Modest","evs":{"hp":12,"df":216,"sa":64,"sp":216},"moves":["Iron Defense","Body Press","Eruption","Taunt"]},"1v1 Custap Berry":{"level":100,"ability":"Flash Fire","item":"Custap Berry","nature":"Modest","evs":{"hp":72,"sa":136,"sd":84,"sp":216},"moves":["Overheat","Flash Cannon","Dragon Pulse","Endure"]},"1v1 Choice Specs":{"level":100,"ability":"Flash Fire","item":"Choice Specs","nature":"Timid","evs":{"hp":64,"sa":120,"sd":72,"sp":252},"moves":["Overheat","Steel Beam","Dragon Pulse","Earthquake"]}},"Heliolisk":{"UU Wallbreaker":{"level":100,"ability":"Dry Skin","item":"Life Orb","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Volt Switch","Thunder","Hyper Voice","Grass Knot"]},"RU Offensive Pivot":{"level":100,"ability":"Dry Skin","item":"Heavy-Duty Boots","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Thunderbolt","Grass Knot","U-turn","Hyper Voice"]},"NU All-out Attacker":{"level":100,"ability":"Dry Skin","item":"Choice Specs","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Thunderbolt","Hyper Voice","Volt Switch","Dark Pulse"]},"NU Choice Scarf":{"level":100,"ability":"Dry Skin","item":"Choice Scarf","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Thunderbolt","Hyper Voice","Grass Knot","Volt Switch"]},"Monotype All-out Attacker (Normal)":{"level":100,"ability":"Dry Skin","item":"Choice Specs","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Thunderbolt","Focus Blast","Grass Knot","Volt Switch"]},"Monotype Substitute + Glare (Normal)":{"level":100,"ability":"Dry Skin","item":"Heavy-Duty Boots","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Substitute","Glare","Thunderbolt","Grass Knot"]}},"Heracross":{"UU Showdown Usage":{"level":100,"ability":"Moxie","item":"Flame Orb","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Close Combat","Megahorn","Earthquake","Stone Edge"]}},"Hippopotas":{"LC Showdown Usage":{"level":5,"ability":"Sand Stream","item":"Eviolite","nature":"Impish","evs":{"at":100,"df":212,"sd":180},"moves":["Earthquake","Slack Off","Stealth Rock","Body Press"]}},"Hippowdon":{"OU Specially Defensive":{"level":100,"ability":"Sand Stream","item":"Leftovers","nature":"Careful","teraType":"Water","evs":{"hp":252,"df":4,"sd":252},"moves":["Earthquake","Slack Off","Stealth Rock","Whirlwind"]},"UU Showdown Usage":{"level":100,"ability":"Sand Stream","item":"Leftovers","nature":"Impish","evs":{"hp":252,"at":4,"df":252},"moves":["Earthquake","Slack Off","Stealth Rock","Whirlwind"]},"Uber Defensive":{"level":100,"ability":"Sand Stream","item":"Rocky Helmet","nature":"Impish","teraType":"Water","evs":{"hp":252,"df":252,"sd":4},"moves":["Earthquake","Slack Off","Stealth Rock","Whirlwind"]},"Doubles Bulky Utility":{"level":100,"ability":"Sand Stream","item":"Sitrus Berry","nature":"Adamant","teraType":"Grass","evs":{"hp":252,"at":60,"sd":196},"moves":["Stomping Tantrum","Stealth Rock","Slack Off","Whirlwind"]}},"Hitmonchan":{"ZU Assault Vest":{"level":100,"ability":"Iron Fist","item":"Assault Vest","nature":"Adamant","evs":{"hp":160,"at":252,"sp":96},"moves":["Rapid Spin","Drain Punch","Mach Punch","Throat Chop"]}},"Hitmonlee":{"PU Terrain Sweeper":{"level":100,"ability":"Unburden","item":"Electric Seed","nature":"Adamant","evs":{"hp":48,"at":252,"sp":208},"moves":["Bulk Up","Close Combat","Knock Off","Stone Edge"]}},"Hitmontop":{"NU Spitmontop (Rapid Spin)":{"level":100,"ability":"Technician","item":"Assault Vest","nature":"Adamant","evs":{"hp":248,"at":252,"sd":8},"moves":["Rapid Spin","Triple Axel","Mach Punch","Close Combat"]}},"Ho-Oh":{"Uber Defensive":{"level":100,"ability":"Regenerator","item":"Heavy-Duty Boots","nature":"Impish","evs":{"hp":248,"df":208,"sd":52},"moves":["Sacred Fire","Defog","Toxic","Whirlwind"]},"Uber Choice Band":{"level":100,"ability":"Regenerator","item":"Choice Band","nature":"Adamant","evs":{"hp":248,"at":208,"sd":52},"moves":["Sacred Fire","Brave Bird","Earthquake","Whirlwind"]},"Uber Offensive":{"level":100,"ability":"Regenerator","item":"Heavy-Duty Boots","nature":"Adamant","evs":{"hp":248,"at":192,"sd":52,"sp":16},"moves":["Sacred Fire","Brave Bird","Thunder Wave","Defog"]},"AG Defensive Pivot":{"level":100,"ability":"Regenerator","item":"Heavy-Duty Boots","nature":"Impish","evs":{"hp":248,"df":208,"sd":52},"moves":["Sacred Fire","Toxic","Defog","Whirlwind"]},"BH Desolate Land":{"level":100,"ability":"Desolate Land","item":"Heavy-Duty Boots","nature":"Careful","evs":{"hp":252,"at":252,"df":252,"sd":252,"sp":252},"moves":["V-create","Nuzzle","Spikes","Recover"]},"BH Magic Bounce":{"level":100,"ability":"Magic Bounce","item":"Heavy-Duty Boots","nature":"Careful","evs":{"hp":252,"at":252,"df":252,"sd":252,"sp":252},"moves":["Fire Lash","Anchor Shot","Nuzzle","Recover"]},"BH Prankster":{"level":100,"ability":"Prankster","item":"Heavy-Duty Boots","nature":"Sassy","evs":{"hp":252,"at":252,"df":252,"sd":252,"sp":252},"moves":["Haze","V-create","Glare","Shore Up"]},"BH Magic Guard Life Orb":{"level":100,"ability":"Magic Guard","item":"Life Orb","nature":"Adamant","evs":{"hp":252,"at":252,"df":252,"sd":252,"sp":252},"moves":["Brave Bird","Fire Lash","Recover","Nuzzle"]},"BH Aerilate Rapid Spin":{"level":100,"ability":"Aerilate","item":"Heavy-Duty Boots","nature":"Careful","evs":{"hp":252,"at":252,"df":252,"sd":252,"sp":252},"moves":["Rapid Spin","Extreme Speed","V-create","Recover"]}},"Honchkrow":{"UU Showdown Usage":{"level":100,"ability":"Moxie","item":"Life Orb","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Sucker Punch","Brave Bird","U-turn","Night Slash"]}},"Houndour":{"LC Showdown Usage":{"level":5,"ability":"Flash Fire","item":"Life Orb","nature":"Timid","evs":{"df":36,"sa":196,"sd":36,"sp":236},"moves":["Dark Pulse","Flamethrower","Fire Blast","Sucker Punch"]}},"Houndstone":{"Uber Choice Band":{"level":100,"ability":"Sand Rush","item":"Choice Band","nature":"Adamant","teraType":"Ghost","evs":{"at":252,"sd":4,"sp":252},"moves":["Last Respects","Shadow Sneak","Body Press","Trick"]},"Doubles Sand Rush Attacker":{"level":100,"ability":"Sand Rush","item":"Focus Sash","nature":"Adamant","teraType":"Ghost","evs":{"at":252,"df":4,"sp":252},"moves":["Last Respects","Body Press","Will-O-Wisp","Protect"]}},"Hydreigon":{"OU Nasty Plot":{"level":100,"ability":"Levitate","item":"Life Orb","nature":"Timid","teraType":"Steel","evs":{"sa":252,"sd":4,"sp":252},"moves":["Nasty Plot","Dark Pulse","Draco Meteor","Earth Power"]},"UU Showdown Usage":{"level":100,"ability":"Levitate","item":"Choice Scarf","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Dark Pulse","Draco Meteor","U-turn","Flash Cannon"]},"Monotype Nasty Plot (Dark)":{"level":100,"ability":"Levitate","item":"Life Orb","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Nasty Plot","Dark Pulse","Draco Meteor","Flash Cannon"]},"Doubles Showdown Usage":{"level":100,"ability":"Levitate","item":"Life Orb","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Dark Pulse","Draco Meteor","Flash Cannon","Protect"]}},"Impidimp":{"LC Dual Screens":{"level":5,"ability":"Prankster","item":"Light Clay","nature":"Impish","teraType":"Ghost","evs":{"hp":156,"df":196,"sd":116,"sp":36},"moves":["Reflect","Light Screen","Parting Shot","Drain Punch"]}},"Incineroar":{"RU Offensive":{"level":100,"ability":"Intimidate","item":"Heavy-Duty Boots","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Swords Dance","Knock Off","Flare Blitz","U-turn"]},"RU Specially Defensive":{"level":100,"ability":"Intimidate","item":"Heavy-Duty Boots","nature":"Sassy","evs":{"hp":252,"at":20,"sd":236},"moves":["Knock Off","Overheat","Toxic","U-turn"]},"Monotype Specially Defensive Pivot (Fire)":{"level":100,"ability":"Intimidate","item":"Heavy-Duty Boots","nature":"Careful","evs":{"hp":252,"at":4,"sd":252},"moves":["Knock Off","Toxic","Taunt","Parting Shot"]},"Doubles Pivot":{"level":100,"ability":"Intimidate","item":"Sitrus Berry","nature":"Careful","evs":{"hp":252,"at":68,"df":28,"sd":160},"moves":["Fake Out","Flare Blitz","Knock Off","Parting Shot"]},"1v1 Weakness Policy":{"level":100,"ability":"Intimidate","item":"Weakness Policy","nature":"Jolly","evs":{"at":116,"df":216,"sp":176},"moves":["Bulk Up","Flare Blitz","Knock Off","Superpower"]},"1v1 Assault Vest":{"level":100,"ability":"Intimidate","item":"Assault Vest","nature":"Adamant","evs":{"hp":180,"at":60,"sd":240,"sp":28},"moves":["Flare Blitz","Flame Charge","Knock Off","Fake Out"]},"1v1 Chople Berry":{"level":100,"ability":"Intimidate","item":"Chople Berry","nature":"Adamant","evs":{"hp":192,"at":36,"df":252,"sp":28},"moves":["Flare Blitz","Knock Off","Flame Charge","Taunt"]}},"Indeedee":{"OU Choice Scarf":{"level":100,"ability":"Psychic Surge","item":"Choice Scarf","nature":"Timid","teraType":"Psychic","evs":{"sa":252,"sd":4,"sp":252},"moves":["Psychic","Hyper Voice","Trick","Psyshock"]},"OU Terrain Setter":{"level":100,"ability":"Psychic Surge","item":"Terrain Extender","nature":"Timid","teraType":"Psychic","evs":{"sa":252,"sd":4,"sp":252},"moves":["Psychic","Hyper Voice","Healing Wish","Dazzling Gleam"]},"UU Showdown Usage":{"level":100,"ability":"Psychic Surge","item":"Terrain Extender","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Psychic","Dazzling Gleam","Healing Wish","Hyper Voice"]}},"Indeedee-F":{"UU Showdown Usage":{"level":100,"ability":"Psychic Surge","item":"Terrain Extender","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Healing Wish","Psychic","Reflect","Light Screen"]},"Doubles TR Supporter":{"level":100,"ability":"Psychic Surge","item":"Safety Goggles","nature":"Calm","teraType":"Fairy","evs":{"hp":252,"df":240,"sd":16},"moves":["Psychic","Trick Room","Follow Me","Helping Hand"]}},"Inteleon":{"NU Choice Specs":{"level":100,"ability":"Torrent","item":"Choice Specs","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Hydro Pump","Dark Pulse","Ice Beam","U-turn"]}},"Inteleon-Gmax":{"NU Choice Specs":{"level":100,"ability":"Torrent","item":"Choice Specs","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Hydro Pump","Dark Pulse","Ice Beam","U-turn"]}},"Iron Bundle":{"Uber Heavy-Duty Boots":{"level":100,"ability":"Quark Drive","item":"Heavy-Duty Boots","nature":"Timid","teraType":"Ice","evs":{"sa":252,"sd":4,"sp":252},"moves":["Freeze-Dry","Hydro Pump","Ice Beam","Taunt"]},"Uber Choice Specs":{"level":100,"ability":"Quark Drive","item":"Choice Specs","nature":"Timid","teraType":"Ice","evs":{"sa":252,"sd":4,"sp":252},"moves":["Hydro Pump","Freeze-Dry","Flip Turn","Ice Beam"]},"Doubles Bulky Attacker":{"level":100,"ability":"Quark Drive","item":"Assault Vest","nature":"Timid","teraType":"Water","evs":{"hp":252,"sa":40,"sd":64,"sp":152},"moves":["Hydro Pump","Freeze-Dry","Icy Wind","Flip Turn"]},"Doubles Fast Attacker":{"level":100,"ability":"Quark Drive","item":"Life Orb","nature":"Timid","teraType":"Water","evs":{"sa":252,"sd":4,"sp":252},"moves":["Hydro Pump","Freeze-Dry","Icy Wind","Protect"]}},"Iron Hands":{"OU Choice Band":{"level":100,"ability":"Quark Drive","item":"Choice Band","nature":"Adamant","teraType":"Electric","evs":{"hp":56,"at":200,"df":252},"moves":["Wild Charge","Ice Punch","Close Combat","Earthquake"]},"OU Swords Dance":{"level":100,"ability":"Quark Drive","item":"Leftovers","nature":"Adamant","teraType":"Flying","evs":{"at":116,"sd":252,"sp":140},"moves":["Swords Dance","Drain Punch","Thunder Punch","Ice Punch"]},"Uber Swords Dance":{"level":100,"ability":"Quark Drive","item":"Leftovers","nature":"Adamant","teraType":"Fairy","evs":{"at":252,"sd":116,"sp":140},"moves":["Swords Dance","Drain Punch","Thunder Punch","Earthquake"]},"Monotype Assault Vest (Fighting)":{"level":100,"ability":"Quark Drive","item":"Assault Vest","nature":"Careful","evs":{"hp":252,"df":4,"sd":252},"moves":["Drain Punch","Thunder Punch","Heavy Slam","Earthquake"]},"Doubles Assault Vest":{"level":100,"ability":"Quark Drive","item":"Assault Vest","nature":"Adamant","teraType":"Grass","evs":{"at":252,"df":4,"sd":252},"moves":["Fake Out","Close Combat","Wild Charge","Ice Punch"]},"1v1 Attack Booster":{"level":100,"ability":"Quark Drive","item":"Booster Energy","nature":"Adamant","evs":{"hp":212,"at":92,"df":184,"sd":20},"moves":["Wild Charge","Close Combat","Ice Punch","Swords Dance"]},"1v1 Assault Vest":{"level":100,"ability":"Quark Drive","item":"Assault Vest","nature":"Adamant","evs":{"hp":136,"at":172,"df":80,"sd":120},"moves":["Close Combat","Wild Charge","Heavy Slam","Earthquake"]}},"Iron Jugulis":{"OU Choice Specs":{"level":100,"ability":"Quark Drive","item":"Choice Specs","nature":"Timid","teraType":"Flying","evs":{"sa":252,"sd":4,"sp":252},"moves":["Dark Pulse","Hurricane","Earth Power","U-turn"]},"UU Showdown Usage":{"level":100,"ability":"Quark Drive","item":"Booster Energy","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Dark Pulse","Hurricane","Earth Power","U-turn"]},"Doubles Tailwind Setter":{"level":100,"ability":"Quark Drive","item":"Booster Energy","nature":"Timid","teraType":"Flying","evs":{"sa":252,"sd":4,"sp":252},"moves":["Dark Pulse","Hurricane","Tailwind","Protect"]}},"Iron Moth":{"OU Offensive":{"level":100,"ability":"Quark Drive","item":"Heavy-Duty Boots","nature":"Timid","teraType":"Fairy","evs":{"sa":252,"sd":4,"sp":252},"moves":["Toxic Spikes","Sludge Wave","Flamethrower","Morning Sun"]},"OU Agility":{"level":100,"ability":"Quark Drive","item":"Booster Energy","nature":"Modest","teraType":"Grass","evs":{"sa":252,"sd":4,"sp":252},"moves":["Agility","Sludge Wave","Fiery Dance","Energy Ball"]},"Uber Agility":{"level":100,"ability":"Quark Drive","item":"Booster Energy","nature":"Modest","teraType":"Grass","evs":{"df":4,"sa":252,"sp":252},"moves":["Agility","Fiery Dance","Psychic","Energy Ball"]},"Monotype Choice Scarf (Poison)":{"level":100,"ability":"Quark Drive","item":"Choice Scarf","nature":"Timid","evs":{"df":4,"sa":252,"sp":252},"moves":["Flamethrower","Sludge Wave","Dazzling Gleam","Discharge"]},"Doubles Showdown Usage":{"level":100,"ability":"Quark Drive","item":"Booster Energy","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Sludge Wave","Fiery Dance","Heat Wave","Dazzling Gleam"]}},"Iron Thorns":{"OU Offensive":{"level":100,"ability":"Quark Drive","item":"Booster Energy","nature":"Jolly","teraType":"Electric","evs":{"at":252,"sd":4,"sp":252},"moves":["Dragon Dance","Ice Punch","Wild Charge","Rock Blast"]},"UU Showdown Usage":{"level":100,"ability":"Quark Drive","item":"Booster Energy","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Dragon Dance","Earthquake","Stone Edge","Thunder Punch"]}},"Iron Treads":{"OU Offensive":{"level":100,"ability":"Quark Drive","item":"Heavy-Duty Boots","nature":"Jolly","teraType":"Water","evs":{"at":252,"sd":4,"sp":252},"moves":["Earthquake","Iron Head","Ice Spinner","Rapid Spin"]},"OU Utility":{"level":100,"ability":"Quark Drive","item":"Leftovers","nature":"Jolly","teraType":"Flying","evs":{"hp":252,"sd":4,"sp":252},"moves":["Stealth Rock","Earthquake","Rapid Spin","Volt Switch"]},"OU Assault Vest":{"level":100,"ability":"Quark Drive","item":"Assault Vest","nature":"Jolly","teraType":"Ground","evs":{"hp":252,"sd":4,"sp":252},"moves":["Earthquake","Volt Switch","Knock Off","Rapid Spin"]},"Uber Specially Defensive":{"level":100,"ability":"Quark Drive","item":"Leftovers","nature":"Careful","teraType":"Fairy","ivs":{"df":16},"evs":{"hp":252,"at":4,"sd":252},"moves":["Earthquake","Rapid Spin","Stealth Rock","Knock Off"]},"Uber Fast Stealth Rock":{"level":100,"ability":"Quark Drive","item":"Leftovers","nature":"Jolly","teraType":"Water","evs":{"hp":252,"sd":4,"sp":252},"moves":["Earthquake","Stealth Rock","Knock Off","Rapid Spin"]}},"Iron Valiant":{"OU Calm Mind":{"level":100,"ability":"Quark Drive","item":"Booster Energy","nature":"Timid","teraType":"Electric","evs":{"df":4,"sa":252,"sp":252},"moves":["Moonblast","Thunderbolt","Psyshock","Calm Mind"]},"OU Choice Specs":{"level":100,"ability":"Quark Drive","item":"Choice Specs","nature":"Timid","teraType":"Fairy","evs":{"df":4,"sa":252,"sp":252},"moves":["Moonblast","Thunderbolt","Shadow Ball","Psyshock"]},"OU Mixed":{"level":100,"ability":"Quark Drive","item":"Booster Energy","nature":"Naive","teraType":"Fairy","evs":{"at":4,"sa":252,"sp":252},"moves":["Moonblast","Close Combat","Thunderbolt","Psyshock"]},"Uber Swords Dance":{"level":100,"ability":"Quark Drive","item":"Life Orb","nature":"Jolly","teraType":"Fairy","evs":{"at":252,"df":4,"sp":252},"moves":["Swords Dance","Spirit Break","Close Combat","Knock Off"]},"Uber Mixed":{"level":100,"ability":"Quark Drive","item":"Life Orb","nature":"Naive","teraType":"Fairy","evs":{"at":4,"sa":252,"sp":252},"moves":["Moonblast","Close Combat","Thunderbolt","Shadow Ball"]},"Uber Choice Band":{"level":100,"ability":"Quark Drive","item":"Choice Band","nature":"Jolly","teraType":"Fighting","evs":{"at":252,"df":4,"sp":252},"moves":["Close Combat","Spirit Break","Knock Off","Ice Punch"]},"Uber Choice Specs":{"level":100,"ability":"Quark Drive","item":"Choice Specs","nature":"Timid","teraType":"Fairy","evs":{"df":4,"sa":252,"sp":252},"moves":["Moonblast","Focus Blast","Thunderbolt","Shadow Ball"]},"Monotype Choice Specs (Fighting)":{"level":100,"ability":"Quark Drive","item":"Choice Specs","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Thunderbolt","Moonblast","Aura Sphere","Psychic"]},"Doubles Showdown Usage":{"level":100,"ability":"Quark Drive","item":"Booster Energy","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Spirit Break","Close Combat","Aura Sphere","Dazzling Gleam"]},"BH Mixed Attacker":{"level":100,"ability":"Pixilate","item":"Life Orb","nature":"Naive","evs":{"hp":252,"at":252,"df":252,"sa":252,"sd":252,"sp":252},"moves":["Boomburst","Extreme Speed","Close Combat","Strength Sap"]},"1v1 Encore + Disable":{"level":100,"ability":"Quark Drive","item":"Booster Energy","nature":"Timid","evs":{"hp":176,"df":188,"sp":144},"moves":["Protect","Encore","Disable","Moonblast"]},"1v1 Mixed Offense":{"level":100,"ability":"Quark Drive","item":"Booster Energy","nature":"Jolly","evs":{"hp":160,"at":144,"df":24,"sa":32,"sd":4,"sp":144},"moves":["Swords Dance","Moonblast","Close Combat","Encore"]}},"Ivysaur":{"ZU Sun Sweeper":{"level":100,"ability":"Chlorophyll","item":"Eviolite","nature":"Timid","evs":{"df":4,"sa":252,"sp":252},"moves":["Growth","Solar Beam","Sludge Bomb","Weather Ball"]}},"Jellicent":{"UU Defensive Utility":{"level":100,"ability":"Cursed Body","item":"Heavy-Duty Boots","nature":"Bold","evs":{"hp":252,"df":56,"sp":200},"moves":["Hex","Taunt","Will-O-Wisp","Recover"]},"RU Defensive Utility":{"level":100,"ability":"Water Absorb","item":"Heavy-Duty Boots","nature":"Bold","evs":{"hp":252,"df":212,"sp":44},"moves":["Hex","Recover","Will-O-Wisp","Taunt"]},"NU Defensive":{"level":100,"ability":"Water Absorb","item":"Colbur Berry","nature":"Bold","evs":{"hp":252,"df":180,"sp":76},"moves":["Recover","Taunt","Scald","Toxic"]},"PU Defensive Utility":{"level":100,"ability":"Cursed Body","item":"Colbur Berry","nature":"Bold","evs":{"hp":252,"df":224,"sp":32},"moves":["Recover","Taunt","Will-O-Wisp","Hex"]},"PU Special Wallbreaker":{"level":100,"ability":"Water Absorb","item":"Choice Specs","nature":"Modest","evs":{"sa":252,"sd":4,"sp":252},"moves":["Water Spout","Shadow Ball","Trick","Surf"]},"Monotype Physically Defensive Wall (Ghost)":{"level":100,"ability":"Water Absorb","item":"Leftovers","nature":"Bold","evs":{"hp":252,"df":252,"sp":4},"moves":["Scald","Taunt","Strength Sap","Will-O-Wisp"]},"1v1 Maranga Berry":{"level":100,"ability":"Cursed Body","item":"Maranga Berry","nature":"Careful","evs":{"hp":252,"df":80,"sd":96,"sp":80},"moves":["Scald","Strength Sap","Taunt","Recover"]},"1v1 Choice Scarf":{"level":100,"ability":"Cursed Body","item":"Choice Scarf","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Trick","Recover","Hydro Pump","Shadow Ball"]}},"Jirachi":{"OU Specially Defensive":{"level":100,"ability":"Serene Grace","item":"Leftovers","nature":"Careful","evs":{"hp":252,"sd":184,"sp":72},"moves":["Wish","Iron Head","Body Slam","Protect"]},"OU Choice Scarf":{"level":100,"ability":"Serene Grace","item":"Choice Scarf","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Iron Head","U-turn","Trick","Wish"]},"UU Choice Scarf":{"level":100,"ability":"Serene Grace","item":"Choice Scarf","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Iron Head","U-turn","Trick","Healing Wish"]},"UU SubToxic":{"level":100,"ability":"Serene Grace","item":"Leftovers","nature":"Jolly","evs":{"hp":252,"at":4,"sp":252},"moves":["Substitute","Iron Head","Fire Punch","Toxic"]},"UU Wish + Protect":{"level":100,"ability":"Serene Grace","item":"Leftovers","nature":"Jolly","evs":{"hp":252,"sd":16,"sp":240},"moves":["Wish","Protect","Iron Head","U-turn"]},"Monotype Specially Defensive (Psychic)":{"level":100,"ability":"Serene Grace","item":"Leftovers","nature":"Careful","evs":{"hp":252,"sd":160,"sp":96},"moves":["Stealth Rock","Iron Head","Thunder Wave","U-turn"]},"Monotype Choice Scarf (Psychic)":{"level":100,"ability":"Serene Grace","item":"Choice Scarf","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Iron Head","U-turn","Trick","Healing Wish"]},"Monotype Choice Specs (Steel)":{"level":100,"ability":"Serene Grace","item":"Choice Specs","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Psychic","Moonblast","Thunder","Energy Ball"]}},"Jolteon":{"UU Showdown Usage":{"level":100,"ability":"Volt Absorb","item":"Choice Specs","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Shadow Ball","Thunderbolt","Volt Switch","Tera Blast"]}},"Jynx":{"PU Nasty Plot":{"level":100,"ability":"Dry Skin","item":"Heavy-Duty Boots","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Nasty Plot","Lovely Kiss","Ice Beam","Psyshock"]},"PU Choice Specs":{"level":100,"ability":"Dry Skin","item":"Choice Specs","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Ice Beam","Psyshock","Focus Blast","Trick"]},"ZU Choice Specs":{"level":100,"ability":"Dry Skin","item":"Choice Specs","nature":"Timid","evs":{"df":4,"sa":252,"sp":252},"moves":["Ice Beam","Psychic","Focus Blast","Trick"]},"ZU Lovely Kiss":{"level":100,"ability":"Dry Skin","item":"Heavy-Duty Boots","nature":"Timid","evs":{"df":4,"sa":252,"sp":252},"moves":["Lovely Kiss","Ice Beam","Focus Blast","Psychic"]}},"Kabuto":{"LC Support":{"level":5,"ability":"Weak Armor","item":"Eviolite","nature":"Careful","evs":{"hp":116,"at":36,"df":36,"sd":156,"sp":156},"moves":["Rapid Spin","Stealth Rock","Knock Off","Rock Slide"]}},"Kabutops":{"RU Rain Sweeper":{"level":100,"ability":"Swift Swim","item":"Life Orb","nature":"Adamant","evs":{"at":252,"df":4,"sp":252},"moves":["Swords Dance","Liquidation","Stone Edge","Superpower"]},"NU Suicide Lead":{"level":100,"ability":"Weak Armor","item":"Focus Sash","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Stealth Rock","Knock Off","Rapid Spin","Stone Edge"]},"ZU Choice Scarf":{"level":100,"ability":"Battle Armor","item":"Choice Scarf","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Flip Turn","Stone Edge","Liquidation","Knock Off"]}},"Kadabra":{"PU Revenge Killer":{"level":100,"ability":"Magic Guard","item":"Focus Sash","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Psychic","Dazzling Gleam","Shadow Ball","Thunder Wave"]}},"Kangaskhan":{"PU Dual Priority":{"level":100,"ability":"Scrappy","item":"Silk Scarf","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Fake Out","Double-Edge","Earthquake","Sucker Punch"]},"ZU Priority Attacker":{"level":100,"ability":"Scrappy","item":"Silk Scarf","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Fake Out","Double-Edge","Sucker Punch","Earthquake"]},"ZU Trapper":{"level":100,"ability":"Early Bird","item":"Heavy-Duty Boots","nature":"Careful","evs":{"hp":252,"sd":200,"sp":56},"moves":["Whirlpool","Seismic Toss","Rest","Toxic"]}},"Kartana":{"OU Paper Cut":{"level":100,"ability":"Beast Boost","item":"Life Orb","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Swords Dance","Leaf Blade","Knock Off","Sacred Sword"]},"OU Paper Press":{"level":100,"ability":"Beast Boost","item":"Choice Band","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Leaf Blade","Smart Strike","Knock Off","Sacred Sword"]},"OU Paper Plane":{"level":100,"ability":"Beast Boost","item":"Choice Scarf","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Leaf Blade","Knock Off","Sacred Sword","Smart Strike"]},"Battle Stadium Singles Physical Sweeper":{"level":50,"ability":"Beast Boost","item":"Focus Sash","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Leaf Blade","Sacred Sword","Aerial Ace","Smart Strike"]},"Battle Stadium Singles Choice Scarf":{"level":50,"ability":"Beast Boost","item":"Choice Scarf","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Leaf Blade","Sacred Sword","Smart Strike","Guillotine"]},"BH Choice Band":{"level":100,"ability":"Steely Spirit","item":"Choice Band","nature":"Jolly","evs":{"hp":252,"at":252,"df":252,"sa":252,"sd":252,"sp":252},"moves":["Sunsteel Strike","V-create","Fishious Rend","U-turn"]},"CAP Choice Scarf":{"level":100,"ability":"Beast Boost","item":"Choice Scarf","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Leaf Blade","Knock Off","Sacred Sword","Smart Strike"]},"CAP Swords Dance":{"level":100,"ability":"Beast Boost","item":"Life Orb","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Swords Dance","Leaf Blade","Knock Off","Sacred Sword"]},"CAP Choice Band":{"level":100,"ability":"Beast Boost","item":"Choice Band","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Leaf Blade","Smart Strike","Knock Off","Sacred Sword"]},"1v1 Life Orb":{"level":100,"ability":"Beast Boost","item":"Life Orb","nature":"Jolly","evs":{"hp":4,"at":252,"sp":252},"moves":["Leaf Blade","Smart Strike","Knock Off","Protect"]},"1v1 Choice Band":{"level":100,"ability":"Beast Boost","item":"Choice Band","nature":"Jolly","evs":{"hp":4,"at":252,"sp":252},"moves":["Leaf Blade","Smart Strike","Knock Off","Sacred Sword"]},"1v1 Choice Scarf":{"level":100,"ability":"Beast Boost","item":"Choice Scarf","nature":"Jolly","evs":{"hp":52,"at":252,"sd":4,"sp":200},"moves":["Leaf Blade","Knock Off","Sacred Sword","Smart Strike"]}},"Keldeo":{"OU Calm Mind":{"level":100,"ability":"Justified","item":"Leftovers","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Calm Mind","Scald","Secret Sword","Substitute"]},"UU Choice Specs":{"level":100,"ability":"Justified","item":"Choice Specs","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Hydro Pump","Secret Sword","Scald","Icy Wind"]},"UU Calm Mind":{"level":100,"ability":"Justified","item":"Leftovers","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Calm Mind","Scald","Secret Sword","Air Slash"]},"Monotype Calm Mind (Water)":{"level":100,"ability":"Justified","item":"Leftovers","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Calm Mind","Taunt","Hydro Pump","Focus Blast"]},"Monotype Choice Specs (Water)":{"level":100,"ability":"Justified","item":"Choice Specs","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Aura Sphere","Hydro Pump","Icy Wind","Scald"]},"Monotype Choice Specs (Fighting)":{"level":100,"ability":"Justified","item":"Choice Specs","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Hydro Pump","Secret Sword","Scald","Flip Turn"]},"1v1 Sitrus Berry":{"level":100,"ability":"Justified","item":"Sitrus Berry","nature":"Timid","evs":{"hp":120,"df":52,"sa":120,"sp":216},"moves":["Hydro Pump","Secret Sword","Calm Mind","Taunt"]}},"Keldeo-Resolute":{"OU Calm Mind":{"level":100,"ability":"Justified","item":"Leftovers","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Calm Mind","Scald","Secret Sword","Substitute"]},"UU Choice Specs":{"level":100,"ability":"Justified","item":"Choice Specs","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Hydro Pump","Secret Sword","Scald","Icy Wind"]},"UU Calm Mind":{"level":100,"ability":"Justified","item":"Leftovers","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Calm Mind","Scald","Secret Sword","Air Slash"]},"Monotype Calm Mind (Water)":{"level":100,"ability":"Justified","item":"Leftovers","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Calm Mind","Taunt","Hydro Pump","Focus Blast"]},"Monotype Choice Specs (Water)":{"level":100,"ability":"Justified","item":"Choice Specs","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Aura Sphere","Hydro Pump","Icy Wind","Scald"]},"Monotype Choice Specs (Fighting)":{"level":100,"ability":"Justified","item":"Choice Specs","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Hydro Pump","Secret Sword","Scald","Flip Turn"]},"1v1 Sitrus Berry":{"level":100,"ability":"Justified","item":"Sitrus Berry","nature":"Timid","evs":{"hp":120,"df":52,"sa":120,"sp":216},"moves":["Hydro Pump","Secret Sword","Calm Mind","Taunt"]}},"Kilowattrel":{"OU Rain Sweeper":{"level":100,"ability":"Volt Absorb","item":"Heavy-Duty Boots","nature":"Timid","teraType":"Flying","evs":{"sa":252,"sd":4,"sp":252},"moves":["Thunder","Hurricane","Weather Ball","U-turn"]},"UU Showdown Usage":{"level":100,"ability":"Volt Absorb","item":"Heavy-Duty Boots","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Hurricane","Volt Switch","Thunder","Weather Ball"]},"Doubles Tailwind Setter":{"level":100,"ability":"Wind Power","item":"Focus Sash","nature":"Timid","teraType":"Electric","evs":{"sa":252,"sd":4,"sp":252},"moves":["Thunderbolt","Air Slash","Tailwind","Protect"]}},"Kingambit":{"OU Offensive":{"level":100,"ability":"Supreme Overlord","item":"Heavy-Duty Boots","nature":"Adamant","teraType":"Flying","evs":{"hp":112,"at":252,"sp":144},"moves":["Swords Dance","Iron Head","Kowtow Cleave","Sucker Punch"]},"Uber Offensive":{"level":100,"ability":"Supreme Overlord","item":"Leftovers","nature":"Adamant","teraType":"Flying","evs":{"hp":112,"at":252,"sp":144},"moves":["Swords Dance","Iron Head","Kowtow Cleave","Sucker Punch"]},"Doubles Bigsharp":{"level":100,"ability":"Defiant","item":"Assault Vest","nature":"Adamant","teraType":"Flying","evs":{"hp":252,"at":252,"sd":4},"moves":["Sucker Punch","Iron Head","Kowtow Cleave","Brick Break"]}},"Kingdra":{"OU Choice Specs":{"level":100,"ability":"Swift Swim","item":"Choice Specs","nature":"Modest","evs":{"sa":252,"sd":4,"sp":252},"moves":["Hydro Pump","Draco Meteor","Surf","Flip Turn"]},"UU Choice Specs":{"level":100,"ability":"Swift Swim","item":"Choice Specs","nature":"Modest","evs":{"df":4,"sa":252,"sp":252},"moves":["Hydro Pump","Draco Meteor","Hurricane","Surf"]},"RU Rain Sweeper":{"level":100,"ability":"Swift Swim","item":"Life Orb","nature":"Modest","evs":{"df":4,"sa":252,"sp":252},"moves":["Surf","Draco Meteor","Hurricane","Hydro Pump"]},"NU CritDra":{"level":100,"ability":"Sniper","item":"Scope Lens","nature":"Modest","evs":{"sa":252,"sd":4,"sp":252},"moves":["Focus Energy","Draco Meteor","Surf","Agility"]},"Monotype Swift Swim (Water)":{"level":100,"ability":"Swift Swim","item":"Choice Specs","nature":"Modest","evs":{"sa":252,"sd":4,"sp":252},"moves":["Surf","Draco Meteor","Dragon Pulse","Hydro Pump"]},"Doubles Swift Swim Attacker":{"level":100,"ability":"Swift Swim","item":"Life Orb","nature":"Modest","evs":{"sa":252,"sd":4,"sp":252},"moves":["Muddy Water","Hurricane","Draco Meteor","Protect"]}},"Kitsunoh":{"CAP Choice Scarf":{"level":100,"ability":"Iron Fist","item":"Choice Scarf","nature":"Jolly","teraType":"Water","evs":{"at":252,"sd":4,"sp":252},"moves":["Shadow Strike","U-turn","Meteor Mash","Trick"]}},"Klawf":{"UU Showdown Usage":{"level":100,"ability":"Anger Shell","item":"Focus Sash","nature":"Adamant","evs":{"hp":248,"at":252,"sd":8},"moves":["Crabhammer","Knock Off","Stone Edge","High Horsepower"]}},"Klefki":{"OU Trick Room Setter":{"level":100,"ability":"Prankster","item":"Light Clay","nature":"Relaxed","teraType":"Dark","evs":{"hp":252,"df":252,"sd":4},"moves":["Spikes","Light Screen","Reflect","Trick Room"]},"UU Showdown Usage":{"level":100,"ability":"Prankster","item":"Light Clay","nature":"Bold","evs":{"hp":252,"df":252,"sd":4},"moves":["Light Screen","Reflect","Thunder Wave","Spikes"]},"Monotype Dual Screens (Fairy)":{"level":100,"ability":"Prankster","item":"Light Clay","nature":"Bold","evs":{"hp":252,"df":252,"sd":4},"moves":["Reflect","Light Screen","Spikes","Foul Play"]},"Monotype Dual Screens (Steel)":{"level":100,"ability":"Prankster","item":"Light Clay","nature":"Bold","evs":{"hp":252,"df":252,"sd":4},"moves":["Reflect","Light Screen","Spikes","Foul Play"]}},"Klinklang":{"ZU Shift Gear Sweeper":{"level":100,"ability":"Clear Body","item":"Leftovers","nature":"Adamant","evs":{"hp":100,"at":252,"sp":156},"moves":["Shift Gear","Gear Grind","Substitute","Toxic"]},"ZU Choice Band":{"level":100,"ability":"Clear Body","item":"Choice Band","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["Gear Grind","Wild Charge","Volt Switch","Facade"]}},"Koffing":{"LC Tank":{"level":5,"ability":"Neutralizing Gas","item":"Eviolite","nature":"Bold","evs":{"df":76,"sa":196,"sd":76,"sp":156},"moves":["Sludge Bomb","Fire Blast","Will-O-Wisp","Pain Split"]}},"Kommo-o":{"OU Defensive":{"level":100,"ability":"Bulletproof","item":"Leftovers","nature":"Impish","evs":{"hp":252,"df":148,"sd":40,"sp":68},"moves":["Body Press","Earthquake","Stealth Rock","Toxic"]},"Monotype Iron Defense (Dragon)":{"level":100,"ability":"Bulletproof","item":"Leftovers","nature":"Jolly","evs":{"hp":252,"df":4,"sd":52,"sp":200},"moves":["Iron Defense","Body Press","Earthquake","Substitute"]},"Doubles Throat Spray Sweeper":{"level":100,"ability":"Overcoat","item":"Throat Spray","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Clangorous Soul","Clanging Scales","Flamethrower","Protect"]},"Doubles Body Press":{"level":100,"ability":"Overcoat","item":"Leftovers","nature":"Bold","evs":{"hp":252,"df":192,"sp":64},"moves":["Iron Defense","Body Press","Stealth Rock","Protect"]},"1v1 Sitrus Berry":{"level":100,"ability":"Soundproof","item":"Sitrus Berry","nature":"Impish","evs":{"hp":176,"df":156,"sp":176},"moves":["Body Press","Taunt","Substitute","Iron Defense"]},"1v1 Haban Berry":{"level":100,"ability":"Soundproof","item":"Haban Berry","nature":"Bold","evs":{"hp":236,"df":28,"sa":48,"sd":112,"sp":84},"moves":["Clanging Scales","Body Press","Iron Defense","Taunt"]},"1v1 Yache Berry":{"level":100,"ability":"Soundproof","item":"Yache Berry","nature":"Bold","evs":{"hp":80,"df":252,"sp":176},"moves":["Body Press","Substitute","Iron Defense","Taunt"]}},"Kommo-o-Totem":{"OU Defensive":{"level":100,"ability":"Bulletproof","item":"Leftovers","nature":"Impish","evs":{"hp":252,"df":148,"sd":40,"sp":68},"moves":["Body Press","Earthquake","Stealth Rock","Toxic"]},"Monotype Iron Defense (Dragon)":{"level":100,"ability":"Bulletproof","item":"Leftovers","nature":"Jolly","evs":{"hp":252,"df":4,"sd":52,"sp":200},"moves":["Iron Defense","Body Press","Earthquake","Substitute"]},"Doubles Throat Spray Sweeper":{"level":100,"ability":"Overcoat","item":"Throat Spray","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Clangorous Soul","Clanging Scales","Flamethrower","Protect"]},"Doubles Body Press":{"level":100,"ability":"Overcoat","item":"Leftovers","nature":"Bold","evs":{"hp":252,"df":192,"sp":64},"moves":["Iron Defense","Body Press","Stealth Rock","Protect"]},"1v1 Sitrus Berry":{"level":100,"ability":"Soundproof","item":"Sitrus Berry","nature":"Impish","evs":{"hp":176,"df":156,"sp":176},"moves":["Body Press","Taunt","Substitute","Iron Defense"]},"1v1 Haban Berry":{"level":100,"ability":"Soundproof","item":"Haban Berry","nature":"Bold","evs":{"hp":236,"df":28,"sa":48,"sd":112,"sp":84},"moves":["Clanging Scales","Body Press","Iron Defense","Taunt"]},"1v1 Yache Berry":{"level":100,"ability":"Soundproof","item":"Yache Berry","nature":"Bold","evs":{"hp":80,"df":252,"sp":176},"moves":["Body Press","Substitute","Iron Defense","Taunt"]}},"Koraidon":{"Uber Swords Dance + Flame Charge":{"level":100,"ability":"Orichalcum Pulse","item":"Leftovers","nature":"Jolly","teraType":"Fire","evs":{"at":252,"df":4,"sp":252},"moves":["Swords Dance","Flame Charge","Dragon Claw","Collision Course"]},"Uber Choice Scarf":{"level":100,"ability":"Orichalcum Pulse","item":"Choice Scarf","nature":"Jolly","teraType":"Fire","evs":{"at":252,"df":4,"sp":252},"moves":["U-turn","Collision Course","Dragon Claw","Flare Blitz"]},"Uber Swords Dance":{"level":100,"ability":"Orichalcum Pulse","item":"Life Orb","nature":"Jolly","teraType":"Fire","evs":{"at":252,"df":4,"sp":252},"moves":["Swords Dance","Collision Course","Flare Blitz","Stomping Tantrum"]},"Uber Choice Band":{"level":100,"ability":"Orichalcum Pulse","item":"Choice Band","nature":"Jolly","teraType":"Fire","evs":{"at":252,"df":4,"sp":252},"moves":["U-turn","Close Combat","Flare Blitz","Outrage"]}},"Krilowatt":{"CAP Offensive Pivot":{"level":100,"ability":"Magic Guard","item":"Life Orb","nature":"Timid","teraType":"Flying","evs":{"sa":252,"sd":4,"sp":252},"moves":["Thunderbolt","Volt Switch","Surf","Ice Beam"]}},"Krokorok":{"PU Stealth Rock":{"level":100,"ability":"Intimidate","item":"Eviolite","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["Stealth Rock","Knock Off","Earthquake","Taunt"]}},"Krookodile":{"UU Showdown Usage":{"level":100,"ability":"Moxie","item":"Choice Scarf","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Earthquake","Crunch","Close Combat","Stealth Rock"]}},"Kyogre":{"Uber Bulky Calm Mind":{"level":100,"ability":"Drizzle","item":"Leftovers","nature":"Bold","evs":{"hp":252,"df":252,"sd":4},"moves":["Calm Mind","Scald","Rest","Ice Beam"]},"Uber Choice Specs":{"level":100,"ability":"Drizzle","item":"Choice Specs","nature":"Modest","evs":{"df":4,"sa":252,"sp":252},"moves":["Water Spout","Origin Pulse","Ice Beam","Thunder"]},"Uber Choice Scarf":{"level":100,"ability":"Drizzle","item":"Choice Scarf","nature":"Timid","evs":{"df":4,"sa":252,"sp":252},"moves":["Water Spout","Origin Pulse","Ice Beam","Thunder"]},"Uber SubCM":{"level":100,"ability":"Drizzle","item":"Leftovers","nature":"Modest","evs":{"hp":252,"sa":140,"sp":116},"moves":["Substitute","Calm Mind","Surf","Thunder Wave"]},"AG Thunder Wave + Substitute":{"level":100,"ability":"Drizzle","item":"Leftovers","nature":"Bold","evs":{"hp":248,"df":244,"sd":16},"moves":["Thunder Wave","Substitute","Calm Mind","Surf"]},"AG Calm Mind":{"level":100,"ability":"Drizzle","item":"Leftovers","nature":"Bold","evs":{"hp":248,"df":244,"sp":16},"moves":["Calm Mind","Scald","Ice Beam","Rest"]},"AG Choice Specs":{"level":100,"ability":"Drizzle","item":"Choice Specs","nature":"Timid","evs":{"df":4,"sa":252,"sp":252},"moves":["Water Spout","Origin Pulse","Ice Beam","Thunder"]},"AG Choice Scarf":{"level":100,"ability":"Drizzle","item":"Choice Scarf","nature":"Timid","evs":{"hp":4,"sa":252,"sp":252},"moves":["Water Spout","Origin Pulse","Ice Beam","Thunder"]},"BH Regenvest":{"level":100,"ability":"Regenerator","item":"Assault Vest","nature":"Relaxed","ivs":{"sp":0},"evs":{"hp":252,"at":252,"df":252,"sa":252,"sd":252},"moves":["U-turn","Scald","Nuzzle","Spectral Thief"]},"BH Utility Poison Heal":{"level":100,"ability":"Poison Heal","item":"Toxic Orb","nature":"Calm","evs":{"hp":252,"at":252,"df":252,"sa":252,"sd":252,"sp":252},"moves":["Scald","Baneful Bunker","Stealth Rock","Spectral Thief"]},"BH Quiver Dance Poison Heal":{"level":100,"ability":"Poison Heal","item":"Toxic Orb","nature":"Modest","ivs":{"at":0},"evs":{"hp":252,"df":252,"sa":252,"sd":252,"sp":252},"moves":["Quiver Dance","Scald","Ice Beam","Thunder Cage"]},"BH Prankster":{"level":100,"ability":"Prankster","item":"Leftovers","nature":"Calm","ivs":{"at":0},"evs":{"hp":252,"df":252,"sa":252,"sd":252,"sp":252},"moves":["Haze","Recover","Scald","Parting Shot"]}},"Kyurem":{"Uber Pressure":{"level":100,"ability":"Pressure","item":"Leftovers","nature":"Jolly","evs":{"hp":56,"df":236,"sp":216},"moves":["Substitute","Roost","Icicle Spear","Dragon Dance"]},"Monotype SubRoost (Ice)":{"level":100,"ability":"Pressure","item":"Heavy-Duty Boots","nature":"Timid","evs":{"hp":56,"sa":192,"sd":8,"sp":252},"moves":["Substitute","Roost","Freeze-Dry","Earth Power"]},"Monotype SubRoost (Dragon)":{"level":100,"ability":"Pressure","item":"Heavy-Duty Boots","nature":"Timid","evs":{"hp":56,"sa":200,"sp":252},"moves":["Substitute","Roost","Freeze-Dry","Earth Power"]},"Monotype Choice Specs (Dragon)":{"level":100,"ability":"Pressure","item":"Choice Specs","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Freeze-Dry","Ice Beam","Draco Meteor","Earth Power"]},"Monotype Dragon Dance (Dragon)":{"level":100,"ability":"Pressure","item":"Heavy-Duty Boots","nature":"Jolly","evs":{"hp":248,"sd":8,"sp":252},"moves":["Substitute","Roost","Dragon Dance","Icicle Spear"]},"1v1 Choice Specs":{"level":100,"ability":"Pressure","item":"Choice Specs","nature":"Modest","evs":{"df":164,"sa":248,"sp":96},"moves":["Ice Beam","Freeze-Dry","Draco Meteor","Earth Power"]},"1v1 Haban Berry Stall":{"level":100,"ability":"Pressure","item":"Haban Berry","nature":"Bold","evs":{"hp":216,"df":156,"sp":136},"moves":["Noble Roar","Roost","Glaciate","Draco Meteor"]},"1v1 Haban Berry Offensive":{"level":100,"ability":"Pressure","item":"Haban Berry","nature":"Modest","evs":{"hp":216,"df":8,"sa":36,"sd":12,"sp":236},"moves":["Draco Meteor","Glaciate","Earth Power","Freeze-Dry"]},"1v1 Assault Vest":{"level":100,"ability":"Pressure","item":"Assault Vest","nature":"Calm","evs":{"hp":128,"sa":140,"sd":240},"moves":["Draco Meteor","Freeze-Dry","Glaciate","Earth Power"]},"1v1 Chople Berry":{"level":100,"ability":"Pressure","item":"Chople Berry","nature":"Modest","evs":{"hp":228,"df":240,"sa":40},"moves":["Draco Meteor","Freeze-Dry","Glaciate","Focus Blast"]},"1v1 Choice Scarf":{"level":100,"ability":"Pressure","item":"Choice Scarf","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Draco Meteor","Ice Beam","Freeze-Dry","Focus Blast"]},"1v1 Roseli Berry":{"level":100,"ability":"Pressure","item":"Roseli Berry","nature":"Timid","evs":{"hp":52,"sa":92,"sd":188,"sp":176},"moves":["Laser Focus","Freeze-Dry","Noble Roar","Roost"]},"1v1 Weakness Policy":{"level":100,"ability":"Pressure","item":"Weakness Policy","nature":"Timid","evs":{"hp":224,"df":16,"sa":68,"sd":72,"sp":128},"moves":["Glaciate","Earth Power","Freeze-Dry","Draco Meteor"]}},"Kyurem-Black":{"Uber Dragon Dance":{"level":100,"ability":"Teravolt","item":"Life Orb","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Dragon Dance","Icicle Spear","Roost","Fusion Bolt"]},"AG Dragon Dance":{"level":100,"ability":"Teravolt","item":"Life Orb","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Dragon Dance","Icicle Spear","Fusion Bolt","Shadow Claw"]},"Doubles Dragon Dance":{"level":100,"ability":"Teravolt","item":"Chople Berry","nature":"Adamant","evs":{"hp":4,"at":252,"sp":252},"moves":["Icicle Spear","Fusion Bolt","Dragon Dance","Protect"]},"Doubles Assault Vest":{"level":100,"ability":"Teravolt","item":"Assault Vest","nature":"Timid","evs":{"hp":228,"sd":128,"sp":152},"moves":["Ice Beam","Fusion Bolt","Earth Power","Icy Wind"]},"BH Choice Band":{"level":100,"ability":"Mold Breaker","item":"Choice Band","nature":"Adamant","evs":{"hp":252,"at":252,"df":252,"sd":252,"sp":252},"moves":["Glacial Lance","V-create","Bolt Strike","Trick"]},"BH Setup Sweeper":{"level":100,"ability":"Mold Breaker","item":"Life Orb","nature":"Adamant","evs":{"hp":252,"at":252,"df":252,"sd":252,"sp":252},"moves":["Shift Gear","Glacial Lance","V-create","Precipice Blades"]}},"Kyurem-White":{"Uber Special Attacker":{"level":100,"ability":"Turboblaze","item":"Choice Specs","nature":"Timid","evs":{"df":4,"sa":252,"sp":252},"moves":["Draco Meteor","Ice Beam","Freeze-Dry","Fusion Flare"]},"AG Sheer Cold":{"level":100,"ability":"Turboblaze","item":"Heavy-Duty Boots","nature":"Timid","evs":{"sa":36,"sd":220,"sp":252},"moves":["Sheer Cold","Freeze-Dry","Fusion Flare","Roost"]},"BH Choice Specs Refrigerate":{"level":100,"ability":"Refrigerate","item":"Choice Specs","nature":"Naive","evs":{"hp":252,"at":252,"df":252,"sa":252,"sd":252,"sp":252},"moves":["Boomburst","Blue Flare","Core Enforcer","Extreme Speed"]}},"Landorus":{"Uber Wallbreaker":{"level":100,"ability":"Sheer Force","item":"Life Orb","nature":"Naive","evs":{"at":4,"sa":252,"sp":252},"moves":["Earth Power","Rock Slide","Knock Off","Superpower"]},"Doubles Special Attacker":{"level":100,"ability":"Sheer Force","item":"Life Orb","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Earth Power","Sludge Bomb","Substitute","Protect"]},"1v1 Fast Life Orb":{"level":100,"ability":"Sheer Force","item":"Life Orb","nature":"Timid","evs":{"df":4,"sa":252,"sp":252},"moves":["Earth Power","Sludge Wave","Protect","Smack Down"]},"1v1 Bulky Life Orb":{"level":100,"ability":"Sheer Force","item":"Life Orb","nature":"Modest","evs":{"hp":4,"sa":188,"sd":216,"sp":100},"moves":["Calm Mind","Earth Power","Substitute","Sludge Wave"]},"1v1 Choice Specs":{"level":100,"ability":"Sheer Force","item":"Choice Specs","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Earth Power","Sludge Wave","Focus Blast","Psychic"]},"1v1 Choice Band":{"level":100,"ability":"Sheer Force","item":"Choice Band","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Earthquake","Rock Slide","Iron Tail","Fly"]}},"Landorus-Therian":{"OU Defensive":{"level":100,"ability":"Intimidate","item":"Leftovers","nature":"Impish","evs":{"hp":252,"df":164,"sp":92},"moves":["Stealth Rock","Earthquake","U-turn","Toxic"]},"OU Swords Dance":{"level":100,"ability":"Intimidate","item":"Leftovers","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["Swords Dance","Earthquake","Stone Edge","Substitute"]},"Uber Defensive":{"level":100,"ability":"Intimidate","item":"Leftovers","nature":"Impish","evs":{"hp":248,"df":252,"sp":8},"moves":["Earthquake","Toxic","U-turn","Stealth Rock"]},"AG Stealth Rock Lead":{"level":100,"ability":"Intimidate","item":"Focus Sash","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Stealth Rock","Swords Dance","Earthquake","Explosion"]},"AG Physically Defensive":{"level":100,"ability":"Intimidate","item":"Leftovers","nature":"Impish","evs":{"hp":248,"df":252,"sp":8},"moves":["Earthquake","U-turn","Knock Off","Stealth Rock"]},"AG Swords Dance":{"level":100,"ability":"Intimidate","item":"Life Orb","nature":"Jolly","evs":{"hp":4,"at":252,"sp":252},"moves":["Swords Dance","Earthquake","Fly","Stone Edge"]},"Monotype Bulky Pivot (Flying)":{"level":100,"ability":"Intimidate","item":"Leftovers","nature":"Jolly","evs":{"hp":252,"sd":48,"sp":208},"moves":["Earthquake","U-turn","Stealth Rock","Knock Off"]},"Monotype Choice Scarf (Flying)":{"level":100,"ability":"Intimidate","item":"Choice Scarf","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Earthquake","U-turn","Knock Off","Stone Edge"]},"Monotype Substitute + Bulk Up (Ground)":{"level":100,"ability":"Intimidate","item":"Leftovers","nature":"Impish","evs":{"hp":252,"df":148,"sd":60,"sp":48},"moves":["Bulk Up","Substitute","Earthquake","Gravity"]},"Monotype Choice Scarf (Ground)":{"level":100,"ability":"Intimidate","item":"Choice Scarf","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Earthquake","Stone Edge","Knock Off","U-turn"]},"Monotype Bulky Pivot (Ground)":{"level":100,"ability":"Intimidate","item":"Leftovers","nature":"Careful","evs":{"hp":252,"df":160,"sd":96},"moves":["Earthquake","U-turn","Gravity","Toxic"]},"Doubles Choice Band":{"level":100,"ability":"Intimidate","item":"Choice Band","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Superpower","Knock Off","U-turn","Explosion"]},"Battle Stadium Singles Dynamax Sweeper":{"level":50,"ability":"Intimidate","item":"Life Orb","nature":"Adamant","evs":{"hp":84,"at":196,"sp":228},"moves":["Earthquake","Fly","Stone Edge","Swords Dance"]},"Battle Stadium Singles Bulky Support":{"level":50,"ability":"Intimidate","item":"Sitrus Berry","nature":"Impish","ivs":{"sp":30},"evs":{"hp":252,"df":252,"sd":4},"moves":["Earthquake","Rock Tomb","U-turn","Stealth Rock"]},"Battle Stadium Singles Choice Scarf":{"level":50,"ability":"Intimidate","item":"Choice Scarf","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["Earthquake","U-turn","Rock Tomb","Fly"]},"Battle Stadium Singles Suicide Lead":{"level":50,"ability":"Intimidate","item":"Focus Sash","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["Stealth Rock","Earthquake","Rock Tomb","U-turn"]},"BH Choice Band":{"level":100,"ability":"Adaptability","item":"Choice Band","nature":"Jolly","evs":{"hp":252,"at":252,"df":252,"sd":252,"sp":252},"moves":["Thousand Arrows","Dragon Ascent","Precipice Blades","U-turn"]},"CAP Defensive Pivot":{"level":100,"ability":"Intimidate","item":"Leftovers","nature":"Careful","evs":{"hp":252,"sd":252,"sp":4},"moves":["Defog","Earthquake","U-turn","Toxic"]},"CAP Suicide Lead":{"level":100,"ability":"Intimidate","item":"Focus Sash","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Stealth Rock","Swords Dance","Earthquake","Explosion"]},"1v1 Assault Vest":{"level":100,"ability":"Intimidate","item":"Assault Vest","nature":"Adamant","evs":{"hp":160,"at":76,"df":4,"sd":164,"sp":104},"moves":["Earthquake","Outrage","Bulldoze","Smack Down"]},"1v1 Fast Choice Band":{"level":100,"ability":"Intimidate","item":"Choice Band","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Earthquake","Bulldoze","Outrage","Knock Off"]},"1v1 Bulky Choice Band":{"level":100,"ability":"Intimidate","item":"Choice Band","nature":"Adamant","evs":{"hp":184,"at":216,"sd":100,"sp":8},"moves":["Earthquake","Outrage","Iron Tail","Rock Tomb"]},"1v1 Offensive Life Orb":{"level":100,"ability":"Intimidate","item":"Life Orb","nature":"Adamant","evs":{"at":252,"df":152,"sp":104},"moves":["Earthquake","Outrage","Smack Down","Swords Dance"]},"1v1 Defensive Life Orb":{"level":100,"ability":"Intimidate","item":"Life Orb","nature":"Adamant","evs":{"hp":168,"at":84,"df":248,"sp":8},"moves":["Bulk Up","Earthquake","Knock Off","Outrage"]},"1v1 Lum Berry":{"level":100,"ability":"Intimidate","item":"Lum Berry","nature":"Adamant","evs":{"hp":248,"at":52,"df":136,"sd":64,"sp":8},"moves":["Swords Dance","Earthquake","Knock Off","Rock Tomb"]},"1v1 Choice Scarf":{"level":100,"ability":"Intimidate","item":"Choice Scarf","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Earthquake","Superpower","Outrage","Rock Slide"]},"1v1 Jaboca Berry":{"level":100,"ability":"Intimidate","item":"Jaboca Berry","nature":"Adamant","evs":{"hp":252,"at":96,"df":92,"sd":60,"sp":8},"moves":["Bulk Up","Earthquake","Outrage","Knock Off"]}},"Lanturn":{"PU Bulky Pivot":{"level":100,"ability":"Volt Absorb","item":"Leftovers","nature":"Calm","evs":{"hp":88,"df":172,"sd":248},"moves":["Scald","Volt Switch","Toxic","Protect"]}},"Lapras":{"AG Defensive":{"level":100,"ability":"Water Absorb","item":"Heavy-Duty Boots","nature":"Calm","evs":{"hp":248,"df":8,"sd":252},"moves":["Sheer Cold","Horn Drill","Rest","Freeze-Dry"]},"Battle Stadium Singles G-Max Resonance":{"level":50,"ability":"Water Absorb","item":"Weakness Policy","nature":"Modest","evs":{"hp":252,"sa":252,"sp":4},"moves":["Freeze-Dry","Sparkling Aria","Sheer Cold","Ice Shard"]}},"Lapras-Gmax":{"AG Defensive":{"level":100,"ability":"Water Absorb","item":"Heavy-Duty Boots","nature":"Calm","evs":{"hp":248,"df":8,"sd":252},"moves":["Sheer Cold","Horn Drill","Rest","Freeze-Dry"]},"Battle Stadium Singles G-Max Resonance":{"level":50,"ability":"Water Absorb","item":"Weakness Policy","nature":"Modest","evs":{"hp":252,"sa":252,"sp":4},"moves":["Freeze-Dry","Sparkling Aria","Sheer Cold","Ice Shard"]}},"Larvesta":{"LC Defensive Pivot":{"level":5,"ability":"Flame Body","item":"Eviolite","nature":"Impish","teraType":"Steel","evs":{"hp":76,"df":236,"sd":156,"sp":36},"moves":["Flare Blitz","U-turn","Will-O-Wisp","Morning Sun"]}},"Larvitar":{"LC Showdown Usage":{"level":5,"ability":"Guts","item":"Flame Orb","nature":"Adamant","evs":{"at":244,"sd":36,"sp":188},"moves":["Earthquake","Dragon Dance","Facade","Crunch"]}},"Latias":{"OU Double Dance":{"level":100,"ability":"Levitate","item":"Weakness Policy","nature":"Timid","evs":{"df":4,"sa":252,"sp":252},"moves":["Calm Mind","Agility","Stored Power","Aura Sphere"]},"Monotype Choice Scarf (Dragon)":{"level":100,"ability":"Levitate","item":"Choice Scarf","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Draco Meteor","Psychic","Healing Wish","Defog"]},"Monotype Choice Scarf (Psychic)":{"level":100,"ability":"Levitate","item":"Choice Scarf","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Draco Meteor","Psychic","Defog","Healing Wish"]},"1v1 Haban Berry":{"level":100,"ability":"Levitate","item":"Haban Berry","nature":"Timid","evs":{"hp":96,"df":60,"sa":152,"sp":200},"moves":["Draco Meteor","Psyshock","Calm Mind","Roost"]}},"Latios":{"OU Choice Specs":{"level":100,"ability":"Levitate","item":"Choice Specs","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Draco Meteor","Psychic","Trick","Mystical Fire"]},"OU Life Orb":{"level":100,"ability":"Levitate","item":"Life Orb","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Draco Meteor","Psychic","Roost","Mystical Fire"]},"OU Choice Scarf":{"level":100,"ability":"Levitate","item":"Choice Scarf","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Draco Meteor","Psychic","Trick","Mystical Fire"]},"Monotype Calm Mind (Psychic)":{"level":100,"ability":"Levitate","item":"Soul Dew","nature":"Timid","evs":{"df":4,"sa":252,"sp":252},"moves":["Calm Mind","Draco Meteor","Psyshock","Mystical Fire"]},"1v1 Choice Specs":{"level":100,"ability":"Levitate","item":"Choice Specs","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Draco Meteor","Trick","Recover","Psyshock"]},"1v1 Choice Scarf":{"level":100,"ability":"Levitate","item":"Choice Scarf","nature":"Timid","evs":{"df":64,"sa":252,"sp":192},"moves":["Trick","Recover","Draco Meteor","Psyshock"]}},"Leafeon":{"ZU Sun Sweeper":{"level":100,"ability":"Chlorophyll","item":"Life Orb","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Swords Dance","Solar Blade","Knock Off","Double-Edge"]}},"Lickilicky":{"ZU Cleric":{"level":100,"ability":"Oblivious","item":"Leftovers","nature":"Careful","evs":{"hp":252,"df":4,"sd":252},"moves":["Wish","Protect","Heal Bell","Knock Off"]}},"Lickitung":{"LC Defensive":{"level":5,"ability":"Oblivious","item":"Eviolite","nature":"Impish","evs":{"hp":196,"df":76,"sd":236},"moves":["Wish","Protect","Body Slam","Knock Off"]}},"Liepard":{"ZU Sun Setter":{"level":100,"ability":"Prankster","item":"Heat Rock","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["Sunny Day","U-turn","Knock Off","Encore"]},"ZU Nasty Plot":{"level":100,"ability":"Prankster","item":"Heavy-Duty Boots","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Nasty Plot","Dark Pulse","Copycat","Encore"]},"ZU Physical Attacker":{"level":100,"ability":"Prankster","item":"Choice Band","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["Knock Off","U-turn","Copycat","Gunk Shot"]}},"Lilligant":{"Doubles Sun Supporter":{"level":100,"ability":"Chlorophyll","item":"Focus Sash","nature":"Timid","teraType":"Ghost","evs":{"df":4,"sa":252,"sp":252},"moves":["Leaf Storm","After You","Sleep Powder","Protect"]}},"Linoone":{"RU Belly Drum":{"level":100,"ability":"Gluttony","item":"Figy Berry","nature":"Adamant","evs":{"hp":60,"at":252,"sp":196},"moves":["Belly Drum","Extreme Speed","Stomping Tantrum","Seed Bomb"]}},"Linoone-Galar":{"PU Toxic Orb Attacker":{"level":100,"ability":"Quick Feet","item":"Toxic Orb","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Protect","Facade","Knock Off","Parting Shot"]}},"Litleo":{"LC Showdown Usage":{"level":5,"ability":"Moxie","item":"Eviolite","nature":"Jolly","evs":{"at":196,"sd":84,"sp":180},"moves":["Flame Charge","Flare Blitz","Tera Blast","Flamethrower"]}},"Lokix":{"OU Swords Dance":{"level":100,"ability":"Tinted Lens","item":"Heavy-Duty Boots","nature":"Adamant","teraType":"Dark","evs":{"at":252,"sd":4,"sp":252},"moves":["Swords Dance","First Impression","Sucker Punch","Leech Life"]},"OU Choice Band":{"level":100,"ability":"Tinted Lens","item":"Choice Band","nature":"Adamant","teraType":"Bug","evs":{"at":252,"sd":4,"sp":252},"moves":["U-turn","First Impression","Sucker Punch","Leech Life"]}},"Lopunny":{"ZU Utility":{"level":100,"ability":"Klutz","item":"Assault Vest","nature":"Jolly","evs":{"hp":252,"df":4,"sp":252},"moves":["Switcheroo","Healing Wish","U-turn","Thunder Wave"]}},"Lucario":{"UU Swords Dance":{"level":100,"ability":"Inner Focus","item":"Life Orb","nature":"Jolly","teraType":"Normal","evs":{"at":252,"sd":4,"sp":252},"moves":["Swords Dance","Close Combat","Extreme Speed","Bullet Punch"]}},"Ludicolo":{"RU Swift Swim":{"level":100,"ability":"Swift Swim","item":"Life Orb","nature":"Modest","ivs":{"at":0},"evs":{"sa":252,"sd":4,"sp":252},"moves":["Weather Ball","Giga Drain","Ice Beam","Protect"]},"PU Rain Sweeper":{"level":100,"ability":"Swift Swim","item":"Life Orb","nature":"Modest","ivs":{"hp":29},"evs":{"sa":252,"sd":4,"sp":252},"moves":["Rain Dance","Hydro Pump","Giga Drain","Ice Beam"]},"ZU Rain Sweeper":{"level":100,"ability":"Swift Swim","item":"Life Orb","nature":"Modest","ivs":{"hp":29},"evs":{"sa":252,"sd":4,"sp":252},"moves":["Hydro Pump","Giga Drain","Ice Beam","Rain Dance"]},"ZU Assault Vest":{"level":100,"ability":"Own Tempo","item":"Assault Vest","nature":"Modest","evs":{"hp":160,"sa":252,"sp":96},"moves":["Hydro Pump","Giga Drain","Knock Off","Ice Beam"]}},"Lugia":{"Uber Great Wall (Defensive)":{"level":100,"ability":"Multiscale","item":"Heavy-Duty Boots","nature":"Bold","evs":{"hp":252,"df":160,"sp":96},"moves":["Roost","Ice Beam","Whirlwind","Toxic"]},"BH Aerilate":{"level":100,"ability":"Aerilate","item":"Heavy-Duty Boots","nature":"Bold","evs":{"hp":252,"at":252,"df":252,"sa":252,"sd":252,"sp":252},"moves":["Boomburst","Rapid Spin","Recover","Anchor Shot"]}},"Lunala":{"Uber Defensive":{"level":100,"ability":"Shadow Shield","item":"Heavy-Duty Boots","nature":"Timid","evs":{"hp":252,"df":16,"sp":240},"moves":["Roost","Will-O-Wisp","Ice Beam","Hex"]},"Uber Meteor Beam":{"level":100,"ability":"Shadow Shield","item":"Power Herb","nature":"Timid","evs":{"hp":4,"sa":252,"sp":252},"moves":["Meteor Beam","Roost","Moongeist Beam","Ice Beam"]},"AG Defensive":{"level":100,"ability":"Shadow Shield","item":"Heavy-Duty Boots","nature":"Bold","evs":{"hp":236,"df":252,"sp":20},"moves":["Ice Beam","Will-O-Wisp","Roar","Roost"]},"AG Meteor Beam":{"level":100,"ability":"Shadow Shield","item":"Power Herb","nature":"Timid","evs":{"df":4,"sa":252,"sp":252},"moves":["Meteor Beam","Ice Beam","Moongeist Beam","Roost"]},"BH Fur Coat Wall":{"level":100,"ability":"Fur Coat","item":"Rocky Helmet","nature":"Bold","evs":{"hp":252,"df":252,"sa":252,"sd":252,"sp":252},"moves":["Nuzzle","Hex","Core Enforcer","Recover"]},"BH No Retreat Sweeper":{"level":100,"ability":"Simple","item":"Focus Sash","nature":"Rash","ivs":{"at":0,"sd":5},"evs":{"hp":252,"df":252,"sa":252,"sp":252},"moves":["No Retreat","Stored Power","Astral Barrage","Final Gambit"]}},"Lunatone":{"ZU Meteor Beam":{"level":100,"ability":"Levitate","item":"Power Herb","nature":"Modest","evs":{"df":4,"sa":252,"sp":252},"moves":["Meteor Beam","Psyshock","Earth Power","Rock Polish"]}},"Lurantis":{"PU Defog":{"level":100,"ability":"Contrary","item":"Leftovers","nature":"Bold","evs":{"hp":252,"df":252,"sd":4},"moves":["Defog","Synthesis","Leaf Storm","Superpower"]},"ZU Defog":{"level":100,"ability":"Contrary","item":"Leftovers","nature":"Bold","evs":{"hp":252,"df":40,"sp":216},"moves":["Defog","Leaf Storm","Superpower","Synthesis"]},"Doubles Trick Room Attacker":{"level":100,"ability":"Contrary","item":"Sitrus Berry","nature":"Brave","ivs":{"sp":0},"evs":{"hp":252,"at":252,"sd":4},"moves":["Leaf Blade","Superpower","Knock Off","Protect"]}},"Lurantis-Totem":{"PU Defog":{"level":100,"ability":"Contrary","item":"Leftovers","nature":"Bold","evs":{"hp":252,"df":252,"sd":4},"moves":["Defog","Synthesis","Leaf Storm","Superpower"]},"ZU Defog":{"level":100,"ability":"Contrary","item":"Leftovers","nature":"Bold","evs":{"hp":252,"df":40,"sp":216},"moves":["Defog","Leaf Storm","Superpower","Synthesis"]},"Doubles Trick Room Attacker":{"level":100,"ability":"Contrary","item":"Sitrus Berry","nature":"Brave","ivs":{"sp":0},"evs":{"hp":252,"at":252,"sd":4},"moves":["Leaf Blade","Superpower","Knock Off","Protect"]}},"Luxray":{"ZU Wallbreaker":{"level":100,"ability":"Guts","item":"Flame Orb","nature":"Adamant","evs":{"at":252,"df":4,"sp":252},"moves":["Facade","Wild Charge","Superpower","Crunch"]}},"Lycanroc":{"NU Sand Rush Sweeper":{"level":100,"ability":"Sand Rush","item":"Life Orb","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Swords Dance","Stone Edge","Close Combat","Psychic Fangs"]},"PU All-out Attacker":{"level":100,"ability":"Sand Rush","item":"Life Orb","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["Stone Edge","Close Combat","Psychic Fangs","Accelerock"]},"AG Lead":{"level":100,"ability":"Keen Eye","item":"Focus Sash","nature":"Naive","ivs":{"hp":0,"df":0,"sd":0},"evs":{"at":252,"sp":252},"moves":["Stealth Rock","Taunt","Rock Tomb","Endeavor"]}},"Lycanroc-Dusk":{"UU Showdown Usage":{"level":100,"ability":"Tough Claws","item":"Focus Sash","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Accelerock","Close Combat","Stone Edge","Stealth Rock"]}},"Lycanroc-Midnight":{"PU Swords Dance":{"level":100,"ability":"No Guard","item":"Life Orb","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["Swords Dance","Stone Edge","Close Combat","Sucker Punch"]},"PU Choice Scarf":{"level":100,"ability":"No Guard","item":"Choice Scarf","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["Stone Edge","Close Combat","Play Rough","Stomping Tantrum"]},"ZU Swords Dance":{"level":100,"ability":"No Guard","item":"Life Orb","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Swords Dance","Stone Edge","Close Combat","Sucker Punch"]},"ZU Choice Band":{"level":100,"ability":"No Guard","item":"Choice Band","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Stone Edge","Close Combat","Sucker Punch","Play Rough"]}},"Mabosstiff":{"UU Showdown Usage":{"level":100,"ability":"Stakeout","item":"Choice Band","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Crunch","Play Rough","Psychic Fangs","Wild Charge"]}},"Magearna":{"Uber Physically Defensive":{"level":100,"ability":"Soul-Heart","item":"Leftovers","nature":"Bold","evs":{"hp":252,"df":252,"sd":4},"moves":["Fleur Cannon","Volt Switch","Pain Split","Heal Bell"]},"BH Pixilate":{"level":100,"ability":"Pixilate","item":"Metronome","nature":"Modest","evs":{"hp":252,"at":252,"df":252,"sa":252,"sd":252,"sp":252},"moves":["Boomburst","Rapid Spin","Recover","Anchor Shot"]},"BH Fire Immunity":{"level":100,"ability":"Primordial Sea","item":"Leftovers","nature":"Calm","evs":{"hp":252,"at":252,"df":252,"sa":252,"sd":252,"sp":252},"moves":["Moonblast","Anchor Shot","Recover","Nuzzle"]}},"Magmortar":{"PU Wallbreaker":{"level":100,"ability":"Flame Body","item":"Heavy-Duty Boots","nature":"Modest","evs":{"sa":252,"sd":4,"sp":252},"moves":["Fire Blast","Thunderbolt","Focus Blast","Scorching Sands"]}},"Magnemite":{"LC Choice Scarf":{"level":5,"ability":"Analytic","item":"Choice Scarf","nature":"Timid","teraType":"Flying","evs":{"df":36,"sa":236,"sp":236},"moves":["Thunderbolt","Volt Switch","Steel Beam","Tera Blast"]}},"Magneton":{"UU Choice Specs Trapper":{"level":100,"ability":"Magnet Pull","item":"Choice Specs","nature":"Modest","evs":{"sa":252,"sd":4,"sp":252},"moves":["Thunderbolt","Volt Switch","Flash Cannon","Steel Beam"]},"NU Trapper":{"level":100,"ability":"Magnet Pull","item":"Eviolite","nature":"Bold","evs":{"hp":252,"df":200,"sp":56},"moves":["Charge Beam","Iron Defense","Rest","Flash Cannon"]},"PU Choice Specs":{"level":100,"ability":"Analytic","item":"Choice Specs","nature":"Modest","evs":{"sa":252,"sd":4,"sp":252},"moves":["Thunderbolt","Volt Switch","Flash Cannon","Tri Attack"]},"PU Revenge Killer":{"level":100,"ability":"Sturdy","item":"Heavy-Duty Boots","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Thunderbolt","Volt Switch","Flash Cannon","Thunder Wave"]}},"Magnezone":{"OU Choice Specs":{"level":100,"ability":"Magnet Pull","item":"Choice Specs","nature":"Timid","teraType":"Fairy","evs":{"sa":252,"sd":4,"sp":252},"moves":["Thunderbolt","Flash Cannon","Tera Blast","Volt Switch"]},"UU Showdown Usage":{"level":100,"ability":"Magnet Pull","item":"Choice Specs","nature":"Modest","evs":{"hp":248,"sa":252,"sd":8},"moves":["Flash Cannon","Volt Switch","Thunderbolt","Tera Blast"]}},"Makuhita":{"LC Showdown Usage":{"level":5,"ability":"Guts","item":"Eviolite","nature":"Adamant","evs":{"at":196,"df":116,"sd":196},"moves":["Bullet Punch","Drain Punch","Knock Off","Fake Out"]}},"Mamoswine":{"OU Choice Band":{"level":100,"ability":"Thick Fat","item":"Choice Band","nature":"Adamant","evs":{"at":252,"df":4,"sp":252},"moves":["Icicle Crash","Earthquake","Ice Shard","Knock Off"]},"UU Wallbreaker":{"level":100,"ability":"Oblivious","item":"Life Orb","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Icicle Crash","Earthquake","Ice Shard","Knock Off"]},"Monotype Choice Band (Ground)":{"level":100,"ability":"Thick Fat","item":"Choice Band","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Icicle Crash","Earthquake","Superpower","Ice Shard"]},"Monotype Choice Band (Ice)":{"level":100,"ability":"Thick Fat","item":"Choice Band","nature":"Adamant","evs":{"at":252,"df":4,"sp":252},"moves":["Earthquake","Icicle Crash","Ice Shard","Superpower"]},"Battle Stadium Singles Stealth Rock Setter":{"level":50,"ability":"Oblivious","item":"Focus Sash","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Stealth Rock","Earthquake","Icicle Spear","Ice Shard"]},"1v1 Choice Band":{"level":100,"ability":"Oblivious","item":"Choice Band","nature":"Adamant","evs":{"at":252,"sd":68,"sp":188},"moves":["Earthquake","Ice Shard","Icicle Crash","Heavy Slam"]},"1v1 Life Orb":{"level":100,"ability":"Oblivious","item":"Life Orb","nature":"Adamant","evs":{"hp":168,"at":132,"df":192,"sp":16},"moves":["Earthquake","Ice Shard","Heavy Slam","Icicle Spear"]},"1v1 Choice Scarf":{"level":100,"ability":"Oblivious","item":"Choice Scarf","nature":"Jolly","evs":{"at":188,"sd":68,"sp":252},"moves":["Earthquake","Icicle Crash","Rock Slide","Knock Off"]}},"Mandibuzz":{"OU Defensive":{"level":100,"ability":"Overcoat","item":"Heavy-Duty Boots","nature":"Impish","evs":{"hp":248,"df":92,"sd":152,"sp":16},"moves":["Foul Play","Roost","Defog","U-turn"]},"UU Physically Defensive":{"level":100,"ability":"Overcoat","item":"Heavy-Duty Boots","nature":"Impish","evs":{"hp":248,"df":164,"sp":96},"moves":["Foul Play","Knock Off","U-turn","Roost"]},"Monotype Defensive Utility (Dark)":{"level":100,"ability":"Overcoat","item":"Heavy-Duty Boots","nature":"Bold","evs":{"hp":248,"df":240,"sp":16},"moves":["Foul Play","Roost","Defog","U-turn"]}},"Manectric":{"PU Choice Scarf":{"level":100,"ability":"Lightning Rod","item":"Choice Scarf","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Thunderbolt","Volt Switch","Overheat","Switcheroo"]},"PU Choice Specs":{"level":100,"ability":"Lightning Rod","item":"Choice Specs","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Thunderbolt","Volt Switch","Overheat","Switcheroo"]},"PU Toxic + Protect":{"level":100,"ability":"Lightning Rod","item":"Leftovers","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Thunderbolt","Toxic","Flamethrower","Protect"]},"ZU Choice Scarf":{"level":100,"ability":"Lightning Rod","item":"Choice Scarf","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Thunderbolt","Volt Switch","Overheat","Switcheroo"]},"ZU Choice Specs":{"level":100,"ability":"Lightning Rod","item":"Choice Specs","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Thunderbolt","Volt Switch","Overheat","Switcheroo"]},"ZU SubTox":{"level":100,"ability":"Lightning Rod","item":"Leftovers","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Substitute","Toxic","Thunderbolt","Flamethrower"]}},"Mankey":{"LC Choice Scarf":{"level":5,"ability":"Defiant","item":"Choice Scarf","nature":"Jolly","teraType":"Fighting","evs":{"hp":116,"at":196,"sp":196},"moves":["Close Combat","U-turn","Earthquake","Ice Punch"]}},"Mantine":{"UU Rain Sweeper":{"level":100,"ability":"Swift Swim","item":"Heavy-Duty Boots","nature":"Modest","evs":{"df":40,"sa":216,"sp":252},"moves":["Scald","Hurricane","Substitute","Roost"]},"NU Defensive Utility":{"level":100,"ability":"Water Absorb","item":"Heavy-Duty Boots","nature":"Bold","evs":{"hp":252,"df":120,"sp":136},"moves":["Scald","Hurricane","Roost","Toxic"]},"Monotype Support (Water)":{"level":100,"ability":"Water Absorb","item":"Heavy-Duty Boots","nature":"Bold","evs":{"hp":252,"df":160,"sp":96},"moves":["Scald","Defog","Haze","Roost"]},"Monotype Utility (Flying)":{"level":100,"ability":"Water Absorb","item":"Heavy-Duty Boots","nature":"Bold","evs":{"hp":252,"df":160,"sp":96},"moves":["Defog","Haze","Roost","Scald"]}},"Maractus":{"ZU Specially Defensive":{"level":100,"ability":"Water Absorb","nature":"Calm","evs":{"hp":252,"sd":160,"sp":96},"moves":["Spikes","Synthesis","Giga Drain","Knock Off"]}},"Mareanie":{"LC Defensive":{"level":5,"ability":"Regenerator","item":"Eviolite","nature":"Bold","teraType":"Water","evs":{"hp":116,"df":180,"sa":12,"sd":180},"moves":["Surf","Recover","Sludge Bomb","Haze"]}},"Marowak":{"ZU Wallbreaker":{"level":100,"ability":"Battle Armor","item":"Thick Club","nature":"Adamant","evs":{"hp":252,"at":252,"sp":4},"moves":["Swords Dance","Bonemerang","Knock Off","Stone Edge"]}},"Marowak-Alola":{"OU Offensive Wallbreaker":{"level":100,"ability":"Rock Head","item":"Thick Club","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Swords Dance","Flare Blitz","Poltergeist","Earthquake"]},"UU Trick Room Wallbreaker":{"level":100,"ability":"Rock Head","item":"Thick Club","nature":"Adamant","evs":{"hp":248,"at":252,"df":8},"moves":["Flare Blitz","Poltergeist","Substitute","Shadow Bone"]},"RU Wallbreaker":{"level":100,"ability":"Lightning Rod","item":"Thick Club","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Poltergeist","Fire Punch","Low Kick","Shadow Bone"]},"1v1 Lightning Rod":{"level":100,"ability":"Lightning Rod","item":"Thick Club","nature":"Impish","evs":{"hp":248,"at":44,"df":216},"moves":["Flare Blitz","Poltergeist","Counter","Flame Charge"]}},"Marowak-Alola-Totem":{"OU Offensive Wallbreaker":{"level":100,"ability":"Rock Head","item":"Thick Club","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Swords Dance","Flare Blitz","Poltergeist","Earthquake"]},"UU Trick Room Wallbreaker":{"level":100,"ability":"Rock Head","item":"Thick Club","nature":"Adamant","evs":{"hp":248,"at":252,"df":8},"moves":["Flare Blitz","Poltergeist","Substitute","Shadow Bone"]},"RU Wallbreaker":{"level":100,"ability":"Lightning Rod","item":"Thick Club","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Poltergeist","Fire Punch","Low Kick","Shadow Bone"]},"1v1 Lightning Rod":{"level":100,"ability":"Lightning Rod","item":"Thick Club","nature":"Impish","evs":{"hp":248,"at":44,"df":216},"moves":["Flare Blitz","Poltergeist","Counter","Flame Charge"]}},"Marshadow":{"Uber Offensive Cleaner":{"level":100,"ability":"Technician","item":"Life Orb","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Spectral Thief","Low Kick","Shadow Sneak","Ice Punch"]},"Uber Choice Band":{"level":100,"ability":"Technician","item":"Choice Band","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Spectral Thief","Low Kick","Shadow Sneak","Ice Punch"]},"AG Life Orb":{"level":100,"ability":"Technician","item":"Life Orb","nature":"Adamant","evs":{"at":252,"df":4,"sp":252},"moves":["Poltergeist","Close Combat","Shadow Sneak","Ice Punch"]},"AG Choice Band":{"level":100,"ability":"Technician","item":"Choice Band","nature":"Adamant","evs":{"at":252,"df":4,"sp":252},"moves":["Poltergeist","Close Combat","Shadow Sneak","Ice Punch"]}},"Maschiff":{"LC Showdown Usage":{"level":5,"ability":"Stakeout","item":"Eviolite","nature":"Adamant","evs":{"at":212,"df":36,"sd":188,"sp":28},"moves":["Crunch","Play Rough","Psychic Fangs","Fire Fang"]}},"Masquerain":{"OU Sticky Web":{"level":100,"ability":"Intimidate","item":"Focus Sash","nature":"Modest","teraType":"Ghost","evs":{"sa":252,"sd":4,"sp":252},"moves":["Sticky Web","Hurricane","Quiver Dance","Hydro Pump"]},"UU Showdown Usage":{"level":100,"ability":"Intimidate","item":"Focus Sash","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Sticky Web","Bug Buzz","Stun Spore","U-turn"]},"Uber Sticky Web":{"level":100,"ability":"Intimidate","item":"Focus Sash","nature":"Jolly","teraType":"Ghost","evs":{"hp":252,"df":4,"sp":252},"moves":["Sticky Web","Tailwind","Whirlwind","U-turn"]}},"Maushold":{"OU Skill":{"level":100,"ability":"Technician","item":"Wide Lens","nature":"Jolly","teraType":"Normal","evs":{"at":252,"sd":4,"sp":252},"moves":["U-turn","Population Bomb","Bite","Tidy Up"]},"Uber Tidy Up":{"level":100,"ability":"Technician","item":"Wide Lens","nature":"Jolly","teraType":"Normal","evs":{"at":252,"sd":4,"sp":252},"moves":["Tidy Up","Population Bomb","Bite","Encore"]},"Monotype Tidy Up":{"level":100,"ability":"Technician","item":"Wide Lens","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Tidy Up","Population Bomb","Bite","Encore"]},"Doubles Offensive Supporter":{"level":100,"ability":"Technician","item":"Wide Lens","nature":"Jolly","teraType":"Normal","evs":{"at":252,"sd":4,"sp":252},"moves":["Population Bomb","Follow Me","Tidy Up","Protect"]},"Doubles Utility Supporter":{"level":100,"ability":"Friend Guard","item":"Wide Lens","nature":"Jolly","teraType":"Ghost","evs":{"hp":252,"df":4,"sp":252},"moves":["Follow Me","Population Bomb","Encore","Beat Up"]}},"Maushold-Four":{"Doubles Offensive Supporter":{"level":100,"ability":"Technician","item":"Wide Lens","nature":"Jolly","teraType":"Normal","evs":{"at":252,"sd":4,"sp":252},"moves":["Population Bomb","Follow Me","Tidy Up","Protect"]},"Doubles Utility Supporter":{"level":100,"ability":"Friend Guard","item":"Wide Lens","nature":"Jolly","teraType":"Ghost","evs":{"hp":252,"df":4,"sp":252},"moves":["Follow Me","Population Bomb","Encore","Beat Up"]}},"Mawile":{"ZU Sheer Force Attacker":{"level":100,"ability":"Sheer Force","item":"Life Orb","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Play Rough","Iron Head","Sucker Punch","Swords Dance"]}},"Melmetal":{"OU Three Attacks + Thunder Wave":{"level":100,"ability":"Iron Fist","item":"Protective Pads","nature":"Adamant","evs":{"hp":40,"at":252,"sd":104,"sp":112},"moves":["Double Iron Bash","Superpower","Thunder Punch","Thunder Wave"]},"OU Protect":{"level":100,"ability":"Iron Fist","item":"Leftovers","nature":"Adamant","evs":{"at":252,"sd":244,"sp":12},"moves":["Protect","Double Iron Bash","Earthquake","Toxic"]},"OU Choice Band":{"level":100,"ability":"Iron Fist","item":"Choice Band","nature":"Adamant","evs":{"hp":32,"at":252,"sp":224},"moves":["Double Iron Bash","Earthquake","Superpower","Thunder Punch"]},"OU Assault Vest":{"level":100,"ability":"Iron Fist","item":"Assault Vest","nature":"Careful","evs":{"hp":128,"at":116,"sd":252,"sp":12},"moves":["Double Iron Bash","Earthquake","Ice Punch","Thunder Punch"]},"Monotype Choice Band":{"level":100,"ability":"Iron Fist","item":"Choice Band","nature":"Adamant","evs":{"hp":244,"at":252,"sp":12},"moves":["Double Iron Bash","Ice Punch","Earthquake","Superpower"]},"Monotype Assault Vest (Steel)":{"level":100,"ability":"Iron Fist","item":"Assault Vest","nature":"Adamant","evs":{"at":252,"sd":244,"sp":12},"moves":["Double Iron Bash","Earthquake","Thunder Punch","Ice Punch"]},"BH Prankster":{"level":100,"ability":"Prankster","item":"Rocky Helmet","nature":"Impish","evs":{"hp":252,"at":252,"df":252,"sd":252,"sp":252},"moves":["Recover","Haze","Anchor Shot","Encore"]},"CAP Protect":{"level":100,"ability":"Iron Fist","item":"Leftovers","nature":"Adamant","evs":{"at":252,"sd":244,"sp":12},"moves":["Protect","Double Iron Bash","Earthquake","Toxic"]},"CAP Three Attacks + Thunder Wave":{"level":100,"ability":"Iron Fist","item":"Protective Pads","nature":"Adamant","evs":{"hp":40,"at":252,"sd":104,"sp":112},"moves":["Double Iron Bash","Superpower","Thunder Punch","Thunder Wave"]},"CAP Assault Vest":{"level":100,"ability":"Iron Fist","item":"Assault Vest","nature":"Careful","evs":{"hp":128,"at":116,"sd":252,"sp":12},"moves":["Double Iron Bash","Earthquake","Ice Punch","Thunder Punch"]}},"Melmetal-Gmax":{"OU Three Attacks + Thunder Wave":{"level":100,"ability":"Iron Fist","item":"Protective Pads","nature":"Adamant","evs":{"hp":40,"at":252,"sd":104,"sp":112},"moves":["Double Iron Bash","Superpower","Thunder Punch","Thunder Wave"]},"OU Protect":{"level":100,"ability":"Iron Fist","item":"Leftovers","nature":"Adamant","evs":{"at":252,"sd":244,"sp":12},"moves":["Protect","Double Iron Bash","Earthquake","Toxic"]},"OU Choice Band":{"level":100,"ability":"Iron Fist","item":"Choice Band","nature":"Adamant","evs":{"hp":32,"at":252,"sp":224},"moves":["Double Iron Bash","Earthquake","Superpower","Thunder Punch"]},"OU Assault Vest":{"level":100,"ability":"Iron Fist","item":"Assault Vest","nature":"Careful","evs":{"hp":128,"at":116,"sd":252,"sp":12},"moves":["Double Iron Bash","Earthquake","Ice Punch","Thunder Punch"]},"Monotype Choice Band":{"level":100,"ability":"Iron Fist","item":"Choice Band","nature":"Adamant","evs":{"hp":244,"at":252,"sp":12},"moves":["Double Iron Bash","Ice Punch","Earthquake","Superpower"]},"Monotype Assault Vest (Steel)":{"level":100,"ability":"Iron Fist","item":"Assault Vest","nature":"Adamant","evs":{"at":252,"sd":244,"sp":12},"moves":["Double Iron Bash","Earthquake","Thunder Punch","Ice Punch"]},"BH Prankster":{"level":100,"ability":"Prankster","item":"Rocky Helmet","nature":"Impish","evs":{"hp":252,"at":252,"df":252,"sd":252,"sp":252},"moves":["Recover","Haze","Anchor Shot","Encore"]},"CAP Protect":{"level":100,"ability":"Iron Fist","item":"Leftovers","nature":"Adamant","evs":{"at":252,"sd":244,"sp":12},"moves":["Protect","Double Iron Bash","Earthquake","Toxic"]},"CAP Three Attacks + Thunder Wave":{"level":100,"ability":"Iron Fist","item":"Protective Pads","nature":"Adamant","evs":{"hp":40,"at":252,"sd":104,"sp":112},"moves":["Double Iron Bash","Superpower","Thunder Punch","Thunder Wave"]},"CAP Assault Vest":{"level":100,"ability":"Iron Fist","item":"Assault Vest","nature":"Careful","evs":{"hp":128,"at":116,"sd":252,"sp":12},"moves":["Double Iron Bash","Earthquake","Ice Punch","Thunder Punch"]}},"Meltan":{"ZU Magnet Pull":{"level":100,"ability":"Magnet Pull","item":"Leftovers","nature":"Bold","ivs":{"at":0},"evs":{"hp":252,"df":252,"sd":4},"moves":["Acid Armor","Rest","Flash Cannon","Thunderbolt"]}},"Meowscarada":{"OU Pivot":{"level":100,"ability":"Protean","item":"Heavy-Duty Boots","nature":"Jolly","teraType":"Dark","evs":{"at":252,"sd":4,"sp":252},"moves":["Knock Off","Sucker Punch","U-turn","Flower Trick"]},"OU Choice Band":{"level":100,"ability":"Protean","item":"Choice Band","nature":"Jolly","teraType":"Dark","evs":{"at":252,"sd":4,"sp":252},"moves":["Knock Off","Sucker Punch","U-turn","Flower Trick"]},"OU Choice Scarf":{"level":100,"ability":"Protean","item":"Choice Scarf","nature":"Adamant","teraType":"Dark","evs":{"at":252,"sd":4,"sp":252},"moves":["Knock Off","Play Rough","U-turn","Flower Trick"]},"OU Lead":{"level":100,"ability":"Protean","item":"Focus Sash","nature":"Jolly","teraType":"Dark","evs":{"at":252,"sd":4,"sp":252},"moves":["Taunt","Spikes","Toxic Spikes","Knock Off"]},"Uber Showdown Usage":{"level":100,"ability":"Protean","item":"Life Orb","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Flower Trick","U-turn","Play Rough","Knock Off"]},"Doubles Dual STABs":{"level":100,"ability":"Overgrow","item":"Focus Sash","nature":"Jolly","teraType":"Grass","evs":{"at":252,"sd":4,"sp":252},"moves":["Flower Trick","Sucker Punch","Knock Off","Protect"]},"Doubles Choice Band":{"level":100,"ability":"Protean","item":"Choice Band","nature":"Jolly","teraType":"Grass","evs":{"at":252,"sd":4,"sp":252},"moves":["Flower Trick","Knock Off","U-turn","Sucker Punch"]},"1v1 Choice Band":{"level":100,"ability":"Protean","item":"Choice Band","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["Flower Trick","Knock Off","Giga Impact","Trick"]},"1v1 Substitute + Leech Seed":{"level":100,"ability":"Protean","item":"Leftovers","nature":"Jolly","evs":{"hp":240,"df":16,"sp":252},"moves":["Substitute","Protect","Leech Seed","Flower Trick"]}},"Meowstic":{"ZU Dual Screen":{"level":100,"ability":"Prankster","item":"Eject Button","nature":"Timid","evs":{"hp":252,"sa":4,"sd":252},"moves":["Reflect","Light Screen","Yawn","Psychic"]}},"Meowstic-F":{"ZU Nasty Plot":{"level":100,"ability":"Competitive","item":"Life Orb","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Nasty Plot","Psychic","Thunderbolt","Shadow Ball"]}},"Meowth":{"LC Revenge Killer":{"level":5,"ability":"Technician","item":"Life Orb","nature":"Jolly","teraType":"Normal","ivs":{"hp":19},"evs":{"at":236,"df":76,"sp":196},"moves":["Fake Out","Feint","U-turn","Assurance"]}},"Meowth-Galar":{"LC Showdown Usage":{"level":5,"ability":"Tough Claws","item":"Eviolite","nature":"Adamant","evs":{"at":236,"df":76,"sd":196},"moves":["Iron Head","U-turn","Fake Out","Brick Break"]}},"Meowth-Gmax":{"LC Revenge Killer":{"level":5,"ability":"Technician","item":"Life Orb","nature":"Jolly","teraType":"Normal","ivs":{"hp":19},"evs":{"at":236,"df":76,"sp":196},"moves":["Fake Out","Feint","U-turn","Assurance"]}},"Mesprit":{"PU Choice Scarf":{"level":100,"ability":"Levitate","item":"Choice Scarf","nature":"Timid","evs":{"df":4,"sa":252,"sp":252},"moves":["Psychic","Dazzling Gleam","U-turn","Healing Wish"]},"PU Nasty Plot":{"level":100,"ability":"Levitate","item":"Colbur Berry","nature":"Timid","evs":{"df":4,"sa":252,"sp":252},"moves":["Nasty Plot","Psychic","Dazzling Gleam","Shadow Ball"]},"PU Offensive Stealth Rock":{"level":100,"ability":"Levitate","item":"Colbur Berry","nature":"Timid","evs":{"df":4,"sa":252,"sp":252},"moves":["Stealth Rock","Psychic","Dazzling Gleam","U-turn"]},"PU Choice Specs":{"level":100,"ability":"Levitate","item":"Choice Specs","nature":"Modest","evs":{"df":4,"sa":252,"sp":252},"moves":["Psychic","Dazzling Gleam","Shadow Ball","U-turn"]}},"Metagross":{"RU Cosmic Power":{"level":100,"ability":"Clear Body","item":"Leftovers","nature":"Impish","evs":{"hp":252,"at":76,"df":64,"sd":100,"sp":16},"moves":["Cosmic Power","Body Press","Meteor Mash","Rest"]},"RU Stealth Rock":{"level":100,"ability":"Clear Body","item":"Leftovers","nature":"Adamant","evs":{"hp":252,"at":124,"sd":76,"sp":56},"moves":["Stealth Rock","Meteor Mash","Earthquake","Toxic"]},"RU Choice Scarf":{"level":100,"ability":"Clear Body","item":"Choice Scarf","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["Meteor Mash","Earthquake","Ice Punch","Trick"]},"RU Choice Band":{"level":100,"ability":"Clear Body","item":"Choice Band","nature":"Adamant","evs":{"at":252,"df":4,"sp":252},"moves":["Meteor Mash","Earthquake","Bullet Punch","Zen Headbutt"]},"Doubles Tank":{"level":100,"ability":"Clear Body","item":"Shuca Berry","nature":"Adamant","evs":{"hp":252,"at":252,"df":4},"moves":["Steel Roller","Ice Punch","Stomping Tantrum","Stealth Rock"]},"Doubles Cosmic Power":{"level":100,"ability":"Clear Body","item":"Leftovers","nature":"Impish","evs":{"hp":252,"at":52,"df":128,"sd":76},"moves":["Cosmic Power","Body Press","Ice Punch","Protect"]},"Battle Stadium Singles Dynamax Attacker":{"level":50,"ability":"Clear Body","item":"Weakness Policy","nature":"Adamant","evs":{"hp":252,"at":252,"sp":4},"moves":["Iron Head","Ice Punch","Earthquake","Zen Headbutt"]},"1v1 Assault Vest":{"level":100,"ability":"Clear Body","item":"Assault Vest","nature":"Adamant","evs":{"hp":224,"at":52,"sd":232},"moves":["Meteor Mash","Bullet Punch","Ice Punch","Earthquake"]},"1v1 Weakness Policy":{"level":100,"ability":"Clear Body","item":"Weakness Policy","nature":"Brave","evs":{"hp":248,"at":232,"df":28},"moves":["Meteor Mash","Bullet Punch","Earthquake","Psychic"]},"1v1 Choice Band":{"level":100,"ability":"Clear Body","item":"Choice Band","nature":"Adamant","evs":{"hp":232,"at":168,"sd":108},"moves":["Meteor Mash","Bullet Punch","Earthquake","Trick"]},"1v1 Fast Choice Scarf":{"level":100,"ability":"Clear Body","item":"Choice Scarf","nature":"Adamant","evs":{"hp":32,"at":244,"sp":232},"moves":["Meteor Mash","Ice Punch","Earthquake","Trick"]},"1v1 Defensive Choice Scarf":{"level":100,"ability":"Clear Body","item":"Choice Scarf","nature":"Impish","evs":{"hp":240,"at":28,"df":96,"sp":144},"moves":["Meteor Mash","Earthquake","Trick","Rest"]},"1v1 Air Balloon":{"level":100,"ability":"Clear Body","item":"Air Balloon","nature":"Adamant","evs":{"hp":224,"at":252,"df":32},"moves":["Meteor Mash","Ice Punch","Earthquake","Bullet Punch"]},"1v1 Occa Berry":{"level":100,"ability":"Clear Body","item":"Occa Berry","nature":"Adamant","evs":{"hp":184,"at":252,"df":40,"sp":32},"moves":["Meteor Mash","Bullet Punch","Rock Tomb","Earthquake"]}},"Mew":{"OU Utility":{"level":100,"ability":"Synchronize","item":"Heavy-Duty Boots","nature":"Jolly","evs":{"hp":248,"sd":148,"sp":112},"moves":["Spikes","Knock Off","Taunt","Roost"]},"OU Cosmic Power":{"level":100,"ability":"Synchronize","item":"Leftovers","nature":"Timid","evs":{"hp":252,"df":4,"sp":252},"moves":["Cosmic Power","Stored Power","Body Press","Roost"]},"OU Suicide Lead":{"level":100,"ability":"Synchronize","item":"Red Card","nature":"Jolly","evs":{"hp":252,"at":4,"sp":252},"moves":["Stealth Rock","Spikes","Taunt","Flare Blitz"]},"Uber Lead":{"level":100,"ability":"Synchronize","item":"Focus Sash","nature":"Timid","evs":{"hp":252,"sa":4,"sp":252},"moves":["Stealth Rock","Spikes","Taunt","Misty Explosion"]},"Monotype Stallbreaker":{"level":100,"ability":"Synchronize","item":"Leftovers","nature":"Jolly","evs":{"hp":252,"sd":28,"sp":228},"moves":["Taunt","Knock Off","Will-O-Wisp","Roost"]},"Monotype Cosmic Power (Psychic)":{"level":100,"ability":"Synchronize","item":"Weakness Policy","nature":"Timid","evs":{"hp":252,"sd":4,"sp":252},"moves":["Cosmic Power","Stored Power","Taunt","Roost"]},"Monotype Nasty Plot":{"level":100,"ability":"Synchronize","item":"Colbur Berry","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Nasty Plot","Psychic","Fire Blast","Focus Blast"]},"Doubles Tailwind Support":{"level":100,"ability":"Synchronize","item":"Sitrus Berry","nature":"Timid","evs":{"hp":252,"df":4,"sp":252},"moves":["Fake Out","Ice Beam","Tailwind","Stealth Rock"]}},"Mewtwo":{"Uber All-out Attacker":{"level":100,"ability":"Pressure","item":"Life Orb","nature":"Timid","evs":{"df":4,"sa":252,"sp":252},"moves":["Psystrike","Ice Beam","Fire Blast","Nasty Plot"]},"AG Nasty Plot":{"level":100,"ability":"Unnerve","item":"Life Orb","nature":"Timid","evs":{"df":4,"sa":252,"sp":252},"moves":["Nasty Plot","Psystrike","Ice Beam","Fire Blast"]},"BH Choice Specs Psychic Surge":{"level":100,"ability":"Psychic Surge","item":"Choice Specs","nature":"Timid","ivs":{"at":0},"evs":{"hp":252,"df":252,"sa":252,"sd":252,"sp":252},"moves":["Expanding Force","Volt Switch","Trick","Photon Geyser"]},"BH Nasty Plot Psychic Surge":{"level":100,"ability":"Psychic Surge","item":"Twisted Spoon","nature":"Timid","ivs":{"at":0},"evs":{"hp":252,"df":252,"sa":252,"sd":252,"sp":252},"moves":["Nasty Plot","Expanding Force","Blue Flare","Photon Geyser"]},"BH Sheer Force":{"level":100,"ability":"Sheer Force","item":"Life Orb","ivs":{"at":0},"evs":{"hp":252,"df":252,"sa":252,"sd":252,"sp":252},"moves":["Nasty Plot","Psychic","Blue Flare","Strength Sap"]}},"Mienfoo":{"LC Bulky Pivot":{"level":5,"ability":"Regenerator","item":"Eviolite","nature":"Jolly","evs":{"df":196,"sd":36,"sp":236},"moves":["High Jump Kick","U-turn","Knock Off","Fake Out"]},"LC Choice Scarf":{"level":5,"ability":"Reckless","item":"Choice Scarf","nature":"Jolly","evs":{"at":236,"df":36,"sp":236},"moves":["High Jump Kick","U-turn","Knock Off","Close Combat"]}},"Milotic":{"RU Defensive":{"level":100,"ability":"Marvel Scale","item":"Leftovers","nature":"Bold","ivs":{"at":0},"evs":{"hp":252,"df":168,"sp":88},"moves":["Scald","Recover","Flip Turn","Toxic"]}},"Miltank":{"PU Defensive":{"level":100,"ability":"Thick Fat","item":"Leftovers","nature":"Careful","evs":{"hp":252,"sd":252,"sp":4},"moves":["Stealth Rock","Milk Drink","Toxic","Seismic Toss"]},"ZU Mixed Wall":{"level":100,"ability":"Thick Fat","item":"Heavy-Duty Boots","nature":"Bold","evs":{"hp":252,"df":128,"sd":108,"sp":20},"moves":["Milk Drink","Seismic Toss","Toxic","Heal Bell"]},"ZU Nascar Cow":{"level":100,"ability":"Sap Sipper","item":"Rocky Helmet","nature":"Timid","evs":{"hp":252,"df":4,"sp":252},"moves":["Milk Drink","Seismic Toss","Toxic","Heal Bell"]},"ZU Special Wall":{"level":100,"ability":"Thick Fat","item":"Heavy-Duty Boots","nature":"Calm","evs":{"hp":252,"sd":236,"sp":20},"moves":["Milk Drink","Seismic Toss","Toxic","Heal Bell"]}},"Mimikyu":{"OU Swords Dance":{"level":100,"ability":"Disguise","item":"Life Orb","nature":"Adamant","teraType":"Ghost","evs":{"at":252,"sd":4,"sp":252},"moves":["Swords Dance","Shadow Claw","Play Rough","Shadow Sneak"]},"UU Showdown Usage":{"level":100,"ability":"Disguise","item":"Life Orb","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Play Rough","Shadow Sneak","Swords Dance","Shadow Claw"]},"Monotype Swords Dance (Ghost)":{"level":100,"ability":"Disguise","item":"Life Orb","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Swords Dance","Drain Punch","Play Rough","Shadow Sneak"]}},"Mimikyu-Totem":{"OU Swords Dance":{"level":100,"ability":"Disguise","item":"Life Orb","nature":"Adamant","teraType":"Ghost","evs":{"at":252,"sd":4,"sp":252},"moves":["Swords Dance","Shadow Claw","Play Rough","Shadow Sneak"]},"UU Showdown Usage":{"level":100,"ability":"Disguise","item":"Life Orb","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Play Rough","Shadow Sneak","Swords Dance","Shadow Claw"]},"Monotype Swords Dance (Ghost)":{"level":100,"ability":"Disguise","item":"Life Orb","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Swords Dance","Drain Punch","Play Rough","Shadow Sneak"]}},"Miraidon":{"Uber Pivot":{"level":100,"ability":"Hadron Engine","item":"Heavy-Duty Boots","nature":"Timid","teraType":"Water","evs":{"sa":252,"sd":4,"sp":252},"moves":["Electro Drift","U-turn","Draco Meteor","Tera Blast"]},"Uber Choice Specs":{"level":100,"ability":"Hadron Engine","item":"Choice Specs","nature":"Timid","teraType":"Dragon","evs":{"sa":252,"sd":4,"sp":252},"moves":["Electro Drift","Draco Meteor","Overheat","U-turn"]},"Uber Double Dance":{"level":100,"ability":"Hadron Engine","item":"Leftovers","nature":"Modest","teraType":"Fairy","evs":{"hp":248,"sa":252,"sp":8},"moves":["Calm Mind","Agility","Parabolic Charge","Dazzling Gleam"]},"Uber Choice Scarf":{"level":100,"ability":"Hadron Engine","item":"Choice Scarf","nature":"Timid","teraType":"Fairy","evs":{"sa":252,"sd":4,"sp":252},"moves":["Electro Drift","Draco Meteor","Overheat","U-turn"]},"Uber Tera Blast":{"level":100,"ability":"Hadron Engine","item":"Leftovers","nature":"Timid","teraType":"Ice","evs":{"sa":252,"sd":4,"sp":252},"moves":["Calm Mind","Electro Drift","Taunt","Tera Blast"]},"Uber Calm Mind":{"level":100,"ability":"Hadron Engine","item":"Leftovers","nature":"Timid","teraType":"Fairy","evs":{"sa":252,"sd":4,"sp":252},"moves":["Calm Mind","Electro Drift","Taunt","Dazzling Gleam"]},"AG Offensive":{"level":100,"ability":"Hadron Engine","item":"Life Orb","nature":"Timid","teraType":"Dragon","evs":{"sa":252,"sd":4,"sp":252},"moves":["Calm Mind","Draco Meteor","Electro Drift","Substitute"]},"AG Choice Specs":{"level":100,"ability":"Hadron Engine","item":"Choice Specs","nature":"Timid","teraType":"Dragon","evs":{"sa":252,"sd":4,"sp":252},"moves":["Electro Drift","Draco Meteor","Overheat","Volt Switch"]},"AG Choice Scarf":{"level":100,"ability":"Hadron Engine","item":"Choice Scarf","nature":"Timid","teraType":"Fairy","evs":{"sa":252,"sd":4,"sp":252},"moves":["Electro Drift","Draco Meteor","Overheat","U-turn"]},"AG Double Dance":{"level":100,"ability":"Hadron Engine","item":"Leftovers","nature":"Modest","teraType":"Fairy","evs":{"hp":236,"df":16,"sa":216,"sp":40},"moves":["Calm Mind","Agility","Parabolic Charge","Dazzling Gleam"]},"BH Choice Specs":{"level":100,"ability":"Hadron Engine","item":"Choice Specs","nature":"Timid","teraType":"Electric","ivs":{"at":0},"evs":{"hp":252,"df":252,"sa":252,"sd":252,"sp":252},"moves":["Dragon Energy","Rising Voltage","Volt Switch","Trick"]},"BH Setup Sweeper":{"level":100,"ability":"Hadron Engine","item":"Draco Plate","nature":"Modest","teraType":"Electric","ivs":{"at":0},"evs":{"hp":252,"df":252,"sa":252,"sd":252,"sp":252},"moves":["Quiver Dance","Judgment","Rising Voltage","Strength Sap"]}},"Mismagius":{"UU Showdown Usage":{"level":100,"ability":"Levitate","item":"Leftovers","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Shadow Ball","Mystical Fire","Dazzling Gleam","Nasty Plot"]}},"Mollux":{"CAP Bulky Pivot":{"level":100,"ability":"Dry Skin","item":"Heavy-Duty Boots","nature":"Modest","teraType":"Ground","ivs":{"at":0},"evs":{"hp":252,"df":104,"sa":84,"sp":68},"moves":["Stealth Rock","Lava Plume","Toxic","Recover"]}},"Moltres":{"OU Substitute":{"level":100,"ability":"Pressure","item":"Heavy-Duty Boots","nature":"Modest","evs":{"df":4,"sa":252,"sp":252},"moves":["Substitute","Flamethrower","Hurricane","Roost"]},"UU Offensive":{"level":100,"ability":"Flame Body","item":"Heavy-Duty Boots","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Flamethrower","Hurricane","U-turn","Roost"]},"UU Support":{"level":100,"ability":"Flame Body","item":"Heavy-Duty Boots","nature":"Timid","evs":{"hp":252,"df":4,"sp":252},"moves":["Mystical Fire","Toxic","U-turn","Roost"]},"1v1 Maranga Berry Stall":{"level":100,"ability":"Pressure","item":"Maranga Berry","nature":"Timid","evs":{"hp":52,"sd":248,"sp":208},"moves":["Burn Up","Substitute","Roost","Hurricane"]}},"Moltres-Galar":{"OU Double Dance":{"level":100,"ability":"Berserk","item":"Weakness Policy","nature":"Modest","evs":{"sa":252,"sd":4,"sp":252},"moves":["Nasty Plot","Agility","Fiery Wrath","Hurricane"]},"Monotype Double Dance (Dark)":{"level":100,"ability":"Berserk","item":"Weakness Policy","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Nasty Plot","Hurricane","Fiery Wrath","Agility"]},"Monotype Dual Dance (Flying)":{"level":100,"ability":"Berserk","item":"Leftovers","nature":"Calm","evs":{"hp":244,"sa":152,"sd":24,"sp":88},"moves":["Nasty Plot","Fiery Wrath","Agility","Substitute"]},"Monotype RestTalk (Flying)":{"level":100,"ability":"Berserk","item":"Heavy-Duty Boots","nature":"Calm","evs":{"hp":248,"sa":164,"sd":80,"sp":16},"moves":["Nasty Plot","Fiery Wrath","Rest","Sleep Talk"]},"Battle Stadium Singles Dynamax Sweeper":{"level":50,"ability":"Berserk","item":"Weakness Policy","nature":"Modest","evs":{"df":4,"sa":252,"sp":252},"moves":["Nasty Plot","Fiery Wrath","Hurricane","Taunt"]},"1v1 Custap Berry":{"level":100,"ability":"Berserk","item":"Custap Berry","nature":"Modest","evs":{"hp":248,"df":72,"sa":112,"sd":76},"moves":["Endure","Hurricane","Fiery Wrath","Nasty Plot"]}},"Morelull":{"LC Defensive":{"level":5,"ability":"Effect Spore","item":"Eviolite","nature":"Bold","evs":{"hp":196,"df":236,"sd":76},"moves":["Spore","Giga Drain","Moonblast","Synthesis"]}},"Morgrem":{"UU Showdown Usage":{"level":100,"ability":"Prankster","item":"Light Clay","nature":"Calm","evs":{"hp":252,"df":4,"sd":252},"moves":["Reflect","Light Screen","Parting Shot","Taunt"]}},"Morpeko":{"PU Offensive Support":{"level":100,"ability":"Hunger Switch","item":"Heavy-Duty Boots","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["Aura Wheel","Parting Shot","Super Fang","Protect"]},"PU Wallbreaker":{"level":100,"ability":"Hunger Switch","item":"Choice Band","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["Aura Wheel","Crunch","Psychic Fangs","Parting Shot"]},"PU Offensive Substitute":{"level":100,"ability":"Hunger Switch","item":"Leftovers","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["Substitute","Aura Wheel","Parting Shot","Protect"]},"ZU Choice Band":{"level":100,"ability":"Hunger Switch","item":"Choice Band","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Aura Wheel","Crunch","Seed Bomb","Parting Shot"]},"ZU Offensive Utility":{"level":100,"ability":"Hunger Switch","item":"Heavy-Duty Boots","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Aura Wheel","Rapid Spin","Protect","Parting Shot"]}},"Mr. Mime":{"ZU Choice Scarf":{"level":100,"ability":"Filter","item":"Choice Scarf","nature":"Timid","evs":{"df":4,"sa":252,"sp":252},"moves":["Psychic","Dazzling Gleam","Trick","Healing Wish"]}},"Mr. Rime":{"ZU Rapid Spin":{"level":100,"ability":"Ice Body","item":"Heavy-Duty Boots","nature":"Modest","evs":{"hp":240,"sa":252,"sp":16},"moves":["Rapid Spin","Slack Off","Freeze-Dry","Future Sight"]}},"Mudbray":{"LC RestTalk":{"level":5,"ability":"Stamina","item":"Eviolite","nature":"Careful","teraType":"Steel","evs":{"hp":116,"at":116,"df":36,"sd":236},"moves":["Earthquake","Heavy Slam","Rest","Sleep Talk"]}},"Mudsdale":{"UU Showdown Usage":{"level":100,"ability":"Stamina","item":"Leftovers","nature":"Impish","evs":{"hp":252,"at":4,"df":252},"moves":["Earthquake","Body Press","Stealth Rock","Heavy Slam"]}},"Munchlax":{"LC Defensive":{"level":5,"ability":"Thick Fat","item":"Berry Juice","nature":"Adamant","evs":{"at":236,"df":36,"sd":236},"moves":["Curse","Body Slam","Fire Punch","Recycle"]}},"Murkrow":{"Doubles Lead Supporter":{"level":100,"ability":"Prankster","item":"Focus Sash","nature":"Jolly","teraType":"Ghost","evs":{"at":252,"sd":4,"sp":252},"moves":["Brave Bird","Tailwind","Haze","Protect"]},"Doubles Bulky Supporter":{"level":100,"ability":"Prankster","item":"Eviolite","nature":"Impish","teraType":"Ghost","evs":{"hp":252,"df":136,"sd":120},"moves":["Foul Play","Tailwind","Haze","Protect"]}},"Musharna":{"ZU Calm Mind":{"level":100,"ability":"Synchronize","nature":"Bold","evs":{"hp":252,"df":252,"sd":4},"moves":["Calm Mind","Moonlight","Psychic","Heal Bell"]}},"Nacli":{"LC Showdown Usage":{"level":5,"ability":"Purifying Salt","item":"Eviolite","nature":"Impish","evs":{"df":196,"sd":236},"moves":["Recover","Earthquake","Stealth Rock","Curse"]}},"Naclstack":{"UU Showdown Usage":{"level":100,"ability":"Purifying Salt","item":"Eviolite","nature":"Careful","evs":{"hp":252,"at":4,"sd":252},"moves":["Salt Cure","Recover","Body Press","Iron Defense"]}},"Naganadel":{"Uber Nasty Plot":{"level":100,"ability":"Beast Boost","item":"Life Orb","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Nasty Plot","Draco Meteor","Sludge Wave","Fire Blast"]},"Doubles Fast Tailwind":{"level":100,"ability":"Beast Boost","item":"Life Orb","nature":"Timid","evs":{"hp":4,"sa":252,"sp":252},"moves":["Draco Meteor","Sludge Bomb","Fire Blast","Tailwind"]},"Battle Stadium Singles Nasty Plot Sweeper":{"level":50,"ability":"Beast Boost","item":"Life Orb","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Nasty Plot","Sludge Wave","Draco Meteor","Fire Blast"]},"Battle Stadium Singles All-out Attacker":{"level":50,"ability":"Beast Boost","item":"Life Orb","nature":"Modest","evs":{"sa":252,"sd":4,"sp":252},"moves":["Sludge Wave","Draco Meteor","Fire Blast","Air Slash"]},"1v1 Life Orb":{"level":100,"ability":"Beast Boost","item":"Life Orb","nature":"Timid","evs":{"df":4,"sa":252,"sp":252},"moves":["Draco Meteor","Sludge Wave","Flamethrower","Laser Focus"]},"1v1 Choice Specs":{"level":100,"ability":"Beast Boost","item":"Choice Specs","nature":"Timid","evs":{"df":4,"sa":252,"sp":252},"moves":["Draco Meteor","Sludge Wave","Fire Blast","Thunderbolt"]}},"Natu":{"LC Bulky Attacker":{"level":5,"ability":"Magic Bounce","item":"Eviolite","nature":"Timid","evs":{"hp":36,"df":76,"sa":36,"sd":156,"sp":196},"moves":["Psychic","Heat Wave","Roost","U-turn"]},"LC Setup Sweeper":{"level":5,"ability":"Magic Bounce","item":"Eviolite","nature":"Timid","evs":{"hp":36,"df":76,"sa":36,"sd":156,"sp":196},"moves":["Cosmic Power","Stored Power","Heat Wave","Roost"]},"LC Dual Screens Support":{"level":5,"ability":"Magic Bounce","item":"Light Clay","nature":"Timid","evs":{"df":236,"sd":76,"sp":196},"moves":["Reflect","Light Screen","Teleport","Thunder Wave"]},"LC Life Orb":{"level":5,"ability":"Magic Bounce","item":"Life Orb","nature":"Naive","ivs":{"hp":19},"evs":{"at":116,"sa":196,"sp":196},"moves":["Psychic","Heat Wave","Sucker Punch","Shadow Ball"]}},"Necrozma":{"UU Dragon Dance":{"level":100,"ability":"Prism Armor","item":"Lum Berry","nature":"Naughty","evs":{"at":252,"sa":4,"sp":252},"moves":["Dragon Dance","Photon Geyser","X-Scissor","Heat Wave"]},"UU Meteor Beam":{"level":100,"ability":"Prism Armor","item":"Power Herb","nature":"Modest","evs":{"hp":4,"sa":252,"sp":252},"moves":["Meteor Beam","Photon Geyser","Heat Wave","Autotomize"]},"UU Calm Mind":{"level":100,"ability":"Prism Armor","item":"Colbur Berry","nature":"Bold","evs":{"hp":252,"df":72,"sa":156,"sp":28},"moves":["Calm Mind","Photon Geyser","Heat Wave","Moonlight"]},"Doubles Power Herb":{"level":100,"ability":"Prism Armor","item":"Power Herb","nature":"Modest","evs":{"hp":4,"sa":252,"sp":252},"moves":["Expanding Force","Meteor Beam","Earth Power","Protect"]}},"Necrozma-Dawn-Wings":{"Uber Trick Room":{"level":100,"ability":"Prism Armor","item":"Power Herb","nature":"Quiet","ivs":{"sp":0},"evs":{"hp":252,"sa":252,"sd":4},"moves":["Trick Room","Moongeist Beam","Heat Wave","Meteor Beam"]},"BH No Retreat":{"level":100,"ability":"Simple","item":"Focus Sash","nature":"Modest","evs":{"hp":252,"at":252,"df":252,"sa":252,"sd":252,"sp":252},"moves":["No Retreat","Stored Power","Astral Barrage","Moonblast"]}},"Necrozma-Dusk-Mane":{"Uber Specially Defensive":{"level":100,"ability":"Prism Armor","item":"Leftovers","nature":"Careful","evs":{"hp":252,"sd":136,"sp":120},"moves":["Stealth Rock","Moonlight","Iron Head","Thunder Wave"]},"Uber Bulky Booster":{"level":100,"ability":"Prism Armor","item":"Leftovers","nature":"Adamant","evs":{"hp":136,"at":252,"sp":120},"moves":["Iron Head","Knock Off","Swords Dance","Moonlight"]},"Uber Offensive Dragon Dance":{"level":100,"ability":"Prism Armor","item":"Weakness Policy","nature":"Adamant","evs":{"hp":80,"at":252,"sp":176},"moves":["Sunsteel Strike","Stone Edge","Earthquake","Dragon Dance"]},"Uber Physically Defensive":{"level":100,"ability":"Prism Armor","item":"Rocky Helmet","nature":"Impish","evs":{"hp":252,"df":136,"sp":120},"moves":["Stealth Rock","Moonlight","Sunsteel Strike","Earthquake"]},"Uber Choice Band":{"level":100,"ability":"Prism Armor","item":"Choice Band","nature":"Adamant","evs":{"hp":136,"at":252,"sp":120},"moves":["Sunsteel Strike","Knock Off","Moonlight","Photon Geyser"]},"AG Defensive":{"level":100,"ability":"Prism Armor","item":"Rocky Helmet","nature":"Impish","evs":{"hp":252,"df":252,"sd":4},"moves":["Stealth Rock","Sunsteel Strike","Earthquake","Morning Sun"]},"AG Dragon Dance":{"level":100,"ability":"Prism Armor","item":"Life Orb","nature":"Adamant","evs":{"hp":80,"at":252,"sp":176},"moves":["Dragon Dance","Sunsteel Strike","Earthquake","Stone Edge"]},"BH Simple Shift Gear":{"level":100,"ability":"Simple","item":"Life Orb","nature":"Adamant","evs":{"hp":252,"at":252,"df":252,"sd":252,"sp":252},"moves":["Shift Gear","Sunsteel Strike","Photon Geyser","Precipice Blades"]}},"Necturna":{"CAP Geomancy":{"level":100,"ability":"Forewarn","item":"Power Herb","nature":"Modest","evs":{"df":4,"sa":252,"sp":252},"moves":["Geomancy","Giga Drain","Shadow Ball","Substitute"]}},"Nidoking":{"OU Wallbreaker":{"level":100,"ability":"Sheer Force","item":"Life Orb","nature":"Modest","evs":{"sa":252,"sd":4,"sp":252},"moves":["Sludge Wave","Earth Power","Thunderbolt","Flamethrower"]},"UU Wallbreaker":{"level":100,"ability":"Sheer Force","item":"Life Orb","nature":"Modest","evs":{"sa":252,"sd":4,"sp":252},"moves":["Sludge Wave","Earth Power","Fire Blast","Thunderbolt"]},"Monotype Wallbreaker (Ground)":{"level":100,"ability":"Sheer Force","item":"Life Orb","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Earth Power","Flamethrower","Ice Beam","Thunderbolt"]},"Monotype Wallbreaker (Poison)":{"level":100,"ability":"Sheer Force","item":"Life Orb","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Earth Power","Flamethrower","Thunderbolt","Ice Beam"]},"1v1 Life Orb":{"level":100,"ability":"Sheer Force","item":"Life Orb","nature":"Modest","evs":{"hp":12,"sa":248,"sd":72,"sp":176},"moves":["Earth Power","Sludge Wave","Flamethrower","Protect"]},"1v1 Choice Scarf":{"level":100,"ability":"Sheer Force","item":"Choice Scarf","nature":"Timid","evs":{"df":12,"sa":244,"sp":252},"moves":["Sludge Wave","Earth Power","Focus Blast","Ice Beam"]}},"Nidoqueen":{"UU Offensive Stealth Rock":{"level":100,"ability":"Sheer Force","item":"Life Orb","nature":"Modest","evs":{"hp":120,"sa":252,"sp":136},"moves":["Stealth Rock","Earth Power","Sludge Wave","Fire Blast"]},"RU Stealth Rock":{"level":100,"ability":"Sheer Force","item":"Life Orb","nature":"Timid","ivs":{"at":0},"evs":{"sa":232,"sd":24,"sp":252},"moves":["Stealth Rock","Earth Power","Sludge Wave","Ice Beam"]},"RU Wallbreaker":{"level":100,"ability":"Sheer Force","item":"Life Orb","nature":"Timid","ivs":{"at":0},"evs":{"sa":232,"sd":24,"sp":252},"moves":["Earth Power","Sludge Wave","Ice Beam","Toxic"]}},"Nihilego":{"UU Stealth Rock Utility":{"level":100,"ability":"Beast Boost","item":"Black Sludge","nature":"Timid","evs":{"df":80,"sa":176,"sp":252},"moves":["Stealth Rock","Power Gem","Sludge Bomb","Grass Knot"]},"UU Meteor Beam Sweeper":{"level":100,"ability":"Beast Boost","item":"Power Herb","nature":"Timid","evs":{"df":80,"sa":176,"sp":252},"moves":["Meteor Beam","Sludge Wave","Thunderbolt","Grass Knot"]},"Monotype Choice Scarf (Poison)":{"level":100,"ability":"Beast Boost","item":"Choice Scarf","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Power Gem","Thunderbolt","Dazzling Gleam","Grass Knot"]},"Monotype Meteor Beam Sweeper (Poison)":{"level":100,"ability":"Beast Boost","item":"Power Herb","nature":"Timid","evs":{"hp":80,"sa":176,"sp":252},"moves":["Meteor Beam","Power Gem","Thunderbolt","Grass Knot"]},"Monotype Meteor Beam Sweeper (Rock)":{"level":100,"ability":"Beast Boost","item":"Power Herb","nature":"Timid","evs":{"hp":80,"sa":176,"sp":252},"moves":["Meteor Beam","Sludge Wave","Thunderbolt","Grass Knot"]},"Doubles Meteor Beam Attacker":{"level":100,"ability":"Beast Boost","item":"Power Herb","nature":"Timid","evs":{"df":4,"sa":252,"sp":252},"moves":["Meteor Beam","Sludge Bomb","Power Gem","Protect"]},"Battle Stadium Singles Power Herb Sweeper":{"level":50,"ability":"Beast Boost","item":"Power Herb","nature":"Timid","evs":{"hp":72,"df":4,"sa":176,"sd":4,"sp":252},"moves":["Meteor Beam","Sludge Wave","Grass Knot","Thunderbolt"]},"1v1 Fast Power Herb":{"level":100,"ability":"Beast Boost","item":"Power Herb","nature":"Timid","evs":{"hp":56,"sa":200,"sp":252},"moves":["Meteor Beam","Acid Spray","Mirror Coat","Light Screen"]},"1v1 Defensive Power Herb":{"level":100,"ability":"Beast Boost","item":"Power Herb","nature":"Timid","evs":{"df":220,"sa":96,"sp":192},"moves":["Acid Spray","Meteor Beam","Sludge Wave","Rock Tomb"]},"1v1 Choice Specs":{"level":100,"ability":"Beast Boost","item":"Choice Specs","nature":"Timid","evs":{"hp":4,"sa":252,"sp":252},"moves":["Sludge Wave","Power Gem","Dazzling Gleam","Grass Knot"]}},"Ninetales":{"RU Sun Setter":{"level":100,"ability":"Drought","item":"Heat Rock","nature":"Timid","ivs":{"at":0},"evs":{"sa":252,"sd":4,"sp":252},"moves":["Fire Blast","Solar Beam","Nasty Plot","Toxic"]},"PU Nasty Plot":{"level":100,"ability":"Flash Fire","item":"Heavy-Duty Boots","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Nasty Plot","Fire Blast","Energy Ball","Scorching Sands"]},"ZU Nasty Plot":{"level":100,"ability":"Flash Fire","item":"Heavy-Duty Boots","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Nasty Plot","Fire Blast","Energy Ball","Scorching Sands"]},"Monotype Nasty Plot":{"level":100,"ability":"Drought","item":"Heat Rock","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Nasty Plot","Fire Blast","Extrasensory","Solar Beam"]},"1v1 Life Orb":{"level":100,"ability":"Drought","item":"Life Orb","nature":"Modest","evs":{"hp":56,"sa":220,"sp":232},"moves":["Overheat","Solar Beam","Encore","Fake Tears"]},"1v1 Choice Specs":{"level":100,"ability":"Drought","item":"Choice Specs","nature":"Modest","evs":{"df":4,"sa":252,"sp":252},"moves":["Overheat","Mystical Fire","Solar Beam","Scorching Sands"]}},"Ninetales-Alola":{"OU Hail Setter":{"level":100,"ability":"Snow Warning","item":"Icy Rock","nature":"Timid","evs":{"hp":252,"sa":4,"sp":252},"moves":["Aurora Veil","Freeze-Dry","Encore","Pain Split"]},"OU Aurora Veil":{"level":100,"ability":"Snow Warning","item":"Light Clay","nature":"Timid","evs":{"hp":252,"sa":4,"sp":252},"moves":["Aurora Veil","Freeze-Dry","Hail","Hypnosis"]},"Monotype Aurora Veil (Ice)":{"level":100,"ability":"Snow Warning","item":"Light Clay","nature":"Timid","evs":{"df":4,"sa":252,"sp":252},"moves":["Aurora Veil","Moonblast","Freeze-Dry","Encore"]},"Monotype Aurora Veil Setter (Fairy)":{"level":100,"ability":"Snow Warning","item":"Light Clay","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Aurora Veil","Freeze-Dry","Moonblast","Encore"]},"Doubles Hail Setter":{"level":100,"ability":"Snow Warning","item":"Light Clay","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Blizzard","Encore","Aurora Veil","Protect"]},"1v1 Encore + Disable":{"level":100,"ability":"Snow Warning","item":"Sitrus Berry","nature":"Timid","evs":{"df":12,"sa":244,"sp":252},"moves":["Aurora Veil","Disable","Encore","Moonblast"]},"1v1 Life Orb":{"level":100,"ability":"Snow Warning","item":"Life Orb","nature":"Timid","evs":{"hp":8,"df":100,"sa":172,"sp":228},"moves":["Protect","Disable","Moonblast","Blizzard"]}},"Ninjask":{"NU Swords Dance":{"level":100,"ability":"Speed Boost","nature":"Adamant","evs":{"at":252,"df":88,"sp":168},"moves":["Acrobatics","U-turn","Protect","Swords Dance"]},"PU Swords Dance":{"level":100,"ability":"Speed Boost","item":"Heavy-Duty Boots","nature":"Adamant","evs":{"hp":152,"at":252,"sp":104},"moves":["Swords Dance","Protect","U-turn","Dual Wingbeat"]}},"Noctowl":{"ZU Nasty Plot":{"level":100,"ability":"Tinted Lens","item":"Blunder Policy","nature":"Modest","ivs":{"at":0},"evs":{"df":4,"sa":252,"sp":252},"moves":["Nasty Plot","Hypnosis","Hurricane","Roost"]}},"Noivern":{"UU Choice Specs":{"level":100,"ability":"Frisk","item":"Choice Specs","nature":"Timid","teraType":"Normal","evs":{"sa":252,"sd":4,"sp":252},"moves":["Draco Meteor","Boomburst","Flamethrower","U-turn"]}},"Numel":{"LC Double Dance":{"level":5,"ability":"Simple","item":"Eviolite","nature":"Timid","teraType":"Grass","evs":{"df":36,"sa":236,"sp":236},"moves":["Growth","Flame Charge","Flamethrower","Earth Power"]}},"Nymble":{"LC Revenge Killer":{"level":5,"ability":"Tinted Lens","item":"Life Orb","nature":"Adamant","teraType":"Bug","evs":{"at":228,"df":36,"sp":236},"moves":["First Impression","Leech Life","Sucker Punch","U-turn"]}},"Obstagoon":{"UU RestTalk":{"level":100,"ability":"Guts","item":"Flame Orb","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Facade","Knock Off","Rest","Sleep Talk"]},"Uber Physical Attacker":{"level":100,"ability":"Guts","item":"Flame Orb","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Knock Off","Facade","Ice Punch","Switcheroo"]},"Monotype Stallbreaker (Normal)":{"level":100,"ability":"Guts","item":"Flame Orb","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["Taunt","Facade","Knock Off","Close Combat"]}},"Octillery":{"ZU All-Out Attacker":{"level":100,"ability":"Suction Cups","item":"Life Orb","nature":"Modest","evs":{"sa":252,"sd":4,"sp":252},"moves":["Hydro Pump","Fire Blast","Energy Ball","Ice Beam"]}},"Omanyte":{"LC Shell Smash Sweeper":{"level":5,"ability":"Shell Armor","item":"Eviolite","nature":"Modest","evs":{"hp":76,"sa":196,"sp":236},"moves":["Shell Smash","Hydro Pump","Ice Beam","Earth Power"]},"LC Entry Hazard Setter":{"level":5,"ability":"Weak Armor","item":"Eviolite","nature":"Timid","evs":{"hp":76,"df":116,"sa":116,"sp":156},"moves":["Stealth Rock","Hydro Pump","Knock Off","Spikes"]}},"Omastar":{"NU Shell Smash Sweeper":{"level":100,"ability":"Weak Armor","item":"Power Herb","nature":"Timid","evs":{"df":4,"sa":252,"sp":252},"moves":["Shell Smash","Meteor Beam","Surf","Ice Beam"]}},"Onix":{"LC SturdyJuice":{"level":5,"ability":"Sturdy","item":"Berry Juice","nature":"Jolly","evs":{"hp":76,"at":236,"sp":196},"moves":["Earthquake","Rock Blast","Stealth Rock","Explosion"]},"LC Dragon Dance":{"level":5,"ability":"Rock Head","item":"Eviolite","nature":"Jolly","evs":{"at":236,"sd":76,"sp":196},"moves":["Dragon Dance","Head Smash","Earthquake","Explosion"]},"LC Weak Armor":{"level":5,"ability":"Weak Armor","item":"Eviolite","nature":"Jolly","evs":{"at":236,"sd":76,"sp":196},"moves":["Earthquake","Rock Blast","Stealth Rock","Explosion"]}},"Oranguru":{"Doubles Showdown Usage":{"level":100,"ability":"Telepathy","item":"Mental Herb","nature":"Sassy","evs":{"hp":248,"df":8,"sd":252},"moves":["Instruct","Trick Room","Psychic","Protect"]}},"Orbeetle":{"Monotype Support (Psychic)":{"level":100,"ability":"Frisk","item":"Light Clay","nature":"Timid","evs":{"hp":252,"sd":4,"sp":252},"moves":["Reflect","Light Screen","Sticky Web","U-turn"]}},"Orbeetle-Gmax":{"Monotype Support (Psychic)":{"level":100,"ability":"Frisk","item":"Light Clay","nature":"Timid","evs":{"hp":252,"sd":4,"sp":252},"moves":["Reflect","Light Screen","Sticky Web","U-turn"]}},"Orthworm":{"OU Shed Tail Support":{"level":100,"ability":"Earth Eater","item":"Sitrus Berry","nature":"Impish","teraType":"Ghost","evs":{"hp":252,"at":4,"df":252},"moves":["Heavy Slam","Body Press","Stealth Rock","Shed Tail"]},"UU Defensive":{"level":100,"ability":"Earth Eater","item":"Leftovers","nature":"Impish","teraType":"Fairy","evs":{"hp":252,"df":252,"sd":4},"moves":["Spikes","Iron Defense","Body Press","Heavy Slam"]},"UU Shed Tail":{"level":100,"ability":"Earth Eater","item":"Sitrus Berry","nature":"Impish","teraType":"Ghost","evs":{"hp":248,"df":252,"sd":8},"moves":["Stealth Rock","Spikes","Body Press","Shed Tail"]},"Doubles Showdown Usage":{"level":100,"ability":"Earth Eater","item":"Leftovers","nature":"Bold","evs":{"hp":252,"df":4,"sd":252},"moves":["Body Press","Shed Tail","Iron Defense","Protect"]}},"Palafin":{"Uber Choice Band":{"level":100,"ability":"Zero to Hero","item":"Choice Band","nature":"Adamant","teraType":"Water","evs":{"at":252,"df":4,"sp":252},"moves":["Jet Punch","Flip Turn","Zen Headbutt","Ice Punch"]},"Doubles Choice Band":{"level":100,"ability":"Zero to Hero","item":"Choice Band","nature":"Jolly","teraType":"Water","evs":{"at":252,"sd":4,"sp":252},"moves":["Jet Punch","Wave Crash","Flip Turn","Ice Punch"]}},"Palkia":{"Uber Special Attacker":{"level":100,"ability":"Pressure","item":"Lustrous Orb","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Hydro Pump","Spacial Rend","Thunder","Fire Blast"]},"Uber Bulk Up":{"level":100,"ability":"Pressure","item":"Leftovers","nature":"Jolly","evs":{"hp":96,"at":160,"sp":252},"moves":["Bulk Up","Substitute","Scale Shot","Liquidation"]},"AG Wallbreaker":{"level":100,"ability":"Pressure","item":"Leftovers","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Spacial Rend","Thunder","Hydro Pump","Fire Blast"]},"AG Defensive":{"level":100,"ability":"Pressure","item":"Lustrous Orb","nature":"Calm","evs":{"hp":252,"sa":4,"sd":252},"moves":["Draco Meteor","Surf","Rest","Toxic"]},"BH Mixed Adaptability":{"level":100,"ability":"Adaptability","item":"Lustrous Orb","nature":"Naive","evs":{"hp":252,"at":252,"df":252,"sa":252,"sd":252,"sp":252},"moves":["Fishious Rend","Dragon Energy","Strength Sap","Volt Switch"]},"BH Rain Sweeper":{"level":100,"ability":"Swift Swim","item":"Lustrous Orb","nature":"Naughty","evs":{"hp":252,"at":252,"df":252,"sa":252,"sd":252,"sp":252},"moves":["Fishious Rend","Water Spout","Dragon Energy","Strength Sap"]},"BH Fur Coat":{"level":100,"ability":"Fur Coat","item":"Leftovers","nature":"Bold","evs":{"hp":252,"df":252,"sa":252,"sd":252,"sp":252},"moves":["Scald","Core Enforcer","Recover","Flip Turn"]}},"Palossand":{"UU Showdown Usage":{"level":100,"ability":"Water Compaction","item":"Leftovers","nature":"Bold","evs":{"hp":252,"df":252,"sd":4},"moves":["Earth Power","Shadow Ball","Shore Up","Stealth Rock"]}},"Pancham":{"LC Wallbreaker":{"level":5,"ability":"Iron Fist","item":"Eviolite","nature":"Adamant","evs":{"at":180,"df":100,"sd":52,"sp":172},"moves":["Drain Punch","Knock Off","Zen Headbutt","Swords Dance"]}},"Pangoro":{"RU Choice Band":{"level":100,"ability":"Scrappy","item":"Choice Band","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Close Combat","Knock Off","Iron Head","Bullet Punch"]},"RU Swords Dance":{"level":100,"ability":"Iron Fist","item":"Life Orb","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Swords Dance","Drain Punch","Knock Off","Bullet Punch"]}},"Passimian":{"NU Choice Scarf":{"level":100,"ability":"Defiant","item":"Choice Scarf","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Close Combat","Knock Off","U-turn","Rock Slide"]},"NU Choice Band":{"level":100,"ability":"Defiant","item":"Choice Band","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Close Combat","Knock Off","U-turn","Gunk Shot"]}},"Pawmot":{"OU Utility":{"level":100,"ability":"Natural Cure","item":"Leppa Berry","nature":"Jolly","teraType":"Ground","evs":{"hp":252,"at":4,"sp":252},"moves":["Revival Blessing","Nuzzle","Rest","Sleep Talk"]},"OU Offensive":{"level":100,"ability":"Iron Fist","item":"Focus Sash","nature":"Jolly","teraType":"Electric","evs":{"at":252,"df":4,"sp":252},"moves":["Revival Blessing","Thunder Punch","Close Combat","Ice Punch"]},"Uber Revival Blessing":{"level":100,"ability":"Volt Absorb","item":"Leppa Berry","nature":"Jolly","teraType":"Electric","evs":{"at":252,"sd":4,"sp":252},"moves":["Revival Blessing","Close Combat","Double Shock","Mach Punch"]},"AG Volt Absorb Fairy":{"level":100,"ability":"Volt Absorb","item":"Leppa Berry","nature":"Jolly","teraType":"Fairy","evs":{"hp":24,"at":252,"sp":232},"moves":["Revival Blessing","Close Combat","Double Shock","Mach Punch"]},"Doubles Fast Attacker":{"level":100,"ability":"Natural Cure","item":"Focus Sash","nature":"Jolly","teraType":"Electric","evs":{"at":252,"sd":4,"sp":252},"moves":["Fake Out","Revival Blessing","Close Combat","Double Shock"]}},"Pawniard":{"LC Standard":{"level":5,"ability":"Defiant","item":"Eviolite","nature":"Jolly","teraType":"Flying","evs":{"at":156,"df":36,"sd":116,"sp":196},"moves":["Iron Head","Brick Break","Sucker Punch","Stealth Rock"]},"LC Choice Scarf":{"level":5,"ability":"Defiant","item":"Choice Scarf","nature":"Jolly","teraType":"Dark","evs":{"at":236,"df":36,"sd":36,"sp":196},"moves":["Night Slash","Iron Head","Brick Break","Stone Edge"]}},"Pelipper":{"OU Rain Setter":{"level":100,"ability":"Drizzle","item":"Damp Rock","nature":"Bold","teraType":"Ground","evs":{"hp":248,"df":252,"sa":8},"moves":["Knock Off","Hurricane","Roost","U-turn"]},"UU Rain Setter":{"level":100,"ability":"Drizzle","item":"Damp Rock","nature":"Bold","teraType":"Ground","evs":{"hp":248,"df":252,"sa":8},"moves":["Hydro Pump","Hurricane","U-turn","Roost"]},"Uber Rain Setter":{"level":100,"ability":"Drizzle","item":"Heavy-Duty Boots","nature":"Relaxed","evs":{"hp":252,"df":252,"sd":4},"moves":["Roost","U-turn","Knock Off","Hurricane"]},"Doubles Rain Setter":{"level":100,"ability":"Drizzle","item":"Eject Button","nature":"Bold","teraType":"Grass","evs":{"hp":252,"df":100,"sp":156},"moves":["Hydro Pump","Hurricane","Tailwind","Wide Guard"]}},"Perrserker":{"PU Swords Dance":{"level":100,"ability":"Steely Spirit","item":"Leftovers","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Swords Dance","Iron Head","Seed Bomb","Substitute"]},"PU Choice Band":{"level":100,"ability":"Tough Claws","item":"Choice Band","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Iron Head","Close Combat","Seed Bomb","U-turn"]}},"Persian":{"ZU Offensive Pivot":{"level":100,"ability":"Technician","item":"Silk Scarf","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["Fake Out","Double-Edge","Knock Off","U-turn"]}},"Persian-Alola":{"PU Bulky Pivot":{"level":100,"ability":"Fur Coat","item":"Heavy-Duty Boots","nature":"Jolly","evs":{"hp":252,"df":4,"sp":252},"moves":["Knock Off","Parting Shot","Toxic","Foul Play"]},"ZU Bulky Pivot":{"level":100,"ability":"Fur Coat","item":"Heavy-Duty Boots","nature":"Jolly","evs":{"hp":252,"df":4,"sp":252},"moves":["Parting Shot","Foul Play","Toxic","Knock Off"]},"ZU Choice Scarf":{"level":100,"ability":"Fur Coat","item":"Choice Scarf","nature":"Jolly","evs":{"hp":252,"at":4,"sp":252},"moves":["Parting Shot","Switcheroo","Foul Play","Knock Off"]}},"Pheromosa":{"Uber Choice Band":{"level":100,"ability":"Beast Boost","item":"Choice Band","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["U-turn","Close Combat","Throat Chop","Triple Axel"]},"AG Offensive Pivot":{"level":100,"ability":"Beast Boost","item":"Choice Band","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["U-turn","Close Combat","Triple Axel","Throat Chop"]},"Doubles All-out Attacker":{"level":100,"ability":"Beast Boost","item":"Life Orb","nature":"Naive","evs":{"at":244,"sa":12,"sp":252},"moves":["Close Combat","U-turn","Ice Beam","Protect"]},"Battle Stadium Singles Offensive Pivot":{"level":50,"ability":"Beast Boost","item":"Focus Sash","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Close Combat","U-turn","Triple Axel","Poison Jab"]},"BH Magic Guard":{"level":100,"ability":"Magic Guard","item":"Life Orb","nature":"Adamant","evs":{"hp":252,"at":252,"df":252,"sa":252,"sd":252,"sp":252},"moves":["U-turn","High Jump Kick","Glacial Lance","Volt Tackle"]},"1v1 Choice Band":{"level":100,"ability":"Beast Boost","item":"Choice Band","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["High Jump Kick","Triple Axel","Throat Chop","Giga Impact"]},"1v1 Choice Specs":{"level":100,"ability":"Beast Boost","item":"Choice Specs","nature":"Modest","evs":{"df":4,"sa":252,"sp":252},"moves":["Focus Blast","Ice Beam","Bug Buzz","Hyper Beam"]}},"Pikachu":{"PU Revenge Killer":{"level":100,"ability":"Static","item":"Light Ball","nature":"Naughty","evs":{"at":252,"sa":4,"sp":252},"moves":["Fake Out","Extreme Speed","Volt Switch","Knock Off"]}},"Pikachu-Gmax":{"PU Revenge Killer":{"level":100,"ability":"Static","item":"Light Ball","nature":"Naughty","evs":{"at":252,"sa":4,"sp":252},"moves":["Fake Out","Extreme Speed","Volt Switch","Knock Off"]}},"Piloswine":{"ZU Stealth Rock":{"level":100,"ability":"Thick Fat","item":"Eviolite","nature":"Adamant","evs":{"hp":252,"at":252,"sd":4},"moves":["Stealth Rock","Earthquake","Icicle Crash","Ice Shard"]},"Monotype Stealth Rock (Ice)":{"level":100,"ability":"Thick Fat","item":"Eviolite","nature":"Careful","evs":{"hp":252,"df":4,"sd":252},"moves":["Stealth Rock","Earthquake","Rock Slide","Ice Shard"]}},"Pincurchin":{"OU Terrain Setter":{"level":100,"ability":"Electric Surge","item":"Terrain Extender","nature":"Bold","teraType":"Flying","evs":{"hp":252,"df":252,"sa":4},"moves":["Discharge","Spikes","Thunder Wave","Memento"]},"UU Showdown Usage":{"level":100,"ability":"Electric Surge","item":"Terrain Extender","nature":"Bold","evs":{"hp":252,"df":252,"sa":4},"moves":["Spikes","Toxic Spikes","Discharge","Recover"]}},"Pineco":{"LC Showdown Usage":{"level":5,"ability":"Sturdy","item":"Eviolite","nature":"Impish","evs":{"at":76,"df":196,"sd":236},"moves":["Rapid Spin","Stealth Rock","Explosion","Spikes"]}},"Pinsir":{"ZU All-Out Attacker":{"level":100,"ability":"Hyper Cutter","item":"Heavy-Duty Boots","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["X-Scissor","Close Combat","Stone Edge","Knock Off"]}},"Politoed":{"UU Rain Setter":{"level":100,"ability":"Drizzle","item":"Damp Rock","nature":"Bold","evs":{"hp":248,"df":252,"sd":8},"moves":["Scald","Encore","Ice Beam","Rest"]},"RU Rain Setter":{"level":100,"ability":"Drizzle","item":"Damp Rock","nature":"Bold","evs":{"hp":252,"df":120,"sa":76,"sp":56},"moves":["Scald","Encore","Toxic","Ice Beam"]},"Doubles Rain Setter":{"level":100,"ability":"Drizzle","item":"Eject Button","nature":"Bold","evs":{"hp":248,"df":252,"sd":8},"moves":["Scald","Helping Hand","Icy Wind","Protect"]}},"Poliwrath":{"PU Choice Band":{"level":100,"ability":"Water Absorb","item":"Choice Band","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Liquidation","Close Combat","Darkest Lariat","Earthquake"]},"PU Defensive":{"level":100,"ability":"Water Absorb","item":"Leftovers","nature":"Bold","evs":{"hp":252,"df":160,"sp":96},"moves":["Circle Throw","Scald","Rest","Sleep Talk"]},"ZU Choice Specs":{"level":100,"ability":"Water Absorb","item":"Choice Specs","nature":"Modest","evs":{"sa":252,"sd":4,"sp":252},"moves":["Hydro Pump","Focus Blast","Ice Beam","Vacuum Wave"]},"ZU RestTalk":{"level":100,"ability":"Water Absorb","item":"Leftovers","nature":"Impish","evs":{"hp":252,"df":240,"sp":16},"moves":["Scald","Circle Throw","Rest","Sleep Talk"]}},"Polteageist":{"OU Shell Smash":{"level":100,"ability":"Weak Armor","item":"Focus Sash","nature":"Timid","teraType":"Fighting","evs":{"sa":252,"sd":4,"sp":252},"moves":["Shell Smash","Shadow Ball","Stored Power","Tera Blast"]},"UU Shell Smash":{"level":100,"ability":"Weak Armor","item":"White Herb","nature":"Modest","teraType":"Fighting","evs":{"sa":252,"sd":4,"sp":252},"moves":["Shell Smash","Shadow Ball","Stored Power","Tera Blast"]}},"Ponyta":{"LC Berry Juice Attacker":{"level":5,"ability":"Flame Body","item":"Berry Juice","nature":"Jolly","evs":{"hp":36,"at":236,"sp":196},"moves":["Flare Blitz","Wild Charge","Flame Charge","High Horsepower"]},"LC Eviolite":{"level":5,"ability":"Flame Body","item":"Eviolite","nature":"Jolly","evs":{"at":76,"df":156,"sd":76,"sp":196},"moves":["Flare Blitz","Will-O-Wisp","Morning Sun","Flame Charge"]}},"Ponyta-Galar":{"LC Calm Mind":{"level":5,"ability":"Pastel Veil","item":"Eviolite","nature":"Timid","evs":{"sa":236,"sd":76,"sp":196},"moves":["Calm Mind","Psychic","Mystical Fire","Morning Sun"]}},"Porygon":{"LC Defensive":{"level":5,"ability":"Trace","item":"Eviolite","nature":"Calm","evs":{"hp":156,"df":196,"sd":156},"moves":["Tri Attack","Teleport","Thunder Wave","Recover"]},"LC Agility":{"level":5,"ability":"Download","item":"Eviolite","nature":"Modest","evs":{"df":36,"sa":236,"sp":196},"moves":["Agility","Tri Attack","Ice Beam","Recover"]},"LC Choice Scarf":{"level":5,"ability":"Download","item":"Choice Scarf","nature":"Timid","evs":{"df":36,"sa":236,"sp":196},"moves":["Tri Attack","Ice Beam","Thunderbolt","Psychic"]}},"Porygon-Z":{"RU Choice Scarf":{"level":100,"ability":"Adaptability","item":"Choice Scarf","nature":"Timid","evs":{"df":4,"sa":252,"sp":252},"moves":["Tri Attack","Shadow Ball","Trick","Ice Beam"]},"Battle Stadium Singles Special Wallbreaker":{"level":50,"ability":"Adaptability","item":"Chople Berry","nature":"Modest","evs":{"df":4,"sa":252,"sp":252},"moves":["Hyper Beam","Dark Pulse","Tri Attack","Nasty Plot"]},"1v1 Choice Specs":{"level":100,"ability":"Adaptability","item":"Choice Specs","nature":"Modest","evs":{"sa":252,"sd":4,"sp":252},"moves":["Hyper Beam","Uproar","Thunderbolt","Ice Beam"]},"1v1 Custap Berry":{"level":100,"ability":"Adaptability","item":"Custap Berry","nature":"Modest","evs":{"hp":60,"df":160,"sa":72,"sp":216},"moves":["Hyper Beam","Endure","Nasty Plot","Uproar"]},"1v1 Choice Scarf":{"level":100,"ability":"Adaptability","item":"Choice Scarf","nature":"Timid","evs":{"hp":4,"sa":252,"sp":252},"moves":["Hyper Beam","Trick","Recover","Ice Beam"]},"1v1 Life Orb":{"level":100,"ability":"Adaptability","item":"Life Orb","nature":"Modest","evs":{"sa":240,"sd":92,"sp":176},"moves":["Nasty Plot","Hyper Beam","Uproar","Substitute"]},"1v1 Rocky Helmet":{"level":100,"ability":"Adaptability","item":"Rocky Helmet","nature":"Modest","evs":{"hp":4,"df":64,"sa":252,"sp":188},"moves":["Nasty Plot","Hyper Beam","Reflect","Recover"]}},"Porygon2":{"UU Trick Room Setter":{"level":100,"ability":"Trace","item":"Eviolite","nature":"Sassy","ivs":{"at":0,"sp":0},"evs":{"hp":248,"df":44,"sd":216},"moves":["Trick Room","Foul Play","Recover","Teleport"]},"RU Specially Defensive":{"level":100,"ability":"Trace","item":"Eviolite","nature":"Calm","evs":{"hp":248,"df":8,"sd":252},"moves":["Teleport","Recover","Ice Beam","Toxic"]},"Uber Trick Room Setter":{"level":100,"ability":"Analytic","item":"Eviolite","nature":"Relaxed","ivs":{"at":0,"sp":0},"evs":{"hp":252,"df":252,"sd":4},"moves":["Trick Room","Teleport","Recover","Foul Play"]},"AG Physically Defensive":{"level":100,"ability":"Analytic","item":"Eviolite","nature":"Bold","evs":{"hp":252,"df":252,"sd":4},"moves":["Foul Play","Ice Beam","Recover","Teleport"]},"Monotype Physically Defensive":{"level":100,"ability":"Trace","item":"Eviolite","nature":"Bold","evs":{"hp":252,"df":252,"sd":4},"moves":["Recover","Foul Play","Ice Beam","Toxic"]},"Doubles Trick Room":{"level":100,"ability":"Download","item":"Eviolite","nature":"Quiet","ivs":{"sp":0},"evs":{"hp":248,"df":40,"sa":156,"sd":64},"moves":["Ice Beam","Thunderbolt","Recover","Trick Room"]},"Battle Stadium Singles Defensive":{"level":50,"ability":"Download","item":"Eviolite","nature":"Bold","evs":{"hp":244,"df":252,"sd":12},"moves":["Recover","Ice Beam","Discharge","Tri Attack"]},"Battle Stadium Singles Offensive":{"level":50,"ability":"Download","item":"Eviolite","nature":"Modest","evs":{"hp":244,"df":12,"sa":252},"moves":["Tri Attack","Ice Beam","Recover","Trick Room"]},"1v1 Eerie Impulse":{"level":100,"ability":"Download","item":"Eviolite","nature":"Modest","evs":{"hp":248,"df":80,"sa":132,"sd":32,"sp":16},"moves":["Hyper Beam","Icy Wind","Eerie Impulse","Recover"]}},"Primarina":{"OU Choice Specs":{"level":100,"ability":"Torrent","item":"Choice Specs","nature":"Modest","evs":{"df":4,"sa":252,"sp":252},"moves":["Hydro Pump","Moonblast","Psychic","Scald"]},"OU Substitute + Calm Mind":{"level":100,"ability":"Torrent","item":"Leftovers","nature":"Calm","evs":{"hp":248,"sa":40,"sd":44,"sp":176},"moves":["Substitute","Calm Mind","Scald","Moonblast"]},"UU RestTalk":{"level":100,"ability":"Torrent","item":"Leftovers","nature":"Bold","evs":{"hp":252,"df":252,"sd":4},"moves":["Scald","Moonblast","Rest","Sleep Talk"]},"UU 3 Attacks":{"level":100,"ability":"Torrent","item":"Leftovers","nature":"Modest","evs":{"hp":212,"sa":160,"sp":136},"moves":["Scald","Moonblast","Ice Beam","Substitute"]},"UU Choice Specs":{"level":100,"ability":"Torrent","item":"Choice Specs","nature":"Modest","evs":{"hp":4,"sa":252,"sp":252},"moves":["Hydro Pump","Moonblast","Ice Beam","Scald"]},"Monotype Defensive Calm Mind (Water)":{"level":100,"ability":"Torrent","item":"Leftovers","nature":"Bold","evs":{"hp":252,"df":252,"sd":4},"moves":["Calm Mind","Moonblast","Rest","Sleep Talk"]},"Battle Stadium Singles Offensive":{"level":50,"ability":"Torrent","item":"Assault Vest","nature":"Modest","evs":{"hp":252,"df":28,"sa":228},"moves":["Moonblast","Sparkling Aria","Energy Ball","Aqua Jet"]},"1v1 Custap Berry":{"level":100,"ability":"Torrent","item":"Custap Berry","nature":"Modest","evs":{"hp":240,"df":152,"sa":104,"sp":12},"moves":["Hydro Cannon","Moonblast","Endure","Calm Mind"]},"1v1 Sitrus Berry":{"level":100,"ability":"Torrent","item":"Sitrus Berry","nature":"Modest","evs":{"hp":240,"df":164,"sa":28,"sd":76},"moves":["Hydro Cannon","Moonblast","Encore","Calm Mind"]},"1v1 Choice Specs":{"level":100,"ability":"Torrent","item":"Choice Specs","nature":"Modest","evs":{"hp":240,"df":164,"sa":104},"moves":["Hydro Cannon","Moonblast","Ice Beam","Sparkling Aria"]},"1v1 Wacan Berry":{"level":100,"ability":"Torrent","item":"Wacan Berry","nature":"Modest","evs":{"hp":252,"df":144,"sa":8,"sd":60,"sp":44},"moves":["Hydro Cannon","Moonblast","Icy Wind","Encore"]}},"Primeape":{"UU Showdown Usage":{"level":100,"ability":"Defiant","item":"Eviolite","nature":"Adamant","evs":{"hp":252,"at":252,"sd":4},"moves":["Rage Fist","Drain Punch","Bulk Up","Taunt"]}},"Psyduck":{"LC Rain Wallbreaker":{"level":5,"ability":"Swift Swim","item":"Eviolite","nature":"Modest","teraType":"Electric","evs":{"sa":236,"sd":36,"sp":236},"moves":["Nasty Plot","Surf","Ice Beam","Tera Blast"]}},"Pyroak":{"CAP Contrary Tank":{"level":100,"ability":"Contrary","item":"Heavy-Duty Boots","nature":"Modest","teraType":"Fairy","evs":{"sa":216,"sd":252,"sp":40},"moves":["Overheat","Earth Power","Giga Drain","Synthesis"]}},"Pyukumuku":{"PU Unaware Trapper":{"level":100,"ability":"Unaware","item":"Leftovers","nature":"Bold","evs":{"hp":252,"df":252,"sd":4},"moves":["Block","Spite","Recover","Rest"]},"ZU Unaware Wall":{"level":100,"ability":"Unaware","item":"Leftovers","nature":"Bold","evs":{"hp":248,"df":252,"sd":8},"moves":["Recover","Block","Spite","Rest"]},"1v1 Counter + Mirror Coat":{"level":100,"ability":"Unaware","item":"Rocky Helmet","nature":"Impish","evs":{"hp":252,"df":228,"sd":28},"moves":["Counter","Mirror Coat","Recover","Taunt"]}},"Quagsire":{"UU Unaware Wall":{"level":100,"ability":"Unaware","item":"Leftovers","nature":"Impish","teraType":"Poison","evs":{"hp":252,"df":252,"sd":4},"moves":["Spikes","Earthquake","Toxic","Recover"]}},"Quaquaval":{"OU Bulk Up":{"level":100,"ability":"Moxie","item":"Leftovers","nature":"Impish","teraType":"Water","evs":{"hp":200,"at":16,"df":180,"sp":112},"moves":["Bulk Up","Aqua Step","Close Combat","Roost"]},"OU Swords Dance":{"level":100,"ability":"Moxie","item":"Leftovers","nature":"Jolly","teraType":"Water","evs":{"at":252,"df":4,"sp":252},"moves":["Swords Dance","Aqua Step","Close Combat","Ice Spinner"]},"Uber Showdown Usage":{"level":100,"ability":"Moxie","item":"Focus Sash","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Aqua Step","Close Combat","Ice Spinner","Aqua Jet"]},"Monotype Choice Scarf (Fighting)":{"level":100,"ability":"Moxie","item":"Choice Scarf","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Wave Crash","U-turn","Close Combat","Aqua Step"]},"Doubles Showdown Usage":{"level":100,"ability":"Moxie","item":"Life Orb","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Aqua Step","Close Combat","Ice Spinner","Brave Bird"]}},"Quaxly":{"LC Defensive Spinner":{"level":5,"ability":"Moxie","item":"Eviolite","nature":"Impish","teraType":"Flying","evs":{"hp":76,"at":76,"df":156,"sp":196},"moves":["Roost","Rapid Spin","Liquidation","Brave Bird"]}},"Qwilfish":{"PU Spikes":{"level":100,"ability":"Intimidate","item":"Rocky Helmet","nature":"Jolly","evs":{"hp":252,"at":4,"sp":252},"moves":["Spikes","Taunt","Waterfall","Thunder Wave"]},"ZU Defensive Spikes":{"level":100,"ability":"Intimidate","item":"Rocky Helmet","nature":"Jolly","evs":{"hp":252,"df":120,"sp":136},"moves":["Spikes","Liquidation","Pain Split","Taunt"]},"ZU Swords Dance":{"level":100,"ability":"Intimidate","item":"Black Sludge","nature":"Adamant","evs":{"at":252,"df":4,"sp":252},"moves":["Swords Dance","Liquidation","Poison Jab","Aqua Jet"]}},"Raboot":{"1v1 Bulky Offense":{"level":100,"ability":"Libero","item":"Eviolite","nature":"Adamant","evs":{"hp":248,"at":236,"sd":24},"moves":["High Jump Kick","Sucker Punch","Flare Blitz","Gunk Shot"]}},"Rabsca":{"OU Trick Room Setter":{"level":100,"ability":"Synchronize","item":"Leppa Berry","nature":"Quiet","teraType":"Bug","ivs":{"at":0,"sp":0},"evs":{"hp":252,"sa":252,"sd":4},"moves":["Trick Room","Revival Blessing","Bug Buzz","Psychic"]},"UU Showdown Usage":{"level":100,"ability":"Synchronize","item":"Leppa Berry","nature":"Quiet","evs":{"hp":252,"sa":252,"sd":4},"moves":["Revival Blessing","Bug Buzz","Psychic","Trick Room"]},"Doubles Trick Room Setter":{"level":100,"ability":"Synchronize","item":"Leppa Berry","nature":"Relaxed","teraType":"Fairy","evs":{"hp":252,"df":252,"sa":4},"moves":["Trick Room","Revival Blessing","Bug Buzz","Memento"]}},"Raichu":{"ZU Nasty Plot":{"level":100,"ability":"Lightning Rod","item":"Life Orb","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Nasty Plot","Thunderbolt","Focus Blast","Surf"]}},"Raichu-Alola":{"Monotype Terrain Sweeper (Electric)":{"level":100,"ability":"Surge Surfer","item":"Life Orb","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Rising Voltage","Psychic","Focus Blast","Knock Off"]}},"Raikou":{"UU Offensive Pivot":{"level":100,"ability":"Inner Focus","item":"Heavy-Duty Boots","nature":"Timid","ivs":{"at":0},"evs":{"sa":252,"sd":4,"sp":252},"moves":["Volt Switch","Thunderbolt","Scald","Aura Sphere"]},"RU Offensive Pivot":{"level":100,"ability":"Inner Focus","item":"Heavy-Duty Boots","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Volt Switch","Thunderbolt","Scald","Toxic"]},"RU Calm Mind":{"level":100,"ability":"Inner Focus","item":"Leftovers","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Calm Mind","Thunderbolt","Scald","Shadow Ball"]},"Battle Stadium Singles Calm Mind":{"level":50,"ability":"Pressure","item":"Leftovers","nature":"Timid","evs":{"hp":4,"sa":252,"sp":252},"moves":["Calm Mind","Discharge","Scald","Substitute"]},"Battle Stadium Singles Choice Specs":{"level":50,"ability":"Pressure","item":"Choice Specs","nature":"Timid","evs":{"hp":4,"sa":252,"sp":252},"moves":["Thunderbolt","Volt Switch","Scald","Extrasensory"]},"1v1 Pressure Stall":{"level":100,"ability":"Pressure","item":"Leftovers","nature":"Timid","evs":{"hp":200,"sd":56,"sp":252},"moves":["Substitute","Protect","Calm Mind","Thunderbolt"]}},"Rapidash":{"PU Offensive Utility":{"level":100,"ability":"Flash Fire","item":"Heavy-Duty Boots","nature":"Jolly","evs":{"hp":252,"sd":4,"sp":252},"moves":["Flare Blitz","High Horsepower","Toxic","Morning Sun"]},"PU Swords Dance":{"level":100,"ability":"Flash Fire","item":"Heavy-Duty Boots","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Swords Dance","Flare Blitz","Wild Charge","High Horsepower"]},"ZU Utility":{"level":100,"ability":"Flame Body","item":"Heavy-Duty Boots","nature":"Jolly","evs":{"hp":252,"sd":4,"sp":252},"moves":["Flare Blitz","High Horsepower","Toxic","Morning Sun"]},"ZU Swords Dance":{"level":100,"ability":"Flame Body","item":"Heavy-Duty Boots","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Swords Dance","Flare Blitz","High Horsepower","Morning Sun"]},"ZU Sun Wallbreaker":{"level":100,"ability":"Flash Fire","item":"Heavy-Duty Boots","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Swords Dance","Flare Blitz","Solar Blade","High Horsepower"]}},"Rapidash-Galar":{"PU Grassy Seed Sweeper":{"level":100,"ability":"Pastel Veil","item":"Grassy Seed","nature":"Timid","evs":{"hp":252,"sa":4,"sp":252},"moves":["Calm Mind","Morning Sun","Stored Power","Mystical Fire"]},"ZU Stored Power Sweeper":{"level":100,"ability":"Pastel Veil","item":"Kee Berry","nature":"Timid","evs":{"hp":252,"sa":4,"sp":252},"moves":["Calm Mind","Stored Power","Dazzling Gleam","Morning Sun"]},"ZU Swords Dance":{"level":100,"ability":"Pastel Veil","item":"Leftovers","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["Swords Dance","Play Rough","High Horsepower","Morning Sun"]}},"Rayquaza":{"Uber Choice Band":{"level":100,"ability":"Air Lock","item":"Choice Band","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["Dragon Ascent","V-create","Extreme Speed","Earthquake"]},"Uber Swords Dance":{"level":100,"ability":"Air Lock","item":"Focus Sash","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["Dragon Ascent","V-create","Scale Shot","Swords Dance"]},"Uber MixQuaza":{"level":100,"ability":"Air Lock","item":"Life Orb","nature":"Naive","evs":{"at":252,"sa":4,"sp":252},"moves":["Dragon Ascent","Draco Meteor","Extreme Speed","V-create"]},"AG Dynamax Sweeper":{"level":100,"ability":"Air Lock","item":"Life Orb","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Swords Dance","Dragon Ascent","V-create","Extreme Speed"]},"BH Mixed Aerilate":{"level":100,"ability":"Aerilate","item":"Life Orb","nature":"Naive","evs":{"hp":252,"at":252,"df":252,"sa":252,"sd":252,"sp":252},"moves":["Boomburst","Extreme Speed","V-create","Strength Sap"]},"BH Triage":{"level":100,"ability":"Triage","item":"Life Orb","nature":"Modest","ivs":{"at":0},"evs":{"hp":252,"df":252,"sa":252,"sd":252,"sp":252},"moves":["Nasty Plot","Oblivion Wing","Earth Power","Core Enforcer"]}},"Regice":{"ZU Rock Polish":{"level":100,"ability":"Clear Body","item":"Heavy-Duty Boots","nature":"Timid","evs":{"df":4,"sa":252,"sp":252},"moves":["Rock Polish","Ice Beam","Thunderbolt","Focus Blast"]},"1v1 Charge Beam":{"level":100,"ability":"Clear Body","item":"Leftovers","nature":"Calm","evs":{"hp":252,"sd":4,"sp":252},"moves":["Rest","Amnesia","Frost Breath","Charge Beam"]},"1v1 Counter":{"level":100,"ability":"Clear Body","item":"Leftovers","nature":"Bold","evs":{"hp":248,"df":252,"sd":8},"moves":["Frost Breath","Counter","Amnesia","Rest"]}},"Regidrago":{"RU Dragon Dance":{"level":100,"ability":"Dragon's Maw","item":"Leftovers","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Dragon Dance","Outrage","Thunder Fang","Substitute"]},"RU Choice Band":{"level":100,"ability":"Dragon's Maw","item":"Choice Band","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Outrage","Scale Shot","Hammer Arm","Thunder Fang"]},"1v1 Haban Berry":{"level":100,"ability":"Dragon's Maw","item":"Haban Berry","nature":"Adamant","evs":{"df":244,"sd":168,"sp":96},"moves":["Scale Shot","Outrage","Draco Meteor","Breaking Swipe"]},"1v1 Assault Vest":{"level":100,"ability":"Dragon's Maw","item":"Assault Vest","nature":"Modest","evs":{"hp":48,"df":248,"sa":4,"sd":200,"sp":8},"moves":["Draco Meteor","Outrage","Dragon Energy","Scale Shot"]},"1v1 Custap Berry":{"level":100,"ability":"Dragon's Maw","item":"Custap Berry","nature":"Modest","evs":{"df":252,"sa":252,"sd":4},"moves":["Endure","Dragon Energy","Draco Meteor","Scale Shot"]},"1v1 Choice Band":{"level":100,"ability":"Dragon's Maw","item":"Choice Band","nature":"Adamant","evs":{"hp":12,"at":216,"df":140,"sd":44,"sp":96},"moves":["Outrage","Scale Shot","Fire Fang","Crunch"]}},"Regieleki":{"OU Screens Lead":{"level":100,"ability":"Transistor","item":"Light Clay","nature":"Adamant","evs":{"hp":96,"at":252,"sp":160},"moves":["Reflect","Light Screen","Rapid Spin","Explosion"]},"Uber Physical Attacker":{"level":100,"ability":"Transistor","item":"Life Orb","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Rapid Spin","Wild Charge","Assurance","Explosion"]},"Uber Special Attacker":{"level":100,"ability":"Transistor","item":"Life Orb","nature":"Rash","evs":{"at":4,"sa":252,"sp":252},"moves":["Volt Switch","Thunderbolt","Rapid Spin","Explosion"]},"AG Rapid Spin":{"level":100,"ability":"Transistor","item":"Life Orb","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Rapid Spin","Wild Charge","Explosion","Assurance"]},"Monotype Wallbreaker":{"level":100,"ability":"Transistor","item":"Choice Specs","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Rising Voltage","Thunderbolt","Volt Switch","Ancient Power"]},"Doubles Mono-Electric":{"level":100,"ability":"Transistor","item":"Choice Specs","nature":"Modest","evs":{"hp":4,"df":44,"sa":232,"sp":228},"moves":["Rising Voltage","Volt Switch","Electroweb","Thunderbolt"]},"Battle Stadium Singles Dual Screens":{"level":50,"ability":"Transistor","item":"Light Clay","nature":"Timid","evs":{"hp":148,"at":4,"sa":252,"sd":4,"sp":100},"moves":["Light Screen","Reflect","Volt Switch","Explosion"]},"Battle Stadium Singles Special Attacker":{"level":50,"ability":"Transistor","item":"Choice Specs","nature":"Modest","evs":{"sa":252,"sd":4,"sp":252},"moves":["Thunderbolt","Volt Switch","Hyper Beam","Ancient Power"]},"BH Mixed Galvanize Cleaner":{"level":100,"ability":"Galvanize","item":"Life Orb","nature":"Rash","evs":{"hp":252,"at":252,"df":252,"sa":252,"sd":252,"sp":252},"moves":["Boomburst","Glacial Lance","V-create","Strength Sap"]},"1v1 Choice Specs":{"level":100,"ability":"Transistor","item":"Choice Specs","nature":"Modest","evs":{"df":4,"sa":252,"sp":252},"moves":["Thunder Cage","Thunder","Hyper Beam","Electro Ball"]}},"Regigigas":{"BH Spikes Utility":{"level":100,"ability":"Poison Heal","item":"Toxic Orb","nature":"Jolly","evs":{"hp":252,"at":252,"df":252,"sd":252,"sp":252},"moves":["Spikes","Facade","Nuzzle","Flip Turn"]},"BH Tough Claws Attacker":{"level":100,"ability":"Tough Claws","item":"Life Orb","nature":"Adamant","evs":{"hp":252,"at":252,"df":252,"sd":252,"sp":252},"moves":["Shift Gear","Multi-Attack","Wicked Blow","V-create"]},"BH Poison Heal Dragon Dance + Spikes":{"level":100,"ability":"Poison Heal","item":"Toxic Orb","nature":"Adamant","evs":{"hp":252,"at":252,"df":252,"sd":252,"sp":252},"moves":["Spikes","Dragon Dance","Facade","Precipice Blades"]},"BH Poison Heal Swords Dance":{"level":100,"ability":"Poison Heal","item":"Toxic Orb","nature":"Jolly","evs":{"hp":252,"at":252,"df":252,"sd":252,"sp":252},"moves":["Swords Dance","Facade","Precipice Blades","Wicked Blow"]},"BH Poison Heal Dragon Dance Sweeper":{"level":100,"ability":"Poison Heal","item":"Toxic Orb","nature":"Adamant","evs":{"hp":252,"at":252,"df":252,"sd":252,"sp":252},"moves":["Dragon Dance","Facade","Glacial Lance","V-create"]}},"Regirock":{"PU UN UN UN (Stealth Rock)":{"level":100,"ability":"Clear Body","item":"Leftovers","nature":"Impish","evs":{"hp":252,"df":232,"sd":24},"moves":["Stealth Rock","Rock Blast","Body Press","Toxic"]},"1v1 Choice Band":{"level":100,"ability":"Sturdy","item":"Choice Band","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Heavy Slam","Rock Blast","Ice Punch","Superpower"]}},"Registeel":{"UU Demon Registeel (Double Dance)":{"level":100,"ability":"Clear Body","item":"Chesto Berry","nature":"Bold","evs":{"hp":252,"df":252,"sd":4},"moves":["Amnesia","Iron Defense","Rest","Body Press"]},"UU Stealth Rock":{"level":100,"ability":"Clear Body","item":"Leftovers","nature":"Careful","evs":{"hp":252,"df":4,"sd":252},"moves":["Seismic Toss","Toxic","Earthquake","Stealth Rock"]},"RU Specially Defensive":{"level":100,"ability":"Clear Body","item":"Leftovers","nature":"Careful","evs":{"hp":252,"df":4,"sd":252},"moves":["Stealth Rock","Toxic","Seismic Toss","Heavy Slam"]},"BH Prankster":{"level":100,"ability":"Prankster","item":"Leftovers","nature":"Calm","evs":{"hp":252,"at":252,"df":252,"sd":252,"sp":252},"moves":["Haze","Recover","Anchor Shot","Encore"]},"BH Fire Immune Wall":{"level":100,"ability":"Flash Fire","item":"Leftovers","nature":"Calm","evs":{"hp":252,"at":252,"df":252,"sd":252,"sp":252},"moves":["Anchor Shot","Recover","Will-O-Wisp","Entrainment"]},"1v1 Iron Defense + Amnesia":{"level":100,"ability":"Clear Body","item":"Leftovers","nature":"Calm","evs":{"hp":252,"df":68,"sd":188},"moves":["Body Press","Iron Defense","Amnesia","Rest"]},"1v1 Counter + Amnesia":{"level":100,"ability":"Clear Body","item":"Leftovers","nature":"Careful","evs":{"hp":248,"df":172,"sd":88},"moves":["Counter","Amnesia","Rest","Seismic Toss"]},"1v1 Assault Vest":{"level":100,"ability":"Clear Body","item":"Assault Vest","nature":"Careful","evs":{"hp":248,"at":40,"df":56,"sd":164},"moves":["Heavy Slam","Seismic Toss","Earthquake","Counter"]}},"Relicanth":{"PU Choice Band":{"level":100,"ability":"Rock Head","item":"Choice Band","nature":"Adamant","evs":{"at":252,"df":4,"sp":252},"moves":["Head Smash","Waterfall","Earthquake","Zen Headbutt"]},"ZU Offensive Stealth Rock":{"level":100,"ability":"Rock Head","item":"Leftovers","nature":"Adamant","evs":{"hp":120,"at":252,"sp":136},"moves":["Stealth Rock","Head Smash","Liquidation","Toxic"]}},"Reshiram":{"Uber Life Orb":{"level":100,"ability":"Turboblaze","item":"Life Orb","nature":"Naive","evs":{"at":4,"sa":252,"sp":252},"moves":["Blue Flare","Draco Meteor","Roost","Stone Edge"]},"AG Dragon Dance":{"level":100,"ability":"Turboblaze","item":"Life Orb","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["Dragon Dance","Flare Blitz","Outrage","Roost"]},"BH Magic Guard Life Orb":{"level":100,"ability":"Magic Guard","item":"Life Orb","nature":"Modest","ivs":{"at":0},"evs":{"hp":252,"df":252,"sa":252,"sd":252,"sp":252},"moves":["Mind Blown","Core Enforcer","Strength Sap","Quiver Dance"]},"BH Desolate Land":{"level":100,"ability":"Desolate Land","item":"Charcoal","nature":"Naughty","evs":{"hp":252,"at":252,"df":252,"sa":252,"sd":252,"sp":252},"moves":["V-create","Core Enforcer","Spikes","Strength Sap"]}},"Reuniclus":{"OU Calm Mind":{"level":100,"ability":"Magic Guard","item":"Life Orb","nature":"Bold","evs":{"hp":252,"df":212,"sp":44},"moves":["Calm Mind","Psyshock","Recover","Thunder"]},"UU Life Orb + 3 Attacks":{"level":100,"ability":"Magic Guard","item":"Life Orb","nature":"Modest","evs":{"hp":188,"df":32,"sa":252,"sd":36},"moves":["Psychic","Thunder","Focus Blast","Recover"]},"RU Defensive Calm Mind":{"level":100,"ability":"Magic Guard","item":"Leftovers","nature":"Bold","evs":{"hp":252,"df":252,"sd":4},"moves":["Calm Mind","Psyshock","Focus Blast","Recover"]},"RU Assault Vest":{"level":100,"ability":"Regenerator","item":"Assault Vest","nature":"Modest","evs":{"hp":248,"sa":24,"sd":236},"moves":["Psyshock","Future Sight","Focus Blast","Shadow Ball"]},"Monotype Stored Power":{"level":100,"ability":"Magic Guard","item":"Leftovers","nature":"Bold","ivs":{"at":0},"evs":{"hp":252,"df":252,"sd":4},"moves":["Calm Mind","Recover","Stored Power","Iron Defense"]},"1v1 Stored Power":{"level":100,"ability":"Magic Guard","item":"Sitrus Berry","nature":"Bold","evs":{"hp":244,"df":180,"sd":84},"moves":["Acid Armor","Calm Mind","Stored Power","Recover"]}},"Revavroom":{"UU Showdown Usage":{"level":100,"ability":"Filter","item":"Air Balloon","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Shift Gear","Iron Head","Gunk Shot","Poison Jab"]}},"Revenankh":{"CAP Bulk Up":{"level":100,"ability":"Triage","item":"Spell Tag","nature":"Careful","teraType":"Fire","evs":{"hp":128,"at":252,"sd":108,"sp":20},"moves":["Bulk Up","Drain Punch","Knock Off","Shadow Sneak"]}},"Rhydon":{"NU Stealth Rock":{"level":100,"ability":"Reckless","item":"Eviolite","nature":"Adamant","evs":{"at":252,"df":4,"sp":252},"moves":["Stealth Rock","Earthquake","Stone Edge","Swords Dance"]},"PU Offensive Stealth Rock":{"level":100,"ability":"Lightning Rod","item":"Eviolite","nature":"Adamant","evs":{"hp":4,"at":252,"sp":252},"moves":["Stealth Rock","Earthquake","Stone Edge","Heat Crash"]},"ZU Stealth Rock":{"level":100,"ability":"Lightning Rod","item":"Eviolite","nature":"Adamant","evs":{"hp":252,"at":16,"sd":156,"sp":84},"moves":["Stealth Rock","Earthquake","Stone Edge","Swords Dance"]},"ZU Swords Dance":{"level":100,"ability":"Lightning Rod","item":"Eviolite","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Swords Dance","Earthquake","Stone Edge","Stealth Rock"]}},"Rhyperior":{"UU Stealth Rock":{"level":100,"ability":"Solid Rock","item":"Leftovers","nature":"Careful","evs":{"hp":252,"at":4,"sd":252},"moves":["Stone Edge","Earthquake","Stealth Rock","Toxic"]},"RU Stealth Rock":{"level":100,"ability":"Solid Rock","item":"Leftovers","nature":"Adamant","evs":{"hp":252,"at":16,"sd":240},"moves":["Earthquake","Stone Edge","Stealth Rock","Toxic"]},"1v1 Choice Band":{"level":100,"ability":"Solid Rock","item":"Choice Band","nature":"Adamant","evs":{"at":216,"df":128,"sp":164},"moves":["Earthquake","Rock Wrecker","Rock Blast","Ice Punch"]},"1v1 Anti-Galarian Darmanitan":{"level":100,"ability":"Solid Rock","item":"Assault Vest","nature":"Impish","ivs":{"sp":26},"evs":{"hp":252,"at":76,"df":88,"sd":92},"moves":["Rock Wrecker","Earthquake","Avalanche","Rock Blast"]},"1v1 Anti Magnezone":{"level":100,"ability":"Solid Rock","item":"Assault Vest","nature":"Adamant","evs":{"hp":252,"at":36,"sd":96,"sp":124},"moves":["Rock Wrecker","Earthquake","Bulldoze","Avalanche"]}},"Ribombee":{"UU Lead":{"level":100,"ability":"Shield Dust","item":"Focus Sash","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Sticky Web","Moonblast","Stun Spore","U-turn"]},"PU Quiver Dance":{"level":100,"ability":"Shield Dust","item":"Heavy-Duty Boots","nature":"Timid","evs":{"df":4,"sa":252,"sp":252},"moves":["Quiver Dance","Moonblast","Roost","Aromatherapy"]},"PU Choice Specs":{"level":100,"ability":"Shield Dust","item":"Choice Specs","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Moonblast","Bug Buzz","Psychic","U-turn"]},"PU Offensive Support":{"level":100,"ability":"Shield Dust","item":"Heavy-Duty Boots","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Sticky Web","Moonblast","Stun Spore","U-turn"]},"Monotype Sticky Web Lead (Fairy)":{"level":100,"ability":"Shield Dust","item":"Focus Sash","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Sticky Web","Bug Buzz","Stun Spore","Moonblast"]},"Doubles Speed Control":{"level":100,"ability":"Shield Dust","item":"Focus Sash","nature":"Timid","evs":{"df":4,"sa":252,"sp":252},"moves":["Sticky Web","Tailwind","Moonblast","Pollen Puff"]}},"Ribombee-Totem":{"UU Lead":{"level":100,"ability":"Shield Dust","item":"Focus Sash","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Sticky Web","Moonblast","Stun Spore","U-turn"]},"PU Quiver Dance":{"level":100,"ability":"Shield Dust","item":"Heavy-Duty Boots","nature":"Timid","evs":{"df":4,"sa":252,"sp":252},"moves":["Quiver Dance","Moonblast","Roost","Aromatherapy"]},"PU Choice Specs":{"level":100,"ability":"Shield Dust","item":"Choice Specs","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Moonblast","Bug Buzz","Psychic","U-turn"]},"PU Offensive Support":{"level":100,"ability":"Shield Dust","item":"Heavy-Duty Boots","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Sticky Web","Moonblast","Stun Spore","U-turn"]},"Monotype Sticky Web Lead (Fairy)":{"level":100,"ability":"Shield Dust","item":"Focus Sash","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Sticky Web","Bug Buzz","Stun Spore","Moonblast"]},"Doubles Speed Control":{"level":100,"ability":"Shield Dust","item":"Focus Sash","nature":"Timid","evs":{"df":4,"sa":252,"sp":252},"moves":["Sticky Web","Tailwind","Moonblast","Pollen Puff"]}},"Rillaboom":{"OU Swords Dance":{"level":100,"ability":"Grassy Surge","item":"Life Orb","nature":"Adamant","evs":{"at":252,"df":4,"sp":252},"moves":["Swords Dance","Grassy Glide","Knock Off","Superpower"]},"OU Choice Band":{"level":100,"ability":"Grassy Surge","item":"Choice Band","nature":"Adamant","evs":{"at":252,"df":4,"sp":252},"moves":["Grassy Glide","Knock Off","Wood Hammer","U-turn"]},"Monotype Swords Dance (Grass)":{"level":100,"ability":"Grassy Surge","item":"Life Orb","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Swords Dance","Grassy Glide","Superpower","Knock Off"]},"Monotype Choice Band (Grass)":{"level":100,"ability":"Grassy Surge","item":"Choice Band","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Grassy Glide","Wood Hammer","Knock Off","U-turn"]},"Doubles Bulky Pivot":{"level":100,"ability":"Grassy Surge","item":"Assault Vest","nature":"Adamant","evs":{"hp":252,"at":252,"df":4},"moves":["Fake Out","Grassy Glide","Wood Hammer","U-turn"]},"Battle Stadium Singles G-Max Choice Attacker":{"level":50,"ability":"Grassy Surge","item":"Choice Band","nature":"Adamant","evs":{"hp":252,"at":252,"sp":4},"moves":["Grassy Glide","U-turn","Knock Off","High Horsepower"]},"Battle Stadium Singles G-Max General Offense":{"level":50,"ability":"Grassy Surge","item":"Assault Vest","nature":"Adamant","evs":{"hp":252,"at":252,"sp":4},"moves":["Grassy Glide","Knock Off","Drum Beating","U-turn"]},"Battle Stadium Singles G-Max Swords Dance Sweeper":{"level":50,"ability":"Grassy Surge","item":"Grassy Seed","nature":"Adamant","evs":{"hp":100,"at":252,"sp":156},"moves":["Swords Dance","Grassy Glide","Superpower","Knock Off"]},"1v1 Life Orb":{"level":100,"ability":"Grassy Surge","item":"Life Orb","nature":"Adamant","evs":{"at":252,"df":64,"sp":192},"moves":["Fake Out","Grassy Glide","Swords Dance","High Horsepower"]},"1v1 Grassy Seed":{"level":100,"ability":"Grassy Surge","item":"Grassy Seed","nature":"Adamant","evs":{"hp":56,"at":228,"df":88,"sp":136},"moves":["Swords Dance","Grassy Glide","Knock Off","Acrobatics"]},"1v1 Assault Vest":{"level":100,"ability":"Grassy Surge","item":"Assault Vest","nature":"Careful","evs":{"hp":184,"at":84,"sd":240},"moves":["Fake Out","High Horsepower","Wood Hammer","Grassy Glide"]},"1v1 SubSeed":{"level":100,"ability":"Grassy Surge","item":"Grassy Seed","nature":"Impish","evs":{"hp":136,"df":140,"sp":232},"moves":["Substitute","Protect","Leech Seed","Drum Beating"]},"1v1 Weakness Policy":{"level":100,"ability":"Grassy Surge","item":"Weakness Policy","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Wood Hammer","Grassy Glide","Bulk Up","Endure"]}},"Rillaboom-Gmax":{"OU Swords Dance":{"level":100,"ability":"Grassy Surge","item":"Life Orb","nature":"Adamant","evs":{"at":252,"df":4,"sp":252},"moves":["Swords Dance","Grassy Glide","Knock Off","Superpower"]},"OU Choice Band":{"level":100,"ability":"Grassy Surge","item":"Choice Band","nature":"Adamant","evs":{"at":252,"df":4,"sp":252},"moves":["Grassy Glide","Knock Off","Wood Hammer","U-turn"]},"Monotype Swords Dance (Grass)":{"level":100,"ability":"Grassy Surge","item":"Life Orb","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Swords Dance","Grassy Glide","Superpower","Knock Off"]},"Monotype Choice Band (Grass)":{"level":100,"ability":"Grassy Surge","item":"Choice Band","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Grassy Glide","Wood Hammer","Knock Off","U-turn"]},"Doubles Bulky Pivot":{"level":100,"ability":"Grassy Surge","item":"Assault Vest","nature":"Adamant","evs":{"hp":252,"at":252,"df":4},"moves":["Fake Out","Grassy Glide","Wood Hammer","U-turn"]},"Battle Stadium Singles G-Max Choice Attacker":{"level":50,"ability":"Grassy Surge","item":"Choice Band","nature":"Adamant","evs":{"hp":252,"at":252,"sp":4},"moves":["Grassy Glide","U-turn","Knock Off","High Horsepower"]},"Battle Stadium Singles G-Max General Offense":{"level":50,"ability":"Grassy Surge","item":"Assault Vest","nature":"Adamant","evs":{"hp":252,"at":252,"sp":4},"moves":["Grassy Glide","Knock Off","Drum Beating","U-turn"]},"Battle Stadium Singles G-Max Swords Dance Sweeper":{"level":50,"ability":"Grassy Surge","item":"Grassy Seed","nature":"Adamant","evs":{"hp":100,"at":252,"sp":156},"moves":["Swords Dance","Grassy Glide","Superpower","Knock Off"]},"1v1 Life Orb":{"level":100,"ability":"Grassy Surge","item":"Life Orb","nature":"Adamant","evs":{"at":252,"df":64,"sp":192},"moves":["Fake Out","Grassy Glide","Swords Dance","High Horsepower"]},"1v1 Grassy Seed":{"level":100,"ability":"Grassy Surge","item":"Grassy Seed","nature":"Adamant","evs":{"hp":56,"at":228,"df":88,"sp":136},"moves":["Swords Dance","Grassy Glide","Knock Off","Acrobatics"]},"1v1 Assault Vest":{"level":100,"ability":"Grassy Surge","item":"Assault Vest","nature":"Careful","evs":{"hp":184,"at":84,"sd":240},"moves":["Fake Out","High Horsepower","Wood Hammer","Grassy Glide"]},"1v1 SubSeed":{"level":100,"ability":"Grassy Surge","item":"Grassy Seed","nature":"Impish","evs":{"hp":136,"df":140,"sp":232},"moves":["Substitute","Protect","Leech Seed","Drum Beating"]},"1v1 Weakness Policy":{"level":100,"ability":"Grassy Surge","item":"Weakness Policy","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Wood Hammer","Grassy Glide","Bulk Up","Endure"]}},"Riolu":{"LC Showdown Usage":{"level":5,"ability":"Prankster","item":"Eviolite","nature":"Adamant","evs":{"at":196,"df":116,"sd":196},"moves":["Copycat","Swords Dance","Close Combat","Drain Punch"]}},"Roaring Moon":{"OU Booster Energy":{"level":100,"ability":"Protosynthesis","item":"Booster Energy","nature":"Jolly","teraType":"Flying","evs":{"at":252,"sd":4,"sp":252},"moves":["Dragon Dance","Acrobatics","Crunch","Earthquake"]},"OU Bulky Pivot":{"level":100,"ability":"Protosynthesis","item":"Heavy-Duty Boots","nature":"Jolly","teraType":"Fairy","evs":{"hp":252,"sd":152,"sp":104},"moves":["U-turn","Crunch","Earthquake","Roost"]},"OU Choice Band":{"level":100,"ability":"Protosynthesis","item":"Choice Band","nature":"Adamant","teraType":"Dark","evs":{"at":252,"sd":4,"sp":252},"moves":["Crunch","Dragon Claw","Earthquake","U-turn"]},"Uber Booster Energy":{"level":100,"ability":"Protosynthesis","item":"Booster Energy","nature":"Adamant","teraType":"Flying","evs":{"at":252,"sd":4,"sp":252},"moves":["Dragon Dance","Acrobatics","Crunch","Roost"]},"Uber Choice Band":{"level":100,"ability":"Protosynthesis","item":"Choice Band","nature":"Adamant","teraType":"Dark","evs":{"at":252,"sd":4,"sp":252},"moves":["Crunch","U-turn","Earthquake","Dragon Claw"]},"Doubles Showdown Usage":{"level":100,"ability":"Protosynthesis","item":"Booster Energy","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Crunch","Dragon Claw","Dragon Dance","Earthquake"]}},"Roselia":{"ZU Defensive Spikes":{"level":100,"ability":"Poison Point","item":"Eviolite","nature":"Bold","evs":{"hp":252,"df":200,"sp":56},"moves":["Spikes","Sludge Bomb","Giga Drain","Synthesis"]}},"Roserade":{"UU Spikes":{"level":100,"ability":"Natural Cure","item":"Black Sludge","nature":"Timid","evs":{"hp":248,"df":8,"sp":252},"moves":["Giga Drain","Sludge Bomb","Spikes","Sleep Powder"]},"RU Defensive Spikes":{"level":100,"ability":"Natural Cure","item":"Rocky Helmet","nature":"Bold","ivs":{"at":0},"evs":{"hp":252,"df":240,"sp":16},"moves":["Spikes","Grass Knot","Sludge Bomb","Synthesis"]},"RU Offensive Spikes":{"level":100,"ability":"Natural Cure","item":"Heavy-Duty Boots","nature":"Timid","ivs":{"at":0},"evs":{"sa":252,"sd":4,"sp":252},"moves":["Spikes","Grass Knot","Sludge Bomb","Synthesis"]},"1v1 Substitute + Leech Seed":{"level":100,"ability":"Technician","item":"Wide Lens","nature":"Timid","evs":{"hp":136,"df":120,"sp":252},"moves":["Sleep Powder","Leech Seed","Substitute","Sludge Bomb"]},"1v1 Life Orb":{"level":100,"ability":"Technician","item":"Life Orb","nature":"Timid","evs":{"hp":16,"sa":236,"sd":4,"sp":252},"moves":["Sleep Powder","Leaf Storm","Sludge Bomb","Dazzling Gleam"]}},"Rotom":{"PU Choice Scarf":{"level":100,"ability":"Levitate","item":"Choice Scarf","nature":"Timid","evs":{"df":4,"sa":252,"sp":252},"moves":["Thunderbolt","Volt Switch","Shadow Ball","Trick"]},"PU Defog":{"level":100,"ability":"Levitate","item":"Colbur Berry","nature":"Timid","evs":{"hp":252,"sa":4,"sp":252},"moves":["Defog","Volt Switch","Hex","Will-O-Wisp"]},"ZU Choice Scarf":{"level":100,"ability":"Levitate","item":"Choice Scarf","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Volt Switch","Shadow Ball","Trick","Thunderbolt"]},"ZU Utility":{"level":100,"ability":"Levitate","item":"Colbur Berry","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Defog","Will-O-Wisp","Hex","Volt Switch"]},"ZU Choice Specs":{"level":100,"ability":"Levitate","item":"Choice Specs","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Thunderbolt","Shadow Ball","Volt Switch","Trick"]},"ZU Nasty Plot":{"level":100,"ability":"Levitate","item":"Leftovers","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Nasty Plot","Thunderbolt","Shadow Ball","Substitute"]}},"Rotom-Fan":{"PU Nasty Plot":{"level":100,"ability":"Levitate","item":"Heavy-Duty Boots","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Nasty Plot","Discharge","Air Slash","Pain Split"]},"PU Utility":{"level":100,"ability":"Levitate","item":"Heavy-Duty Boots","nature":"Timid","evs":{"hp":252,"sa":4,"sp":252},"moves":["Defog","Volt Switch","Air Slash","Pain Split"]},"PU Choice Scarf":{"level":100,"ability":"Levitate","item":"Choice Scarf","nature":"Timid","evs":{"df":4,"sa":252,"sp":252},"moves":["Volt Switch","Air Slash","Will-O-Wisp","Trick"]},"ZU Defog":{"level":100,"ability":"Levitate","item":"Heavy-Duty Boots","nature":"Timid","evs":{"hp":252,"sd":4,"sp":252},"moves":["Defog","Volt Switch","Air Slash","Will-O-Wisp"]},"ZU Nasty Plot":{"level":100,"ability":"Levitate","item":"Heavy-Duty Boots","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Nasty Plot","Thunderbolt","Air Slash","Substitute"]}},"Rotom-Frost":{"PU Nasty Plot":{"level":100,"ability":"Levitate","item":"Heavy-Duty Boots","nature":"Timid","evs":{"hp":4,"sa":252,"sp":252},"moves":["Nasty Plot","Blizzard","Volt Switch","Pain Split"]},"PU Offensive Defog":{"level":100,"ability":"Levitate","item":"Heavy-Duty Boots","nature":"Timid","evs":{"hp":4,"sa":252,"sp":252},"moves":["Volt Switch","Blizzard","Defog","Pain Split"]}},"Rotom-Heat":{"OU Specially Defensive Pivot":{"level":100,"ability":"Levitate","item":"Heavy-Duty Boots","nature":"Calm","teraType":"Steel","evs":{"hp":252,"df":4,"sd":252},"moves":["Volt Switch","Overheat","Will-O-Wisp","Discharge"]},"UU Showdown Usage":{"level":100,"ability":"Levitate","item":"Choice Scarf","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Overheat","Volt Switch","Will-O-Wisp","Trick"]}},"Rotom-Mow":{"UU Nasty Plot":{"level":100,"ability":"Levitate","item":"Leftovers","nature":"Timid","teraType":"Fairy","evs":{"hp":248,"sa":8,"sp":252},"moves":["Nasty Plot","Volt Switch","Leaf Storm","Will-O-Wisp"]}},"Rotom-Wash":{"OU Defensive Pivot":{"level":100,"ability":"Levitate","item":"Leftovers","nature":"Bold","teraType":"Ground","evs":{"hp":252,"df":252,"sd":4},"moves":["Volt Switch","Hydro Pump","Protect","Thunder Wave"]},"OU Trick":{"level":100,"ability":"Levitate","item":"Choice Scarf","nature":"Timid","teraType":"Ground","evs":{"hp":252,"df":4,"sp":252},"moves":["Volt Switch","Hydro Pump","Trick","Thunder Wave"]},"Doubles Bulky Pivot":{"level":100,"ability":"Levitate","item":"Sitrus Berry","nature":"Bold","teraType":"Grass","evs":{"hp":252,"df":252,"sp":4},"moves":["Hydro Pump","Volt Switch","Will-O-Wisp","Protect"]}},"Runerigus":{"PU Defensive":{"level":100,"ability":"Wandering Spirit","item":"Leftovers","nature":"Impish","evs":{"hp":252,"df":252,"sd":4},"moves":["Stealth Rock","Earthquake","Will-O-Wisp","Toxic Spikes"]},"PU Bulky Setup Sweeper":{"level":100,"ability":"Wandering Spirit","item":"Leftovers","nature":"Impish","evs":{"hp":252,"df":252,"sd":4},"moves":["Iron Defense","Amnesia","Rest","Body Press"]},"Monotype Defensive Hazard Setter (Ghost)":{"level":100,"ability":"Wandering Spirit","item":"Leftovers","nature":"Impish","evs":{"hp":252,"df":252,"sd":4},"moves":["Stealth Rock","Toxic Spikes","Earthquake","Will-O-Wisp"]}},"Sableye":{"UU Showdown Usage":{"level":100,"ability":"Prankster","item":"Leftovers","nature":"Careful","evs":{"hp":252,"at":4,"sd":252},"moves":["Will-O-Wisp","Recover","Knock Off","Encore"]},"1v1 Rocky Helmet":{"level":100,"ability":"Prankster","item":"Rocky Helmet","nature":"Relaxed","ivs":{"sp":0},"evs":{"hp":248,"df":252,"sd":8},"moves":["Protect","Encore","Disable","Recover"]},"1v1 Trick + Disable":{"level":100,"ability":"Prankster","item":"Choice Scarf","nature":"Impish","evs":{"hp":252,"df":252,"sd":4},"moves":["Trick","Disable","Recover","Fling"]},"1v1 Defensive Roseli Berry":{"level":100,"ability":"Prankster","item":"Roseli Berry","nature":"Relaxed","ivs":{"sp":0},"evs":{"hp":252,"df":152,"sd":104},"moves":["Metal Burst","Encore","Disable","Recover"]},"1v1 Specially Defensive Roseli Berry":{"level":100,"ability":"Prankster","item":"Roseli Berry","nature":"Sassy","ivs":{"sp":0},"evs":{"hp":252,"df":48,"sd":208},"moves":["Metal Burst","Disable","Recover","Skill Swap"]}},"Salamence":{"OU Dragon Dance":{"level":100,"ability":"Moxie","item":"Heavy-Duty Boots","nature":"Jolly","teraType":"Steel","evs":{"at":252,"sd":4,"sp":252},"moves":["Dragon Dance","Earthquake","Dual Wingbeat","Dragon Claw"]},"UU Dragon Dance":{"level":100,"ability":"Moxie","item":"Heavy-Duty Boots","nature":"Jolly","teraType":"Steel","evs":{"at":252,"df":4,"sp":252},"moves":["Dragon Dance","Outrage","Dual Wingbeat","Earthquake"]},"UU 3 Attacks Roost":{"level":100,"ability":"Intimidate","item":"Heavy-Duty Boots","nature":"Timid","teraType":"Fairy","evs":{"sa":252,"sd":4,"sp":252},"moves":["Draco Meteor","Hurricane","Flamethrower","Roost"]}},"Salandit":{"LC Showdown Usage":{"level":5,"ability":"Corrosion","item":"Eviolite","nature":"Timid","evs":{"sa":188,"sd":36,"sp":220},"moves":["Sludge Bomb","Flamethrower","Toxic","Dragon Pulse"]}},"Salazzle":{"UU Offensive":{"level":100,"ability":"Corrosion","item":"Heavy-Duty Boots","nature":"Timid","teraType":"Poison","evs":{"sa":252,"sd":4,"sp":252},"moves":["Flamethrower","Sludge Bomb","Toxic","Knock Off"]}},"Salazzle-Totem":{"UU Offensive":{"level":100,"ability":"Corrosion","item":"Heavy-Duty Boots","nature":"Timid","teraType":"Poison","evs":{"sa":252,"sd":4,"sp":252},"moves":["Flamethrower","Sludge Bomb","Toxic","Knock Off"]}},"Sandaconda":{"PU Stealth Rock":{"level":100,"ability":"Shed Skin","item":"Rocky Helmet","nature":"Impish","evs":{"hp":252,"df":168,"sp":88},"moves":["Stealth Rock","Earthquake","Glare","Rest"]},"PU Defensive Coil":{"level":100,"ability":"Shed Skin","item":"Leftovers","nature":"Careful","evs":{"hp":252,"sd":168,"sp":88},"moves":["Coil","Stone Edge","Earthquake","Rest"]}},"Sandaconda-Gmax":{"PU Stealth Rock":{"level":100,"ability":"Shed Skin","item":"Rocky Helmet","nature":"Impish","evs":{"hp":252,"df":168,"sp":88},"moves":["Stealth Rock","Earthquake","Glare","Rest"]},"PU Defensive Coil":{"level":100,"ability":"Shed Skin","item":"Leftovers","nature":"Careful","evs":{"hp":252,"sd":168,"sp":88},"moves":["Coil","Stone Edge","Earthquake","Rest"]}},"Sandile":{"LC Showdown Usage":{"level":5,"ability":"Moxie","item":"Choice Scarf","nature":"Jolly","evs":{"at":180,"sd":76,"sp":236},"moves":["Earthquake","Crunch","Brick Break","Stone Edge"]}},"Sandshrew-Alola":{"LC Hail Sweeper":{"level":5,"ability":"Slush Rush","item":"Wide Lens","nature":"Jolly","evs":{"hp":36,"at":236,"df":36,"sp":196},"moves":["Triple Axel","Earthquake","Rapid Spin","Swords Dance"]}},"Sandslash":{"NU Sand Rush Sweeper":{"level":100,"ability":"Sand Rush","item":"Life Orb","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Swords Dance","Earthquake","Rock Slide","Knock Off"]},"PU Offensive Swords Dance":{"level":100,"ability":"Sand Rush","item":"Life Orb","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Swords Dance","Earthquake","Rock Slide","Knock Off"]},"PU Utility":{"level":100,"ability":"Sand Rush","item":"Leftovers","nature":"Impish","evs":{"hp":248,"df":252,"sd":8},"moves":["Earthquake","Rapid Spin","Knock Off","Spikes"]}},"Sandslash-Alola":{"RU Slush Rush Sweeper":{"level":100,"ability":"Slush Rush","item":"Wide Lens","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Swords Dance","Triple Axel","Earthquake","Knock Off"]}},"Sandy Shocks":{"OU Choice Specs":{"level":100,"ability":"Protosynthesis","item":"Choice Specs","nature":"Timid","teraType":"Grass","evs":{"df":4,"sa":252,"sp":252},"moves":["Spikes","Volt Switch","Thunderbolt","Earth Power"]},"UU Hazards Lead":{"level":100,"ability":"Protosynthesis","item":"Focus Sash","nature":"Timid","teraType":"Ghost","evs":{"sa":252,"sd":4,"sp":252},"moves":["Stealth Rock","Spikes","Earth Power","Thunderbolt"]},"UU Pivot":{"level":100,"ability":"Protosynthesis","item":"Heavy-Duty Boots","nature":"Timid","teraType":"Ice","evs":{"sa":252,"sd":4,"sp":252},"moves":["Volt Switch","Earth Power","Thunderbolt","Tera Blast"]},"UU Choice Specs":{"level":100,"ability":"Protosynthesis","item":"Choice Specs","nature":"Timid","teraType":"Ice","evs":{"sa":252,"sd":4,"sp":252},"moves":["Volt Switch","Earth Power","Thunderbolt","Tera Blast"]},"UU Choice Scarf":{"level":100,"ability":"Protosynthesis","item":"Choice Scarf","nature":"Timid","teraType":"Ground","evs":{"sa":252,"sd":4,"sp":252},"moves":["Volt Switch","Earth Power","Thunderbolt","Spikes"]},"Monotype Choice Specs (Ground)":{"level":100,"ability":"Protosynthesis","item":"Choice Specs","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Volt Switch","Earth Power","Thunderbolt","Power Gem"]}},"Sandygast":{"LC Showdown Usage":{"level":5,"ability":"Water Compaction","item":"Eviolite","nature":"Modest","evs":{"df":36,"sa":196,"sd":236},"moves":["Earth Power","Shore Up","Shadow Ball","Stealth Rock"]}},"Sawk":{"PU Choice Attacker":{"level":100,"ability":"Mold Breaker","item":"Choice Band","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Close Combat","Earthquake","Knock Off","Poison Jab"]},"PU Sturdy Boots":{"level":100,"ability":"Sturdy","item":"Heavy-Duty Boots","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Close Combat","Knock Off","Poison Jab","Earthquake"]},"ZU Choice Scarf":{"level":100,"ability":"Mold Breaker","item":"Choice Scarf","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Close Combat","Knock Off","Earthquake","Stone Edge"]},"ZU Choice Band":{"level":100,"ability":"Mold Breaker","item":"Choice Band","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Close Combat","Knock Off","Earthquake","Stone Edge"]},"ZU All-Out Attacker":{"level":100,"ability":"Mold Breaker","item":"Black Belt","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Close Combat","Knock Off","Stone Edge","Earthquake"]},"1v1 Custap Berry":{"level":100,"ability":"Sturdy","item":"Custap Berry","nature":"Adamant","evs":{"hp":4,"at":248,"df":80,"sp":176},"moves":["Close Combat","Poison Jab","Endure","Counter"]},"1v1 Choice Band":{"level":100,"ability":"Sturdy","item":"Choice Band","nature":"Adamant","evs":{"at":252,"df":4,"sp":252},"moves":["Close Combat","Poison Jab","Knock Off","Ice Punch"]},"1v1 Choice Scarf":{"level":100,"ability":"Sturdy","item":"Choice Scarf","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["Close Combat","Knock Off","Poison Jab","Ice Punch"]}},"Sceptile":{"NU Terrain Sweeper":{"level":100,"ability":"Unburden","item":"Electric Seed","nature":"Adamant","evs":{"hp":248,"at":252,"df":8},"moves":["Swords Dance","Leaf Blade","Acrobatics","Low Kick"]}},"Scizor":{"OU Choice Band":{"level":100,"ability":"Technician","item":"Choice Band","nature":"Adamant","teraType":"Steel","evs":{"hp":236,"at":252,"sp":20},"moves":["Bullet Punch","U-turn","Close Combat","Thief"]},"OU Offensive":{"level":100,"ability":"Technician","item":"Heavy-Duty Boots","nature":"Adamant","teraType":"Steel","evs":{"hp":252,"at":252,"sd":4},"moves":["Bullet Punch","U-turn","Close Combat","Thief"]},"OU Offensive Swords Dance":{"level":100,"ability":"Technician","item":"Life Orb","nature":"Adamant","teraType":"Normal","evs":{"at":252,"df":4,"sp":252},"moves":["Bullet Punch","Close Combat","Swords Dance","Quick Attack"]},"Uber Choice Band":{"level":100,"ability":"Technician","item":"Choice Band","nature":"Adamant","teraType":"Steel","evs":{"hp":236,"at":252,"sp":20},"moves":["Bullet Punch","U-turn","Close Combat","Quick Attack"]},"Doubles Choice Band":{"level":100,"ability":"Technician","item":"Choice Band","nature":"Adamant","teraType":"Rock","evs":{"hp":248,"at":252,"sd":8},"moves":["Bullet Punch","U-turn","Close Combat","Tera Blast"]}},"Scolipede":{"UU Suicide Lead":{"level":100,"ability":"Speed Boost","item":"Focus Sash","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Spikes","Poison Jab","Endeavor","Earthquake"]},"Monotype Swords Dance (Bug)":{"level":100,"ability":"Speed Boost","item":"Heavy-Duty Boots","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Swords Dance","Megahorn","Earthquake","Rock Slide"]}},"Scorbunny":{"LC All-out Attacker":{"level":5,"ability":"Libero","item":"Berry Juice","nature":"Jolly","evs":{"hp":36,"at":188,"df":36,"sd":36,"sp":204},"moves":["Blaze Kick","Gunk Shot","U-turn","High Jump Kick"]}},"Scovillain":{"OU Sun Sweeper":{"level":100,"ability":"Chlorophyll","item":"Leftovers","nature":"Timid","teraType":"Fire","evs":{"hp":88,"sa":252,"sp":168},"moves":["Flamethrower","Solar Beam","Protect","Will-O-Wisp"]},"UU Showdown Usage":{"level":100,"ability":"Chlorophyll","item":"Life Orb","nature":"Modest","evs":{"sa":252,"sd":4,"sp":252},"moves":["Flamethrower","Giga Drain","Solar Beam","Growth"]},"Uber Moody":{"level":100,"ability":"Moody","item":"Leftovers","nature":"Timid","teraType":"Fairy","evs":{"hp":252,"sa":4,"sp":252},"moves":["Flamethrower","Substitute","Protect","Leech Seed"]},"Monotype Chlorophyll (Fire)":{"level":100,"ability":"Chlorophyll","item":"Heavy-Duty Boots","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Growth","Giga Drain","Flamethrower","Solar Beam"]}},"Scrafty":{"NU Defensive Bulk Up":{"level":100,"ability":"Shed Skin","item":"Leftovers","nature":"Careful","evs":{"hp":252,"sd":164,"sp":92},"moves":["Bulk Up","Knock Off","Drain Punch","Rest"]},"Doubles Intimidate Support":{"level":100,"ability":"Intimidate","item":"Assault Vest","nature":"Brave","ivs":{"sp":0},"evs":{"hp":252,"at":252,"sd":4},"moves":["Fake Out","Close Combat","Knock Off","Ice Punch"]}},"Scream Tail":{"OU Defensive":{"level":100,"ability":"Protosynthesis","item":"Leftovers","nature":"Timid","teraType":"Fairy","evs":{"hp":252,"df":4,"sp":252},"moves":["Wish","Protect","Encore","Dazzling Gleam"]},"UU Wish Support":{"level":100,"ability":"Protosynthesis","item":"Leftovers","nature":"Timid","teraType":"Fairy","evs":{"hp":252,"sd":4,"sp":252},"moves":["Wish","Protect","Dazzling Gleam","Encore"]},"UU Dual Screens":{"level":100,"ability":"Protosynthesis","item":"Light Clay","nature":"Timid","teraType":"Fairy","evs":{"hp":252,"sd":4,"sp":252},"moves":["Reflect","Light Screen","Stealth Rock","Encore"]},"Uber Defensive":{"level":100,"ability":"Protosynthesis","item":"Leftovers","nature":"Bold","teraType":"Steel","evs":{"hp":252,"df":192,"sp":64},"moves":["Wish","Protect","Dazzling Gleam","Stealth Rock"]},"Doubles Fast Supporter":{"level":100,"ability":"Protosynthesis","item":"Safety Goggles","nature":"Jolly","teraType":"Fairy","evs":{"hp":252,"df":4,"sp":252},"moves":["Stealth Rock","Psychic Fangs","Encore","Thunder Wave"]}},"Scyther":{"NU Offensive Pivot":{"level":100,"ability":"Technician","item":"Heavy-Duty Boots","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["U-turn","Dual Wingbeat","Knock Off","Roost"]}},"Seaking":{"ZU Defensive Pivot":{"level":100,"ability":"Lightning Rod","item":"Heavy-Duty Boots","nature":"Impish","evs":{"hp":252,"df":220,"sp":36},"moves":["Flip Turn","Knock Off","Rest","Sleep Talk"]}},"Seismitoad":{"OU Rain Wallbreaker":{"level":100,"ability":"Swift Swim","item":"Life Orb","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Stealth Rock","Liquidation","Earthquake","Ice Punch"]},"UU Defensive Stealth Rock":{"level":100,"ability":"Water Absorb","item":"Leftovers","nature":"Bold","evs":{"hp":252,"df":192,"sp":64},"moves":["Stealth Rock","Scald","Knock Off","Toxic"]},"RU Defensive Stealth Rock":{"level":100,"ability":"Water Absorb","item":"Leftovers","nature":"Impish","evs":{"hp":252,"df":232,"sp":24},"moves":["Stealth Rock","Earthquake","Knock Off","Toxic"]},"RU Offensive Stealth Rock":{"level":100,"ability":"Water Absorb","item":"Leftovers","nature":"Adamant","evs":{"hp":112,"at":252,"sp":144},"moves":["Stealth Rock","Earthquake","Power Whip","Knock Off"]},"RU Choice Band":{"level":100,"ability":"Water Absorb","item":"Choice Band","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Earthquake","Power Whip","Knock Off","Liquidation"]},"RU Rain Sweeper":{"level":100,"ability":"Swift Swim","item":"Life Orb","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Liquidation","Earthquake","Power Whip","Ice Punch"]},"Monotype Offensive (Ground)":{"level":100,"ability":"Water Absorb","item":"Leftovers","nature":"Adamant","evs":{"hp":112,"at":168,"df":124,"sp":104},"moves":["Substitute","Power Whip","Earthquake","Knock Off"]},"Monotype Swift Swim (Water)":{"level":100,"ability":"Swift Swim","item":"Life Orb","nature":"Timid","ivs":{"at":0},"evs":{"sa":252,"sd":4,"sp":252},"moves":["Hydro Pump","Earth Power","Stealth Rock","Focus Blast"]}},"Sharpedo":{"RU Specially-based Mixed Cleaner":{"level":100,"ability":"Speed Boost","item":"Life Orb","nature":"Rash","evs":{"at":4,"sa":252,"sp":252},"moves":["Hydro Pump","Dark Pulse","Close Combat","Protect"]},"RU Physical Cleaner":{"level":100,"ability":"Speed Boost","item":"Life Orb","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Waterfall","Crunch","Close Combat","Protect"]}},"Shedinja":{"OU Utility":{"level":100,"ability":"Wonder Guard","item":"Heavy-Duty Boots","nature":"Rash","ivs":{"df":0,"sd":0},"evs":{"sa":252,"sp":252},"moves":["Hex","Toxic","Will-O-Wisp","Protect"]},"ZU Wonder Guard Pivot":{"level":100,"ability":"Wonder Guard","item":"Heavy-Duty Boots","nature":"Lonely","ivs":{"df":0,"sd":0},"evs":{"at":252,"sp":252},"moves":["Protect","Toxic","Will-O-Wisp","Poltergeist"]},"Uber Wonder Guard":{"level":100,"ability":"Wonder Guard","item":"Heavy-Duty Boots","nature":"Lonely","ivs":{"df":0,"sd":0},"evs":{"at":252,"sp":252},"moves":["Shadow Sneak","Will-O-Wisp","Toxic","Protect"]},"AG Defensive Pivot":{"level":100,"ability":"Wonder Guard","item":"Heavy-Duty Boots","nature":"Lonely","ivs":{"df":0,"sd":0},"evs":{"at":252,"sp":252},"moves":["Toxic","Will-O-Wisp","Baton Pass","Shadow Sneak"]},"1v1 Protective Pads":{"level":100,"ability":"Wonder Guard","item":"Protective Pads","nature":"Hasty","ivs":{"df":0},"evs":{"at":252,"sp":252},"moves":["Shadow Sneak","Poltergeist","X-Scissor","Screech"]}},"Shellder":{"LC Shell Smash":{"level":5,"ability":"Skill Link","item":"Eviolite","nature":"Adamant","teraType":"Rock","evs":{"hp":36,"at":236,"df":36,"sp":196},"moves":["Rock Blast","Ice Shard","Liquidation","Shell Smash"]}},"Shellos":{"LC Showdown Usage":{"level":5,"ability":"Storm Drain","item":"Eviolite","nature":"Modest","evs":{"hp":68,"sa":220,"sd":180,"sp":4},"moves":["Recover","Surf","Stealth Rock","Earth Power"]}},"Shiftry":{"RU Sun Sweeper":{"level":100,"ability":"Chlorophyll","item":"Life Orb","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Growth","Solar Blade","Knock Off","Low Kick"]},"PU Defog":{"level":100,"ability":"Pickpocket","item":"Heavy-Duty Boots","nature":"Timid","evs":{"hp":248,"df":164,"sp":96},"moves":["Defog","Knock Off","Leaf Storm","Synthesis"]},"ZU Mixed Attacker":{"level":100,"ability":"Chlorophyll","item":"Life Orb","nature":"Lonely","evs":{"at":252,"sa":4,"sp":252},"moves":["Knock Off","Sucker Punch","Leaf Storm","Swords Dance"]},"ZU Sun Sweeper":{"level":100,"ability":"Chlorophyll","item":"Life Orb","nature":"Adamant","evs":{"at":252,"sa":4,"sp":252},"moves":["Swords Dance","Solar Blade","Knock Off","Sucker Punch"]},"Monotype Swords Dance (Grass)":{"level":100,"ability":"Chlorophyll","item":"Black Glasses","nature":"Adamant","evs":{"at":252,"df":4,"sp":252},"moves":["Swords Dance","Substitute","Knock Off","Sucker Punch"]}},"Shiinotic":{"ZU Physical Wall":{"level":100,"ability":"Effect Spore","nature":"Bold","evs":{"hp":252,"df":252,"sd":4},"moves":["Strength Sap","Spore","Moonblast","Toxic"]}},"Shroodle":{"LC Weather Setter":{"level":5,"ability":"Prankster","item":"Damp Rock","nature":"Jolly","teraType":"Dark","evs":{"hp":36,"df":236,"sp":236},"moves":["Rain Dance","Knock Off","U-turn","Parting Shot"]}},"Shuckle":{"OU Sticky Web":{"level":100,"ability":"Sturdy","item":"Red Card","nature":"Bold","evs":{"hp":252,"df":252,"sd":4},"moves":["Sticky Web","Stealth Rock","Encore","Final Gambit"]},"ZU Sticky Web Lead":{"level":100,"ability":"Sturdy","item":"Mental Herb","nature":"Bold","evs":{"hp":252,"df":252,"sd":4},"moves":["Sticky Web","Stealth Rock","Final Gambit","Encore"]},"Uber Sticky Web":{"level":100,"ability":"Sturdy","item":"Mental Herb","nature":"Bold","evs":{"hp":252,"df":136,"sd":120},"moves":["Sticky Web","Stealth Rock","Encore","Final Gambit"]},"AG Sticky Web":{"level":100,"ability":"Sturdy","item":"Mental Herb","nature":"Bold","evs":{"hp":252,"df":252,"sd":4},"moves":["Sticky Web","Stealth Rock","Encore","Final Gambit"]},"Monotype Entry Hazards Lead (Bug)":{"level":100,"ability":"Sturdy","item":"Mental Herb","nature":"Bold","evs":{"hp":248,"df":252,"sd":8},"moves":["Stealth Rock","Sticky Web","Encore","Toxic"]},"Monotype Entry Hazard Setter (Rock)":{"level":100,"ability":"Sturdy","item":"Mental Herb","nature":"Bold","evs":{"hp":248,"df":252,"sd":8},"moves":["Sticky Web","Stealth Rock","Encore","Knock Off"]}},"Sigilyph":{"UU Offensive Defog":{"level":100,"ability":"Magic Guard","item":"Life Orb","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Psyshock","Heat Wave","Roost","Defog"]},"RU Life Orb Attacker":{"level":100,"ability":"Magic Guard","item":"Life Orb","nature":"Timid","ivs":{"at":0},"evs":{"sa":252,"sd":4,"sp":252},"moves":["Air Slash","Heat Wave","Roost","Energy Ball"]}},"Silvally":{"ZU Choice Scarf":{"level":100,"ability":"RKS System","item":"Choice Scarf","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Multi-Attack","U-turn","Explosion","Crunch"]},"ZU Choice Band":{"level":100,"ability":"RKS System","item":"Choice Band","nature":"Naive","evs":{"at":252,"sa":4,"sp":252},"moves":["Multi-Attack","U-turn","Crunch","Flamethrower"]},"ZU Mixed Attacker":{"level":100,"ability":"RKS System","item":"Life Orb","nature":"Naive","evs":{"at":252,"sa":4,"sp":252},"moves":["Swords Dance","Multi-Attack","Flamethrower","Crunch"]}},"Silvally-Bug":{"ZU Swords Dance":{"level":100,"ability":"RKS System","item":"Bug Memory","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["Swords Dance","Multi-Attack","Rock Slide","Crunch"]}},"Silvally-Dark":{"PU Swords Dance":{"level":100,"ability":"RKS System","item":"Dark Memory","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Swords Dance","Multi-Attack","Iron Head","Flame Charge"]},"ZU Swords Dance Sweeper":{"level":100,"ability":"RKS System","item":"Dark Memory","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Swords Dance","Multi-Attack","U-turn","Psychic Fangs"]}},"Silvally-Dragon":{"PU Swords Dance":{"level":100,"ability":"RKS System","item":"Dragon Memory","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Swords Dance","Multi-Attack","Iron Head","Flame Charge"]}},"Silvally-Electric":{"ZU Mixed Wallbreaker":{"level":100,"ability":"RKS System","item":"Electric Memory","nature":"Naive","evs":{"at":4,"sa":252,"sp":252},"moves":["Work Up","Multi-Attack","Surf","Ice Beam"]}},"Silvally-Fairy":{"NU Swords Dance":{"level":100,"ability":"RKS System","item":"Fairy Memory","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["Swords Dance","Multi-Attack","Crunch","Flame Charge"]},"PU Utility":{"level":100,"ability":"RKS System","item":"Fairy Memory","nature":"Jolly","evs":{"hp":252,"df":96,"sp":160},"moves":["Multi-Attack","Parting Shot","Defog","Flamethrower"]},"PU Swords Dance":{"level":100,"ability":"RKS System","item":"Fairy Memory","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Swords Dance","Multi-Attack","Flame Charge","Rock Slide"]},"1v1 Mixed Attacker":{"level":100,"ability":"RKS System","item":"Fairy Memory","nature":"Jolly","evs":{"at":252,"df":80,"sp":176},"moves":["Multi-Attack","Icy Wind","Swords Dance","Fire Fang"]}},"Silvally-Fighting":{"ZU BoltBeam Pivot":{"level":100,"ability":"RKS System","item":"Fighting Memory","nature":"Naive","evs":{"at":4,"sa":252,"sp":252},"moves":["Multi-Attack","U-turn","Thunderbolt","Ice Beam"]}},"Silvally-Fire":{"ZU Swords Dance":{"level":100,"ability":"RKS System","item":"Fire Memory","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["Swords Dance","Multi-Attack","Flame Charge","Dragon Claw"]}},"Silvally-Flying":{"ZU Swords Dance":{"level":100,"ability":"RKS System","item":"Flying Memory","nature":"Naive","evs":{"at":252,"sd":4,"sp":252},"moves":["Swords Dance","Multi-Attack","Flame Charge","Surf"]}},"Silvally-Ghost":{"PU Swords Dance":{"level":100,"ability":"RKS System","item":"Ghost Memory","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Swords Dance","Multi-Attack","Flame Charge","Explosion"]}},"Silvally-Grass":{"PU Swords Dance":{"level":100,"ability":"RKS System","item":"Grass Memory","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Swords Dance","Multi-Attack","Flame Charge","Rock Slide"]},"ZU Swords Dance":{"level":100,"ability":"RKS System","item":"Grass Memory","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Swords Dance","Multi-Attack","Rock Slide","Flame Charge"]},"1v1 Mixed Defensive":{"level":100,"ability":"RKS System","item":"Grass Memory","nature":"Bold","evs":{"hp":148,"df":252,"sa":12,"sp":96},"moves":["Multi-Attack","Heat Wave","Iron Defense","Rest"]}},"Silvally-Ground":{"NU Swords Dance":{"level":100,"ability":"RKS System","item":"Ground Memory","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Swords Dance","Multi-Attack","Rock Slide","U-turn"]}},"Silvally-Ice":{"ZU Swords Dance":{"level":100,"ability":"RKS System","item":"Ice Memory","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["Swords Dance","Multi-Attack","Flame Charge","Rock Slide"]}},"Silvally-Poison":{"PU Work Up":{"level":100,"ability":"RKS System","item":"Poison Memory","nature":"Naive","evs":{"at":4,"sa":252,"sp":252},"moves":["Work Up","Multi-Attack","Flamethrower","Grass Pledge"]},"PU Defog":{"level":100,"ability":"RKS System","item":"Poison Memory","nature":"Jolly","evs":{"hp":252,"df":80,"sp":176},"moves":["Multi-Attack","Flamethrower","Defog","U-turn"]},"ZU Work Up":{"level":100,"ability":"RKS System","item":"Poison Memory","nature":"Naive","evs":{"at":4,"sa":252,"sp":252},"moves":["Work Up","Multi-Attack","Flamethrower","Surf"]},"ZU Defog":{"level":100,"ability":"RKS System","item":"Poison Memory","nature":"Naive","evs":{"at":252,"sa":4,"sp":252},"moves":["Defog","U-turn","Multi-Attack","Surf"]},"ZU Swords Dance":{"level":100,"ability":"RKS System","item":"Poison Memory","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Swords Dance","Multi-Attack","U-turn","Flame Charge"]},"1v1 Substitute + Reversal":{"level":100,"ability":"RKS System","item":"Poison Memory","nature":"Adamant","evs":{"hp":8,"at":252,"df":12,"sp":236},"moves":["Multi-Attack","Reversal","Swords Dance","Substitute"]}},"Silvally-Psychic":{"ZU Swords Dance":{"level":100,"ability":"RKS System","item":"Psychic Memory","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Swords Dance","Multi-Attack","Flame Charge","U-turn"]}},"Silvally-Rock":{"ZU Swords Dance":{"level":100,"ability":"RKS System","item":"Rock Memory","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["Swords Dance","Multi-Attack","Psychic Fangs","Flame Charge"]}},"Silvally-Steel":{"NU Utility":{"level":100,"ability":"RKS System","item":"Steel Memory","nature":"Jolly","evs":{"hp":252,"sd":192,"sp":64},"moves":["Defog","Multi-Attack","Flamethrower","Parting Shot"]}},"Silvally-Water":{"PU Defensive Defog":{"level":100,"ability":"RKS System","item":"Water Memory","nature":"Bold","ivs":{"at":0},"evs":{"hp":248,"df":92,"sp":168},"moves":["Defog","Parting Shot","Surf","Ice Beam"]},"ZU Special Attacker":{"level":100,"ability":"RKS System","item":"Water Memory","nature":"Timid","evs":{"df":4,"sa":252,"sp":252},"moves":["Surf","Thunderbolt","Ice Beam","U-turn"]},"ZU Swords Dance":{"level":100,"ability":"RKS System","item":"Water Memory","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["Swords Dance","Multi-Attack","Psychic Fangs","X-Scissor"]},"1v1 Iron Defense":{"level":100,"ability":"RKS System","item":"Water Memory","nature":"Jolly","evs":{"hp":52,"at":164,"df":168,"sp":124},"moves":["Iron Defense","Parting Shot","Multi-Attack","Rest"]}},"Skarmory":{"OU Defensive Spikes":{"level":100,"ability":"Sturdy","item":"Rocky Helmet","nature":"Bold","evs":{"hp":252,"df":252,"sd":4},"moves":["Body Press","Spikes","Iron Defense","Roost"]},"UU Iron Defense":{"level":100,"ability":"Sturdy","item":"Rocky Helmet","nature":"Bold","evs":{"hp":252,"df":160,"sp":96},"moves":["Iron Defense","Body Press","Roost","Spikes"]},"UU Physical Wall":{"level":100,"ability":"Sturdy","item":"Rocky Helmet","nature":"Impish","evs":{"hp":252,"df":160,"sp":96},"moves":["Body Press","Spikes","Roost","Toxic"]},"Uber Defensive Spikes":{"level":100,"ability":"Sturdy","item":"Rocky Helmet","nature":"Bold","ivs":{"at":0},"evs":{"hp":252,"df":252,"sd":4},"moves":["Roost","Spikes","Whirlwind","Body Press"]},"AG Physically Defensive":{"level":100,"ability":"Sturdy","item":"Leftovers","nature":"Bold","evs":{"hp":252,"df":252,"sd":4},"moves":["Roost","Toxic","Spikes","Whirlwind"]},"Monotype Physically Defensive (Steel)":{"level":100,"ability":"Sturdy","item":"Rocky Helmet","nature":"Impish","evs":{"hp":252,"df":252,"sd":4},"moves":["Spikes","Body Press","Roost","Whirlwind"]},"Monotype Defensive Spikes (Flying)":{"level":100,"ability":"Sturdy","item":"Rocky Helmet","nature":"Bold","evs":{"hp":252,"df":252,"sd":4},"moves":["Spikes","Body Press","Whirlwind","Roost"]},"1v1 Stall":{"level":100,"ability":"Sturdy","item":"Sitrus Berry","nature":"Impish","evs":{"hp":252,"df":52,"sp":204},"moves":["Roost","Taunt","Body Press","Iron Defense"]}},"Skeledirge":{"OU Bulky Attacker":{"level":100,"ability":"Unaware","item":"Heavy-Duty Boots","nature":"Calm","teraType":"Fairy","evs":{"hp":248,"sa":8,"sd":252},"moves":["Torch Song","Will-O-Wisp","Hex","Slack Off"]},"Uber Defensive":{"level":100,"ability":"Unaware","item":"Heavy-Duty Boots","nature":"Bold","teraType":"Fairy","evs":{"hp":248,"df":252,"sd":8},"moves":["Torch Song","Will-O-Wisp","Hex","Slack Off"]},"Doubles Showdown Usage":{"level":100,"ability":"Unaware","item":"Throat Spray","nature":"Modest","evs":{"hp":248,"sa":252,"sd":8},"moves":["Torch Song","Shadow Ball","Slack Off","Earth Power"]},"1v1 Defensive Will-O-Wisp":{"level":100,"ability":"Blaze","item":"Weakness Policy","nature":"Bold","evs":{"hp":248,"df":244,"sa":16},"moves":["Will-O-Wisp","Torch Song","Encore","Blast Burn"]}},"Skrelp":{"LC Showdown Usage":{"level":5,"ability":"Adaptability","item":"Eviolite","nature":"Modest","evs":{"df":116,"sa":196,"sd":196},"moves":["Sludge Bomb","Thunderbolt","Surf","Gunk Shot"]}},"Skuntank":{"PU Nasty Plot":{"level":100,"ability":"Aftermath","item":"Black Sludge","nature":"Timid","evs":{"df":4,"sa":252,"sp":252},"moves":["Nasty Plot","Sludge Bomb","Dark Pulse","Taunt"]},"PU Defog":{"level":100,"ability":"Aftermath","item":"Black Sludge","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Defog","Poison Jab","Sucker Punch","Taunt"]},"ZU Stallbreaker":{"level":100,"ability":"Aftermath","item":"Black Sludge","nature":"Timid","ivs":{"at":0},"evs":{"sa":252,"sd":4,"sp":252},"moves":["Nasty Plot","Sludge Bomb","Dark Pulse","Taunt"]},"Monotype Specially Defensive (Poison)":{"level":100,"ability":"Aftermath","item":"Black Sludge","nature":"Careful","evs":{"hp":252,"df":4,"sd":252},"moves":["Poison Jab","Sucker Punch","Defog","Protect"]}},"Slither Wing":{"OU Defensive":{"level":100,"ability":"Protosynthesis","item":"Heavy-Duty Boots","nature":"Adamant","teraType":"Water","evs":{"hp":252,"at":88,"df":68,"sp":100},"moves":["U-turn","Close Combat","Will-O-Wisp","Morning Sun"]},"OU Choice Band":{"level":100,"ability":"Protosynthesis","item":"Choice Band","nature":"Adamant","teraType":"Bug","evs":{"at":252,"sd":4,"sp":252},"moves":["First Impression","U-turn","Close Combat","Earthquake"]},"UU All-Out-Attacker":{"level":100,"ability":"Protosynthesis","item":"Choice Band","nature":"Adamant","teraType":"Bug","evs":{"at":252,"sd":4,"sp":252},"moves":["First Impression","Close Combat","U-turn","Wild Charge"]},"UU Choice Scarf":{"level":100,"ability":"Protosynthesis","item":"Choice Scarf","nature":"Jolly","teraType":"Bug","evs":{"at":252,"sd":4,"sp":252},"moves":["Close Combat","U-turn","First Impression","Wild Charge"]},"UU Bulky Pivot":{"level":100,"ability":"Protosynthesis","item":"Heavy-Duty Boots","nature":"Adamant","teraType":"Ghost","evs":{"hp":252,"at":16,"sd":32,"sp":208},"moves":["First Impression","Close Combat","U-turn","Morning Sun"]},"Uber Choice Band":{"level":100,"ability":"Protosynthesis","item":"Choice Band","nature":"Adamant","teraType":"Bug","evs":{"at":252,"sd":4,"sp":252},"moves":["First Impression","U-turn","Close Combat","Earthquake"]}},"Slowbro":{"OU Defensive":{"level":100,"ability":"Regenerator","item":"Colbur Berry","nature":"Bold","teraType":"Water","ivs":{"at":0},"evs":{"hp":252,"df":252,"sa":4},"moves":["Surf","Body Press","Future Sight","Slack Off"]},"UU Defensive":{"level":100,"ability":"Regenerator","item":"Rocky Helmet","nature":"Bold","teraType":"Fairy","evs":{"hp":252,"df":252,"sd":4},"moves":["Future Sight","Ice Beam","Thunder Wave","Slack Off"]}},"Slowbro-Galar":{"UU Calm Mind":{"level":100,"ability":"Regenerator","item":"Colbur Berry","nature":"Bold","evs":{"hp":252,"df":252,"sd":4},"moves":["Calm Mind","Sludge Bomb","Scald","Slack Off"]},"UU Assault Vest":{"level":100,"ability":"Regenerator","item":"Assault Vest","nature":"Quiet","evs":{"hp":252,"sa":16,"sd":240},"moves":["Shell Side Arm","Future Sight","Psyshock","Flamethrower"]},"1v1 Weakness Policy":{"level":100,"ability":"Quick Draw","item":"Weakness Policy","nature":"Relaxed","evs":{"hp":156,"df":216,"sa":136},"moves":["Yawn","Endure","Shell Side Arm","Flamethrower"]}},"Slowking":{"OU Specially Defensive":{"level":100,"ability":"Regenerator","item":"Heavy-Duty Boots","nature":"Sassy","teraType":"Water","ivs":{"at":0,"sp":0},"evs":{"hp":252,"df":4,"sd":252},"moves":["Future Sight","Chilling Water","Chilly Reception","Slack Off"]},"UU Defensive Pivot":{"level":100,"ability":"Regenerator","item":"Heavy-Duty Boots","nature":"Sassy","teraType":"Fairy","evs":{"hp":252,"df":200,"sd":56},"moves":["Surf","Future Sight","Slack Off","Chilly Reception"]},"UU Calm Mind":{"level":100,"ability":"Regenerator","item":"Colbur Berry","nature":"Bold","teraType":"Fairy","evs":{"hp":252,"df":252,"sd":4},"moves":["Surf","Psychic","Slack Off","Calm Mind"]},"Uber Defensive Pivot":{"level":100,"ability":"Regenerator","item":"Heavy-Duty Boots","nature":"Relaxed","teraType":"Fairy","evs":{"hp":252,"df":252,"sd":4},"moves":["Future Sight","Chilly Reception","Chilling Water","Slack Off"]}},"Slowking-Galar":{"OU Assault Vest":{"level":100,"ability":"Regenerator","item":"Assault Vest","nature":"Calm","evs":{"hp":252,"df":12,"sa":124,"sd":120},"moves":["Future Sight","Sludge Bomb","Flamethrower","Scald"]},"Monotype Assault Vest (Poison)":{"level":100,"ability":"Regenerator","item":"Assault Vest","nature":"Sassy","evs":{"hp":252,"sa":4,"sd":252},"moves":["Future Sight","Sludge Bomb","Earthquake","Flamethrower"]},"Monotype Assault Vest (Psychic)":{"level":100,"ability":"Regenerator","item":"Assault Vest","nature":"Sassy","evs":{"hp":248,"sa":12,"sd":248},"moves":["Sludge Bomb","Flamethrower","Earthquake","Future Sight"]},"CAP Assault Vest":{"level":100,"ability":"Regenerator","item":"Assault Vest","nature":"Calm","evs":{"hp":252,"df":12,"sa":124,"sd":120},"moves":["Future Sight","Sludge Bomb","Flamethrower","Scald"]},"1v1 Choice Specs":{"level":100,"ability":"Own Tempo","item":"Choice Specs","nature":"Modest","evs":{"hp":180,"df":216,"sa":112},"moves":["Sludge Wave","Psyshock","Ice Beam","Fire Blast"]}},"Slowpoke":{"LC Showdown Usage":{"level":5,"ability":"Regenerator","item":"Eviolite","nature":"Bold","evs":{"df":236,"sa":36,"sd":196},"moves":["Slack Off","Psychic","Thunder Wave","Surf"]}},"Slurpuff":{"RU Belly Drum":{"level":100,"ability":"Unburden","item":"Sitrus Berry","nature":"Jolly","evs":{"hp":4,"at":252,"sp":252},"moves":["Belly Drum","Play Rough","Drain Punch","Facade"]},"RU Sash Lead":{"level":100,"ability":"Unburden","item":"Focus Sash","nature":"Hasty","ivs":{"hp":0,"at":0,"df":0,"sd":0},"evs":{"hp":4,"sa":252,"sp":252},"moves":["Sticky Web","Yawn","Endeavor","Misty Explosion"]},"Uber Sticky Web Lead":{"level":100,"ability":"Unburden","item":"Focus Sash","nature":"Naive","ivs":{"hp":0,"df":0,"sd":0},"evs":{"sa":252,"sp":252},"moves":["Sticky Web","Yawn","Magic Coat","Misty Explosion"]},"AG Sticky Web Lead":{"level":100,"ability":"Unburden","item":"Focus Sash","nature":"Naive","ivs":{"hp":0,"df":0,"sd":0},"evs":{"sa":252,"sp":252},"moves":["Sticky Web","Magic Coat","Misty Explosion","Yawn"]},"1v1 Cotton Guard + Belly Drum":{"level":100,"ability":"Unburden","item":"Sitrus Berry","nature":"Adamant","evs":{"hp":244,"at":88,"df":48,"sp":128},"moves":["Cotton Guard","Rest","Belly Drum","Play Rough"]}},"Sneasel":{"NU Wallbreaker":{"level":100,"ability":"Inner Focus","item":"Heavy-Duty Boots","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Swords Dance","Triple Axel","Knock Off","Ice Shard"]},"PU Swords Dance":{"level":100,"ability":"Inner Focus","item":"Heavy-Duty Boots","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Swords Dance","Knock Off","Triple Axel","Ice Shard"]},"PU Choice Band":{"level":100,"ability":"Inner Focus","item":"Choice Band","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Knock Off","Triple Axel","Ice Shard","Low Kick"]}},"Snorlax":{"RU CurseLax":{"level":100,"ability":"Thick Fat","item":"Leftovers","nature":"Careful","evs":{"hp":208,"at":36,"df":172,"sd":84,"sp":8},"moves":["Curse","Body Slam","Earthquake","Rest"]},"NU CurseLax":{"level":100,"ability":"Immunity","item":"Leftovers","nature":"Careful","evs":{"hp":12,"df":244,"sd":252},"moves":["Curse","Body Slam","Earthquake","Rest"]},"Monotype Curse Sweeper (Normal)":{"level":100,"ability":"Thick Fat","item":"Leftovers","nature":"Careful","evs":{"hp":252,"df":120,"sd":136},"moves":["Curse","Darkest Lariat","Rest","Sleep Talk"]},"Battle Stadium Singles Gmax Setup Sweeper":{"level":50,"ability":"Gluttony","item":"Figy Berry","nature":"Impish","evs":{"hp":228,"df":252,"sd":28},"moves":["Facade","Belly Drum","Heavy Slam","Earthquake"]},"Battle Stadium Singles Yawn Support":{"level":50,"ability":"Thick Fat","item":"Leftovers","nature":"Impish","evs":{"hp":228,"df":252,"sd":28},"moves":["Facade","Yawn","Protect","Heavy Slam"]}},"Snorlax-Gmax":{"RU CurseLax":{"level":100,"ability":"Thick Fat","item":"Leftovers","nature":"Careful","evs":{"hp":208,"at":36,"df":172,"sd":84,"sp":8},"moves":["Curse","Body Slam","Earthquake","Rest"]},"NU CurseLax":{"level":100,"ability":"Immunity","item":"Leftovers","nature":"Careful","evs":{"hp":12,"df":244,"sd":252},"moves":["Curse","Body Slam","Earthquake","Rest"]},"Monotype Curse Sweeper (Normal)":{"level":100,"ability":"Thick Fat","item":"Leftovers","nature":"Careful","evs":{"hp":252,"df":120,"sd":136},"moves":["Curse","Darkest Lariat","Rest","Sleep Talk"]},"Battle Stadium Singles Gmax Setup Sweeper":{"level":50,"ability":"Gluttony","item":"Figy Berry","nature":"Impish","evs":{"hp":228,"df":252,"sd":28},"moves":["Facade","Belly Drum","Heavy Slam","Earthquake"]},"Battle Stadium Singles Yawn Support":{"level":50,"ability":"Thick Fat","item":"Leftovers","nature":"Impish","evs":{"hp":228,"df":252,"sd":28},"moves":["Facade","Yawn","Protect","Heavy Slam"]}},"Snover":{"LC Physical Wall":{"level":5,"ability":"Snow Warning","item":"Eviolite","nature":"Relaxed","teraType":"Water","evs":{"hp":36,"at":20,"df":196,"sa":100,"sd":116},"moves":["Blizzard","Giga Drain","Ice Shard","Protect"]}},"Sobble":{"LC Dual Screens":{"level":5,"ability":"Torrent","item":"Light Clay","nature":"Timid","evs":{"hp":36,"df":116,"sa":36,"sd":116,"sp":196},"moves":["Reflect","Light Screen","Surf","U-turn"]}},"Solgaleo":{"Uber FuturePort":{"level":100,"ability":"Full Metal Body","item":"Leftovers","nature":"Sassy","evs":{"hp":252,"sa":4,"sd":252},"moves":["Future Sight","Teleport","Sunsteel Strike","Morning Sun"]},"AG Defensive":{"level":100,"ability":"Full Metal Body","item":"Heavy-Duty Boots","nature":"Impish","evs":{"hp":252,"df":252,"sd":4},"moves":["Sunsteel Strike","Knock Off","Morning Sun","Teleport"]},"BH Fur Coat":{"level":100,"ability":"Fur Coat","item":"Leftovers","nature":"Impish","evs":{"hp":252,"at":252,"df":252,"sd":252,"sp":252},"moves":["Recover","Anchor Shot","Spectral Thief","Entrainment"]}},"Solrock":{"PU Stealth Rock":{"level":100,"ability":"Levitate","item":"Leftovers","nature":"Impish","evs":{"hp":252,"at":4,"df":252},"moves":["Stealth Rock","Morning Sun","Will-O-Wisp","Rock Slide"]}},"Spectrier":{"Uber Hex":{"level":100,"ability":"Grim Neigh","item":"Leftovers","nature":"Timid","ivs":{"at":0},"evs":{"hp":88,"df":248,"sa":44,"sp":128},"moves":["Hex","Will-O-Wisp","Substitute","Nasty Plot"]},"Monotype Substitute + Calm Mind":{"level":100,"ability":"Grim Neigh","item":"Leftovers","nature":"Timid","evs":{"hp":52,"df":200,"sp":252},"moves":["Substitute","Calm Mind","Will-O-Wisp","Hex"]},"Doubles Nasty Plot":{"level":100,"ability":"Grim Neigh","item":"Life Orb","nature":"Timid","evs":{"df":4,"sa":252,"sp":252},"moves":["Shadow Ball","Mud Shot","Nasty Plot","Protect"]},"Battle Stadium Singles Ghost Rider":{"level":50,"ability":"Grim Neigh","item":"Life Orb","nature":"Timid","evs":{"df":4,"sa":252,"sp":252},"moves":["Shadow Ball","Hyper Beam","Will-O-Wisp","Nasty Plot"]},"Battle Stadium Singles Choice Scarf":{"level":50,"ability":"Grim Neigh","item":"Choice Scarf","nature":"Timid","evs":{"df":4,"sa":252,"sp":252},"moves":["Shadow Ball","Hyper Beam","Dark Pulse","Will-O-Wisp"]},"BH Choice Specs":{"level":100,"ability":"Adaptability","item":"Choice Specs","nature":"Timid","ivs":{"at":0},"evs":{"hp":252,"df":252,"sa":252,"sd":252,"sp":252},"moves":["Astral Barrage","Moongeist Beam","Focus Blast","Volt Switch"]},"BH Simple Plot":{"level":100,"ability":"Simple","item":"Life Orb","nature":"Timid","ivs":{"at":0},"evs":{"hp":252,"df":252,"sa":252,"sd":252,"sp":252},"moves":["Nasty Plot","Moongeist Beam","Boomburst","Taunt"]},"1v1 Sitrus Berry + Taunt":{"level":100,"ability":"Grim Neigh","item":"Sitrus Berry","nature":"Timid","evs":{"hp":184,"df":52,"sa":64,"sd":24,"sp":184},"moves":["Calm Mind","Will-O-Wisp","Taunt","Hex"]},"1v1 Sitrus Berry + Disable":{"level":100,"ability":"Grim Neigh","item":"Sitrus Berry","nature":"Timid","evs":{"hp":240,"sd":16,"sp":252},"moves":["Calm Mind","Shadow Ball","Disable","Will-O-Wisp"]},"1v1 Life Orb":{"level":100,"ability":"Grim Neigh","item":"Life Orb","nature":"Modest","evs":{"hp":12,"df":140,"sa":104,"sp":252},"moves":["Calm Mind","Will-O-Wisp","Hyper Beam","Hex"]},"1v1 Choice Specs":{"level":100,"ability":"Grim Neigh","item":"Choice Specs","nature":"Modest","evs":{"hp":120,"sa":172,"sd":84,"sp":132},"moves":["Shadow Ball","Hyper Beam","Mud Shot","Uproar"]},"1v1 Weakness Policy":{"level":100,"ability":"Grim Neigh","item":"Weakness Policy","nature":"Timid","evs":{"hp":168,"df":208,"sa":44,"sp":88},"moves":["Calm Mind","Will-O-Wisp","Hex","Mud Shot"]}},"Spidops":{"UU Showdown Usage":{"level":100,"ability":"Stakeout","item":"Focus Sash","nature":"Adamant","evs":{"hp":248,"at":252,"sd":8},"moves":["Sticky Web","Spikes","First Impression","Circle Throw"]}},"Spiritomb":{"ZU Calm Mind":{"level":100,"ability":"Pressure","item":"Leftovers","nature":"Bold","evs":{"hp":252,"df":252,"sd":4},"moves":["Calm Mind","Dark Pulse","Rest","Sleep Talk"]}},"Sprigatito":{"LC Showdown Usage":{"level":5,"ability":"Protean","item":"Choice Scarf","nature":"Adamant","evs":{"at":188,"df":36,"sd":236},"moves":["U-turn","Play Rough","Sucker Punch","Petal Blizzard"]}},"Spritzee":{"LC Defensive":{"level":5,"ability":"Aroma Veil","item":"Eviolite","nature":"Bold","evs":{"hp":212,"df":196,"sa":12,"sd":76,"sp":12},"moves":["Wish","Protect","Moonblast","Covet"]},"LC Nasty Plot":{"level":5,"ability":"Aroma Veil","item":"Berry Juice","nature":"Quiet","ivs":{"sp":0},"evs":{"hp":52,"df":116,"sa":252,"sd":76},"moves":["Nasty Plot","Moonblast","Psychic","Trick Room"]}},"Stakataka":{"RU Defensive Stealth Rock":{"level":100,"ability":"Beast Boost","item":"Leftovers","nature":"Sassy","ivs":{"sp":0},"evs":{"hp":252,"df":4,"sd":252},"moves":["Stealth Rock","Gyro Ball","Body Press","Toxic"]},"NU Utility":{"level":100,"ability":"Beast Boost","item":"Leftovers","nature":"Sassy","ivs":{"sp":0},"evs":{"hp":252,"at":4,"sd":252},"moves":["Stealth Rock","Gyro Ball","Body Press","Toxic"]},"NU Trick Room":{"level":100,"ability":"Beast Boost","item":"Life Orb","nature":"Lonely","ivs":{"df":15,"sp":0},"evs":{"hp":252,"at":252,"sd":4},"moves":["Trick Room","Gyro Ball","Stone Edge","Superpower"]},"Monotype Trick Room (Rock)":{"level":100,"ability":"Beast Boost","item":"Air Balloon","nature":"Lonely","ivs":{"df":15,"sp":0},"evs":{"hp":252,"at":252,"sd":4},"moves":["Trick Room","Gyro Ball","Heat Crash","Stone Edge"]},"Doubles Offensive Trick Room Setter":{"level":100,"ability":"Beast Boost","item":"Life Orb","nature":"Lonely","ivs":{"df":15,"sp":0},"evs":{"hp":252,"at":252,"sd":4},"moves":["Gyro Ball","Stone Edge","Trick Room","Protect"]}},"Staraptor":{"UU Choice Scarf":{"level":100,"ability":"Reckless","item":"Choice Scarf","nature":"Jolly","teraType":"Flying","evs":{"at":252,"sd":4,"sp":252},"moves":["Brave Bird","Double-Edge","Close Combat","U-turn"]},"UU Choice Band":{"level":100,"ability":"Reckless","item":"Choice Band","nature":"Jolly","teraType":"Flying","evs":{"at":252,"sd":4,"sp":252},"moves":["Brave Bird","Double-Edge","Close Combat","U-turn"]}},"Starmie":{"UU Offensive":{"level":100,"ability":"Analytic","item":"Life Orb","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Hydro Pump","Ice Beam","Thunderbolt","Recover"]},"RU Rapid Spin":{"level":100,"ability":"Natural Cure","item":"Heavy-Duty Boots","nature":"Timid","ivs":{"at":0},"evs":{"hp":252,"sd":4,"sp":252},"moves":["Rapid Spin","Scald","Recover","Teleport"]},"RU Wallbreaker":{"level":100,"ability":"Analytic","item":"Life Orb","nature":"Timid","ivs":{"at":0},"evs":{"df":4,"sa":252,"sp":252},"moves":["Surf","Ice Beam","Grass Knot","Recover"]},"NU Wallbreaker":{"level":100,"ability":"Analytic","item":"Life Orb","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Hydro Pump","Thunderbolt","Ice Beam","Recover"]}},"Staryu":{"LC Offensive":{"level":5,"ability":"Analytic","item":"Eviolite","nature":"Timid","evs":{"df":156,"sa":116,"sp":236},"moves":["Hydro Pump","Thunderbolt","Ice Beam","Recover"]},"LC Defensive":{"level":5,"ability":"Natural Cure","item":"Eviolite","nature":"Timid","evs":{"hp":116,"df":156,"sp":236},"moves":["Scald","Thunderbolt","Rapid Spin","Recover"]}},"Steelix":{"RU Defensive":{"level":100,"ability":"Sturdy","item":"Leftovers","nature":"Careful","evs":{"hp":252,"at":4,"sd":252},"moves":["Stealth Rock","Earthquake","Heavy Slam","Toxic"]},"Monotype Physically Defensive (Ground)":{"level":100,"ability":"Sturdy","item":"Leftovers","nature":"Impish","evs":{"hp":252,"at":4,"df":252},"moves":["Heavy Slam","Body Press","Iron Defense","Substitute"]},"1v1 Choice Band":{"level":100,"ability":"Sturdy","item":"Choice Band","nature":"Adamant","evs":{"hp":4,"at":252,"sp":252},"moves":["Heavy Slam","Bulldoze","Earthquake","Fire Fang"]},"1v1 Weakness Policy":{"level":100,"ability":"Sturdy","item":"Weakness Policy","nature":"Relaxed","evs":{"hp":232,"at":252,"sd":24},"moves":["Heavy Slam","Earthquake","Iron Defense","Body Press"]},"1v1 Iron Defense + Body Press":{"level":100,"ability":"Sturdy","item":"Rocky Helmet","nature":"Impish","evs":{"hp":252,"df":240,"sd":16},"moves":["Body Press","Iron Defense","Heavy Slam","Taunt"]}},"Stonjourner":{"ZU Choice Band":{"level":100,"ability":"Power Spot","item":"Choice Band","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Stone Edge","Heat Crash","Earthquake","Superpower"]}},"Stoutland":{"ZU Wallbreaker":{"level":100,"ability":"Scrappy","item":"Silk Scarf","nature":"Adamant","evs":{"at":252,"df":4,"sd":252},"moves":["Retaliate","Last Resort"]}},"Stratagem":{"CAP Offensive Stealth Rock":{"level":100,"ability":"Levitate","item":"Life Orb","nature":"Timid","teraType":"Grass","evs":{"df":4,"sa":252,"sp":252},"moves":["Stealth Rock","Paleo Wave","Energy Ball","Fire Blast"]}},"Stunfisk":{"ZU Specially Defensive":{"level":100,"ability":"Static","item":"Leftovers","nature":"Calm","evs":{"hp":252,"df":4,"sd":252},"moves":["Stealth Rock","Toxic","Earth Power","Discharge"]}},"Stunfisk-Galar":{"NU Special Wall":{"level":100,"ability":"Mimicry","item":"Leftovers","nature":"Careful","evs":{"hp":252,"df":4,"sd":252},"moves":["Stealth Rock","Earthquake","Sludge Bomb","Protect"]},"PU Specially Defensive":{"level":100,"ability":"Mimicry","item":"Leftovers","nature":"Careful","evs":{"hp":252,"df":4,"sd":252},"moves":["Stealth Rock","Earthquake","Rock Slide","Yawn"]},"ZU Special Wall":{"level":100,"ability":"Mimicry","item":"Leftovers","nature":"Careful","evs":{"hp":252,"df":4,"sd":252},"moves":["Stealth Rock","Earthquake","Rock Slide","Curse"]}},"Stunky":{"LC Showdown Usage":{"level":5,"ability":"Aftermath","item":"Eviolite","nature":"Jolly","evs":{"hp":12,"at":252,"sp":244},"moves":["Sucker Punch","Crunch","Fire Blast","Play Rough"]}},"Sudowoodo":{"ZU Offensive Stealth Rock":{"level":100,"ability":"Rock Head","item":"Life Orb","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Stealth Rock","Head Smash","Wood Hammer","Sucker Punch"]}},"Suicune":{"OU VinCune":{"level":100,"ability":"Pressure","item":"Leftovers","nature":"Timid","evs":{"hp":252,"sd":4,"sp":252},"moves":["Scald","Substitute","Calm Mind","Protect"]},"UU CroCune":{"level":100,"ability":"Pressure","item":"Leftovers","nature":"Bold","evs":{"hp":252,"df":252,"sd":4},"moves":["Calm Mind","Scald","Rest","Sleep Talk"]},"RU Substitute + Calm Mind":{"level":100,"ability":"Pressure","item":"Leftovers","nature":"Timid","evs":{"hp":252,"df":40,"sp":216},"moves":["Substitute","Calm Mind","Scald","Protect"]},"RU RestTalk":{"level":100,"ability":"Pressure","item":"Leftovers","nature":"Bold","evs":{"hp":252,"df":240,"sp":16},"moves":["Rest","Sleep Talk","Scald","Calm Mind"]},"Uber VinCune":{"level":100,"ability":"Pressure","item":"Leftovers","nature":"Bold","evs":{"hp":252,"df":36,"sd":44,"sp":176},"moves":["Calm Mind","Scald","Substitute","Protect"]},"Monotype Calm Mind + Substitute (Water)":{"level":100,"ability":"Pressure","item":"Leftovers","nature":"Timid","evs":{"hp":252,"sd":4,"sp":252},"moves":["Calm Mind","Scald","Protect","Substitute"]},"Battle Stadium Singles Calm Mind":{"level":50,"ability":"Pressure","item":"Leftovers","nature":"Bold","evs":{"hp":252,"df":100,"sp":156},"moves":["Calm Mind","Scald","Ice Beam","Air Slash"]},"BH Defensive":{"level":100,"ability":"Magic Bounce","item":"Leftovers","nature":"Calm","evs":{"hp":252,"at":252,"df":252,"sa":252,"sd":252,"sp":252},"moves":["Recover","Scald","U-turn","Entrainment"]},"1v1 PP Stall":{"level":100,"ability":"Pressure","item":"Leftovers","nature":"Timid","evs":{"hp":252,"sd":4,"sp":252},"moves":["Protect","Substitute","Scald","Calm Mind"]},"1v1 Assault Vest":{"level":100,"ability":"Inner Focus","item":"Assault Vest","nature":"Bold","evs":{"hp":252,"df":96,"sd":104,"sp":56},"moves":["Whirlpool","Mirror Coat","Snarl","Scald"]}},"Surskit":{"LC Sticky Web":{"level":5,"ability":"Swift Swim","item":"Focus Sash","nature":"Timid","teraType":"Water","evs":{"hp":36,"df":20,"sa":196,"sd":20,"sp":236},"moves":["Sticky Web","Hydro Pump","Giga Drain","Icy Wind"]}},"Swablu":{"LC Showdown Usage":{"level":5,"ability":"Natural Cure","item":"Eviolite","nature":"Calm","evs":{"df":196,"sa":36,"sd":236,"sp":36},"moves":["Defog","Roost","Moonblast","Hurricane"]}},"Swampert":{"OU Defensive Pivot":{"level":100,"ability":"Damp","item":"Leftovers","nature":"Sassy","ivs":{"sp":0},"evs":{"hp":252,"df":4,"sd":252},"moves":["Stealth Rock","Flip Turn","Earthquake","Toxic"]},"UU Mixed Wall":{"level":100,"ability":"Torrent","item":"Leftovers","nature":"Sassy","evs":{"hp":252,"df":144,"sd":112},"moves":["Earthquake","Flip Turn","Toxic","Stealth Rock"]},"Monotype Specially Defensive":{"level":100,"ability":"Torrent","item":"Leftovers","nature":"Careful","evs":{"hp":240,"at":16,"sd":252},"moves":["Stealth Rock","Earthquake","Roar","Flip Turn"]},"Battle Stadium Singles Stealth Rock Setter":{"level":50,"ability":"Damp","item":"Sitrus Berry","nature":"Relaxed","ivs":{"sp":0},"evs":{"hp":252,"df":252,"sd":4},"moves":["Stealth Rock","Flip Turn","Yawn","Earthquake"]},"1v1 Assault Vest":{"level":100,"ability":"Damp","item":"Assault Vest","nature":"Relaxed","evs":{"hp":244,"at":4,"df":212,"sd":48},"moves":["Ice Punch","Earthquake","Counter","Mirror Coat"]},"1v1 Petaya Berry":{"level":100,"ability":"Torrent","item":"Petaya Berry","nature":"Brave","evs":{"hp":240,"at":96,"df":36,"sa":44,"sd":92},"moves":["Hydro Cannon","Earthquake","Yawn","Endure"]},"1v1 Chilan Berry":{"level":100,"ability":"Torrent","item":"Chilan Berry","nature":"Brave","evs":{"hp":164,"at":148,"df":96},"moves":["Earthquake","Ice Beam","Yawn","Endure"]}},"Swoobat":{"PU Simple Sweeper":{"level":100,"ability":"Simple","item":"Grassy Seed","nature":"Timid","evs":{"hp":36,"df":164,"sa":56,"sp":252},"moves":["Calm Mind","Roost","Stored Power","Substitute"]},"ZU Terrain Sweeper":{"level":100,"ability":"Simple","item":"Electric Seed","nature":"Timid","evs":{"hp":168,"df":44,"sd":44,"sp":252},"moves":["Calm Mind","Stored Power","Air Slash","Roost"]}},"Syclant":{"CAP Offensive Pivot":{"level":100,"ability":"Mountaineer","item":"Never-Melt Ice","nature":"Timid","teraType":"Ice","evs":{"at":4,"sa":252,"sp":252},"moves":["Ice Beam","Earth Power","U-turn","Spikes"]}},"Sylveon":{"OU Specially Defensive Calm Mind":{"level":100,"ability":"Pixilate","item":"Leftovers","nature":"Calm","teraType":"Fairy","evs":{"hp":252,"sa":4,"sd":252},"moves":["Wish","Protect","Calm Mind","Hyper Voice"]},"UU Showdown Usage":{"level":100,"ability":"Pixilate","item":"Leftovers","nature":"Modest","evs":{"hp":252,"sa":252,"sd":4},"moves":["Hyper Voice","Wish","Protect","Calm Mind"]},"Doubles Choice Specs":{"level":100,"ability":"Pixilate","item":"Choice Specs","nature":"Modest","teraType":"Fairy","evs":{"hp":252,"df":4,"sa":252},"moves":["Hyper Voice","Sleep Talk"]},"Doubles Calm Mind":{"level":100,"ability":"Pixilate","item":"Leftovers","nature":"Modest","teraType":"Fairy","evs":{"hp":252,"df":4,"sa":252},"moves":["Hyper Voice","Calm Mind","Substitute","Protect"]},"1v1 Fake Tears Set Up":{"level":100,"ability":"Pixilate","item":"Babiri Berry","nature":"Modest","evs":{"hp":56,"df":248,"sa":204},"moves":["Fake Tears","Hyper Beam","Hyper Voice","Calm Mind"]},"1v1 Choice Specs":{"level":100,"ability":"Pixilate","item":"Choice Specs","nature":"Sassy","evs":{"hp":244,"sa":208,"sd":56},"moves":["Hyper Beam","Hyper Voice","Psyshock","Shadow Ball"]}},"Talonflame":{"OU Defensive Utility":{"level":100,"ability":"Flame Body","item":"Heavy-Duty Boots","nature":"Jolly","teraType":"Normal","evs":{"hp":252,"df":204,"sp":52},"moves":["Flamethrower","Air Slash","Will-O-Wisp","Roost"]},"UU Fast Utility":{"level":100,"ability":"Flame Body","item":"Heavy-Duty Boots","nature":"Jolly","teraType":"Ghost","evs":{"hp":248,"df":8,"sp":252},"moves":["Brave Bird","Will-O-Wisp","Taunt","Roost"]}},"Tangela":{"NU Physical Wall":{"level":100,"ability":"Regenerator","item":"Eviolite","nature":"Bold","evs":{"hp":248,"df":228,"sd":16,"sp":16},"moves":["Giga Drain","Sludge Bomb","Knock Off","Sleep Powder"]},"PU Defensive":{"level":100,"ability":"Regenerator","item":"Eviolite","nature":"Bold","evs":{"hp":252,"df":252,"sd":4},"moves":["Giga Drain","Knock Off","Leech Seed","Toxic"]},"ZU Physical Wall":{"level":100,"ability":"Regenerator","item":"Eviolite","nature":"Bold","evs":{"hp":252,"df":252,"sd":4},"moves":["Giga Drain","Knock Off","Sludge Bomb","Sleep Powder"]}},"Tangrowth":{"OU Physically Defensive":{"level":100,"ability":"Regenerator","item":"Rocky Helmet","nature":"Relaxed","evs":{"hp":252,"df":252,"sd":4},"moves":["Giga Drain","Knock Off","Focus Blast","Sleep Powder"]},"UU Assault Vest":{"level":100,"ability":"Regenerator","item":"Assault Vest","nature":"Relaxed","evs":{"hp":252,"df":96,"sd":160},"moves":["Power Whip","Knock Off","Sludge Bomb","Focus Blast"]},"UU Physically Defensive":{"level":100,"ability":"Regenerator","item":"Rocky Helmet","nature":"Relaxed","evs":{"hp":252,"df":252,"sd":4},"moves":["Giga Drain","Knock Off","Sludge Bomb","Sleep Powder"]},"Uber Sleeper":{"level":100,"ability":"Regenerator","item":"Rocky Helmet","nature":"Relaxed","evs":{"hp":248,"df":252,"sa":8},"moves":["Sleep Powder","Grass Knot","Knock Off","Leech Seed"]}},"Tapu Bulu":{"OU Swords Dance":{"level":100,"ability":"Grassy Surge","item":"Life Orb","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["Swords Dance","Horn Leech","Close Combat","Stone Edge"]},"UU Swords Dance":{"level":100,"ability":"Grassy Surge","item":"Life Orb","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Swords Dance","Horn Leech","Stone Edge","Zen Headbutt"]},"UU Defensive":{"level":100,"ability":"Grassy Surge","item":"Heavy-Duty Boots","nature":"Impish","evs":{"hp":252,"df":120,"sp":136},"moves":["Horn Leech","Dazzling Gleam","Toxic","Synthesis"]},"Monotype Swords Dance (Fairy)":{"level":100,"ability":"Grassy Surge","item":"Babiri Berry","nature":"Adamant","evs":{"hp":24,"at":252,"sp":232},"moves":["Swords Dance","Horn Leech","High Horsepower","Close Combat"]},"Monotype Swords Dance (Grass)":{"level":100,"ability":"Grassy Surge","item":"Life Orb","nature":"Adamant","evs":{"at":252,"df":4,"sp":252},"moves":["Swords Dance","Horn Leech","Close Combat","Zen Headbutt"]},"1v1 Fast Grassy Seed":{"level":100,"ability":"Grassy Surge","item":"Grassy Seed","nature":"Adamant","evs":{"hp":160,"at":88,"df":28,"sp":232},"moves":["Leech Seed","Substitute","Wood Hammer","Disable"]}},"Tapu Fini":{"OU Choice Scarf":{"level":100,"ability":"Misty Surge","item":"Choice Scarf","nature":"Timid","evs":{"hp":248,"sd":44,"sp":216},"moves":["Scald","Moonblast","Trick","Taunt"]},"OU Whirlpool":{"level":100,"ability":"Misty Surge","item":"Leftovers","nature":"Calm","evs":{"hp":252,"df":216,"sd":40},"moves":["Whirlpool","Moonblast","Nature's Madness","Taunt"]},"OU Calm Mind":{"level":100,"ability":"Misty Surge","item":"Leftovers","nature":"Bold","evs":{"hp":252,"df":116,"sp":140},"moves":["Calm Mind","Taunt","Scald","Draining Kiss"]},"Uber Trapper":{"level":100,"ability":"Misty Surge","item":"Leftovers","nature":"Bold","evs":{"hp":248,"df":204,"sp":56},"moves":["Whirlpool","Nature's Madness","Taunt","Moonblast"]},"Monotype Calm Mind (Fairy)":{"level":100,"ability":"Misty Surge","item":"Leftovers","nature":"Bold","ivs":{"at":0},"evs":{"hp":252,"df":184,"sa":8,"sd":8,"sp":56},"moves":["Calm Mind","Scald","Draining Kiss","Taunt"]},"Monotype Choice Scarf (Water)":{"level":100,"ability":"Misty Surge","item":"Choice Scarf","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Moonblast","Trick","Ice Beam","Surf"]},"Monotype Calm Mind (Water)":{"level":100,"ability":"Misty Surge","item":"Leftovers","nature":"Calm","evs":{"hp":252,"df":148,"sd":96,"sp":12},"moves":["Calm Mind","Draining Kiss","Scald","Taunt"]},"Doubles Calm Mind":{"level":100,"ability":"Misty Surge","item":"Leftovers","nature":"Bold","evs":{"hp":252,"df":112,"sa":144},"moves":["Muddy Water","Moonblast","Calm Mind","Protect"]},"Doubles Support":{"level":100,"ability":"Misty Surge","item":"Sitrus Berry","nature":"Bold","evs":{"hp":252,"df":112,"sa":144},"moves":["Moonblast","Nature's Madness","Icy Wind","Heal Pulse"]},"Battle Stadium Singles Calm Mind":{"level":50,"ability":"Misty Surge","item":"Leftovers","nature":"Bold","evs":{"hp":252,"df":100,"sp":156},"moves":["Calm Mind","Surf","Moonblast","Taunt"]},"Battle Stadium Singles Choice Attacker":{"level":50,"ability":"Misty Surge","item":"Choice Specs","nature":"Modest","evs":{"hp":4,"sa":252,"sp":252},"moves":["Moonblast","Surf","Ice Beam","Trick"]},"BH Poison Heal Pivot":{"level":100,"ability":"Poison Heal","item":"Toxic Orb","nature":"Relaxed","ivs":{"sp":0},"evs":{"hp":252,"at":252,"df":252,"sa":252,"sd":252},"moves":["Baneful Bunker","U-turn","Scald","Spikes"]},"BH Prankster":{"level":100,"ability":"Prankster","item":"Leftovers","nature":"Bold","evs":{"hp":252,"df":252,"sa":252,"sd":252,"sp":252},"moves":["Haze","Recover","Parting Shot","Destiny Bond"]},"CAP Choice Scarf":{"level":100,"ability":"Misty Surge","item":"Choice Scarf","nature":"Timid","evs":{"df":32,"sa":252,"sp":224},"moves":["Hydro Pump","Moonblast","Trick","Taunt"]},"CAP Utility":{"level":100,"ability":"Misty Surge","item":"Leftovers","nature":"Calm","evs":{"hp":252,"df":216,"sd":40},"moves":["Whirlpool","Moonblast","Nature's Madness","Taunt"]},"CAP Calm Mind":{"level":100,"ability":"Misty Surge","item":"Leftovers","nature":"Bold","evs":{"hp":252,"df":116,"sp":140},"moves":["Calm Mind","Taunt","Scald","Draining Kiss"]},"1v1 Leftovers":{"level":100,"ability":"Misty Surge","item":"Leftovers","nature":"Bold","evs":{"hp":236,"df":96,"sp":176},"moves":["Iron Defense","Calm Mind","Taunt","Draining Kiss"]},"1v1 Sitrus Berry":{"level":100,"ability":"Misty Surge","item":"Sitrus Berry","nature":"Bold","evs":{"hp":248,"sa":176,"sp":84},"moves":["Moonblast","Surf","Calm Mind","Taunt"]},"1v1 Choice Scarf":{"level":100,"ability":"Telepathy","item":"Choice Scarf","nature":"Timid","evs":{"hp":80,"df":20,"sa":156,"sp":252},"moves":["Surf","Moonblast","Trick","Rest"]},"1v1 Anti-Galarian Darmanitan":{"level":100,"ability":"Misty Surge","item":"Wiki Berry","nature":"Bold","evs":{"hp":248,"df":204,"sa":48,"sp":8},"moves":["Iron Defense","Calm Mind","Draining Kiss","Taunt"]},"1v1 Anti-Volcanion":{"level":100,"ability":"Misty Surge","item":"Weakness Policy","nature":"Modest","evs":{"hp":216,"sa":204,"sd":88},"moves":["Calm Mind","Hydro Pump","Moonblast","Hyper Beam"]},"1v1 Choice Specs":{"level":100,"ability":"Misty Surge","item":"Choice Specs","nature":"Timid","evs":{"df":4,"sa":252,"sp":252},"moves":["Moonblast","Hydro Pump","Ice Beam","Trick"]}},"Tapu Koko":{"OU Offensive Pivot":{"level":100,"ability":"Electric Surge","item":"Heavy-Duty Boots","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Thunderbolt","Dazzling Gleam","U-turn","Roost"]},"Monotype Choice Specs (Electric)":{"level":100,"ability":"Electric Surge","item":"Choice Specs","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Thunderbolt","Volt Switch","Dazzling Gleam","Grass Knot"]},"Monotype 3 Attacks + Roost (Fairy)":{"level":100,"ability":"Electric Surge","item":"Life Orb","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Thunderbolt","Grass Knot","Dazzling Gleam","Roost"]},"Monotype Utility (Fairy)":{"level":100,"ability":"Electric Surge","item":"Rocky Helmet","nature":"Timid","evs":{"hp":252,"df":40,"sp":216},"moves":["Discharge","U-turn","Toxic","Roost"]},"Doubles Physical Attacker":{"level":100,"ability":"Electric Surge","item":"Choice Band","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Wild Charge","Brave Bird","Iron Head","U-turn"]},"Battle Stadium Singles Special Attacker":{"level":50,"ability":"Electric Surge","item":"Choice Specs","nature":"Timid","evs":{"hp":4,"sa":252,"sp":252},"moves":["Thunderbolt","Dazzling Gleam","Grass Knot","Volt Switch"]},"Battle Stadium Singles Dual Screens":{"level":50,"ability":"Electric Surge","item":"Light Clay","nature":"Timid","evs":{"hp":252,"sa":4,"sp":252},"moves":["Reflect","Light Screen","Thunderbolt","Taunt"]},"Battle Stadium Singles Physical Attacker":{"level":50,"ability":"Electric Surge","item":"Life Orb","nature":"Jolly","evs":{"hp":4,"at":252,"sp":252},"moves":["Wild Charge","Brave Bird","U-turn","Iron Head"]},"CAP Pivot":{"level":100,"ability":"Electric Surge","item":"Heavy-Duty Boots","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Thunderbolt","Dazzling Gleam","U-turn","Roost"]},"CAP Calm Mind":{"level":100,"ability":"Electric Surge","item":"Heavy-Duty Boots","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Calm Mind","Thunderbolt","Dazzling Gleam","Roost"]},"CAP Dual Screens":{"level":100,"ability":"Electric Surge","item":"Light Clay","nature":"Jolly","evs":{"hp":252,"df":4,"sp":252},"moves":["Reflect","Light Screen","U-turn","Taunt"]},"1v1 Electric Seed Stall":{"level":100,"ability":"Electric Surge","item":"Electric Seed","nature":"Timid","ivs":{"at":0},"evs":{"hp":176,"sd":132,"sp":200},"moves":["Thunderbolt","Roost","Eerie Impulse","Taunt"]},"1v1 Charge + Wild Charge":{"level":100,"ability":"Electric Surge","item":"Life Orb","nature":"Jolly","evs":{"hp":168,"at":76,"sd":248,"sp":16},"moves":["Charge","Wild Charge","Dazzling Gleam","Quick Attack"]},"1v1 Life Orb":{"level":100,"ability":"Electric Surge","item":"Life Orb","nature":"Timid","evs":{"hp":48,"df":32,"sa":96,"sd":116,"sp":16},"moves":["Calm Mind","Dazzling Gleam","Thunderbolt","Quick Attack"]},"1v1 Thief":{"level":100,"ability":"Electric Surge","item":"Electric Seed","nature":"Adamant","evs":{"hp":104,"at":220,"df":96,"sp":88},"moves":["Wild Charge","Thief","Taunt","Brave Bird"]},"1v1 Electric Seed Offensive":{"level":100,"ability":"Electric Surge","item":"Electric Seed","nature":"Timid","ivs":{"at":0},"evs":{"hp":248,"sa":104,"sd":32,"sp":124},"moves":["Thunderbolt","Dazzling Gleam","Calm Mind","Roost"]}},"Tapu Lele":{"OU Choice Specs":{"level":100,"ability":"Psychic Surge","item":"Choice Specs","nature":"Modest","evs":{"sa":252,"sd":4,"sp":252},"moves":["Psyshock","Moonblast","Focus Blast","Psychic"]},"OU Choice Scarf":{"level":100,"ability":"Psychic Surge","item":"Choice Scarf","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Psyshock","Moonblast","Focus Blast","Future Sight"]},"OU Calm Mind":{"level":100,"ability":"Psychic Surge","item":"Leftovers","nature":"Timid","evs":{"df":8,"sa":248,"sp":252},"moves":["Calm Mind","Psyshock","Moonblast","Thunderbolt"]},"Monotype Choice Specs (Psychic)":{"level":100,"ability":"Psychic Surge","item":"Choice Specs","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Psychic","Moonblast","Focus Blast","Thunderbolt"]},"Monotype Choice Scarf (Fairy)":{"level":100,"ability":"Psychic Surge","item":"Choice Scarf","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Psychic","Moonblast","Focus Blast","Thunderbolt"]},"Doubles Bulky Taunt":{"level":100,"ability":"Psychic Surge","item":"Sitrus Berry","nature":"Timid","evs":{"hp":252,"df":40,"sa":64,"sp":152},"moves":["Psychic","Moonblast","Taunt","Protect"]},"Battle Stadium Singles Offensive":{"level":50,"ability":"Psychic Surge","item":"Choice Scarf","nature":"Modest","evs":{"hp":4,"sa":252,"sp":252},"moves":["Psychic","Moonblast","Thunderbolt","Psyshock"]},"CAP Choice Scarf":{"level":100,"ability":"Psychic Surge","item":"Choice Scarf","nature":"Modest","evs":{"sa":252,"sd":4,"sp":252},"moves":["Psychic","Moonblast","Psyshock","Focus Blast"]},"CAP Choice Specs":{"level":100,"ability":"Psychic Surge","item":"Choice Specs","nature":"Modest","evs":{"sa":252,"sd":4,"sp":252},"moves":["Psychic","Moonblast","Psyshock","Focus Blast"]},"1v1 Psychic Seed":{"level":100,"ability":"Psychic Surge","item":"Psychic Seed","nature":"Modest","evs":{"hp":128,"sa":8,"sd":136,"sp":236},"moves":["Moonblast","Psyshock","Taunt","Calm Mind"]},"1v1 Custap Berry":{"level":100,"ability":"Psychic Surge","item":"Custap Berry","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Calm Mind","Psyshock","Moonblast","Endure"]},"1v1 Choice Specs":{"level":100,"ability":"Psychic Surge","item":"Choice Specs","nature":"Modest","evs":{"sa":252,"sd":4,"sp":252},"moves":["Moonblast","Psyshock","Thunder","Focus Blast"]},"1v1 Weakness Policy":{"level":100,"ability":"Psychic Surge","item":"Weakness Policy","nature":"Modest","evs":{"hp":12,"df":252,"sa":52,"sp":192},"moves":["Iron Defense","Calm Mind","Stored Power","Moonblast"]},"1v1 Choice Scarf":{"level":100,"ability":"Psychic Surge","item":"Choice Scarf","nature":"Timid","evs":{"df":40,"sa":252,"sp":216},"moves":["Psyshock","Moonblast","Psychic","Focus Blast"]},"1v1 Anti-Magnezone":{"level":100,"ability":"Psychic Surge","item":"Psychic Seed","nature":"Modest","evs":{"hp":240,"sa":68,"sd":200},"moves":["Skill Swap","Psyshock","Focus Blast","Moonblast"]}},"Tarountula":{"LC Showdown Usage":{"level":5,"ability":"Insomnia","item":"Focus Sash","nature":"Adamant","evs":{"hp":76,"at":188,"sd":196,"sp":36},"moves":["Sticky Web","First Impression","Circle Throw","Spikes"]}},"Tatsugiri":{"UU Showdown Usage":{"level":100,"ability":"Storm Drain","item":"Heavy-Duty Boots","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Rapid Spin","Draco Meteor","Nasty Plot","Surf"]}},"Tauros":{"NU All-out Attacker":{"level":100,"ability":"Sheer Force","item":"Life Orb","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["Body Slam","Close Combat","Throat Chop","Iron Head"]}},"Tauros-Paldea-Fire":{"OU Physically Defensive":{"level":100,"ability":"Intimidate","item":"Heavy-Duty Boots","nature":"Impish","teraType":"Flying","evs":{"hp":252,"at":4,"df":252},"moves":["Will-O-Wisp","Body Press","Raging Bull","Protect"]},"UU Bulk Up":{"level":100,"ability":"Intimidate","item":"Heavy-Duty Boots","nature":"Jolly","teraType":"Fighting","evs":{"at":252,"sd":4,"sp":252},"moves":["Bulk Up","Close Combat","Raging Bull","Will-O-Wisp"]},"UU Choice Scarf":{"level":100,"ability":"Intimidate","item":"Choice Scarf","nature":"Jolly","teraType":"Fighting","evs":{"at":252,"sd":4,"sp":252},"moves":["Close Combat","Raging Bull","Stone Edge","Will-O-Wisp"]}},"Tauros-Paldea-Water":{"OU Showdown Usage":{"level":100,"ability":"Intimidate","item":"Choice Band","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Close Combat","Raging Bull","Aqua Jet","Earthquake"]},"UU Showdown Usage":{"level":100,"ability":"Intimidate","item":"Choice Band","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Close Combat","Aqua Jet","Raging Bull","Wave Crash"]}},"Teddiursa":{"LC Showdown Usage":{"level":5,"ability":"Quick Feet","item":"Toxic Orb","nature":"Jolly","evs":{"hp":36,"at":196,"df":36,"sd":36,"sp":196},"moves":["Facade","Protect","Crunch","Close Combat"]}},"Tentacool":{"LC Defensive Utility":{"level":5,"ability":"Liquid Ooze","item":"Eviolite","nature":"Calm","evs":{"hp":196,"df":236,"sa":36,"sp":36},"moves":["Rapid Spin","Scald","Sludge Bomb","Knock Off"]}},"Tentacruel":{"UU Defensive Spinner":{"level":100,"ability":"Liquid Ooze","item":"Black Sludge","nature":"Timid","evs":{"hp":252,"df":96,"sp":160},"moves":["Scald","Sludge Bomb","Knock Off","Rapid Spin"]},"RU Defensive Utility":{"level":100,"ability":"Liquid Ooze","item":"Black Sludge","nature":"Timid","evs":{"hp":140,"sa":148,"sd":76,"sp":144},"moves":["Scald","Rapid Spin","Knock Off","Sludge Bomb"]},"1v1 Assault Vest":{"level":100,"ability":"Clear Body","item":"Assault Vest","nature":"Calm","evs":{"hp":252,"df":4,"sd":252},"moves":["Acid Spray","Surf","Mirror Coat","Sludge Wave"]}},"Terrakion":{"OU Choice Band":{"level":100,"ability":"Justified","item":"Choice Band","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Close Combat","Stone Edge","Earthquake","Megahorn"]},"Monotype Choice Scarf (Rock)":{"level":100,"ability":"Justified","item":"Choice Scarf","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["Stone Edge","Close Combat","Earthquake","Poison Jab"]},"Monotype Choice Scarf (Fighting)":{"level":100,"ability":"Justified","item":"Choice Scarf","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Stone Edge","Close Combat","Earthquake","Megahorn"]},"1v1 Weakness Policy":{"level":100,"ability":"Justified","item":"Weakness Policy","nature":"Adamant","evs":{"at":252,"sd":80,"sp":176},"moves":["Close Combat","Stone Edge","Swords Dance","Endure"]}},"Thievul":{"PU Stakeout":{"level":100,"ability":"Stakeout","item":"Choice Specs","nature":"Modest","evs":{"sa":252,"sd":4,"sp":252},"moves":["Dark Pulse","Grass Knot","Psychic","U-turn"]},"ZU Choice Specs":{"level":100,"ability":"Stakeout","item":"Choice Specs","nature":"Modest","evs":{"df":4,"sa":252,"sp":252},"moves":["Dark Pulse","Psychic","Parting Shot","Burning Jealousy"]}},"Throh":{"ZU Special Wall":{"level":100,"ability":"Guts","item":"Leftovers","nature":"Careful","evs":{"hp":252,"sd":212,"sp":44},"moves":["Circle Throw","Knock Off","Rest","Sleep Talk"]}},"Thundurus":{"Monotype Mixed Attacker (Electric)":{"level":100,"ability":"Prankster","item":"Heavy-Duty Boots","nature":"Hasty","evs":{"at":4,"sa":252,"sp":252},"moves":["Thunderbolt","Knock Off","U-turn","Thunder Wave"]},"Battle Stadium Singles Dynamax Sweeper":{"level":50,"ability":"Defiant","item":"Life Orb","nature":"Jolly","evs":{"hp":4,"at":252,"sp":252},"moves":["Fly","Wild Charge","Bulk Up","Taunt"]},"Battle Stadium Singles Prankster Support":{"level":50,"ability":"Prankster","item":"Sitrus Berry","nature":"Timid","evs":{"hp":252,"df":76,"sa":4,"sd":4,"sp":172},"moves":["Substitute","Thunder Wave","Thunderbolt","Grass Knot"]}},"Thundurus-Therian":{"OU Nasty Plot":{"level":100,"ability":"Volt Absorb","item":"Heavy-Duty Boots","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Nasty Plot","Thunder","Focus Blast","Weather Ball"]},"UU Pivot":{"level":100,"ability":"Volt Absorb","item":"Heavy-Duty Boots","nature":"Timid","evs":{"df":4,"sa":252,"sp":252},"moves":["Volt Switch","Psychic","Grass Knot","Focus Blast"]},"UU Nasty Plot":{"level":100,"ability":"Volt Absorb","item":"Heavy-Duty Boots","nature":"Timid","evs":{"df":4,"sa":252,"sp":252},"moves":["Nasty Plot","Thunderbolt","Psychic","Focus Blast"]},"Uber Nasty Plot":{"level":100,"ability":"Volt Absorb","item":"Life Orb","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Nasty Plot","Thunderbolt","Psychic","Focus Blast"]},"Monotype Nasty Plot Sweeper":{"level":100,"ability":"Volt Absorb","item":"Heavy-Duty Boots","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Nasty Plot","Thunderbolt","Grass Knot","Focus Blast"]},"Monotype Choice Scarf (Flying)":{"level":100,"ability":"Volt Absorb","item":"Choice Scarf","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Volt Switch","Focus Blast","Grass Knot","Sludge Wave"]},"1v1 Choice Specs":{"level":100,"ability":"Volt Absorb","item":"Choice Specs","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Thunderbolt","Sludge Wave","Incinerate","Focus Blast"]},"1v1 Assault Vest":{"level":100,"ability":"Volt Absorb","item":"Assault Vest","nature":"Modest","evs":{"sa":204,"sd":72,"sp":232},"moves":["Thunderbolt","Sludge Wave","Psychic","Focus Blast"]}},"Thwackey":{"PU Choice Band":{"level":100,"ability":"Grassy Surge","item":"Choice Band","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Grassy Glide","Knock Off","Wood Hammer","U-turn"]},"ZU Choice Band":{"level":100,"ability":"Grassy Surge","item":"Choice Band","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Grassy Glide","Wood Hammer","U-turn","Knock Off"]},"ZU Swords Dance":{"level":100,"ability":"Grassy Surge","item":"Eviolite","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Swords Dance","Grassy Glide","Knock Off","U-turn"]}},"Timburr":{"LC Bulky Attacker":{"level":5,"ability":"Iron Fist","item":"Eviolite","nature":"Adamant","evs":{"at":196,"df":156,"sp":156},"moves":["Drain Punch","Knock Off","Mach Punch","Defog"]}},"Ting-Lu":{"OU Defensive":{"level":100,"ability":"Vessel of Ruin","item":"Leftovers","nature":"Careful","teraType":"Poison","evs":{"hp":252,"df":4,"sd":252},"moves":["Stealth Rock","Spikes","Whirlwind","Earthquake"]},"Uber Defensive Pivot":{"level":100,"ability":"Vessel of Ruin","item":"Leftovers","nature":"Careful","teraType":"Ghost","evs":{"hp":252,"df":4,"sd":252},"moves":["Spikes","Ruination","Earthquake","Protect"]},"Doubles Bulky Utility":{"level":100,"ability":"Vessel of Ruin","item":"Leftovers","nature":"Adamant","teraType":"Fairy","evs":{"hp":172,"at":84,"sd":252},"moves":["Stomping Tantrum","Throat Chop","Stealth Rock","Protect"]},"BH RegenVest":{"level":100,"ability":"Regenerator","item":"Assault Vest","nature":"Sassy","teraType":"Fairy","ivs":{"at":0,"sp":0},"evs":{"hp":252,"df":252,"sd":252},"moves":["Nuzzle","U-turn","Ceaseless Edge","Knock Off"]},"BH Prankster":{"level":100,"ability":"Prankster","item":"Roseli Berry","nature":"Relaxed","teraType":"Poison","ivs":{"at":0,"sp":0},"evs":{"hp":252,"df":252,"sd":252},"moves":["Haze","Recover","Glare","Entrainment"]},"BH Magic Bounce":{"level":100,"ability":"Magic Bounce","item":"Leftovers","nature":"Relaxed","teraType":"Poison","ivs":{"at":0,"sp":0},"evs":{"hp":252,"df":252,"sd":252},"moves":["Nuzzle","Knock Off","Ceaseless Edge","Recover"]}},"Tinkatink":{"LC Utility":{"level":5,"ability":"Pickpocket","item":"Eviolite","nature":"Jolly","teraType":"Grass","evs":{"hp":36,"at":156,"df":156,"sd":84,"sp":52},"moves":["Knock Off","Play Rough","Thunder Wave","Stealth Rock"]}},"Tinkaton":{"OU Showdown Usage":{"level":100,"ability":"Mold Breaker","item":"Leftovers","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Gigaton Hammer","Play Rough","Knock Off","Swords Dance"]},"UU Utility":{"level":100,"ability":"Mold Breaker","item":"Leftovers","nature":"Careful","teraType":"Ghost","evs":{"hp":252,"at":84,"sd":172},"moves":["Stealth Rock","Knock Off","Gigaton Hammer","Encore"]},"UU Swords Dance + Two Attacks":{"level":100,"ability":"Mold Breaker","item":"Leftovers","nature":"Jolly","teraType":"Dark","evs":{"hp":200,"at":84,"sp":224},"moves":["Swords Dance","Gigaton Hammer","Knock Off","Protect"]},"Uber Showdown Usage":{"level":100,"ability":"Mold Breaker","item":"Leftovers","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Gigaton Hammer","Play Rough","Knock Off","Swords Dance"]},"Doubles Showdown Usage":{"level":100,"ability":"Mold Breaker","item":"Assault Vest","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Gigaton Hammer","Play Rough","Fake Out","Knock Off"]}},"Tirtouga":{"LC Defensive":{"level":5,"ability":"Solid Rock","item":"Eviolite","nature":"Careful","evs":{"hp":164,"at":52,"df":92,"sd":156,"sp":20},"moves":["Stealth Rock","Stone Edge","Liquidation","Aqua Jet"]},"LC Shell Smash":{"level":5,"ability":"Solid Rock","item":"Eviolite","nature":"Jolly","evs":{"hp":4,"at":132,"df":92,"sd":76,"sp":180},"moves":["Shell Smash","Waterfall","Stone Edge","Zen Headbutt"]}},"Toedscool":{"LC Utility":{"level":5,"ability":"Mycelium Might","item":"Eviolite","nature":"Serious","teraType":"Steel","evs":{"hp":36,"at":36,"df":156,"sa":36,"sd":36,"sp":196},"moves":["Earth Power","Knock Off","Rapid Spin","Spore"]}},"Toedscruel":{"OU Showdown Usage":{"level":100,"ability":"Mycelium Might","item":"Leftovers","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Spore","Earth Power","Rapid Spin","Giga Drain"]},"UU Showdown Usage":{"level":100,"ability":"Mycelium Might","item":"Leftovers","nature":"Calm","evs":{"hp":252,"sa":4,"sd":252},"moves":["Rapid Spin","Spore","Earth Power","Giga Drain"]}},"Togedemaru":{"NU Defensive Pivot":{"level":100,"ability":"Lightning Rod","item":"Leftovers","nature":"Jolly","evs":{"hp":248,"sd":204,"sp":56},"moves":["Wish","Spiky Shield","Iron Head","U-turn"]},"NU Choice Scarf":{"level":100,"ability":"Lightning Rod","item":"Choice Scarf","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Zing Zap","Iron Head","U-turn","Nuzzle"]},"PU Choice Scarf":{"level":100,"ability":"Lightning Rod","item":"Choice Scarf","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Zing Zap","Iron Head","U-turn","Toxic"]},"PU Wish Passer":{"level":100,"ability":"Lightning Rod","item":"Heavy-Duty Boots","nature":"Careful","evs":{"hp":252,"sd":248,"sp":8},"moves":["Wish","Spiky Shield","Iron Head","U-turn"]}},"Togedemaru-Totem":{"NU Defensive Pivot":{"level":100,"ability":"Lightning Rod","item":"Leftovers","nature":"Jolly","evs":{"hp":248,"sd":204,"sp":56},"moves":["Wish","Spiky Shield","Iron Head","U-turn"]},"NU Choice Scarf":{"level":100,"ability":"Lightning Rod","item":"Choice Scarf","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Zing Zap","Iron Head","U-turn","Nuzzle"]},"PU Choice Scarf":{"level":100,"ability":"Lightning Rod","item":"Choice Scarf","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Zing Zap","Iron Head","U-turn","Toxic"]},"PU Wish Passer":{"level":100,"ability":"Lightning Rod","item":"Heavy-Duty Boots","nature":"Careful","evs":{"hp":252,"sd":248,"sp":8},"moves":["Wish","Spiky Shield","Iron Head","U-turn"]}},"Togekiss":{"OU Nasty Plot":{"level":100,"ability":"Serene Grace","item":"Heavy-Duty Boots","nature":"Timid","evs":{"hp":252,"df":120,"sp":136},"moves":["Nasty Plot","Air Slash","Roost","Heal Bell"]},"UU Nasty Plot":{"level":100,"ability":"Serene Grace","item":"Heavy-Duty Boots","nature":"Timid","evs":{"hp":248,"sa":8,"sp":252},"moves":["Nasty Plot","Air Slash","Heal Bell","Roost"]},"RU Nasty Plot":{"level":100,"ability":"Serene Grace","item":"Heavy-Duty Boots","nature":"Timid","evs":{"hp":248,"df":8,"sp":252},"moves":["Nasty Plot","Air Slash","Flamethrower","Roost"]},"RU Utility":{"level":100,"ability":"Serene Grace","item":"Heavy-Duty Boots","nature":"Timid","evs":{"hp":248,"df":8,"sp":252},"moves":["Air Slash","Heal Bell","Flamethrower","Roost"]},"Monotype Nasty Plot (Fairy)":{"level":100,"ability":"Serene Grace","item":"Leftovers","nature":"Timid","evs":{"df":4,"sa":252,"sp":252},"moves":["Air Slash","Fire Blast","Substitute","Nasty Plot"]},"1v1 Maranga Berry + Thunder Wave":{"level":100,"ability":"Serene Grace","item":"Maranga Berry","nature":"Calm","evs":{"hp":252,"df":52,"sd":104,"sp":100},"moves":["Thunder Wave","Roost","Encore","Air Slash"]},"1v1 Choice Scarf":{"level":100,"ability":"Serene Grace","item":"Choice Scarf","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Air Slash","Trick","Fire Blast","Roost"]}},"Tomohawk":{"CAP Physical Wall":{"level":100,"ability":"Intimidate","item":"Rocky Helmet","nature":"Bold","teraType":"Steel","evs":{"hp":252,"df":252,"sd":4},"moves":["Stealth Rock","Hurricane","Heat Wave","Roost"]},"CAP HazeHawk":{"level":100,"ability":"Prankster","item":"Rocky Helmet","nature":"Bold","teraType":"Steel","evs":{"hp":252,"df":252,"sd":4},"moves":["Haze","Hurricane","Heat Wave","Morning Sun"]}},"Torkoal":{"OU Defensive":{"level":100,"ability":"Drought","item":"Heat Rock","nature":"Bold","teraType":"Water","evs":{"hp":248,"df":252,"sa":8},"moves":["Lava Plume","Body Press","Rapid Spin","Stealth Rock"]},"Doubles TR Attacker":{"level":100,"ability":"Drought","item":"Charcoal","nature":"Quiet","teraType":"Fire","ivs":{"at":0,"sp":0},"evs":{"hp":248,"sa":252,"sd":8},"moves":["Eruption","Heat Wave","Earth Power","Protect"]}},"Tornadus":{"UU Mixed Offensive Pivot":{"level":100,"ability":"Defiant","nature":"Naive","evs":{"at":252,"sa":4,"sp":252},"moves":["Acrobatics","U-turn","Knock Off","Heat Wave"]},"UU Choice Specs":{"level":100,"ability":"Defiant","item":"Choice Specs","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Hurricane","Knock Off","U-turn","Focus Blast"]},"RU Offensive Utility":{"level":100,"ability":"Prankster","item":"Heavy-Duty Boots","nature":"Naive","evs":{"at":4,"sa":252,"sp":252},"moves":["Hurricane","Knock Off","U-turn","Tailwind"]},"RU Nasty Plot":{"level":100,"ability":"Defiant","item":"Heavy-Duty Boots","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Nasty Plot","Hurricane","Heat Wave","Focus Blast"]},"Doubles Tailwind Support":{"level":100,"ability":"Prankster","item":"Life Orb","nature":"Timid","evs":{"hp":4,"sa":252,"sp":252},"moves":["Hurricane","Weather Ball","Tailwind","Protect"]}},"Tornadus-Therian":{"OU Nasty Plot":{"level":100,"ability":"Regenerator","item":"Heavy-Duty Boots","nature":"Timid","evs":{"hp":4,"sa":252,"sp":252},"moves":["Nasty Plot","Hurricane","Focus Blast","Knock Off"]},"OU Defog":{"level":100,"ability":"Regenerator","item":"Heavy-Duty Boots","nature":"Timid","evs":{"hp":252,"df":4,"sp":252},"moves":["Hurricane","Knock Off","U-turn","Defog"]},"Monotype Pivot":{"level":100,"ability":"Regenerator","item":"Heavy-Duty Boots","nature":"Timid","evs":{"hp":200,"sd":56,"sp":252},"moves":["U-turn","Hurricane","Knock Off","Taunt"]},"Monotype Nasty Plot (Flying)":{"level":100,"ability":"Regenerator","item":"Heavy-Duty Boots","nature":"Timid","evs":{"hp":200,"sa":56,"sp":252},"moves":["Nasty Plot","Hurricane","Heat Wave","Knock Off"]},"Monotype Assault Vest (Flying)":{"level":100,"ability":"Regenerator","item":"Heavy-Duty Boots","nature":"Timid","evs":{"hp":96,"sa":244,"sp":168},"moves":["Grass Knot","Heat Wave","Knock Off","U-turn"]},"CAP Utility Pivot":{"level":100,"ability":"Regenerator","item":"Heavy-Duty Boots","nature":"Timid","evs":{"hp":252,"sa":4,"sp":252},"moves":["Hurricane","Knock Off","U-turn","Defog"]},"CAP Assault Vest":{"level":100,"ability":"Regenerator","item":"Assault Vest","nature":"Timid","evs":{"hp":192,"sd":80,"sp":236},"moves":["Hurricane","Heat Wave","Knock Off","U-turn"]}},"Toxapex":{"OU The Pex":{"level":100,"ability":"Regenerator","item":"Black Sludge","nature":"Bold","teraType":"Steel","evs":{"hp":252,"df":192,"sd":64},"moves":["Chilling Water","Recover","Toxic","Haze"]},"Uber Showdown Usage":{"level":100,"ability":"Regenerator","item":"Black Sludge","nature":"Bold","evs":{"hp":252,"df":252,"sd":4},"moves":["Recover","Baneful Bunker","Haze","Toxic Spikes"]}},"Toxicroak":{"UU Showdown Usage":{"level":100,"ability":"Dry Skin","item":"Life Orb","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Sucker Punch","Gunk Shot","Drain Punch","Swords Dance"]}},"Toxtricity":{"UU Choice Specs":{"level":100,"ability":"Punk Rock","item":"Choice Specs","nature":"Modest","teraType":"Normal","evs":{"sa":252,"sd":4,"sp":252},"moves":["Volt Switch","Overdrive","Sludge Bomb","Boomburst"]},"UU Shift Gear":{"level":100,"ability":"Punk Rock","item":"Life Orb","nature":"Rash","teraType":"Normal","evs":{"at":4,"sa":252,"sp":252},"moves":["Shift Gear","Overdrive","Boomburst","Drain Punch"]},"UU Choice Scarf":{"level":100,"ability":"Punk Rock","item":"Choice Scarf","nature":"Timid","teraType":"Normal","evs":{"sa":252,"sd":4,"sp":252},"moves":["Volt Switch","Overdrive","Sludge Bomb","Boomburst"]}},"Toxtricity-Gmax":{"UU Choice Specs":{"level":100,"ability":"Punk Rock","item":"Choice Specs","nature":"Modest","teraType":"Normal","evs":{"sa":252,"sd":4,"sp":252},"moves":["Volt Switch","Overdrive","Sludge Bomb","Boomburst"]},"UU Shift Gear":{"level":100,"ability":"Punk Rock","item":"Life Orb","nature":"Rash","teraType":"Normal","evs":{"at":4,"sa":252,"sp":252},"moves":["Shift Gear","Overdrive","Boomburst","Drain Punch"]},"UU Choice Scarf":{"level":100,"ability":"Punk Rock","item":"Choice Scarf","nature":"Timid","teraType":"Normal","evs":{"sa":252,"sd":4,"sp":252},"moves":["Volt Switch","Overdrive","Sludge Bomb","Boomburst"]}},"Trapinch":{"LC Trapper":{"level":5,"ability":"Arena Trap","item":"Eviolite","nature":"Adamant","evs":{"at":36,"df":236,"sd":76,"sp":116},"moves":["Earthquake","First Impression","Superpower","Feint"]}},"Treecko":{"LC Sweeper":{"level":5,"ability":"Unburden","item":"Grassy Seed","nature":"Adamant","evs":{"hp":36,"at":236,"df":156,"sp":36},"moves":["Swords Dance","Bullet Seed","Drain Punch","Acrobatics"]}},"Trevenant":{"PU Choice Band":{"level":100,"ability":"Natural Cure","item":"Choice Band","nature":"Adamant","evs":{"at":252,"df":4,"sp":252},"moves":["Poltergeist","Wood Hammer","Horn Leech","Earthquake"]},"ZU Choice Band":{"level":100,"ability":"Natural Cure","item":"Choice Band","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Poltergeist","Wood Hammer","Sucker Punch","Trick"]}},"Trubbish":{"LC Spikes":{"level":5,"ability":"Sticky Hold","item":"Eject Button","nature":"Naive","evs":{"hp":36,"at":116,"sa":120,"sp":236},"moves":["Spikes","Drain Punch","Explosion","Giga Drain"]}},"Tsareena":{"UU Utility":{"level":100,"ability":"Queenly Majesty","item":"Heavy-Duty Boots","nature":"Jolly","teraType":"Steel","evs":{"hp":252,"at":44,"sp":212},"moves":["Power Whip","U-turn","Rapid Spin","Synthesis"]},"Doubles Assault Vest":{"level":100,"ability":"Queenly Majesty","item":"Assault Vest","nature":"Adamant","teraType":"Steel","evs":{"hp":252,"at":208,"sp":48},"moves":["Power Whip","High Jump Kick","U-turn","Rapid Spin"]}},"Turtonator":{"PU Shell Smash":{"level":100,"ability":"Shell Armor","item":"Heavy-Duty Boots","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Shell Smash","Fire Blast","Draco Meteor","Flash Cannon"]},"PU Utility":{"level":100,"ability":"Shell Armor","item":"Heavy-Duty Boots","nature":"Modest","evs":{"hp":140,"sa":252,"sp":116},"moves":["Rapid Spin","Fire Blast","Draco Meteor","Heavy Slam"]}},"Type: Null":{"PU Defensive Pivot":{"level":100,"ability":"Battle Armor","item":"Eviolite","nature":"Careful","evs":{"hp":252,"df":4,"sd":252},"moves":["U-turn","Toxic","Rest","Sleep Talk"]},"ZU Defensive Pivot":{"level":100,"ability":"Battle Armor","item":"Eviolite","nature":"Sassy","ivs":{"sp":0},"evs":{"hp":248,"df":8,"sd":252},"moves":["U-turn","Toxic","Rest","Sleep Talk"]},"1v1 Stall":{"level":100,"ability":"Battle Armor","item":"Eviolite","nature":"Impish","evs":{"hp":252,"df":80,"sd":176},"moves":["Iron Defense","Confide","Rest","Flame Charge"]}},"Tyranitar":{"OU Choice Band":{"level":100,"ability":"Sand Stream","item":"Choice Band","nature":"Adamant","teraType":"Fire","evs":{"at":252,"df":4,"sp":252},"moves":["Stone Edge","Crunch","Earthquake","Fire Punch"]},"OU Defensive":{"level":100,"ability":"Sand Stream","item":"Heavy-Duty Boots","nature":"Careful","teraType":"Steel","evs":{"hp":252,"df":4,"sd":252},"moves":["Stealth Rock","Rock Blast","Thunder Wave","Rest"]},"UU Choice Band":{"level":100,"ability":"Sand Stream","item":"Choice Band","nature":"Adamant","teraType":"Flying","evs":{"at":252,"sd":4,"sp":252},"moves":["Stone Edge","Crunch","Fire Punch","Ice Punch"]},"UU Dragon Dance":{"level":100,"ability":"Sand Stream","item":"Lum Berry","nature":"Adamant","teraType":"Flying","evs":{"at":252,"sd":4,"sp":252},"moves":["Dragon Dance","Stone Edge","Crunch","Earthquake"]},"UU Stealth Rock":{"level":100,"ability":"Sand Stream","item":"Leftovers","nature":"Adamant","teraType":"Fairy","evs":{"hp":212,"at":252,"sp":44},"moves":["Stealth Rock","Stone Edge","Crunch","Earthquake"]},"Uber Defensive":{"level":100,"ability":"Sand Stream","item":"Heavy-Duty Boots","nature":"Careful","teraType":"Steel","evs":{"hp":252,"df":4,"sd":252},"moves":["Stealth Rock","Rock Blast","Thunder Wave","Rest"]},"Doubles Bulky Attacker":{"level":100,"ability":"Sand Stream","item":"Sitrus Berry","nature":"Adamant","teraType":"Fairy","evs":{"hp":252,"at":252,"sd":4},"moves":["Stealth Rock","Stone Edge","Crunch","Dragon Tail"]}},"Tyrantrum":{"RU Dragon Dance":{"level":100,"ability":"Rock Head","item":"Lum Berry","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Dragon Dance","Head Smash","Scale Shot","Close Combat"]},"RU Choice Scarf":{"level":100,"ability":"Rock Head","item":"Choice Scarf","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Head Smash","Close Combat","Earthquake","Outrage"]},"NU Choice Band":{"level":100,"ability":"Rock Head","item":"Choice Band","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Head Smash","Outrage","Close Combat","Dragon Claw"]},"NU Setup Sweeper":{"level":100,"ability":"Rock Head","item":"Lum Berry","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Dragon Dance","Scale Shot","Head Smash","Close Combat"]}},"Tyrunt":{"LC Dragon Dance Sweeper":{"level":5,"ability":"Strong Jaw","item":"Eviolite","nature":"Jolly","evs":{"at":204,"sd":76,"sp":212},"moves":["Dragon Dance","Rock Blast","Psychic Fangs","Close Combat"]}},"Umbreon":{"OU Specially Defensive":{"level":100,"ability":"Synchronize","item":"Leftovers","nature":"Calm","teraType":"Fairy","evs":{"hp":252,"df":4,"sd":252},"moves":["Wish","Protect","Foul Play","Thunder Wave"]},"UU Showdown Usage":{"level":100,"ability":"Synchronize","item":"Leftovers","nature":"Calm","evs":{"hp":252,"df":4,"sd":252},"moves":["Wish","Foul Play","Protect","Thunder Wave"]}},"Unfezant":{"PU Defog":{"level":100,"ability":"Super Luck","item":"Heavy-Duty Boots","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["Defog","Roost","Brave Bird","U-turn"]},"PU Choice Scarf":{"level":100,"ability":"Super Luck","item":"Choice Scarf","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["Brave Bird","U-turn","Toxic","Defog"]},"ZU Choice Band":{"level":100,"ability":"Super Luck","item":"Choice Band","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Brave Bird","U-turn","Quick Attack","Night Slash"]},"ZU Choice Scarf":{"level":100,"ability":"Super Luck","item":"Choice Scarf","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Brave Bird","U-turn","Facade","Night Slash"]}},"Urshifu":{"Uber Choice Band":{"level":100,"ability":"Unseen Fist","item":"Choice Band","nature":"Adamant","evs":{"at":252,"df":4,"sp":252},"moves":["Wicked Blow","Low Kick","U-turn","Sucker Punch"]},"Uber Bulk Up":{"level":100,"ability":"Unseen Fist","item":"Black Glasses","nature":"Adamant","evs":{"at":252,"df":4,"sp":252},"moves":["Wicked Blow","Low Kick","Bulk Up","Sucker Punch"]},"AG Choice Band":{"level":100,"ability":"Unseen Fist","item":"Choice Band","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Wicked Blow","Close Combat","U-turn","Stone Edge"]},"Battle Stadium Singles Choice Item":{"level":50,"ability":"Unseen Fist","item":"Choice Band","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Wicked Blow","Close Combat","Sucker Punch","Thunder Punch"]},"Battle Stadium Singles Focus Sash":{"level":50,"ability":"Unseen Fist","item":"Focus Sash","nature":"Jolly","evs":{"hp":4,"at":252,"sp":252},"moves":["Wicked Blow","Counter","Sucker Punch","Close Combat"]},"1v1 Assault Vest":{"level":100,"ability":"Unseen Fist","item":"Assault Vest","nature":"Adamant","evs":{"hp":128,"at":64,"sd":116,"sp":200},"moves":["Wicked Blow","Superpower","Sucker Punch","Stone Edge"]},"1v1 Bulky Chople Berry":{"level":100,"ability":"Unseen Fist","item":"Chople Berry","nature":"Impish","evs":{"hp":96,"at":172,"df":240},"moves":["Wicked Blow","Close Combat","Sucker Punch","Bulk Up"]},"1v1 Custap Berry":{"level":100,"ability":"Unseen Fist","item":"Custap Berry","nature":"Adamant","evs":{"hp":168,"at":192,"sd":68,"sp":80},"moves":["Bulk Up","Wicked Blow","Reversal","Endure"]},"1v1 Choice Band":{"level":100,"ability":"Unseen Fist","item":"Choice Band","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Wicked Blow","Close Combat","Sucker Punch","Fling"]},"1v1 Choice Scarf":{"level":100,"ability":"Unseen Fist","item":"Choice Scarf","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Wicked Blow","Close Combat","Fire Punch","Ice Punch"]},"1v1 Life Orb":{"level":100,"ability":"Unseen Fist","item":"Life Orb","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Wicked Blow","Close Combat","Sucker Punch","Bulk Up"]}},"Urshifu-Gmax":{"Uber Choice Band":{"level":100,"ability":"Unseen Fist","item":"Choice Band","nature":"Adamant","evs":{"at":252,"df":4,"sp":252},"moves":["Wicked Blow","Low Kick","U-turn","Sucker Punch"]},"Uber Bulk Up":{"level":100,"ability":"Unseen Fist","item":"Black Glasses","nature":"Adamant","evs":{"at":252,"df":4,"sp":252},"moves":["Wicked Blow","Low Kick","Bulk Up","Sucker Punch"]},"AG Choice Band":{"level":100,"ability":"Unseen Fist","item":"Choice Band","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Wicked Blow","Close Combat","U-turn","Stone Edge"]},"Battle Stadium Singles Choice Item":{"level":50,"ability":"Unseen Fist","item":"Choice Band","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Wicked Blow","Close Combat","Sucker Punch","Thunder Punch"]},"Battle Stadium Singles Focus Sash":{"level":50,"ability":"Unseen Fist","item":"Focus Sash","nature":"Jolly","evs":{"hp":4,"at":252,"sp":252},"moves":["Wicked Blow","Counter","Sucker Punch","Close Combat"]},"1v1 Assault Vest":{"level":100,"ability":"Unseen Fist","item":"Assault Vest","nature":"Adamant","evs":{"hp":128,"at":64,"sd":116,"sp":200},"moves":["Wicked Blow","Superpower","Sucker Punch","Stone Edge"]},"1v1 Bulky Chople Berry":{"level":100,"ability":"Unseen Fist","item":"Chople Berry","nature":"Impish","evs":{"hp":96,"at":172,"df":240},"moves":["Wicked Blow","Close Combat","Sucker Punch","Bulk Up"]},"1v1 Custap Berry":{"level":100,"ability":"Unseen Fist","item":"Custap Berry","nature":"Adamant","evs":{"hp":168,"at":192,"sd":68,"sp":80},"moves":["Bulk Up","Wicked Blow","Reversal","Endure"]},"1v1 Choice Band":{"level":100,"ability":"Unseen Fist","item":"Choice Band","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Wicked Blow","Close Combat","Sucker Punch","Fling"]},"1v1 Choice Scarf":{"level":100,"ability":"Unseen Fist","item":"Choice Scarf","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Wicked Blow","Close Combat","Fire Punch","Ice Punch"]},"1v1 Life Orb":{"level":100,"ability":"Unseen Fist","item":"Life Orb","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Wicked Blow","Close Combat","Sucker Punch","Bulk Up"]}},"Urshifu-Rapid-Strike":{"OU Choice Band":{"level":100,"ability":"Unseen Fist","item":"Choice Band","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["Surging Strikes","Close Combat","Aqua Jet","U-turn"]},"Monotype Choice Band (Water)":{"level":100,"ability":"Unseen Fist","item":"Choice Band","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Close Combat","Surging Strikes","Aqua Jet","U-turn"]},"Doubles Offensive":{"level":100,"ability":"Unseen Fist","item":"Life Orb","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Surging Strikes","Close Combat","Aqua Jet","Protect"]},"Battle Stadium Singles Focus Sash":{"level":50,"ability":"Unseen Fist","item":"Focus Sash","nature":"Jolly","evs":{"hp":4,"at":252,"sp":252},"moves":["Surging Strikes","Close Combat","Counter","Aqua Jet"]},"Battle Stadium Singles Choice Attacker":{"level":50,"ability":"Unseen Fist","item":"Choice Scarf","nature":"Jolly","evs":{"hp":4,"at":252,"sp":252},"moves":["Surging Strikes","Close Combat","Thunder Punch","U-turn"]},"Battle Stadium Singles 4 Attacks Dynamax User":{"level":50,"ability":"Unseen Fist","item":"Weakness Policy","nature":"Jolly","evs":{"hp":4,"at":252,"sp":252},"moves":["Close Combat","Surging Strikes","Thunder Punch","Aerial Ace"]},"CAP Choice Band":{"level":100,"ability":"Unseen Fist","item":"Choice Band","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["Close Combat","Surging Strikes","U-turn","Aqua Jet"]},"1v1 Iron Defense + Body Press":{"level":100,"ability":"Unseen Fist","item":"Sitrus Berry","nature":"Jolly","evs":{"hp":4,"df":252,"sp":252},"moves":["Iron Defense","Body Press","Surging Strikes","Taunt"]},"1v1 Life Orb":{"level":100,"ability":"Unseen Fist","item":"Life Orb","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Close Combat","Surging Strikes","Aqua Jet","Bulk Up"]},"1v1 Choice Band":{"level":100,"ability":"Unseen Fist","item":"Choice Band","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Close Combat","Surging Strikes","Ice Punch","Thunder Punch"]},"1v1 Assault Vest":{"level":100,"ability":"Unseen Fist","item":"Assault Vest","nature":"Adamant","evs":{"hp":24,"at":228,"sd":172,"sp":84},"moves":["Low Sweep","Surging Strikes","Superpower","Ice Punch"]},"1v1 Wacan Berry":{"level":100,"ability":"Unseen Fist","item":"Wacan Berry","nature":"Adamant","evs":{"hp":204,"at":164,"sd":140},"moves":["Low Sweep","Surging Strikes","Superpower","Ice Punch"]}},"Urshifu-Rapid-Strike-Gmax":{"OU Choice Band":{"level":100,"ability":"Unseen Fist","item":"Choice Band","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["Surging Strikes","Close Combat","Aqua Jet","U-turn"]},"Monotype Choice Band (Water)":{"level":100,"ability":"Unseen Fist","item":"Choice Band","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Close Combat","Surging Strikes","Aqua Jet","U-turn"]},"Doubles Offensive":{"level":100,"ability":"Unseen Fist","item":"Life Orb","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Surging Strikes","Close Combat","Aqua Jet","Protect"]},"Battle Stadium Singles Focus Sash":{"level":50,"ability":"Unseen Fist","item":"Focus Sash","nature":"Jolly","evs":{"hp":4,"at":252,"sp":252},"moves":["Surging Strikes","Close Combat","Counter","Aqua Jet"]},"Battle Stadium Singles Choice Attacker":{"level":50,"ability":"Unseen Fist","item":"Choice Scarf","nature":"Jolly","evs":{"hp":4,"at":252,"sp":252},"moves":["Surging Strikes","Close Combat","Thunder Punch","U-turn"]},"Battle Stadium Singles 4 Attacks Dynamax User":{"level":50,"ability":"Unseen Fist","item":"Weakness Policy","nature":"Jolly","evs":{"hp":4,"at":252,"sp":252},"moves":["Close Combat","Surging Strikes","Thunder Punch","Aerial Ace"]},"CAP Choice Band":{"level":100,"ability":"Unseen Fist","item":"Choice Band","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["Close Combat","Surging Strikes","U-turn","Aqua Jet"]},"1v1 Iron Defense + Body Press":{"level":100,"ability":"Unseen Fist","item":"Sitrus Berry","nature":"Jolly","evs":{"hp":4,"df":252,"sp":252},"moves":["Iron Defense","Body Press","Surging Strikes","Taunt"]},"1v1 Life Orb":{"level":100,"ability":"Unseen Fist","item":"Life Orb","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Close Combat","Surging Strikes","Aqua Jet","Bulk Up"]},"1v1 Choice Band":{"level":100,"ability":"Unseen Fist","item":"Choice Band","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Close Combat","Surging Strikes","Ice Punch","Thunder Punch"]},"1v1 Assault Vest":{"level":100,"ability":"Unseen Fist","item":"Assault Vest","nature":"Adamant","evs":{"hp":24,"at":228,"sd":172,"sp":84},"moves":["Low Sweep","Surging Strikes","Superpower","Ice Punch"]},"1v1 Wacan Berry":{"level":100,"ability":"Unseen Fist","item":"Wacan Berry","nature":"Adamant","evs":{"hp":204,"at":164,"sd":140},"moves":["Low Sweep","Surging Strikes","Superpower","Ice Punch"]}},"Uxie":{"PU Defensive Stealth Rock":{"level":100,"ability":"Levitate","item":"Colbur Berry","nature":"Bold","evs":{"hp":252,"df":252,"sd":4},"moves":["Stealth Rock","Psychic","Knock Off","U-turn"]},"ZU Nasty Plot":{"level":100,"ability":"Levitate","item":"Leftovers","nature":"Timid","evs":{"hp":252,"df":4,"sp":252},"moves":["Nasty Plot","Substitute","Psyshock","Draining Kiss"]},"ZU Defensive Pivot":{"level":100,"ability":"Levitate","item":"Colbur Berry","nature":"Relaxed","ivs":{"sp":0},"evs":{"hp":252,"df":252,"sd":4},"moves":["U-turn","Stealth Rock","Yawn","Knock Off"]},"ZU Calm Mind":{"level":100,"ability":"Levitate","item":"Electric Seed","nature":"Bold","evs":{"hp":252,"df":240,"sp":16},"moves":["Calm Mind","Stored Power","Draining Kiss","Rest"]},"ZU Offense Lead":{"level":100,"ability":"Levitate","item":"Mental Herb","nature":"Timid","evs":{"hp":252,"df":4,"sp":252},"moves":["Stealth Rock","Memento","Encore","Yawn"]},"ZU Sun Setter":{"level":100,"ability":"Levitate","item":"Heat Rock","nature":"Jolly","evs":{"hp":252,"df":4,"sp":252},"moves":["Sunny Day","Stealth Rock","U-turn","Yawn"]},"ZU Trick Room Lead":{"level":100,"ability":"Levitate","item":"Mental Herb","nature":"Relaxed","ivs":{"sp":0},"evs":{"hp":252,"df":252,"sd":4},"moves":["Trick Room","Stealth Rock","Memento","Knock Off"]}},"Vanilluxe":{"UU Choice Specs":{"level":100,"ability":"Snow Warning","item":"Choice Specs","nature":"Modest","evs":{"hp":4,"sa":252,"sp":252},"moves":["Blizzard","Freeze-Dry","Sleep Talk"]},"RU Wallbreaker":{"level":100,"ability":"Snow Warning","item":"Icy Rock","nature":"Timid","evs":{"hp":24,"sa":252,"sp":232},"moves":["Blizzard","Freeze-Dry","Ice Shard","Taunt"]},"NU Wallbreaker":{"level":100,"ability":"Snow Warning","item":"Choice Specs","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Blizzard","Freeze-Dry","Water Pulse","Aurora Veil"]}},"Vaporeon":{"UU Showdown Usage":{"level":100,"ability":"Water Absorb","item":"Leftovers","nature":"Calm","evs":{"hp":252,"sa":4,"sd":252},"moves":["Wish","Surf","Protect","Ice Beam"]}},"Varoom":{"LC Showdown Usage":{"level":5,"ability":"Overcoat","item":"Eviolite","nature":"Adamant","evs":{"at":196,"sd":236,"sp":60},"moves":["Gunk Shot","Parting Shot","Spin Out","Iron Head"]}},"Veluza":{"UU Showdown Usage":{"level":100,"ability":"Sharpness","item":"Sitrus Berry","nature":"Jolly","evs":{"hp":4,"at":252,"sp":252},"moves":["Psycho Cut","Aqua Cutter","Fillet Away","Night Slash"]}},"Venipede":{"LC Spikes Setter":{"level":5,"ability":"Speed Boost","item":"Eviolite","nature":"Careful","evs":{"hp":116,"df":44,"sd":204,"sp":140},"moves":["Spikes","Pin Missile","Protect","Endeavor"]}},"Venusaur":{"OU Chlorophyll Sweeper":{"level":100,"ability":"Chlorophyll","item":"Life Orb","nature":"Modest","evs":{"sa":252,"sd":4,"sp":252},"moves":["Growth","Giga Drain","Weather Ball","Earth Power"]},"UU Chlorophyll Sweeper":{"level":100,"ability":"Chlorophyll","item":"Life Orb","nature":"Modest","evs":{"sa":252,"sd":4,"sp":252},"moves":["Growth","Giga Drain","Weather Ball","Sludge Bomb"]},"Monotype Sun Sweeper (Grass)":{"level":100,"ability":"Chlorophyll","item":"Life Orb","nature":"Modest","evs":{"sa":252,"sd":4,"sp":252},"moves":["Weather Ball","Giga Drain","Sludge Bomb","Growth"]},"1v1 Substitute + Leech Seed":{"level":100,"ability":"Chlorophyll","item":"Wide Lens","nature":"Timid","evs":{"hp":4,"df":252,"sp":252},"moves":["Sleep Powder","Leech Seed","Substitute","Sludge Bomb"]},"1v1 Custap Berry":{"level":100,"ability":"Overgrow","item":"Custap Berry","nature":"Modest","evs":{"hp":68,"df":92,"sa":252,"sp":96},"moves":["Frenzy Plant","Sludge Bomb","Earthquake","Endure"]}},"Venusaur-Gmax":{"OU Chlorophyll Sweeper":{"level":100,"ability":"Chlorophyll","item":"Life Orb","nature":"Modest","evs":{"sa":252,"sd":4,"sp":252},"moves":["Growth","Giga Drain","Weather Ball","Earth Power"]},"UU Chlorophyll Sweeper":{"level":100,"ability":"Chlorophyll","item":"Life Orb","nature":"Modest","evs":{"sa":252,"sd":4,"sp":252},"moves":["Growth","Giga Drain","Weather Ball","Sludge Bomb"]},"Monotype Sun Sweeper (Grass)":{"level":100,"ability":"Chlorophyll","item":"Life Orb","nature":"Modest","evs":{"sa":252,"sd":4,"sp":252},"moves":["Weather Ball","Giga Drain","Sludge Bomb","Growth"]},"1v1 Substitute + Leech Seed":{"level":100,"ability":"Chlorophyll","item":"Wide Lens","nature":"Timid","evs":{"hp":4,"df":252,"sp":252},"moves":["Sleep Powder","Leech Seed","Substitute","Sludge Bomb"]},"1v1 Custap Berry":{"level":100,"ability":"Overgrow","item":"Custap Berry","nature":"Modest","evs":{"hp":68,"df":92,"sa":252,"sp":96},"moves":["Frenzy Plant","Sludge Bomb","Earthquake","Endure"]}},"Vespiquen":{"ZU Defensive Pivot":{"level":100,"ability":"Pressure","item":"Heavy-Duty Boots","nature":"Sassy","ivs":{"sp":0},"evs":{"hp":252,"df":4,"sd":252},"moves":["U-turn","Roost","Toxic Spikes","Air Slash"]}},"Victini":{"OU Mixed Attacker":{"level":100,"ability":"Victory Star","item":"Heavy-Duty Boots","nature":"Jolly","evs":{"at":252,"sa":4,"sp":252},"moves":["V-create","Bolt Strike","Glaciate","U-turn"]},"Monotype Choice Band (Fire)":{"level":100,"ability":"Victory Star","item":"Choice Band","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["V-create","Bolt Strike","U-turn","Trick"]},"Monotype Choice Scarf (Fire)":{"level":100,"ability":"Victory Star","item":"Choice Scarf","nature":"Jolly","evs":{"hp":252,"sd":4,"sp":252},"moves":["V-create","Bolt Strike","U-turn","Final Gambit"]},"Monotype Heavy-Duty Boots (Psychic)":{"level":100,"ability":"Victory Star","item":"Heavy-Duty Boots","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["V-create","Bolt Strike","U-turn","Toxic"]},"Monotype Choice Band (Psychic)":{"level":100,"ability":"Victory Star","item":"Choice Band","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["V-create","Bolt Strike","U-turn","Trick"]}},"Vikavolt":{"PU Offensive Pivot":{"level":100,"ability":"Levitate","item":"Heavy-Duty Boots","nature":"Modest","evs":{"hp":56,"sa":252,"sp":200},"moves":["Sticky Web","Volt Switch","Bug Buzz","Roost"]},"PU Agility":{"level":100,"ability":"Levitate","item":"Heavy-Duty Boots","nature":"Timid","evs":{"df":4,"sa":252,"sp":252},"moves":["Agility","Thunderbolt","Bug Buzz","Mud Shot"]}},"Vikavolt-Totem":{"PU Offensive Pivot":{"level":100,"ability":"Levitate","item":"Heavy-Duty Boots","nature":"Modest","evs":{"hp":56,"sa":252,"sp":200},"moves":["Sticky Web","Volt Switch","Bug Buzz","Roost"]},"PU Agility":{"level":100,"ability":"Levitate","item":"Heavy-Duty Boots","nature":"Timid","evs":{"df":4,"sa":252,"sp":252},"moves":["Agility","Thunderbolt","Bug Buzz","Mud Shot"]}},"Vileplume":{"RU Physically Defensive":{"level":100,"ability":"Effect Spore","item":"Black Sludge","nature":"Bold","evs":{"hp":252,"df":252,"sd":4},"moves":["Giga Drain","Sludge Bomb","Strength Sap","Corrosive Gas"]},"NU Defensive":{"level":100,"ability":"Effect Spore","item":"Black Sludge","nature":"Bold","evs":{"hp":252,"df":252,"sd":4},"moves":["Giga Drain","Sludge Bomb","Strength Sap","Corrosive Gas"]}},"Virizion":{"NU Swords Dance":{"level":100,"ability":"Justified","item":"Life Orb","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["Swords Dance","Close Combat","Leaf Blade","Stone Edge"]},"Monotype Choice Scarf (Grass)":{"level":100,"ability":"Justified","item":"Choice Scarf","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Close Combat","Stone Edge","Megahorn","Sunny Day"]}},"Volcanion":{"OU Wallbreaker":{"level":100,"ability":"Water Absorb","item":"Heavy-Duty Boots","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Steam Eruption","Flamethrower","Earth Power","Sludge Wave"]},"Monotype Utility (Fire)":{"level":100,"ability":"Water Absorb","item":"Heavy-Duty Boots","nature":"Modest","evs":{"hp":168,"sa":244,"sp":96},"moves":["Steam Eruption","Flamethrower","Sludge Bomb","Defog"]},"Monotype Defog (Water)":{"level":100,"ability":"Water Absorb","item":"Heavy-Duty Boots","nature":"Modest","evs":{"hp":80,"sa":252,"sp":176},"moves":["Steam Eruption","Flamethrower","Sludge Bomb","Defog"]},"Doubles Bulky Attacker":{"level":100,"ability":"Water Absorb","item":"Leftovers","nature":"Modest","evs":{"hp":252,"sa":252,"sd":4},"moves":["Steam Eruption","Heat Wave","Substitute","Protect"]},"1v1 Choice Specs":{"level":100,"ability":"Water Absorb","item":"Choice Specs","nature":"Modest","evs":{"hp":248,"df":108,"sa":120,"sd":16,"sp":16},"moves":["Overheat","Steam Eruption","Sludge Bomb","Earth Power"]},"1v1 Sitrus Berry":{"level":100,"ability":"Water Absorb","item":"Sitrus Berry","nature":"Modest","evs":{"hp":148,"df":184,"sa":80,"sp":96},"moves":["Overheat","Steam Eruption","Sludge Wave","Will-O-Wisp"]},"1v1 Choice Scarf":{"level":100,"ability":"Water Absorb","item":"Choice Scarf","nature":"Modest","evs":{"hp":72,"df":104,"sa":140,"sp":192},"moves":["Overheat","Steam Eruption","Sludge Wave","Earthquake"]},"1v1 Custap Berry":{"level":100,"ability":"Water Absorb","item":"Custap Berry","nature":"Modest","evs":{"hp":112,"df":28,"sa":252,"sp":116},"moves":["Steam Eruption","Overheat","Flame Charge","Endure"]}},"Volcarona":{"OU Quiver Dance":{"level":100,"ability":"Flame Body","item":"Heavy-Duty Boots","nature":"Timid","teraType":"Grass","evs":{"hp":248,"df":108,"sp":152},"moves":["Quiver Dance","Morning Sun","Fiery Dance","Giga Drain"]},"Doubles Quiver Dance":{"level":100,"ability":"Flame Body","item":"Heavy-Duty Boots","nature":"Timid","teraType":"Grass","evs":{"sa":252,"sd":4,"sp":252},"moves":["Quiver Dance","Heat Wave","Giga Drain","Protect"]}},"Voltorb":{"LC Showdown Usage":{"level":5,"ability":"Static","item":"Damp Rock","nature":"Timid","evs":{"sa":236,"sd":76,"sp":196},"moves":["Volt Switch","Tera Blast","Thunderbolt","Taunt"]}},"Voodoom":{"CAP Choice Specs":{"level":100,"ability":"Lightning Rod","item":"Choice Specs","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Dark Pulse","Focus Blast","Flash Cannon","Thunderbolt"]}},"Vulpix":{"LC Sun Setter":{"level":5,"ability":"Drought","item":"Heat Rock","nature":"Timid","evs":{"hp":52,"sa":196,"sp":236},"moves":["Weather Ball","Overheat","Energy Ball","Hypnosis"]},"LC Choice Scarf":{"level":5,"ability":"Drought","item":"Choice Scarf","nature":"Timid","evs":{"hp":52,"sa":196,"sp":236},"moves":["Weather Ball","Overheat","Energy Ball","Fire Blast"]}},"Wailord":{"ZU Trapper":{"level":100,"ability":"Pressure","item":"Leftovers","nature":"Calm","evs":{"df":252,"sd":252,"sp":4},"moves":["Block","Rest","Noble Roar","Toxic"]}},"Walrein":{"ZU Swords Dance":{"level":100,"ability":"Thick Fat","item":"Heavy-Duty Boots","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Swords Dance","Icicle Spear","Earthquake","Liquidation"]}},"Wattrel":{"LC Offensive Pivot":{"level":5,"ability":"Volt Absorb","item":"Eviolite","nature":"Timid","teraType":"Water","evs":{"hp":36,"sa":236,"sd":40,"sp":196},"moves":["Roost","Volt Switch","Hurricane","Thunderbolt"]}},"Weavile":{"UU Showdown Usage":{"level":100,"ability":"Pressure","item":"Heavy-Duty Boots","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Night Slash","Ice Shard","Ice Spinner","Swords Dance"]}},"Weezing":{"NU Defensive":{"level":100,"ability":"Levitate","item":"Rocky Helmet","nature":"Bold","evs":{"hp":252,"df":212,"sp":44},"moves":["Sludge Bomb","Will-O-Wisp","Pain Split","Taunt"]},"PU Defensive Utility":{"level":100,"ability":"Levitate","item":"Black Sludge","nature":"Bold","evs":{"hp":252,"df":220,"sp":36},"moves":["Sludge Bomb","Will-O-Wisp","Toxic Spikes","Pain Split"]}},"Weezing-Galar":{"RU Defensive":{"level":100,"ability":"Levitate","item":"Black Sludge","nature":"Bold","evs":{"hp":252,"df":252,"sd":4},"moves":["Sludge Bomb","Strange Steam","Defog","Will-O-Wisp"]},"Monotype Physically Defensive (Fairy)":{"level":100,"ability":"Neutralizing Gas","item":"Black Sludge","nature":"Bold","evs":{"hp":252,"df":252,"sp":4},"moves":["Sludge Bomb","Will-O-Wisp","Toxic Spikes","Pain Split"]},"Monotype Physically Defensive (Poison)":{"level":100,"ability":"Levitate","item":"Black Sludge","nature":"Bold","evs":{"hp":252,"df":252,"sd":4},"moves":["Strange Steam","Will-O-Wisp","Defog","Pain Split"]}},"Whimsicott":{"PU Offensive":{"level":100,"ability":"Infiltrator","item":"Choice Specs","nature":"Timid","evs":{"df":4,"sa":252,"sp":252},"moves":["Moonblast","Energy Ball","U-turn","Switcheroo"]},"PU Utility":{"level":100,"ability":"Prankster","item":"Heavy-Duty Boots","nature":"Timid","evs":{"hp":252,"sd":4,"sp":252},"moves":["Moonblast","Knock Off","U-turn","Defog"]},"PU SubSeed":{"level":100,"ability":"Prankster","item":"Leftovers","nature":"Timid","evs":{"hp":252,"sd":4,"sp":252},"moves":["Substitute","Leech Seed","Moonblast","Psychic"]},"Monotype Utility (Grass)":{"level":100,"ability":"Prankster","item":"Heavy-Duty Boots","nature":"Timid","evs":{"hp":48,"sa":252,"sp":208},"moves":["Stun Spore","Encore","Knock Off","Moonblast"]},"Monotype Sunny Day (Grass)":{"level":100,"ability":"Prankster","item":"Heat Rock","nature":"Timid","evs":{"hp":252,"sa":4,"sp":252},"moves":["Sunny Day","Moonblast","U-turn","Memento"]},"Doubles Prankster Support":{"level":100,"ability":"Prankster","item":"Focus Sash","nature":"Timid","evs":{"hp":4,"sa":252,"sp":252},"moves":["Tailwind","Taunt","Moonblast","Protect"]},"Battle Stadium Singles Prankster Support":{"level":50,"ability":"Prankster","item":"Focus Sash","nature":"Modest","evs":{"hp":4,"sa":252,"sp":252},"moves":["Tailwind","Memento","Moonblast","Taunt"]},"Battle Stadium Singles Cotton Guard Stall":{"level":50,"ability":"Prankster","item":"Leftovers","nature":"Bold","evs":{"hp":252,"df":252,"sd":4},"moves":["Leech Seed","Substitute","Cotton Guard","Moonblast"]},"1v1 Babiri Berry":{"level":100,"ability":"Prankster","item":"Babiri Berry","nature":"Impish","evs":{"hp":48,"df":248,"sd":212},"moves":["Leech Seed","Substitute","Protect","Taunt"]},"1v1 Occa Berry":{"level":100,"ability":"Prankster","item":"Occa Berry","nature":"Careful","evs":{"hp":240,"df":100,"sd":168},"moves":["Leech Seed","Substitute","Protect","Taunt"]},"1v1 Kebia Berry":{"level":100,"ability":"Prankster","item":"Kebia Berry","nature":"Bold","evs":{"hp":248,"df":56,"sd":204},"moves":["Leech Seed","Substitute","Protect","Taunt"]}},"Whiscash":{"ZU Mixed Attacker":{"level":100,"ability":"Oblivious","item":"Life Orb","nature":"Naive","evs":{"at":4,"sa":252,"sp":252},"moves":["Hydro Pump","Earth Power","Ice Beam","Stone Edge"]}},"Wigglytuff":{"ZU WishPort":{"level":100,"ability":"Frisk","item":"Leftovers","nature":"Careful","evs":{"hp":252,"df":4,"sd":252},"moves":["Wish","Teleport","Knock Off","Protect"]}},"Wiglett":{"LC Showdown Usage":{"level":5,"ability":"Gooey","item":"Focus Sash","nature":"Jolly","evs":{"at":236,"sp":236},"moves":["Liquidation","Aqua Jet","Stomping Tantrum","Sucker Punch"]}},"Wingull":{"LC Showdown Usage":{"level":5,"ability":"Rain Dish","item":"Life Orb","nature":"Timid","evs":{"hp":36,"sa":236,"sp":236},"moves":["Hurricane","U-turn","Surf","Ice Beam"]}},"Wishiwashi":{"PU Defensive":{"level":100,"ability":"Schooling","item":"Leftovers","nature":"Bold","evs":{"hp":252,"df":252,"sd":4},"moves":["Rest","Sleep Talk","Scald","U-turn"]},"PU ToxTect":{"level":100,"ability":"Schooling","item":"Leftovers","nature":"Calm","evs":{"hp":252,"df":4,"sd":252},"moves":["Scald","Toxic","U-turn","Protect"]}},"Wishiwashi-School":{"PU Defensive":{"level":100,"ability":"Schooling","item":"Leftovers","nature":"Bold","evs":{"hp":252,"df":252,"sd":4},"moves":["Rest","Sleep Talk","Scald","U-turn"]},"PU ToxTect":{"level":100,"ability":"Schooling","item":"Leftovers","nature":"Calm","evs":{"hp":252,"df":4,"sd":252},"moves":["Scald","Toxic","U-turn","Protect"]}},"Wo-Chien":{"OU Showdown Usage":{"level":100,"ability":"Tablets of Ruin","item":"Leftovers","nature":"Calm","evs":{"hp":252,"sa":4,"sd":252},"moves":["Leech Seed","Knock Off","Protect","Giga Drain"]},"UU Showdown Usage":{"level":100,"ability":"Tablets of Ruin","item":"Leftovers","nature":"Sassy","evs":{"hp":252,"at":4,"sd":252},"moves":["Leech Seed","Knock Off","Protect","Giga Drain"]},"AG Defensive":{"level":100,"ability":"Tablets of Ruin","item":"Leftovers","nature":"Careful","teraType":"Water","evs":{"hp":252,"df":4,"sd":252},"moves":["Knock Off","Leech Seed","Protect","Power Whip"]},"Doubles Bulky Wall":{"level":100,"ability":"Tablets of Ruin","item":"Leftovers","nature":"Calm","teraType":"Water","evs":{"hp":252,"df":180,"sd":76},"moves":["Ruination","Leech Seed","Pollen Puff","Protect"]}},"Wobbuffet":{"ZU Bulky Death Fodder":{"level":100,"ability":"Telepathy","item":"Leftovers","nature":"Calm","evs":{"hp":252,"df":4,"sd":252},"moves":["Encore","Counter","Mirror Coat","Destiny Bond"]}},"Wooper":{"LC Showdown Usage":{"level":5,"ability":"Water Absorb","item":"Eviolite","nature":"Impish","evs":{"hp":76,"df":236,"sd":156},"moves":["Recover","Earthquake","Spikes","Avalanche"]}},"Wooper-Paldea":{"LC Showdown Usage":{"level":5,"ability":"Water Absorb","item":"Eviolite","nature":"Impish","evs":{"df":196,"sd":236},"moves":["Earthquake","Recover","Stealth Rock","Toxic"]}},"Xatu":{"OU Magic Bounce":{"level":100,"ability":"Magic Bounce","item":"Heavy-Duty Boots","nature":"Bold","evs":{"hp":252,"df":252,"sd":4},"moves":["Psychic","Roost","Teleport","Heat Wave"]},"RU Magic Bounce":{"level":100,"ability":"Magic Bounce","item":"Rocky Helmet","nature":"Bold","evs":{"hp":252,"df":240,"sp":16},"moves":["Future Sight","Heat Wave","Roost","Teleport"]},"NU Defensive Pivot":{"level":100,"ability":"Magic Bounce","item":"Rocky Helmet","nature":"Bold","evs":{"hp":252,"df":252,"sp":4},"moves":["Psychic","Foul Play","Roost","Teleport"]},"Uber Magic Bounce":{"level":100,"ability":"Magic Bounce","item":"Rocky Helmet","nature":"Bold","evs":{"hp":252,"df":252,"sd":4},"moves":["Roost","Thunder Wave","Teleport","Night Shade"]},"Monotype Xatu (Flying)":{"level":100,"ability":"Magic Bounce","item":"Light Clay","nature":"Jolly","evs":{"hp":252,"sd":4,"sp":252},"moves":["Light Screen","Reflect","U-turn","Thunder Wave"]}},"Xerneas":{"Uber Geomancy":{"level":100,"ability":"Fairy Aura","item":"Power Herb","nature":"Modest","evs":{"df":168,"sa":252,"sp":88},"moves":["Geomancy","Moonblast","Thunder","Substitute"]},"Uber Defensive":{"level":100,"ability":"Fairy Aura","item":"Leftovers","nature":"Bold","evs":{"hp":252,"df":252,"sd":4},"moves":["Moonblast","Rest","Sleep Talk","Aromatherapy"]},"Uber Choice Scarf":{"level":100,"ability":"Fairy Aura","item":"Choice Scarf","nature":"Timid","evs":{"df":4,"sa":252,"sp":252},"moves":["Moonblast","Thunder","Thunder Wave","Aromatherapy"]},"AG Geomancy Sweeper":{"level":100,"ability":"Fairy Aura","item":"Power Herb","nature":"Modest","evs":{"hp":48,"df":164,"sa":252,"sp":44},"moves":["Geomancy","Moonblast","Thunder","Substitute"]},"AG Physically Defensive":{"level":100,"ability":"Fairy Aura","item":"Leftovers","nature":"Bold","evs":{"hp":248,"df":252,"sa":8},"moves":["Moonblast","Rest","Sleep Talk","Aromatherapy"]},"AG Choice Scarf":{"level":100,"ability":"Fairy Aura","item":"Choice Scarf","nature":"Timid","evs":{"df":64,"sa":252,"sp":192},"moves":["Moonblast","Thunder Wave","Defog","Aromatherapy"]},"BH Quiver Dance + Thunder Cage":{"level":100,"ability":"Poison Heal","item":"Toxic Orb","nature":"Modest","evs":{"hp":252,"df":252,"sa":252,"sd":252,"sp":252},"moves":["Quiver Dance","Thunder Cage","Moonblast","Leech Seed"]},"BH Pixilate Rapid Spin":{"level":100,"ability":"Pixilate","item":"Heavy-Duty Boots","nature":"Timid","evs":{"hp":252,"df":252,"sa":252,"sd":252,"sp":252},"moves":["Rapid Spin","Boomburst","Strength Sap","Volt Switch"]},"BH Pixilate Wallbreaker":{"level":100,"ability":"Pixilate","item":"Metronome","nature":"Naive","evs":{"hp":252,"at":252,"df":252,"sa":252,"sd":252,"sp":252},"moves":["Boomburst","V-create","Fishious Rend","Extreme Speed"]},"BH Poison Heal Rapid Spin":{"level":100,"ability":"Poison Heal","item":"Toxic Orb","nature":"Timid","ivs":{"at":0},"evs":{"hp":252,"df":252,"sa":252,"sd":252,"sp":252},"moves":["Rapid Spin","Moonblast","Quiver Dance","Strength Sap"]}},"Xurkitree":{"RU Offensive Pivot":{"level":100,"ability":"Beast Boost","item":"Heavy-Duty Boots","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Thunderbolt","Volt Switch","Grass Knot","Dazzling Gleam"]},"RU Choice Scarf":{"level":100,"ability":"Beast Boost","item":"Choice Scarf","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Thunderbolt","Volt Switch","Energy Ball","Dazzling Gleam"]}},"Yveltal":{"Uber Fast Utility":{"level":100,"ability":"Dark Aura","item":"Heavy-Duty Boots","nature":"Jolly","evs":{"hp":16,"sd":240,"sp":252},"moves":["Knock Off","Taunt","Defog","Roost"]},"Uber Specially Defensive":{"level":100,"ability":"Dark Aura","item":"Heavy-Duty Boots","nature":"Careful","evs":{"hp":248,"df":72,"sd":188},"moves":["Knock Off","U-turn","Defog","Roost"]},"Uber Hone Claws":{"level":100,"ability":"Dark Aura","item":"Life Orb","nature":"Adamant","evs":{"at":252,"sd":72,"sp":184},"moves":["Hone Claws","Knock Off","Sucker Punch","Acrobatics"]},"Uber Special Attacker":{"level":100,"ability":"Dark Aura","item":"Life Orb","nature":"Hasty","evs":{"at":4,"sa":252,"sp":252},"moves":["Dark Pulse","Oblivion Wing","Taunt","Sucker Punch"]},"Uber Choice Scarf":{"level":100,"ability":"Dark Aura","item":"Choice Scarf","nature":"Jolly","evs":{"hp":252,"sd":72,"sp":184},"moves":["Foul Play","Roost","U-turn","Defog"]},"Uber Physical Attacker":{"level":100,"ability":"Dark Aura","item":"Black Glasses","nature":"Jolly","evs":{"at":188,"sd":68,"sp":252},"moves":["Knock Off","Sucker Punch","Taunt","Roost"]},"Uber Choice Band":{"level":100,"ability":"Dark Aura","item":"Choice Band","nature":"Adamant","evs":{"at":252,"sd":72,"sp":184},"moves":["Knock Off","Dual Wingbeat","U-turn","Sucker Punch"]},"AG Specially Defensive":{"level":100,"ability":"Dark Aura","item":"Heavy-Duty Boots","nature":"Careful","evs":{"hp":248,"df":72,"sd":188},"moves":["Knock Off","U-turn","Defog","Roost"]},"AG Special Attacker":{"level":100,"ability":"Dark Aura","item":"Life Orb","nature":"Modest","evs":{"sa":252,"sd":4,"sp":252},"moves":["Dark Pulse","Oblivion Wing","Taunt","Roost"]},"BH Triage":{"level":100,"ability":"Triage","item":"Life Orb","nature":"Modest","ivs":{"at":0},"evs":{"hp":252,"df":252,"sa":252,"sd":252,"sp":252},"moves":["Nasty Plot","Oblivion Wing","Earth Power","Thunder Cage"]},"BH Aerilate Rapid Spin":{"level":100,"ability":"Aerilate","item":"Heavy-Duty Boots","nature":"Naive","evs":{"hp":252,"at":252,"df":252,"sa":252,"sd":252,"sp":252},"moves":["Boomburst","Rapid Spin","Strength Sap","Knock Off"]}},"Zacian":{"AG Choice Scarf":{"level":100,"ability":"Intrepid Sword","item":"Choice Scarf","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Play Rough","Close Combat","Crunch","Wild Charge"]},"AG Choice Band":{"level":100,"ability":"Intrepid Sword","item":"Choice Band","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Play Rough","Wild Charge","Close Combat","Psychic Fangs"]},"BH Tough Claws":{"level":100,"ability":"Tough Claws","item":"Fairy Memory","nature":"Jolly","evs":{"hp":252,"at":252,"df":252,"sd":252,"sp":252},"moves":["Multi-Attack","Fishious Rend","V-create","Swords Dance"]},"BH Poison Heal":{"level":100,"ability":"Poison Heal","item":"Toxic Orb","nature":"Jolly","evs":{"hp":252,"at":252,"df":252,"sd":252,"sp":252},"moves":["Spirit Break","Sacred Fire","Coil","Spikes"]}},"Zamazenta":{"Uber Choice Band":{"level":100,"ability":"Dauntless Shield","item":"Choice Band","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["Close Combat","Crunch","Psychic Fangs","Wild Charge"]},"BH Magic Guard":{"level":100,"ability":"Magic Guard","item":"Life Orb","nature":"Jolly","evs":{"hp":252,"at":252,"df":252,"sd":252,"sp":252},"moves":["High Jump Kick","Glacial Lance","Wicked Blow","Swords Dance"]},"BH Tough Claws":{"level":100,"ability":"Tough Claws","item":"Life Orb","nature":"Jolly","evs":{"hp":252,"at":252,"df":252,"sd":252,"sp":252},"moves":["Close Combat","Triple Axel","Strength Sap","Swords Dance"]},"BH Poison Heal":{"level":100,"ability":"Poison Heal","item":"Toxic Orb","nature":"Jolly","evs":{"hp":252,"at":252,"df":252,"sd":252,"sp":252},"moves":["Thunderous Kick","Knock Off","Parting Shot","Spikes"]}},"Zapdos":{"OU Utility":{"level":100,"ability":"Static","item":"Heavy-Duty Boots","nature":"Timid","evs":{"hp":248,"df":220,"sp":40},"moves":["Discharge","Hurricane","Roost","Defog"]},"OU Offensive Rain Sweeper":{"level":100,"ability":"Static","item":"Heavy-Duty Boots","nature":"Timid","evs":{"df":4,"sa":252,"sp":252},"moves":["Thunder","Hurricane","Weather Ball","Roost"]},"Monotype Choice Specs (Electric)":{"level":100,"ability":"Static","item":"Choice Specs","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Hurricane","Volt Switch","Heat Wave","Thunderbolt"]},"Monotype Defog (Flying)":{"level":100,"ability":"Pressure","item":"Heavy-Duty Boots","nature":"Timid","evs":{"hp":252,"sd":4,"sp":252},"moves":["Hurricane","Volt Switch","Defog","Roost"]},"Doubles Offensive Tailwind":{"level":100,"ability":"Static","item":"Sitrus Berry","nature":"Timid","evs":{"df":4,"sa":252,"sp":252},"moves":["Volt Switch","Hurricane","Tailwind","Protect"]},"Battle Stadium Singles Dynamax Attacker":{"level":50,"ability":"Static","item":"Life Orb","nature":"Timid","evs":{"df":4,"sa":252,"sp":252},"moves":["Hurricane","Thunderbolt","Heat Wave","Roost"]},"Battle Stadium Singles Defensive":{"level":50,"ability":"Pressure","item":"Rocky Helmet","nature":"Bold","evs":{"hp":252,"df":196,"sp":60},"moves":["Volt Switch","Hurricane","Heat Wave","Roost"]},"Battle Stadium Singles Defensive Kee Berry":{"level":50,"ability":"Pressure","item":"Kee Berry","nature":"Bold","evs":{"hp":252,"df":196,"sp":60},"moves":["Discharge","Hurricane","Roost","Eerie Impulse"]},"Battle Stadium Singles Choice Attacker":{"level":50,"ability":"Static","item":"Choice Scarf","nature":"Timid","evs":{"df":4,"sa":252,"sp":252},"moves":["Thunderbolt","Volt Switch","Hurricane","Heat Wave"]},"CAP Utility":{"level":100,"ability":"Static","item":"Heavy-Duty Boots","nature":"Bold","evs":{"hp":248,"df":240,"sp":20},"moves":["Discharge","Heat Wave","Toxic","Roost"]},"CAP CAPdos":{"level":100,"ability":"Static","item":"Heavy-Duty Boots","nature":"Modest","evs":{"hp":248,"sa":152,"sp":108},"moves":["Discharge","Hurricane","Heat Wave","Roost"]},"CAP Offensive":{"level":100,"ability":"Static","item":"Heavy-Duty Boots","nature":"Timid","evs":{"df":4,"sa":252,"sp":252},"moves":["Thunderbolt","Hurricane","Heat Wave","Roost"]},"1v1 Maranga Berry + Agility":{"level":100,"ability":"Pressure","item":"Maranga Berry","nature":"Calm","ivs":{"at":0},"evs":{"hp":248,"df":56,"sd":116,"sp":88},"moves":["Substitute","Roost","Thunderbolt","Agility"]},"1v1 Maranga Berry + Eerie Impulse":{"level":100,"ability":"Pressure","item":"Maranga Berry","nature":"Timid","evs":{"hp":248,"df":32,"sa":12,"sd":140,"sp":76},"moves":["Substitute","Roost","Thunderbolt","Eerie Impulse"]},"1v1 Offensive Life Orb":{"level":100,"ability":"Pressure","item":"Life Orb","nature":"Timid","evs":{"hp":16,"sa":216,"sd":24,"sp":252},"moves":["Hurricane","Heat Wave","Thunderbolt","Protect"]},"1v1 Eerie Impulse + Life Orb":{"level":100,"ability":"Pressure","item":"Life Orb","nature":"Timid","evs":{"sa":180,"sd":96,"sp":232},"moves":["Eerie Impulse","Roost","Charge Beam","Hurricane"]},"1v1 PP Stall":{"level":100,"ability":"Pressure","item":"Leftovers","nature":"Timid","evs":{"hp":200,"df":56,"sp":252},"moves":["Substitute","Protect","Toxic","Thunderbolt"]},"1v1 Choice Specs":{"level":100,"ability":"Static","item":"Choice Specs","nature":"Timid","evs":{"df":4,"sa":252,"sp":252},"moves":["Thunderbolt","Hurricane","Heat Wave","Charge Beam"]}},"Zapdos-Galar":{"OU Choice Band":{"level":100,"ability":"Defiant","item":"Choice Band","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Brave Bird","Close Combat","Thunderous Kick","U-turn"]},"Monotype Choice Band (Flying)":{"level":100,"ability":"Defiant","item":"Choice Band","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Close Combat","Brave Bird","Blaze Kick","U-turn"]},"Monotype Choice Band (Fighting)":{"level":100,"ability":"Defiant","item":"Choice Band","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Brave Bird","Close Combat","U-turn","Blaze Kick"]},"Doubles Choice Scarf":{"level":100,"ability":"Defiant","item":"Choice Scarf","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Brave Bird","Close Combat","Blaze Kick","U-turn"]},"Battle Stadium Singles Dynamax Sweeper":{"level":50,"ability":"Defiant","item":"Weakness Policy","nature":"Jolly","evs":{"hp":4,"at":252,"sp":252},"moves":["Close Combat","Brave Bird","Bulk Up","Blaze Kick"]},"Battle Stadium Singles Choice Attacker":{"level":50,"ability":"Defiant","item":"Choice Scarf","nature":"Jolly","evs":{"hp":4,"at":252,"sp":252},"moves":["Close Combat","Brave Bird","U-turn","Blaze Kick"]},"Battle Stadium Singles Focus Sash":{"level":50,"ability":"Defiant","item":"Focus Sash","nature":"Jolly","evs":{"hp":4,"at":252,"sp":252},"moves":["Close Combat","Dual Wingbeat","Counter","U-turn"]},"1v1 Custap Berry":{"level":100,"ability":"Defiant","item":"Sitrus Berry","nature":"Jolly","evs":{"hp":104,"at":172,"sp":232},"moves":["Thunderous Kick","Brave Bird","Bulk Up","Endure"]},"1v1 Weakness Policy":{"level":100,"ability":"Defiant","item":"Weakness Policy","nature":"Jolly","evs":{"hp":136,"at":184,"df":8,"sd":4,"sp":176},"moves":["Taunt","Light Screen","Thunderous Kick","Brave Bird"]},"1v1 Choice Band":{"level":100,"ability":"Defiant","item":"Choice Band","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Close Combat","Brave Bird","Thunderous Kick","Blaze Kick"]},"1v1 Assault Vest":{"level":100,"ability":"Defiant","item":"Assault Vest","nature":"Adamant","evs":{"hp":200,"at":240,"sd":68},"moves":["Thunderous Kick","Brave Bird","Low Sweep","Dual Wingbeat"]}},"Zarude":{"OU Bulk Up":{"level":100,"ability":"Leaf Guard","item":"Leftovers","nature":"Jolly","evs":{"hp":4,"at":252,"sp":252},"moves":["Bulk Up","Jungle Healing","Power Whip","Darkest Lariat"]},"UU Offensive Pivot":{"level":100,"ability":"Leaf Guard","item":"Heavy-Duty Boots","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Power Whip","Darkest Lariat","U-turn","Jungle Healing"]},"UU Choice Scarf":{"level":100,"ability":"Leaf Guard","item":"Choice Scarf","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Power Whip","Darkest Lariat","U-turn","Close Combat"]},"Uber Specially Defensive":{"level":100,"ability":"Leaf Guard","item":"Leftovers","nature":"Jolly","evs":{"hp":252,"sd":120,"sp":136},"moves":["Bulk Up","Darkest Lariat","Power Whip","Jungle Healing"]},"Uber Physically Defensive":{"level":100,"ability":"Leaf Guard","item":"Leftovers","nature":"Impish","evs":{"hp":240,"df":252,"sp":16},"moves":["Bulk Up","Darkest Lariat","Power Whip","Synthesis"]},"Monotype Bulk Up (Dark)":{"level":100,"ability":"Leaf Guard","item":"Chople Berry","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Bulk Up","Power Whip","Taunt","Jungle Healing"]},"Monotype Choice Scarf (Dark)":{"level":100,"ability":"Leaf Guard","item":"Choice Scarf","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Power Whip","Darkest Lariat","Close Combat","U-turn"]},"Monotype Choice Scarf (Grass)":{"level":100,"ability":"Leaf Guard","item":"Choice Scarf","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Darkest Lariat","Close Combat","Power Whip","U-turn"]},"Monotype Bulk Up (Grass)":{"level":100,"ability":"Leaf Guard","item":"Leftovers","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Bulk Up","Darkest Lariat","Drain Punch","Jungle Healing"]},"1v1 Weakness Policy + Encore":{"level":100,"ability":"Leaf Guard","item":"Weakness Policy","nature":"Jolly","evs":{"hp":200,"at":36,"sd":32,"sp":240},"moves":["Darkest Lariat","Power Whip","Bulk Up","Encore"]},"1v1 Weakness Policy + Snarl":{"level":100,"ability":"Leaf Guard","item":"Weakness Policy","nature":"Jolly","evs":{"hp":200,"at":20,"sd":48,"sp":240},"moves":["Darkest Lariat","Power Whip","Bulk Up","Snarl"]},"1v1 Assault Vest":{"level":100,"ability":"Leaf Guard","item":"Assault Vest","nature":"Adamant","evs":{"hp":32,"at":200,"sd":244,"sp":32},"moves":["Rock Tomb","Drain Punch","Darkest Lariat","Power Whip"]},"1v1 Choice Scarf":{"level":100,"ability":"Leaf Guard","item":"Choice Scarf","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Darkest Lariat","Power Whip","Close Combat","Rock Slide"]}},"Zarude-Dada":{"UU Offensive Pivot":{"level":100,"ability":"Leaf Guard","item":"Heavy-Duty Boots","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Power Whip","Darkest Lariat","U-turn","Jungle Healing"]},"UU Choice Scarf":{"level":100,"ability":"Leaf Guard","item":"Choice Scarf","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Power Whip","Darkest Lariat","U-turn","Close Combat"]}},"Zekrom":{"Uber Dragon Dance":{"level":100,"ability":"Teravolt","item":"Life Orb","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Dragon Dance","Bolt Strike","Dragon Claw","Roost"]},"Uber Mixed":{"level":100,"ability":"Teravolt","item":"Life Orb","nature":"Naive","evs":{"at":252,"sa":4,"sp":252},"moves":["Draco Meteor","Bolt Strike","Roost","Scale Shot"]},"AG Dragon Dance":{"level":100,"ability":"Teravolt","item":"Leftovers","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["Dragon Dance","Bolt Strike","Dragon Claw","Substitute"]},"BH Magic Guard":{"level":100,"ability":"Magic Guard","item":"Life Orb","nature":"Naive","evs":{"hp":252,"at":252,"df":252,"sa":252,"sd":252,"sp":252},"moves":["Volt Tackle","Dragon Energy","Strength Sap","Spikes"]},"BH Adaptability Wallbreaker":{"level":100,"ability":"Adaptability","item":"Life Orb","nature":"Naive","evs":{"hp":252,"at":252,"df":252,"sa":252,"sd":252,"sp":252},"moves":["Bolt Strike","Draco Meteor","Strength Sap","V-create"]},"BH Shift Gear":{"level":100,"ability":"Adaptability","item":"Dragon Memory","nature":"Adamant","evs":{"hp":252,"at":252,"df":252,"sd":252,"sp":252},"moves":["Shift Gear","Bolt Strike","Multi-Attack","Strength Sap"]}},"Zeraora":{"OU Bulk Up":{"level":100,"ability":"Volt Absorb","item":"Heavy-Duty Boots","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Bulk Up","Plasma Fists","Knock Off","Close Combat"]},"OU Offensive Pivot":{"level":100,"ability":"Volt Absorb","item":"Heavy-Duty Boots","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["Plasma Fists","Knock Off","Close Combat","Toxic"]},"Monotype Choice Band":{"level":100,"ability":"Volt Absorb","item":"Choice Band","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Plasma Fists","Close Combat","Outrage","Knock Off"]},"Monotype Bulk Up":{"level":100,"ability":"Volt Absorb","item":"Leftovers","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Bulk Up","Plasma Fists","Close Combat","Knock Off"]},"Doubles Fast Utility":{"level":100,"ability":"Volt Absorb","item":"Sitrus Berry","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["Fake Out","Plasma Fists","Knock Off","Taunt"]},"CAP Offensive Pivot":{"level":100,"ability":"Volt Absorb","item":"Heavy-Duty Boots","nature":"Jolly","evs":{"at":252,"sa":4,"sp":252},"moves":["Plasma Fists","Volt Switch","Knock Off","Close Combat"]},"CAP Bulk Up":{"level":100,"ability":"Volt Absorb","item":"Leftovers","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Bulk Up","Plasma Fists","Close Combat","Knock Off"]},"1v1 Choice Band":{"level":100,"ability":"Volt Absorb","item":"Choice Band","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Plasma Fists","Knock Off","Play Rough","Close Combat"]},"1v1 Assault Vest":{"level":100,"ability":"Volt Absorb","item":"Assault Vest","nature":"Adamant","evs":{"hp":136,"at":164,"df":92,"sp":116},"moves":["Plasma Fists","Knock Off","Outrage","Close Combat"]},"1v1 Bulky Life Orb":{"level":100,"ability":"Volt Absorb","item":"Life Orb","nature":"Jolly","evs":{"hp":44,"at":160,"df":44,"sd":8,"sp":252},"moves":["Plasma Fists","Close Combat","Taunt","Bulk Up"]},"1v1 Weakness Policy":{"level":100,"ability":"Volt Absorb","item":"Weakness Policy","nature":"Adamant","evs":{"hp":8,"at":244,"df":176,"sp":80},"moves":["Bulk Up","Knock Off","Plasma Fists","Outrage"]},"1v1 Special Life Orb":{"level":100,"ability":"Volt Absorb","item":"Life Orb","nature":"Mild","evs":{"at":4,"sa":252,"sp":252},"moves":["Fake Out","Thunderbolt","Charge","Focus Blast"]}},"Zoroark":{"UU Showdown Usage":{"level":100,"ability":"Illusion","item":"Focus Sash","nature":"Timid","evs":{"sa":252,"sd":4,"sp":252},"moves":["Dark Pulse","Flamethrower","Sludge Bomb","Nasty Plot"]}},"Zorua":{"LC Showdown Usage":{"level":5,"ability":"Illusion","item":"Choice Scarf","nature":"Jolly","evs":{"at":236,"df":36,"sp":236},"moves":["U-turn","Knock Off","Dark Pulse","Sucker Punch"]}},"Zygarde":{"Uber Dragon Dance":{"level":100,"ability":"Power Construct","item":"Leftovers","nature":"Impish","evs":{"hp":16,"at":224,"df":36,"sp":232},"moves":["Thousand Arrows","Dragon Dance","Substitute","Glare"]},"Uber Defensive Coil":{"level":100,"ability":"Power Construct","item":"Leftovers","nature":"Impish","evs":{"hp":208,"df":244,"sp":56},"moves":["Thousand Arrows","Coil","Rest","Glare"]},"Uber Demon Zygarde":{"level":100,"ability":"Power Construct","item":"Leftovers","nature":"Adamant","evs":{"hp":80,"at":220,"df":112,"sp":96},"moves":["Thousand Waves","Coil","Scale Shot","Rest"]},"AG Life Orb":{"level":100,"ability":"Power Construct","item":"Life Orb","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["Thousand Arrows","Dragon Dance","Outrage","Stone Edge"]},"AG Defensive":{"level":100,"ability":"Power Construct","item":"Leftovers","nature":"Impish","evs":{"hp":204,"df":248,"sp":56},"moves":["Thousand Arrows","Rest","Coil","Glare"]},"AG Dragon Dance":{"level":100,"ability":"Power Construct","item":"Leftovers","nature":"Impish","evs":{"hp":16,"at":224,"df":36,"sp":232},"moves":["Dragon Dance","Substitute","Thousand Arrows","Dragon Tail"]},"Doubles Choice Band":{"level":100,"ability":"Aura Break","item":"Choice Band","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Thousand Arrows","Thousand Waves","Superpower","Extreme Speed"]},"Doubles Dragon Dance":{"level":100,"ability":"Aura Break","item":"Leftovers","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Thousand Arrows","Dragon Dance","Substitute","Protect"]},"BH RegenVest Pivot":{"level":100,"ability":"Regenerator","item":"Assault Vest","nature":"Sassy","ivs":{"sp":0},"evs":{"hp":252,"at":252,"df":252,"sa":252,"sd":252},"moves":["U-turn","Nuzzle","Knock Off","Core Enforcer"]},"BH Magic Bounce":{"level":100,"ability":"Magic Bounce","item":"Leftovers","nature":"Sassy","ivs":{"sp":0},"evs":{"hp":252,"at":252,"df":252,"sa":252,"sd":252},"moves":["Thousand Waves","Volt Switch","Core Enforcer","Recover"]},"1v1 Weakness Policy":{"level":100,"ability":"Aura Break","item":"Weakness Policy","nature":"Adamant","evs":{"hp":104,"at":104,"sd":240,"sp":60},"moves":["Coil","Skitter Smack","Thousand Arrows","Extreme Speed"]},"1v1 Life Orb":{"level":100,"ability":"Aura Break","item":"Life Orb","nature":"Jolly","evs":{"hp":192,"at":180,"sp":136},"moves":["Coil","Thousand Arrows","Substitute","Scale Shot"]}},"Zygarde-10%":{"UU Choice Band":{"level":100,"ability":"Aura Break","item":"Choice Band","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Thousand Arrows","Extreme Speed","Outrage","Superpower"]},"Monotype Choice Band (Ground)":{"level":100,"ability":"Aura Break","item":"Choice Band","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Thousand Arrows","Outrage","Extreme Speed","Toxic"]}},"Zygarde-Complete":{"UU Choice Band - 10%":{"level":100,"ability":"Power Construct","item":"Choice Band","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Thousand Arrows","Extreme Speed","Outrage","Superpower"]},"Uber Dragon Dance - 50%":{"level":100,"ability":"Power Construct","item":"Leftovers","nature":"Impish","evs":{"hp":16,"at":224,"df":36,"sp":232},"moves":["Thousand Arrows","Dragon Dance","Substitute","Glare"]},"Uber Defensive Coil - 50%":{"level":100,"ability":"Power Construct","item":"Leftovers","nature":"Impish","evs":{"hp":208,"df":244,"sp":56},"moves":["Thousand Arrows","Coil","Rest","Glare"]},"Uber Demon Zygarde - 50%":{"level":100,"ability":"Power Construct","item":"Leftovers","nature":"Adamant","evs":{"hp":80,"at":220,"df":112,"sp":96},"moves":["Thousand Waves","Coil","Scale Shot","Rest"]},"AG Life Orb - 50%":{"level":100,"ability":"Power Construct","item":"Life Orb","nature":"Jolly","evs":{"at":252,"df":4,"sp":252},"moves":["Thousand Arrows","Dragon Dance","Outrage","Stone Edge"]},"AG Defensive - 50%":{"level":100,"ability":"Power Construct","item":"Leftovers","nature":"Impish","evs":{"hp":204,"df":248,"sp":56},"moves":["Thousand Arrows","Rest","Coil","Glare"]},"AG Dragon Dance - 50%":{"level":100,"ability":"Power Construct","item":"Leftovers","nature":"Impish","evs":{"hp":16,"at":224,"df":36,"sp":232},"moves":["Dragon Dance","Substitute","Thousand Arrows","Dragon Tail"]},"Monotype Choice Band (Ground) - 10%":{"level":100,"ability":"Power Construct","item":"Choice Band","nature":"Jolly","evs":{"at":252,"sd":4,"sp":252},"moves":["Thousand Arrows","Outrage","Extreme Speed","Toxic"]},"Doubles Choice Band - 50%":{"level":100,"ability":"Power Construct","item":"Choice Band","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Thousand Arrows","Thousand Waves","Superpower","Extreme Speed"]},"Doubles Dragon Dance - 50%":{"level":100,"ability":"Power Construct","item":"Leftovers","nature":"Adamant","evs":{"at":252,"sd":4,"sp":252},"moves":["Thousand Arrows","Dragon Dance","Substitute","Protect"]},"BH RegenVest Pivot - 50%":{"level":100,"ability":"Regenerator","item":"Assault Vest","nature":"Sassy","ivs":{"sp":0},"evs":{"hp":252,"at":252,"df":252,"sa":252,"sd":252},"moves":["U-turn","Nuzzle","Knock Off","Core Enforcer"]},"BH Magic Bounce - 50%":{"level":100,"ability":"Magic Bounce","item":"Leftovers","nature":"Sassy","ivs":{"sp":0},"evs":{"hp":252,"at":252,"df":252,"sa":252,"sd":252},"moves":["Thousand Waves","Volt Switch","Core Enforcer","Recover"]},"1v1 Weakness Policy - 50%":{"level":100,"ability":"Power Construct","item":"Weakness Policy","nature":"Adamant","evs":{"hp":104,"at":104,"sd":240,"sp":60},"moves":["Coil","Skitter Smack","Thousand Arrows","Extreme Speed"]},"1v1 Life Orb - 50%":{"level":100,"ability":"Power Construct","item":"Life Orb","nature":"Jolly","evs":{"hp":192,"at":180,"sp":136},"moves":["Coil","Thousand Arrows","Substitute","Scale Shot"]}}};
+var SETDEX_SV = {
+    "Poochyena": {
+        "Youngster Calvin": {
+            "level": 12,
+            "ivs": null,
+            "item": "Oran Berry",
+            "ability": "Run Away",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Bite",
+                "Howl"
+            ],
+            "index": 0
+        }
+    },
+    "Mudkip": {
+        "Youngster Calvin": {
+            "level": 12,
+            "ivs": null,
+            "item": "Oran Berry",
+            "ability": "Torrent",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Water Pulse",
+                "Mud Shot"
+            ],
+            "index": 1
+        }
+    },
+    "Taillow": {
+        "Youngster Allen": {
+            "level": 12,
+            "ivs": null,
+            "item": "Oran Berry",
+            "ability": "Guts",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Aerial Ace",
+                "Facade"
+            ],
+            "index": 2
+        }
+    },
+    "Treecko": {
+        "Youngster Allen": {
+            "level": 12,
+            "ivs": null,
+            "item": "Oran Berry",
+            "ability": "Overgrow",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Giga Drain",
+                "Growth"
+            ],
+            "index": 3
+        }
+    },
+    "Shroomish": {
+        "Lass Tiana": {
+            "level": 12,
+            "ivs": null,
+            "item": "Oran Berry",
+            "ability": "Effect Spore",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Spore",
+                "Bullet Seed"
+            ],
+            "index": 4
+        }
+    },
+    "Torchic": {
+        "Lass Tiana": {
+            "level": 12,
+            "ivs": null,
+            "item": "Oran Berry",
+            "ability": "Blaze",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Flame Charge",
+                "Aerial Ace"
+            ],
+            "index": 5
+        }
+    },
+    "Larvesta": {
+        "Bug Catcher Lyle": {
+            "level": 12,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Flame Body",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Flame Wheel",
+                "Bug Bite"
+            ],
+            "index": 6
+        }
+    },
+    "Venipede": {
+        "Bug Catcher Lyle": {
+            "level": 12,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Poison Point",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Pin Missile",
+                "Poison Tail"
+            ],
+            "index": 7
+        }
+    },
+    "Dewpider": {
+        "Bug Catchter James": {
+            "level": 12,
+            "ivs": null,
+            "item": "Berry Juice",
+            "ability": "Water Bubble",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Bubble Beam",
+                "Silver Wind"
+            ],
+            "index": 8
+        }
+    },
+    "Dustox": {
+        "Bug Catchter James": {
+            "level": 12,
+            "ivs": null,
+            "item": "Oran Berry",
+            "ability": "Shield Dust",
+            "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Bug Bite",
+                "Toxic",
+                "Moonlight"
+            ],
+            "index": 9
+        }
+    },
+    "Meowth": {
+        "Rich Boy Windston": {
+            "level": 12,
+            "ivs": null,
+            "item": "Amulet Coin",
+            "ability": "Technician",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Pay Day",
+                "Bite"
+            ],
+            "index": 10
+        }
+    },
+    "Skitty": {
+        "Rich Boy Windston": {
+            "level": 12,
+            "ivs": null,
+            "item": "Amulet Coin",
+            "ability": "Cute Charm",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Pay Day",
+                "Disarming Voice"
+            ],
+            "index": 11
+        }
+    },
+    "Litten": {
+        "Rich Boy Windston": {
+            "level": 12,
+            "ivs": null,
+            "item": "Amulet Coin",
+            "ability": "Intimidate",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Pay Day",
+                "Fire Fang"
+            ],
+            "index": 12
+        }
+    },
+    "Spritzee": {
+        "Lass Haley": {
+            "level": 12,
+            "ivs": null,
+            "item": "Oran Berry",
+            "ability": "Healer",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Draining Kiss",
+                "Sweet Kiss"
+            ],
+            "index": 13
+        }
+    },
+    "Salandit": {
+        "Lass Haley": {
+            "level": 12,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Corrosion",
+            "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Venoshock",
+                "Toxic"
+            ],
+            "index": 14
+        }
+    },
+    "Pichu": {
+        "Lass Haley": {
+            "level": 12,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Lightning Rod",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Spark",
+                "Nuzzle"
+            ],
+            "index": 15
+        }
+    },
+    "Spheal": {
+        "Lass Haley": {
+            "level": 12,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Thick Fat",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Water Gun",
+                "Powder Snow",
+                "Rest",
+                "Sleep Talk"
+            ],
+            "index": 16
+        }
+    },
+    "Mew": {
+        "Twins Gina & Mia": {
+            "level": 15,
+            "ivs": null,
+            "item": "Oran Berry",
+            "ability": "Synchronize",
+            "nature": "Hardy",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Transform"
+            ],
+            "index": 17
+        },
+        "Cooltrainer Charlie": {
+            "level": 89,
+            "ivs": null,
+            "item": "Life Orb",
+            "ability": "Synchronize",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Psychic",
+                "Ancient Power",
+                "Aura Sphere",
+                "Calm Mind"
+            ],
+            "index": 962
+        }
+    },
+    "Ditto": {
+        "Twins Gina & Mia": {
+            "level": 15,
+            "ivs": null,
+            "item": "Oran Berry",
+            "ability": "Imposter",
+            "nature": "Hardy",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Transform"
+            ],
+            "index": 18
+        }
+    },
+    "Hippopotas": {
+        "Youngster Josh": {
+            "level": 15,
+            "ivs": null,
+            "item": "Berry Juice",
+            "ability": "Sand Force",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Stomping Tantrum",
+                "Crunch",
+                "Take Down",
+                "Rock Tomb"
+            ],
+            "index": 19
+        }
+    },
+    "Slugma": {
+        "Youngster Josh": {
+            "level": 15,
+            "ivs": null,
+            "item": "Eviolite",
+            "ability": "Flame Body",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Incinerate",
+                "Ancient Power",
+                "Recover",
+                "Yawn"
+            ],
+            "index": 20
+        }
+    },
+    "Sandshrew-Alola": {
+        "Youngster Josh": {
+            "level": 15,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Snow Cloak",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Ice Punch",
+                "Metal Claw",
+                "Rollout"
+            ],
+            "index": 21
+        }
+    },
+    "Chewtle": {
+        "Youngster Tommy": {
+            "level": 14,
+            "ivs": null,
+            "item": "Eviolite",
+            "ability": "Strong Jaw",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Rock Tomb",
+                "Bite",
+                "Ice Fang",
+                "Dive"
+            ],
+            "index": 22
+        }
+    },
+    "Geodude-Alola": {
+        "Youngster Tommy": {
+            "level": 14,
+            "ivs": null,
+            "item": "Magnet",
+            "ability": "Sturdy",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Rock Blast",
+                "Spark",
+                "Brick Break",
+                "Stomping Tantrum"
+            ],
+            "index": 23
+        }
+    },
+    "Sandile": {
+        "Youngster Tommy": {
+            "level": 14,
+            "ivs": null,
+            "item": "Ground Gem",
+            "ability": "Moxie",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Bulldoze",
+                "Rock Tomb",
+                "Bite",
+                "Sand Tomb"
+            ],
+            "index": 24
+        }
+    },
+    "Anorith": {
+        "Youngster Tommy": {
+            "level": 14,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Battle Armor",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Bug Bite",
+                "Rock Tomb",
+                "Aerial Ace",
+                "Rock Smash"
+            ],
+            "index": 25
+        }
+    },
+    "Aron": {
+        "Hiker Marc": {
+            "level": 15,
+            "ivs": null,
+            "item": "Hard Stone",
+            "ability": "Sturdy",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Rock Tomb",
+                "Metal Claw",
+                "Body Press",
+                "Headbutt"
+            ],
+            "index": 26
+        },
+        "Hiker Clark": {
+            "level": 25,
+            "ivs": null,
+            "item": "Expert Belt",
+            "ability": "Sturdy",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Iron Head",
+                "Rock Slide",
+                "Rock Smash",
+                "Aerial Ace"
+            ],
+            "index": 47
+        }
+    },
+    "Larvitar": {
+        "Hiker Marc": {
+            "level": 15,
+            "ivs": null,
+            "item": "Muscle Band",
+            "ability": "Guts",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Rock Slide",
+                "Stomping Tantrum",
+                "Crunch",
+                "Dragon Dance"
+            ],
+            "index": 27
+        }
+    },
+    "Archen": {
+        "Hiker Marc": {
+            "level": 15,
+            "ivs": null,
+            "item": "Clear Amulet",
+            "ability": "Defeatist",
+            "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Wing Attack",
+                "Rock Throw",
+                "Scary Face",
+                "Roost"
+            ],
+            "index": 28
+        }
+    },
+    "Lileep": {
+        "Hiker Marc": {
+            "level": 15,
+            "ivs": null,
+            "item": "Leftovers",
+            "ability": "Storm Drain",
+            "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Mega Drain",
+                "Rock Slide",
+                "Brine",
+                "Recover"
+            ],
+            "index": 29
+        }
+    },
+    "Drilbur": {
+        "Leader Roxanne": {
+            "level": 15,
+            "ivs": null,
+            "item": "Steel Gem",
+            "ability": "Mold Breaker",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Drill Run",
+                "Iron Head",
+                "Aerial Ace",
+                "Rapid Spin"
+            ],
+            "index": 30
+        }
+    },
+    "Kabuto": {
+        "Leader Roxanne": {
+            "level": 15,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Battle Armor",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Razor Shell",
+                "Rock Tomb",
+                "Leech Life",
+                "Aqua Jet"
+            ],
+            "index": 31
+        }
+    },
+    "Dwebble": {
+        "Leader Roxanne": {
+            "level": 15,
+            "ivs": null,
+            "item": "Rock Gem",
+            "ability": "Sturdy",
+            "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Bug Bite",
+                "Smack Down",
+                "Aerial Ace",
+                "Rock Smash"
+            ],
+            "index": 32
+        }
+    },
+    "Tyrunt": {
+        "Leader Roxanne": {
+            "level": 15,
+            "ivs": null,
+            "item": "Hard Stone",
+            "ability": "Sturdy",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Ice Fang",
+                "Thunder Fang",
+                "Fire Fang",
+                "Smack Down"
+            ],
+            "index": 33
+        }
+    },
+    "Klawf": {
+        "Leader Roxanne": {
+            "level": 14,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Anger Shell",
+            "nature": "Hardy",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Rock Throw",
+                "Trailblaze",
+                "Bulldoze"
+            ],
+            "index": 34
+        },
+        "Swimmer Talia": {
+            "level": 75,
+            "ivs": null,
+            "item": "Passho Berry",
+            "ability": "Anger Shell",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Stone Edge",
+                "High Horsepower",
+                "Crabhammer",
+                "X-Scissor"
+            ],
+            "index": 773
+        }
+    },
+    "Tinkatuff": {
+        "Leader Roxanne": {
+            "level": 16,
+            "ivs": null,
+            "item": "Metal Coat",
+            "ability": "Pickpocket",
+            "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Play Rough",
+                "Metal Claw",
+                "Rock Tomb",
+                "Swords Dance"
+            ],
+            "index": 35
+        }
+    },
+    "Skiddo": {
+        "School Kid Jerry and Youngster Johnson": {
+            "level": 24,
+            "ivs": null,
+            "item": "Oran Berry",
+            "ability": "Sap Sipper",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Seed Bomb",
+                "Stomping Tantrum",
+                "Milk Drink"
+            ],
+            "index": 36
+        }
+    },
+    "Chatot": {
+        "School Kid Jerry and Youngster Johnson": {
+            "level": 24,
+            "ivs": null,
+            "item": "Silk Scarf",
+            "ability": "Keen Eye",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Echoed Voice",
+                "Air Cutter",
+                "Roost"
+            ],
+            "index": 37
+        },
+        "Guitarist Kirk": {
+            "level": 30,
+            "ivs": null,
+            "item": "Flying Gem",
+            "ability": "Keen Eye",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Hyper Voice",
+                "Chatter",
+                "Heat Wave",
+                "Sing"
+            ],
+            "index": 156
+        }
+    },
+    "Maushold": {
+        "School Kid Jerry and Youngster Johnson": {
+            "level": 24,
+            "ivs": null,
+            "item": "Muscle Band",
+            "ability": "Friend Guard",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Play Rough",
+                "Bullet Seed",
+                "Double Hit"
+            ],
+            "index": 38
+        },
+        "Sr/Jr Kate & Joy": {
+            "level": 70,
+            "ivs": {
+                "at": 0
+            },
+            "item": "Covert Cloak",
+            "ability": "Friend Guard",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Population Bomb",
+                "Super Fang",
+                "Beat Up",
+                "Tickle"
+            ],
+            "index": 607
+        }
+    },
+    "Croagunk": {
+        "School Kid Jerry and Youngster Johnson": {
+            "level": 24,
+            "ivs": null,
+            "item": "Black Belt",
+            "ability": "Poison Touch",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Vacuum Wave",
+                "Venoshock",
+                "Fake Out"
+            ],
+            "index": 39
+        }
+    },
+    "Sizzlipede": {
+        "Bug Catcher Jose and Battle Girl Karen": {
+            "level": 25,
+            "ivs": null,
+            "item": "Charcoal",
+            "ability": "Flame Body",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Fire Lash",
+                "X-Scissor",
+                "Fire Spin"
+            ],
+            "index": 40
+        }
+    },
+    "Trapinch": {
+        "Bug Catcher Jose and Battle Girl Karen": {
+            "level": 25,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Arena Trap",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Crunch",
+                "Bug Bite",
+                "Rock Tomb"
+            ],
+            "index": 41
+        }
+    },
+    "Buneary": {
+        "Bug Catcher Jose and Battle Girl Karen": {
+            "level": 25,
+            "ivs": null,
+            "item": "Black Belt",
+            "ability": "Run Away",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Dizzy Punch",
+                "Drain Punch",
+                "Fake Out"
+            ],
+            "index": 42
+        }
+    },
+    "Oddish": {
+        "Bug Catcher Jose and Battle Girl Karen": {
+            "level": 25,
+            "ivs": null,
+            "item": "Black Sludge",
+            "ability": "Chlorophyll",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Venoshock",
+                "Giga Drain",
+                "Toxic"
+            ],
+            "index": 43
+        }
+    },
+    "Rockruff": {
+        "Hiker Clark": {
+            "level": 25,
+            "ivs": null,
+            "item": "Eviolite",
+            "ability": "Vital Spirit",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Fire Fang",
+                "Ice Fang",
+                "Thunder Fang",
+                "Rock Tomb"
+            ],
+            "index": 44
+        }
+    },
+    "Geodude": {
+        "Hiker Clark": {
+            "level": 24,
+            "ivs": null,
+            "item": "Hard Stone",
+            "ability": "Sturdy",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Earthquake",
+                "Stone Edge",
+                "Seismic Toss"
+            ],
+            "index": 45
+        }
+    },
+    "Gible": {
+        "Hiker Clark": {
+            "level": 25,
+            "ivs": null,
+            "item": "Ground Gem",
+            "ability": "Sand Veil",
+            "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Bulldoze",
+                "Dragon Breath"
+            ],
+            "index": 46
+        }
+    },
+    "Klink": {
+        "Hiker Clark": {
+            "level": 25,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Clear Body",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Gear Grind",
+                "Wild Charge",
+                "Shift Gear"
+            ],
+            "index": 48
+        }
+    },
+    "Ponyta": {
+        "Triathlete Maria and Triathlete Melina": {
+            "level": 24,
+            "ivs": null,
+            "item": "Berry Juice",
+            "ability": "Fiery Charge",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Flame Wheel",
+                "Low Kick",
+                "Morning Sun"
+            ],
+            "index": 49
+        }
+    },
+    "Yanma": {
+        "Triathlete Maria and Triathlete Melina": {
+            "level": 24,
+            "ivs": null,
+            "item": "Berry Juice",
+            "ability": "Speed Boost",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Leech Life",
+                "Wing Attack",
+                "Detect"
+            ],
+            "index": 50
+        }
+    },
+    "Snivy": {
+        "Triathlete Maria and Triathlete Melina": {
+            "level": 25,
+            "ivs": null,
+            "item": "Berry Juice",
+            "ability": "Overgrow",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Seed Bomb",
+                "Aqua Tail",
+                "Synthesis"
+            ],
+            "index": 51
+        }
+    },
+    "Froakie": {
+        "Triathlete Maria and Triathlete Melina": {
+            "level": 25,
+            "ivs": null,
+            "item": "Berry Juice",
+            "ability": "Torrent",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Liquidation",
+                "Acrobatics",
+                "Quick Attack"
+            ],
+            "index": 52
+        }
+    },
+    "Chimchar": {
+        "Triathlete Maria and Triathlete Melina": {
+            "level": 25,
+            "ivs": null,
+            "item": "Berry Juice",
+            "ability": "Iron Fist",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Fire Punch",
+                "Drain Punch",
+                "Fake Out"
+            ],
+            "index": 53
+        }
+    },
+    "Riolu": {
+        "Pokemon Breeder Lydia": {
+            "level": 24,
+            "ivs": null,
+            "item": "Oran Berry",
+            "ability": "Inner Focus",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Close Combat",
+                "Blaze Kick"
+            ],
+            "index": 54
+        }
+    },
+    "Elekid": {
+        "Pokemon Breeder Lydia": {
+            "level": 24,
+            "ivs": null,
+            "item": "Oran Berry",
+            "ability": "Static",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Thunder Punch",
+                "Ice Punch"
+            ],
+            "index": 55
+        }
+    },
+    "Magby": {
+        "Pokemon Breeder Lydia": {
+            "level": 24,
+            "ivs": null,
+            "item": "Oran Berry",
+            "ability": "Flame Body",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Fire Punch",
+                "Brick Break"
+            ],
+            "index": 56
+        }
+    },
+    "Bonsly": {
+        "Pokemon Breeder Lydia": {
+            "level": 24,
+            "ivs": null,
+            "item": "Oran Berry",
+            "ability": "Sturdy",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Rock Slide",
+                "Earthquake"
+            ],
+            "index": 57
+        }
+    },
+    "Munchlax": {
+        "Pokemon Breeder Lydia": {
+            "level": 24,
+            "ivs": null,
+            "item": "Oran Berry",
+            "ability": "Gluttony",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Slam"
+            ],
+            "index": 58
+        }
+    },
+    "Voltorb-Hisui": {
+        "Bug Maniac Anthony": {
+            "level": 22,
+            "ivs": null,
+            "item": "Silk Scarf",
+            "ability": "Static",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Wild Charge",
+                "Seed Bomb",
+                "Light Screen",
+                "Explosion"
+            ],
+            "index": 59
+        }
+    },
+    "Porygon": {
+        "Bug Maniac Anthony": {
+            "level": 22,
+            "ivs": null,
+            "item": "Chople Berry",
+            "ability": "Trace",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Psybeam",
+                "Icy Wind",
+                "Charge Beam",
+                "Recover"
+            ],
+            "index": 60
+        }
+    },
+    "Wormadam-Sandy": {
+        "Bug Maniac Anthony": {
+            "level": 23,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Overcoat",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Bug Bite",
+                "Bulldoze",
+                "Rock Tomb",
+                "Attract"
+            ],
+            "index": 61
+        }
+    },
+    "Lokix": {
+        "Bug Maniac Anthony": {
+            "level": 23,
+            "ivs": null,
+            "item": "Berry Juice",
+            "ability": "Swarm",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Bug Bite",
+                "Assurance",
+                "Low Kick",
+                "Scary Face"
+            ],
+            "index": 62
+        },
+        "Swimmer Kelly": {
+            "level": 75,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Tinted Lens",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "First Impression",
+                "Knock Off",
+                "Leech Life",
+                "Reversal"
+            ],
+            "index": 776
+        }
+    },
+    "Abra": {
+        "Hex Maniac Betty": {
+            "level": 22,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Inner Focus",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Psyshock",
+                "Dazzling Gleam",
+                "Light Screen",
+                "Reflect"
+            ],
+            "index": 63
+        }
+    },
+    "Poltchageist": {
+        "Hex Maniac Betty": {
+            "level": 22,
+            "ivs": null,
+            "item": "Big Root",
+            "ability": "Heatproof",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Giga Drain",
+                "Hex",
+                "Scald",
+                "Pain Split"
+            ],
+            "index": 64
+        }
+    },
+    "Noctowl": {
+        "Hex Maniac Betty": {
+            "level": 23,
+            "ivs": null,
+            "item": "Wide Lens",
+            "ability": "Insomnia",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Moonblast",
+                "Air Slash",
+                "Dream Eater",
+                "Hypnosis"
+            ],
+            "index": 65
+        },
+        "Picknicker Nancy": {
+            "level": 38,
+            "ivs": null,
+            "item": "Wise Glasses",
+            "ability": "Tinted Lens",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Hyper Voice",
+                "Air Slash",
+                "Moonblast",
+                "Hypnosis"
+            ],
+            "index": 255
+        },
+        "Ranger Luella": {
+            "level": 53,
+            "ivs": null,
+            "item": "Expert Belt",
+            "ability": "Tinted Lens",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Hyper Voice",
+                "Air Slash",
+                "Moonblast",
+                "Tailwind"
+            ],
+            "index": 370
+        }
+    },
+    "Absol": {
+        "Hex Maniac Betty": {
+            "level": 23,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Super Luck",
+            "nature": "Hardy",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Knock Off",
+                "Retaliate",
+                "Quick Attack",
+                "Thunder Wave"
+            ],
+            "index": 66
+        },
+        "Sidney": {
+            "level": 53,
+            "ivs": null,
+            "item": "Black Glasses",
+            "ability": "Sharpness",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Night Slash",
+                "Psycho Cut",
+                "X-Scissor",
+                "Sucker Punch"
+            ],
+            "index": 381
+        },
+        "Bug Maniac Cale": {
+            "level": 68,
+            "ivs": null,
+            "item": "Quick Claw",
+            "ability": "Sharpness",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Night Slash",
+                "X-Scissor",
+                "Psycho Cut",
+                "Shadow Claw"
+            ],
+            "index": 593
+        }
+    },
+    "Venomoth": {
+        "Bug Catcher Oliver": {
+            "level": 22,
+            "ivs": null,
+            "item": "Black Sludge",
+            "ability": "Tinted Lens",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Venoshock",
+                "Silver Wind",
+                "Air Slash",
+                "Toxic Spikes"
+            ],
+            "index": 67
+        }
+    },
+    "Kricketune": {
+        "Bug Catcher Oliver": {
+            "level": 22,
+            "ivs": null,
+            "item": "Scope Lens",
+            "ability": "Technician",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Bug Bite",
+                "Aerial Ace",
+                "Trailblaze",
+                "Focus Energy"
+            ],
+            "index": 68
+        }
+    },
+    "Volbeat": {
+        "Bug Catcher Oliver": {
+            "level": 23,
+            "ivs": null,
+            "item": "Expert Belt",
+            "ability": "Prankster",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Thunder Punch",
+                "Ice Punch",
+                "Aerial Ace",
+                "Moonlight"
+            ],
+            "index": 69
+        }
+    },
+    "Illumise": {
+        "Bug Catcher Oliver": {
+            "level": 23,
+            "ivs": null,
+            "item": "Wise Glasses",
+            "ability": "Prankster",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Dazzling Gleam",
+                "Struggle Bug",
+                "Water Pulse",
+                "Moonlight"
+            ],
+            "index": 70
+        }
+    },
+    "Espeon": {
+        "Lady Cindy": {
+            "level": 23,
+            "ivs": null,
+            "item": "Fairy Feather",
+            "ability": "Magic Bounce",
+            "nature": "Quirky",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Psybeam",
+                "Draining Kiss",
+                "Swift",
+                "Morning Sun"
+            ],
+            "index": 71
+        },
+        "Cycling Triathlete Abigail": {
+            "level": 30,
+            "ivs": null,
+            "item": "Light Clay",
+            "ability": "Magic Bounce",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Psychic Noise",
+                "Draining Kiss",
+                "Light Screen",
+                "Reflect"
+            ],
+            "index": 142
+        },
+        "Brendan One": {
+            "level": 38,
+            "ivs": null,
+            "item": "Wide Lens",
+            "ability": "Synchronize",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Glitzy Glow",
+                "Shadow Ball",
+                "Signal Beam",
+                "Morning Sun"
+            ],
+            "index": 278
+        }
+    },
+    "Umbreon": {
+        "Lady Cindy": {
+            "level": 23,
+            "ivs": null,
+            "item": "Dark Gem",
+            "ability": "Inner Focus",
+            "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Snarl",
+                "Alluring Voice",
+                "Confuse Ray",
+                "Moonlight"
+            ],
+            "index": 72
+        }
+    },
+    "Ivysaur": {
+        "Youngster Billy": {
+            "level": 23,
+            "ivs": null,
+            "item": "Miracle Seed",
+            "ability": "Overgrow",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Grass Pledge",
+                "Venoshock",
+                "Synthesis",
+                "Toxic"
+            ],
+            "index": 73
+        }
+    },
+    "Charmeleon": {
+        "Youngster Billy": {
+            "level": 23,
+            "ivs": null,
+            "item": "Charcoal",
+            "ability": "Blaze",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Fire Pledge",
+                "Dragon Pulse",
+                "Ancient Power",
+                "Fire Spin"
+            ],
+            "index": 74
+        },
+        "Guitarist Joseph": {
+            "level": 30,
+            "ivs": null,
+            "item": "Muscle Band",
+            "ability": "Blaze",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Fire Punch",
+                "Thunder Punch",
+                "Brick Break",
+                "Swords Dance"
+            ],
+            "index": 128
+        }
+    },
+    "Wartortle": {
+        "Youngster Billy": {
+            "level": 23,
+            "ivs": null,
+            "item": "Mystic Water",
+            "ability": "Torrent",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Water Pledge",
+                "Ice Beam",
+                "Mud Shot",
+                "Aqua Jet"
+            ],
+            "index": 75
+        }
+    },
+    "Gallade": {
+        "Sailor Brenden": {
+            "level": 21,
+            "ivs": null,
+            "item": "White Herb",
+            "ability": "Justified",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Brick Break",
+                "Psycho Cut",
+                "Aqua Cutter",
+                "Aerial Ace"
+            ],
+            "index": 76
+        },
+        "Brendan One": {
+            "level": 38,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Sharpness",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Brick Break",
+                "Psycho Cut",
+                "Aerial Ace",
+                "Shadow Sneak"
+            ],
+            "index": 280
+        },
+        "Collector Hector and Hex Maniac Nadia": {
+            "level": 53,
+            "ivs": null,
+            "item": "Scope Lens",
+            "ability": "Sharpness",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Sacred Sword",
+                "Psycho Cut",
+                "Night Slash",
+                "Aerial Ace"
+            ],
+            "index": 430
+        },
+        "Aidan and Athena": {
+            "level": 77,
+            "ivs": null,
+            "item": "Expert Belt",
+            "ability": "Sharpness",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Sacred Sword",
+                "Psycho Cut",
+                "Night Slash",
+                "Aqua Cutter"
+            ],
+            "index": 727
+        }
+    },
+    "Poliwrath": {
+        "Sailor Brenden": {
+            "level": 23,
+            "ivs": null,
+            "item": "Black Belt",
+            "ability": "Water Absorb",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Surf",
+                "Ice Beam",
+                "Vacuum Wave",
+                "Hypnosis"
+            ],
+            "index": 77
+        },
+        "Sailor Huey": {
+            "level": 30,
+            "ivs": null,
+            "item": "Expert Belt",
+            "ability": "Water Absorb",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Wake-Up Slap",
+                "Waterfall",
+                "Ice Punch",
+                "Hypnosis"
+            ],
+            "index": 102
+        },
+        "Swimmer Kara": {
+            "level": 75,
+            "ivs": null,
+            "item": "Expert Belt",
+            "ability": "Water Absorb",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Close Combat",
+                "Liquidation",
+                "Drain Punch",
+                "Poison Jab"
+            ],
+            "index": 755
+        }
+    },
+    "Grapploct": {
+        "Sailor Brenden": {
+            "level": 24,
+            "ivs": null,
+            "item": "Leftovers",
+            "ability": "Limber",
+            "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Revenge",
+                "Waterfall",
+                "Ice Punch",
+                "Payback"
+            ],
+            "index": 78
+        },
+        "Battle Girl Callie": {
+            "level": 72,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Limber",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Close Combat",
+                "Liquidation",
+                "Ice Punch",
+                "Work Up"
+            ],
+            "index": 549
+        },
+        "Swimmer Rodney": {
+            "level": 75,
+            "ivs": null,
+            "item": "Assault Vest",
+            "ability": "Technician",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Circle Throw",
+                "Power-Up Punch",
+                "Liquidation",
+                "Ice Punch"
+            ],
+            "index": 753
+        }
+    },
+    "Timburr": {
+        "Battle Girl Lilith": {
+            "level": 23,
+            "ivs": null,
+            "item": "Punching Glove",
+            "ability": "Iron Fist",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Drain Punch",
+                "Ice Punch",
+                "Fire Punch",
+                "Mach Punch"
+            ],
+            "index": 79
+        }
+    },
+    "Makuhita": {
+        "Battle Girl Lilith": {
+            "level": 23,
+            "ivs": null,
+            "item": "Eviolite",
+            "ability": "Guts",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Burned",
+            "moves": [
+                "Force Palm",
+                "Rock Tomb",
+                "Payback",
+                "Fake Out"
+            ],
+            "index": 80
+        }
+    },
+    "Meditite": {
+        "Battle Girl Lilith": {
+            "level": 23,
+            "ivs": null,
+            "item": "Black Belt",
+            "ability": "Pure Power",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Force Palm",
+                "Psycho Cut",
+                "Poison Jab",
+                "Bullet Punch"
+            ],
+            "index": 81
+        }
+    },
+    "Kubfu": {
+        "Battle Girl Lilith": {
+            "level": 24,
+            "ivs": null,
+            "item": "Expert Belt",
+            "ability": "Inner Focus",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Brick Break",
+                "Iron Head",
+                "Aerial Ace",
+                "Swords Dance"
+            ],
+            "index": 82
+        }
+    },
+    "Charjabug": {
+        "Black Belt Takao": {
+            "level": 23,
+            "ivs": null,
+            "item": "Eviolite",
+            "ability": "Battery",
+            "nature": "Careful",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Electroweb",
+                "Sticky Web",
+                "Baton Pass"
+            ],
+            "index": 83
+        }
+    },
+    "Crabrawler": {
+        "Black Belt Takao": {
+            "level": 23,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Iron Fist",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Drain Punch",
+                "Ice Punch",
+                "Thunder Punch",
+                "Crabhammer"
+            ],
+            "index": 84
+        }
+    },
+    "Mankey": {
+        "Black Belt Takao": {
+            "level": 23,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Defiant",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Cross Chop",
+                "Stone Edge",
+                "Reversal",
+                "Scary Face"
+            ],
+            "index": 85
+        }
+    },
+    "Lilligant-Hisui": {
+        "Battle Girl Jocelyn": {
+            "level": 23,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Striker",
+            "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Seed Bomb",
+                "Low Sweep",
+                "Ice Spinner",
+                "Vacuum Wave"
+            ],
+            "index": 86
+        },
+        "Camper Shane": {
+            "level": 38,
+            "ivs": null,
+            "item": "White Herb",
+            "ability": "Leaf Guard",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Close Combat",
+                "Leaf Blade",
+                "Poison Jab",
+                "Ice Spinner"
+            ],
+            "index": 263
+        },
+        "Cooltrainer MBF": {
+            "level": 89,
+            "ivs": null,
+            "item": "Life Orb",
+            "ability": "Chlorophyll",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Leaf Blade",
+                "Close Combat",
+                "Triple Axel",
+                "Victory Dance"
+            ],
+            "index": 978
+        }
+    },
+    "Hakamo-o": {
+        "Battle Girl Jocelyn": {
+            "level": 23,
+            "ivs": null,
+            "item": "Roseli Berry",
+            "ability": "Bulletproof",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Dragon Claw",
+                "Brick Break",
+                "Poison Jab",
+                "Scary Face"
+            ],
+            "index": 87
+        }
+    },
+    "Toxicroak": {
+        "Battle Girl Jocelyn": {
+            "level": 25,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Poison Touch",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Venoshock",
+                "Vacuum Wave",
+                "Mud Shot",
+                "Toxic"
+            ],
+            "index": 88
+        },
+        "Battle Girl Callie": {
+            "level": 70,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Dry Skin",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Gunk Shot",
+                "Drain Punch",
+                "Throat Chop",
+                "Bullet Punch"
+            ],
+            "index": 548
+        },
+        "Pokemon Ranger Mara": {
+            "level": 75,
+            "ivs": null,
+            "item": "Payapa Berry",
+            "ability": "Dry Skin",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Gunk Shot",
+                "Drain Punch",
+                "Ice Punch",
+                "Bullet Punch"
+            ],
+            "index": 831
+        }
+    },
+    "Falinks": {
+        "Black Belt Cristian": {
+            "level": 23,
+            "ivs": null,
+            "item": "Expert Belt",
+            "ability": "Defiant",
+            "nature": "Hardy",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "First Impression",
+                "Brick Break",
+                "Lunge",
+                "Poison Jab"
+            ],
+            "index": 89
+        },
+        "Picnicker Irene": {
+            "level": 38,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Defiant",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Close Combat",
+                "First Impression",
+                "Zen Headbutt",
+                "Smart Strike"
+            ],
+            "index": 200
+        }
+    },
+    "Flareon": {
+        "Black Belt Cristian": {
+            "level": 23,
+            "ivs": null,
+            "item": "Black Belt",
+            "ability": "Guts",
+            "nature": "Hardy",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Fire Fang",
+                "Double Kick",
+                "Bite",
+                "Quick Attack"
+            ],
+            "index": 90
+        },
+        "Youngster Jaylen and Youngster Dillon": {
+            "level": 30,
+            "ivs": null,
+            "item": "Choice Scarf",
+            "ability": "Flash Fire",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Burning Jealousy",
+                "Scorching Sands"
+            ],
+            "index": 131
+        },
+        "Picknicker Charlotte": {
+            "level": 38,
+            "ivs": null,
+            "item": "White Herb",
+            "ability": "Flash Fire",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Flare Blitz",
+                "Double-Edge",
+                "Superpower",
+                "Trailblaze"
+            ],
+            "index": 257
+        },
+        "Swimmer Richard": {
+            "level": 75,
+            "ivs": null,
+            "item": "Charcoal",
+            "ability": "Guts",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Poisoned",
+            "moves": [
+                "Sizzly Slide",
+                "Facade",
+                "Trailblaze",
+                "Iron Tail"
+            ],
+            "index": 762
+        },
+        "Cooltrainer Gerald": {
+            "level": 75,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Flash Fire",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Flare Blitz",
+                "Double-Edge",
+                "Flame Charge",
+                "Detect"
+            ],
+            "index": 882
+        }
+    },
+    "Primeape": {
+        "Black Belt Cristian": {
+            "level": 23,
+            "ivs": null,
+            "item": "Scope Lens",
+            "ability": "Vital Spirit",
+            "nature": "Hardy",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Brick Break",
+                "Rage Fist",
+                "Rock Tomb",
+                "Focus Energy"
+            ],
+            "index": 91
+        },
+        "Collector Damon": {
+            "level": 53,
+            "ivs": null,
+            "item": "Eviolite",
+            "ability": "Vital Spirit",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Cross Chop",
+                "Rage Fist",
+                "Lash Out",
+                "Counter"
+            ],
+            "index": 357
+        },
+        "Swimmer Declan": {
+            "level": 68,
+            "ivs": null,
+            "item": "Eviolite",
+            "ability": "Defiant",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Cross Chop",
+                "Stone Edge",
+                "Earthquake",
+                "Rage Fist"
+            ],
+            "index": 648
+        }
+    },
+    "Quilladin": {
+        "Battle Girl Laura": {
+            "level": 23,
+            "ivs": null,
+            "item": "Eviolite",
+            "ability": "Overgrow",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Seed Bomb",
+                "Brick Break",
+                "Rock Slide",
+                "Synthesis"
+            ],
+            "index": 92
+        }
+    },
+    "Quaxwell": {
+        "Battle Girl Laura": {
+            "level": 23,
+            "ivs": null,
+            "item": "Flying Gem",
+            "ability": "Moxie",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Aqua Cutter",
+                "Low Sweep",
+                "Acrobatics",
+                "Flip Turn"
+            ],
+            "index": 93
+        }
+    },
+    "Combusken": {
+        "Battle Girl Laura": {
+            "level": 23,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Speed Boost",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Drain Punch",
+                "Fire Punch",
+                "Ice Punch",
+                "Quick Attack"
+            ],
+            "index": 94
+        },
+        "Battle Girl Vivian": {
+            "level": 30,
+            "ivs": null,
+            "item": "Black Belt",
+            "ability": "Speed Boost",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Fire Punch",
+                "Drain Punch",
+                "Thunder Punch",
+                "Bulk Up"
+            ],
+            "index": 160
+        }
+    },
+    "Passimian": {
+        "Battle Girl Laura": {
+            "level": 23,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Defiant",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Brick Break",
+                "Take Down",
+                "U-turn",
+                "Acrobatics"
+            ],
+            "index": 95
+        },
+        "Picknicker Charlotte": {
+            "level": 38,
+            "ivs": null,
+            "item": "Liechi Berry",
+            "ability": "Defiant",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Close Combat",
+                "Earthquake",
+                "Knock Off",
+                "Acrobatics"
+            ],
+            "index": 260
+        }
+    },
+    "Lucario": {
+        "Leader Brawly": {
+            "level": 23,
+            "ivs": null,
+            "item": "Muscle Band",
+            "ability": "Inner Focus",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Force Palm",
+                "Metal Claw",
+                "Aerial Ace",
+                "Vacuum Wave"
+            ],
+            "index": 96
+        },
+        "Hiker Marcos and Picnicker Daisy": {
+            "level": 53,
+            "ivs": null,
+            "item": "Metal Coat",
+            "ability": "Inner Focus",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Flash Cannon",
+                "Aura Sphere",
+                "Dragon Pulse",
+                "Extreme Speed"
+            ],
+            "index": 414
+        },
+        "Pokemon Breeder Pat": {
+            "level": 68,
+            "ivs": null,
+            "item": "Sitrus Berry",
+            "ability": "Inner Focus",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Close Combat",
+                "Meteor Mash",
+                "Blaze Kick",
+                "Extreme Speed"
+            ],
+            "index": 596
+        },
+        "Cooltrainer Tyler": {
+            "level": 75,
+            "ivs": null,
+            "item": "Wise Glasses",
+            "ability": "Justified",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Flash Cannon",
+                "Aura Sphere",
+                "Psychic",
+                "Vacuum Wave"
+            ],
+            "index": 844
+        }
+    },
+    "Hawlucha": {
+        "Leader Brawly": {
+            "level": 23,
+            "ivs": null,
+            "item": "Rocky Helmet",
+            "ability": "Mold Breaker",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Low Sweep",
+                "Wing Attack",
+                "U-turn"
+            ],
+            "index": 97
+        },
+        "Bird Keeper Hugh": {
+            "level": 62,
+            "ivs": null,
+            "item": "Grassy Seed",
+            "ability": "Unburden",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Close Combat",
+                "Acrobatics",
+                "Stone Edge",
+                "Roost"
+            ],
+            "index": 477
+        },
+        "Presley and Auron": {
+            "level": 68,
+            "ivs": null,
+            "item": "Grassy Seed",
+            "ability": "Unburden",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Close Combat",
+                "Acrobatics",
+                "Encore",
+                "Tailwind"
+            ],
+            "index": 676
+        },
+        "Dragon Tamer Jace": {
+            "level": 75,
+            "ivs": null,
+            "item": "Power Herb",
+            "ability": "Limber",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Sky Attack",
+                "Acrobatics",
+                "Drain Punch",
+                "Fire Punch"
+            ],
+            "index": 894
+        },
+        "Cooltrainer Dianne": {
+            "level": 90,
+            "ivs": null,
+            "item": "Psychic Seed",
+            "ability": "Unburden",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Close Combat",
+                "Acrobatics",
+                "Swords Dance",
+                "Roost"
+            ],
+            "index": 972
+        }
+    },
+    "Annihilape": {
+        "Leader Brawly": {
+            "level": 23,
+            "ivs": null,
+            "item": "Fighting Gem",
+            "ability": "Defiant",
+            "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Rage Fist",
+                "Rock Smash"
+            ],
+            "index": 98
+        },
+        "Ace Trainer Duke": {
+            "level": 53,
+            "ivs": null,
+            "item": "Leftovers",
+            "ability": "Defiant",
+            "nature": "Impish",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Rage Fist",
+                "Stealth Rock",
+                "Drain Punch",
+                "Seed Bomb"
+            ],
+            "index": 332
+        },
+        "Sr/Jr Kate & Joy": {
+            "level": 70,
+            "ivs": null,
+            "item": "Misty Seed",
+            "ability": "Defiant",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Cross Chop",
+                "Rage Fist",
+                "Stone Edge",
+                "Acrobatics"
+            ],
+            "index": 606
+        },
+        "Challenger Phoebe": {
+            "level": 75,
+            "ivs": null,
+            "item": "Eject Button",
+            "ability": "Defiant",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Close Combat",
+                "Drain Punch",
+                "Rage Fist",
+                "Poison Jab"
+            ],
+            "index": 860
+        },
+        "Cooltrainer Mitchell": {
+            "level": 90,
+            "ivs": null,
+            "item": "Leftovers",
+            "ability": "Defiant",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Bulk Up",
+                "Drain Punch",
+                "Rage Fist",
+                "Lash Out"
+            ],
+            "index": 1001
+        },
+        "Drewd": {
+            "level": 90,
+            "ivs": null,
+            "item": "Coba Berry",
+            "ability": "Defiant",
+            "nature": "Careful",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Rage Fist",
+                "Drain Punch",
+                "Ice Punch",
+                "Gunk Shot"
+            ],
+            "index": 1012
+        }
+    },
+    "Tauros-Paldea-Aqua": {
+        "Leader Brawly": {
+            "level": 24,
+            "ivs": null,
+            "item": "Mystic Water",
+            "ability": "Intimidate",
+            "nature": "Hardy",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Aqua Jet",
+                "Double Kick",
+                "Bulldoze",
+                "Rock Tomb"
+            ],
+            "index": 99
+        },
+        "Camper Lawrence": {
+            "level": 38,
+            "ivs": null,
+            "item": "Liechi Berry",
+            "ability": "Intimidate",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Close Combat",
+                "Raging Bull",
+                "Earthquake",
+                "Aqua Jet"
+            ],
+            "index": 212
+        },
+        "Cooltrainer Teddy": {
+            "level": 75,
+            "ivs": null,
+            "item": "White Herb",
+            "ability": "Intimidate",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Close Combat",
+                "Raging Bull",
+                "High Horsepower",
+                "Bulk Up"
+            ],
+            "index": 854
+        }
+    },
+    "Tauros-Paldea-Blaze": {
+        "Leader Brawly": {
+            "level": 24,
+            "ivs": null,
+            "item": "Black Belt",
+            "ability": "Intimidate",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Temper Flare",
+                "Double Kick",
+                "Lash Out",
+                "Reversal"
+            ],
+            "index": 100
+        },
+        "Lorenzo and Jenna": {
+            "level": 68,
+            "ivs": null,
+            "item": "White Herb",
+            "ability": "Intimidate",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Close Combat",
+                "Raging Bull",
+                "High Horsepower",
+                "Flame Charge"
+            ],
+            "index": 565
+        }
+    },
+    "Hariyama": {
+        "Leader Brawly": {
+            "level": 25,
+            "ivs": null,
+            "item": "Loaded Dice",
+            "ability": "Guts",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Arm Thrust",
+                "Ice Punch",
+                "Payback",
+                "Bullet Punch"
+            ],
+            "index": 101
+        },
+        "Picnicker Angelina": {
+            "level": 38,
+            "ivs": null,
+            "item": "Flame Orb",
+            "ability": "Guts",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Brick Break",
+                "Shadow Punch",
+                "Bullet Punch",
+                "Fake Out"
+            ],
+            "index": 269
+        },
+        "Hex Maniac Tammy": {
+            "level": 68,
+            "ivs": {
+                "sp": 0
+            },
+            "item": "Focus Sash",
+            "ability": "Thick Fat",
+            "nature": "Brave",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Close Combat",
+                "Headlong Rush",
+                "Heavy Slam",
+                "Fake Out"
+            ],
+            "index": 575
+        },
+        "Psychic Virgil and Gentleman Nate": {
+            "level": 68,
+            "ivs": {
+                "sp": 0
+            },
+            "item": "White Herb",
+            "ability": "Thick Fat",
+            "nature": "Brave",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Close Combat",
+                "Headlong Rush",
+                "Ice Punch",
+                "Fake Out"
+            ],
+            "index": 699
+        }
+    },
+    "Fraxure": {
+        "Sailor Huey": {
+            "level": 30,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Mold Breaker",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Dragon Claw",
+                "Poison Jab",
+                "Reversal",
+                "Dragon Dance"
+            ],
+            "index": 103
+        }
+    },
+    "Oinkologne": {
+        "Sailor Huey": {
+            "level": 30,
+            "ivs": null,
+            "item": "Chople Berry",
+            "ability": "Thick Fat",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Take Down",
+                "High Horsepower",
+                "Play Rough",
+                "Work Up"
+            ],
+            "index": 104
+        }
+    },
+    "Kingler": {
+        "Sailor Edmond": {
+            "level": 30,
+            "ivs": null,
+            "item": "Expert Belt",
+            "ability": "Shell Armor",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Razor Shell",
+                "X-Scissor",
+                "Night Slash",
+                "Aqua Jet"
+            ],
+            "index": 105
+        }
+    },
+    "Machoke": {
+        "Sailor Edmond": {
+            "level": 30,
+            "ivs": null,
+            "item": "Flame Orb",
+            "ability": "Guts",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Drain Punch",
+                "Poison Jab",
+                "Knock Off",
+                "Bullet Punch"
+            ],
+            "index": 106
+        }
+    },
+    "Arbok": {
+        "Sailor Edmond": {
+            "level": 30,
+            "ivs": null,
+            "item": "Life Orb",
+            "ability": "Intimidate",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Poison Jab",
+                "Earthquake",
+                "Rock Slide",
+                "Sucker Punch"
+            ],
+            "index": 107
+        }
+    },
+    "Palossand": {
+        "Sailor Edmond": {
+            "level": 30,
+            "ivs": null,
+            "item": "Weakness Policy",
+            "ability": "Water Compaction",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Scorching Sands",
+                "Giga Drain",
+                "Chilling Water",
+                "Ancient Power"
+            ],
+            "index": 108
+        },
+        "Camper Brandan": {
+            "level": 52,
+            "ivs": null,
+            "item": "Wise Glasses",
+            "ability": "Water Compaction",
+            "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Shadow Ball",
+                "Scorching Sands",
+                "Giga Drain",
+                "Ancient Power"
+            ],
+            "index": 397
+        }
+    },
+    "Azurill": {
+        "Lola Tuber(F)": {
+            "level": 32,
+            "ivs": null,
+            "item": "Choice Band",
+            "ability": "Huge Power",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Play Rough",
+                "Body Slam",
+                "Waterfall",
+                "Bounce"
+            ],
+            "index": 109
+        }
+    },
+    "Ponyta-Galar": {
+        "Lola Tuber(F)": {
+            "level": 32,
+            "ivs": null,
+            "item": "Choice Band",
+            "ability": "Pastel Veil",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Play Rough",
+                "Psycho Cut",
+                "Stomp",
+                "Flame Wheel"
+            ],
+            "index": 110
+        }
+    },
+    "Mawile": {
+        "Lola Tuber(F)": {
+            "level": 32,
+            "ivs": null,
+            "item": "Choice Band",
+            "ability": "Intimidate",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Play Rough",
+                "Fire Fang",
+                "Ice Fang",
+                "Thunder Fang"
+            ],
+            "index": 111
+        },
+        "Gentleman Clifford and Psychic Macey": {
+            "level": 68,
+            "ivs": {
+                "sp": 0
+            },
+            "item": "Life Orb",
+            "ability": "Sheer Force",
+            "nature": "Brave",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Play Rough",
+                "Iron Head",
+                "Thunder Fang",
+                "Protect"
+            ],
+            "index": 714
+        }
+    },
+    "Wigglytuff": {
+        "Lola Tuber(F)": {
+            "level": 32,
+            "ivs": null,
+            "item": "Choice Band",
+            "ability": "Competitive",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Play Rough",
+                "Body Slam"
+            ],
+            "index": 112
+        },
+        "Pokemon Breeder Pat": {
+            "level": 70,
+            "ivs": null,
+            "item": "Quick Claw",
+            "ability": "Competitive",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Misty Explosion",
+                "Moonblast",
+                "Hyper Voice",
+                "Psychic"
+            ],
+            "index": 599
+        },
+        "Gentleman Clifford and Psychic Macey": {
+            "level": 68,
+            "ivs": {
+                "sp": 0
+            },
+            "item": "Lum Berry",
+            "ability": "Competitive",
+            "nature": "Quiet",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Moonblast",
+                "Hyper Voice",
+                "Hyper Beam",
+                "Sing"
+            ],
+            "index": 716
+        }
+    },
+    "Tentacruel": {
+        "Ricky Tuber(M) and Chandler Tuber(M)": {
+            "level": 30,
+            "ivs": null,
+            "item": "Poison Barb",
+            "ability": "Liquid Ooze",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Scald",
+                "Venoshock",
+                "Hex",
+                "Toxic"
+            ],
+            "index": 113
+        },
+        "Leader Juan": {
+            "level": 40,
+            "ivs": null,
+            "item": "Leftovers",
+            "ability": "Rain Dish",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Sludge Wave",
+                "Scald",
+                "Hex",
+                "Toxic"
+            ],
+            "index": 310
+        },
+        "Hex Maniac Cole": {
+            "level": 75,
+            "ivs": null,
+            "item": "Life Orb",
+            "ability": "Clear Body",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Scald",
+                "Venoshock",
+                "Hex",
+                "Toxic"
+            ],
+            "index": 886
+        }
+    },
+    "Golduck": {
+        "Ricky Tuber(M) and Chandler Tuber(M)": {
+            "level": 30,
+            "ivs": null,
+            "item": "Twisted Spoon",
+            "ability": "Swift Swim",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Waterfall",
+                "Zen Headbutt",
+                "Ice Punch",
+                "Hypnosis"
+            ],
+            "index": 114
+        },
+        "Camper Travis and Cooltrainer Wilton": {
+            "level": 38,
+            "ivs": null,
+            "item": "Wise Glasses",
+            "ability": "Swift Swim",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Scald",
+                "Ice Beam",
+                "Psychic",
+                "Focus Blast"
+            ],
+            "index": 182
+        },
+        "Beauty Bridget": {
+            "level": 38,
+            "ivs": null,
+            "item": "Twisted Spoon",
+            "ability": "Swift Swim",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Surf",
+                "Psychic",
+                "Power Gem",
+                "Calm Mind"
+            ],
+            "index": 307
+        },
+        "Camper Patrick": {
+            "level": 64,
+            "ivs": null,
+            "item": "Wise Glasses",
+            "ability": "Swift Swim",
+            "nature": "Hasty",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Surf",
+                "Psychic",
+                "Ice Beam",
+                "Flip Turn"
+            ],
+            "index": 487
+        },
+        "Cooltrainer Marcel": {
+            "level": 68,
+            "ivs": null,
+            "item": "Wise Glasses",
+            "ability": "Damp",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Hydro Pump",
+                "Psychic",
+                "Ice Beam",
+                "Future Sight"
+            ],
+            "index": 624
+        }
+    },
+    "Seaking": {
+        "Ricky Tuber(M) and Chandler Tuber(M)": {
+            "level": 30,
+            "ivs": null,
+            "item": "Life Orb",
+            "ability": "Lightning Rod",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Waterfall",
+                "Drill Run",
+                "Poison Jab",
+                "Scale Shot"
+            ],
+            "index": 115
+        },
+        "Fisherman Claude": {
+            "level": 38,
+            "ivs": null,
+            "item": "Muscle Band",
+            "ability": "Lightning Rod",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Liquidation",
+                "Poison Jab",
+                "Drill Run",
+                "Agility"
+            ],
+            "index": 233
+        }
+    },
+    "Ludicolo": {
+        "Ricky Tuber(M) and Chandler Tuber(M)": {
+            "level": 30,
+            "ivs": null,
+            "item": "Wise Glasses",
+            "ability": "Swift Swim",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Bubble Beam",
+                "Magical Leaf",
+                "Aurora Beam",
+                "Fake Out"
+            ],
+            "index": 116
+        },
+        "Fisherman Andrew": {
+            "level": 30,
+            "ivs": null,
+            "item": "Tanga Berry",
+            "ability": "Own Tempo",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Seed Bomb",
+                "Waterfall",
+                "Ice Punch",
+                "Synthesis"
+            ],
+            "index": 138
+        },
+        "Lass Julia and Camper Rhett": {
+            "level": 53,
+            "ivs": null,
+            "item": "Mystic Water",
+            "ability": "Own Tempo",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Energy Ball",
+                "Scald",
+                "Ice Beam",
+                "Fake Out"
+            ],
+            "index": 424
+        },
+        "Pokemon Ranger Tyree": {
+            "level": 75,
+            "ivs": null,
+            "item": "Big Root",
+            "ability": "Swift Swim",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Surf",
+                "Giga Drain",
+                "Ice Beam",
+                "Leech Seed"
+            ],
+            "index": 783
+        },
+        "Cooltrainer Katelynn": {
+            "level": 90,
+            "ivs": null,
+            "item": "Covert Cloak",
+            "ability": "Swift Swim",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Energy Ball",
+                "Chilling Water",
+                "Ice Beam",
+                "Fake Out"
+            ],
+            "index": 922
+        }
+    },
+    "Masquerain": {
+        "Hailey Tuber (F)": {
+            "level": 30,
+            "ivs": null,
+            "item": "Water Gem",
+            "ability": "Unnerve",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Bug Buzz",
+                "Air Slash",
+                "Surf",
+                "Quiver Dance"
+            ],
+            "index": 117
+        },
+        "Bug Catcher Angelo": {
+            "level": 30,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Intimidate",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Air Cutter",
+                "Silver Wind",
+                "Scald",
+                "Roost"
+            ],
+            "index": 150
+        },
+        "Bug Maniac Brent": {
+            "level": 62,
+            "ivs": null,
+            "item": "Charti Berry",
+            "ability": "Intimidate",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Hurricane",
+                "Bug Buzz",
+                "Weather Ball",
+                "Quiver Dance"
+            ],
+            "index": 481
+        },
+        "Bug Maniac Jeffrey": {
+            "level": 72,
+            "ivs": null,
+            "item": "Mystic Water",
+            "ability": "Intimidate",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Hurricane",
+                "Bug Buzz",
+                "Hydro Pump",
+                "Tailwind"
+            ],
+            "index": 554
+        }
+    },
+    "Sunflora": {
+        "Hailey Tuber (F)": {
+            "level": 30,
+            "ivs": null,
+            "item": "Quick Claw",
+            "ability": "Chlorophyll",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Giga Drain",
+                "Sludge Bomb",
+                "Dazzling Gleam",
+                "Growth"
+            ],
+            "index": 118
+        }
+    },
+    "Froslass": {
+        "Hailey Tuber (F)": {
+            "level": 30,
+            "ivs": null,
+            "item": "Ghost Gem",
+            "ability": "Cursed Body",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Hex",
+                "Icy Wind",
+                "Draining Kiss",
+                "Will-O-Wisp"
+            ],
+            "index": 119
+        },
+        "Lady Daphne": {
+            "level": 38,
+            "ivs": null,
+            "item": "Life Orb",
+            "ability": "Cursed Body",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Ice Beam",
+                "Shadow Ball",
+                "Thunderbolt",
+                "Destiny Bond"
+            ],
+            "index": 292
+        },
+        "Hex Maniac Cole": {
+            "level": 75,
+            "ivs": null,
+            "item": "Quick Claw",
+            "ability": "Snow Cloak",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Ice Beam",
+                "Hex",
+                "Icy Wind",
+                "Will-O-Wisp"
+            ],
+            "index": 887
+        },
+        "Cooltrainer Charlie": {
+            "level": 89,
+            "ivs": null,
+            "item": "Bright Powder",
+            "ability": "Cursed Body",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Ice Beam",
+                "Shadow Ball",
+                "Thunder Wave",
+                "Destiny Bond"
+            ],
+            "index": 959
+        }
+    },
+    "Armaldo": {
+        "Hailey Tuber (F)": {
+            "level": 30,
+            "ivs": null,
+            "item": "Rock Gem",
+            "ability": "Battle Armor",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Rock Tomb",
+                "Bug Bite",
+                "Bulldoze",
+                "Aqua Jet"
+            ],
+            "index": 120
+        },
+        "Bug Maniac Jeffrey": {
+            "level": 68,
+            "ivs": null,
+            "item": "Water Gem",
+            "ability": "Swift Swim",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Stone Edge",
+                "X-Scissor",
+                "Liquidation",
+                "Aqua Jet"
+            ],
+            "index": 557
+        },
+        "Cooltrainer Albert": {
+            "level": 89,
+            "ivs": null,
+            "item": "Quick Claw",
+            "ability": "Battle Armor",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Stone Edge",
+                "X-Scissor",
+                "Earthquake",
+                "Protect"
+            ],
+            "index": 920
+        }
+    },
+    "Simipour": {
+        "Hailey Tuber (F)": {
+            "level": 30,
+            "ivs": null,
+            "item": "Flying Gem",
+            "ability": "Torrent",
+            "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Scald",
+                "Acrobatics"
+            ],
+            "index": 121
+        },
+        "Picknicker Sophie": {
+            "level": 38,
+            "ivs": null,
+            "item": "Water Gem",
+            "ability": "Torrent",
+            "nature": "Naive",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Scald",
+                "Ice Beam",
+                "Knock Off",
+                "Acrobatics"
+            ],
+            "index": 228
+        },
+        "Fisherman Barny": {
+            "level": 64,
+            "ivs": null,
+            "item": "Water Gem",
+            "ability": "Gluttony",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Wave Crash",
+                "Acrobatics",
+                "Superpower",
+                "Ice Punch"
+            ],
+            "index": 443
+        }
+    },
+    "Raichu-Alola": {
+        "Pokefan Isabel and Pokefan Kaleb": {
+            "level": 30,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Surge Surfer",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Thunderbolt",
+                "Psyshock",
+                "Draining Kiss",
+                "Nuzzle"
+            ],
+            "index": 122
+        },
+        "Pokefan Annika": {
+            "level": 40,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Surge Surfer",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Rising Voltage",
+                "Psychic",
+                "Surf",
+                "Alluring Voice"
+            ],
+            "index": 298
+        },
+        "Cooltrainer Owen": {
+            "level": 90,
+            "ivs": null,
+            "item": "Light Clay",
+            "ability": "Surge Surfer",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Reflect",
+                "Light Screen",
+                "Rising Voltage",
+                "Psychic"
+            ],
+            "index": 963
+        }
+    },
+    "Nidoqueen": {
+        "Pokefan Isabel and Pokefan Kaleb": {
+            "level": 30,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Poison Point",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Earth Power",
+                "Sludge Bomb",
+                "Ice Beam",
+                "Thunderbolt"
+            ],
+            "index": 123
+        },
+        "Picnicker Angelina": {
+            "level": 38,
+            "ivs": null,
+            "item": "Wise Glasses",
+            "ability": "Sheer Force",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Flamethrower",
+                "Ice Beam",
+                "Thunderbolt",
+                "Surf"
+            ],
+            "index": 270
+        },
+        "Hiker Marcos and Picnicker Daisy": {
+            "level": 55,
+            "ivs": null,
+            "item": "Life Orb",
+            "ability": "Sheer Force",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Earth Power",
+                "Sludge Bomb",
+                "Flamethrower",
+                "Thunderbolt"
+            ],
+            "index": 416
+        },
+        "Hiker Eric": {
+            "level": 77,
+            "ivs": null,
+            "item": "Life Orb",
+            "ability": "Poison Point",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Sludge Bomb",
+                "Earth Power",
+                "Ice Beam",
+                "Flamethrower"
+            ],
+            "index": 788
+        }
+    },
+    "Raichu": {
+        "Pokefan Isabel and Pokefan Kaleb": {
+            "level": 30,
+            "ivs": null,
+            "item": "Air Balloon",
+            "ability": "Static",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Thunder Punch",
+                "Iron Tail",
+                "Body Slam",
+                "Fake Out"
+            ],
+            "index": 124
+        }
+    },
+    "Nidoking": {
+        "Pokefan Isabel and Pokefan Kaleb": {
+            "level": 30,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Poison Point",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Drill Run",
+                "Poison Jab",
+                "Thunder Punch",
+                "Smart Strike"
+            ],
+            "index": 125
+        },
+        "Camper Drew": {
+            "level": 52,
+            "ivs": null,
+            "item": "Life Orb",
+            "ability": "Sheer Force",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Earth Power",
+                "Sludge Bomb",
+                "Thunderbolt",
+                "Flamethrower"
+            ],
+            "index": 412
+        },
+        "Guitarist Fabian": {
+            "level": 62,
+            "ivs": null,
+            "item": "Life Orb",
+            "ability": "Sheer Force",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Sludge Bomb",
+                "Earth Power",
+                "Thunder",
+                "Surf"
+            ],
+            "index": 499
+        }
+    },
+    "Toxtricity": {
+        "Guitarist Joseph": {
+            "level": 30,
+            "ivs": null,
+            "item": "Magnet",
+            "ability": "Punk Rock",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Thunder Punch",
+                "Ice Punch",
+                "Drain Punch",
+                "Shift Gear"
+            ],
+            "index": 126
+        }
+    },
+    "Simisage": {
+        "Guitarist Joseph": {
+            "level": 30,
+            "ivs": null,
+            "item": "Grass Gem",
+            "ability": "Gluttony",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Seed Bomb",
+                "Brick Break",
+                "Knock Off",
+                "Growth"
+            ],
+            "index": 127
+        },
+        "Picnicker Irene": {
+            "level": 38,
+            "ivs": null,
+            "item": "Grass Gem",
+            "ability": "Overgrow",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Seed Bomb",
+                "Acrobatics",
+                "Low Sweep",
+                "Knock Off"
+            ],
+            "index": 198
+        }
+    },
+    "Croconaw": {
+        "Guitarist Joseph": {
+            "level": 30,
+            "ivs": null,
+            "item": "Expert Belt",
+            "ability": "Torrent",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Waterfall",
+                "Ice Punch",
+                "Rock Slide",
+                "Dragon Dance"
+            ],
+            "index": 129
+        }
+    },
+    "Lumineon": {
+        "Youngster Jaylen and Youngster Dillon": {
+            "level": 30,
+            "ivs": null,
+            "item": "Flying Gem",
+            "ability": "Storm Drain",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Hydro Pump",
+                "Ice Beam",
+                "Air Slash",
+                "Whirlpool"
+            ],
+            "index": 130
+        },
+        "Fisherman Chris": {
+            "level": 62,
+            "ivs": null,
+            "item": "Wise Glasses",
+            "ability": "Swift Swim",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Surf",
+                "Ice Beam",
+                "Dazzling Gleam",
+                "Attract"
+            ],
+            "index": 464
+        }
+    },
+    "Sawsbuck": {
+        "Youngster Jaylen and Youngster Dillon": {
+            "level": 30,
+            "ivs": null,
+            "item": "White Herb",
+            "ability": "Leaf Rush",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Seed Bomb",
+                "Headbutt",
+                "Zen Headbutt",
+                "Stomping Tantrum"
+            ],
+            "index": 132
+        }
+    },
+    "Sandslash": {
+        "Youngster Jaylen and Youngster Dillon": {
+            "level": 30,
+            "ivs": null,
+            "item": "Soft Sand",
+            "ability": "Sand Rush",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Drill Run",
+                "Poison Jab",
+                "Rock Slide",
+                "Spiky Shield"
+            ],
+            "index": 133
+        },
+        "Camper Tyron and Kindler Hayden": {
+            "level": 38,
+            "ivs": null,
+            "item": "Assault Vest",
+            "ability": "Sand Rush",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Drill Run",
+                "Rock Slide",
+                "X-Scissor",
+                "Shadow Claw"
+            ],
+            "index": 174
+        },
+        "Picknicker Sophie": {
+            "level": 39,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Sand Rush",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Drill Run",
+                "Poison Jab",
+                "X-Scissor",
+                "Protect"
+            ],
+            "index": 229
+        },
+        "Camper Brandan": {
+            "level": 52,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Sand Rush",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Earthquake",
+                "Stone Edge",
+                "X-Scissor",
+                "Swords Dance"
+            ],
+            "index": 398
+        },
+        "Gentleman Clifford and Psychic Macey": {
+            "level": 70,
+            "ivs": {
+                "sp": 0
+            },
+            "item": "Bug Gem",
+            "ability": "Sand Veil",
+            "nature": "Brave",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "High Horsepower",
+                "Stone Edge",
+                "X-Scissor",
+                "Protect"
+            ],
+            "index": 715
+        },
+        "Battler Girl Danielle": {
+            "level": 75,
+            "ivs": null,
+            "item": "Assault Vest",
+            "ability": "Sand Veil",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Earthquake",
+                "Stone Edge",
+                "Poison Jab",
+                "Bulldoze"
+            ],
+            "index": 871
+        }
+    },
+    "Arctovish": {
+        "Fisherman Dale": {
+            "level": 30,
+            "ivs": null,
+            "item": "Life Orb",
+            "ability": "Water Absorb",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Brine",
+                "Icy Wind",
+                "Ancient Power",
+                "Super Fang"
+            ],
+            "index": 134
+        },
+        "Aroma Lady Celina and Picnicker Bianca": {
+            "level": 38,
+            "ivs": null,
+            "item": "Covert Cloak",
+            "ability": "Slush Rush",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Icicle Crash",
+                "Waterfall",
+                "Psychic Fangs",
+                "Crunch"
+            ],
+            "index": 180
+        },
+        "Fisherman Wade": {
+            "level": 62,
+            "ivs": null,
+            "item": "Life Orb",
+            "ability": "Water Absorb",
+            "nature": "Brave",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Fishious Rend",
+                "Icicle Crash",
+                "Freeze-Dry",
+                "Super Fang"
+            ],
+            "index": 447
+        }
+    },
+    "Crawdaunt": {
+        "Fisherman Dale": {
+            "level": 30,
+            "ivs": null,
+            "item": "Mystic Water",
+            "ability": "Shell Armor",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Razor Shell",
+                "Knock Off",
+                "X-Scissor",
+                "Aqua Jet"
+            ],
+            "index": 135
+        },
+        "Fisherman Nolan": {
+            "level": 38,
+            "ivs": null,
+            "item": "White Herb",
+            "ability": "Adaptability",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Razor Shell",
+                "Knock Off",
+                "Superpower",
+                "Aqua Jet"
+            ],
+            "index": 242
+        },
+        "Fisherman Wade": {
+            "level": 62,
+            "ivs": null,
+            "item": "Mystic Water",
+            "ability": "Adaptability",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Razor Shell",
+                "Knock Off",
+                "X-Scissor",
+                "Aqua Jet"
+            ],
+            "index": 448
+        },
+        "Gentleman Clifford and Psychic Macey": {
+            "level": 68,
+            "ivs": {
+                "sp": 0
+            },
+            "item": "Scope Lens",
+            "ability": "Adaptability",
+            "nature": "Brave",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Razor Shell",
+                "Night Slash",
+                "X-Scissor",
+                "Protect"
+            ],
+            "index": 713
+        }
+    },
+    "Dragalge": {
+        "Fisherman Dale": {
+            "level": 30,
+            "ivs": null,
+            "item": "Water Gem",
+            "ability": "Poison Point",
+            "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Venoshock",
+                "Dragon Tail",
+                "Aqua Tail",
+                "Toxic"
+            ],
+            "index": 136
+        },
+        "Beauty Connie": {
+            "level": 38,
+            "ivs": null,
+            "item": "Quick Claw",
+            "ability": "Poison Touch",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Sludge Wave",
+                "Dragon Pulse",
+                "Surf",
+                "Flip Turn"
+            ],
+            "index": 284
+        },
+        "Ranger Emory": {
+            "level": 53,
+            "ivs": null,
+            "item": "Quick Claw",
+            "ability": "Poison Point",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Sludge Wave",
+                "Muddy Water",
+                "Ice Beam",
+                "Toxic Spikes"
+            ],
+            "index": 338
+        },
+        "Fisherman Wade": {
+            "level": 62,
+            "ivs": null,
+            "item": "Air Balloon",
+            "ability": "Adaptability",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Sludge Wave",
+                "Dragon Pulse",
+                "Hydro Pump",
+                "Focus Blast"
+            ],
+            "index": 449
+        },
+        "Swimmer Susie": {
+            "level": 75,
+            "ivs": null,
+            "item": "Aguav Berry",
+            "ability": "Poison Point",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Sludge Bomb",
+                "Dragon Pulse",
+                "Surf",
+                "Toxic Spikes"
+            ],
+            "index": 766
+        },
+        "Cooltrainer Caroline": {
+            "level": 89,
+            "ivs": null,
+            "item": "Quick Claw",
+            "ability": "Adaptability",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Dragon Pulse",
+                "Sludge Wave",
+                "Focus Blast",
+                "Flip Turn"
+            ],
+            "index": 985
+        }
+    },
+    "Brionne": {
+        "Fisherman Dale": {
+            "level": 30,
+            "ivs": null,
+            "item": "Throat Spray",
+            "ability": "Liquid Voice",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Hyper Voice",
+                "Moonblast",
+                "Ice Beam",
+                "Sing"
+            ],
+            "index": 137
+        }
+    },
+    "Floatzel": {
+        "Fisherman Andrew": {
+            "level": 30,
+            "ivs": null,
+            "item": "Never-Melt Ice",
+            "ability": "Water Veil",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Liquidation",
+                "Crunch",
+                "Brick Break",
+                "Ice Fang"
+            ],
+            "index": 139
+        },
+        "Breeder Melinda": {
+            "level": 53,
+            "ivs": null,
+            "item": "Mystic Water",
+            "ability": "Water Veil",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Liquidation",
+                "Ice Spinner",
+                "Aqua Jet",
+                "Bulk Up"
+            ],
+            "index": 347
+        }
+    },
+    "Jynx": {
+        "Fisherman Andrew": {
+            "level": 30,
+            "ivs": null,
+            "item": "Petaya Berry",
+            "ability": "Rain Dish",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Psyshock",
+                "Icy Wind",
+                "Focus Blast",
+                "Endure"
+            ],
+            "index": 140
+        },
+        "Hiker Marcos and Picnicker Daisy": {
+            "level": 53,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Oblivious",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Psychic",
+                "Ice Beam",
+                "Energy Ball",
+                "Fake Out"
+            ],
+            "index": 418
+        },
+        "Swimmer Sharon and Swimmer Nolen": {
+            "level": 68,
+            "ivs": null,
+            "item": "Assault Vest",
+            "ability": "Oblivious",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Blizzard",
+                "Psychic",
+                "Icy Wind",
+                "Fake Out"
+            ],
+            "index": 634
+        }
+    },
+    "Dewott": {
+        "Fisherman Andrew": {
+            "level": 30,
+            "ivs": null,
+            "item": "Flying Gem",
+            "ability": "Torrent",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Liquidation",
+                "Sacred Sword",
+                "Aerial Ace",
+                "Aqua Jet"
+            ],
+            "index": 141
+        }
+    },
+    "Zebstrika": {
+        "Cycling Triathlete Abigail": {
+            "level": 30,
+            "ivs": null,
+            "item": "Air Balloon",
+            "ability": "Motor Drive",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Wild Charge",
+                "Bounce",
+                "Flame Charge",
+                "Double Kick"
+            ],
+            "index": 143
+        }
+    },
+    "Whimsicott": {
+        "Cycling Triathlete Abigail": {
+            "level": 30,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Prankster",
+            "nature": "Rash",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Energy Ball",
+                "Moonblast",
+                "U-turn",
+                "Attract"
+            ],
+            "index": 144
+        },
+        "Ace Trainer Cap": {
+            "level": 55,
+            "ivs": null,
+            "item": "Kebia Berry",
+            "ability": "Wind Rider",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Play Rough",
+                "Seed Bomb",
+                "Knock Off",
+                "Tailwind"
+            ],
+            "index": 323
+        },
+        "Sr/Jr Kate & Joy": {
+            "level": 68,
+            "ivs": {
+                "at": 0
+            },
+            "item": "Focus Sash",
+            "ability": "Prankster",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Moonblast",
+                "Energy Ball",
+                "Beat Up",
+                "Tailwind"
+            ],
+            "index": 608
+        },
+        "Cooltrainer MBF": {
+            "level": 90,
+            "ivs": null,
+            "item": "Covert Cloak",
+            "ability": "Prankster",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Moonblast",
+                "Tickle",
+                "Sunny Day",
+                "Tailwind"
+            ],
+            "index": 975
+        }
+    },
+    "Drakloak": {
+        "Cycling Triathlete Abigail": {
+            "level": 32,
+            "ivs": null,
+            "item": "Wise Glasses",
+            "ability": "Cursed Body",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Dragon Pulse",
+                "Shadow Ball",
+                "Fire Blast",
+                "U-turn"
+            ],
+            "index": 145
+        }
+    },
+    "Lopunny": {
+        "Cycling Triathlete Abigail": {
+            "level": 32,
+            "ivs": null,
+            "item": "Fighting Gem",
+            "ability": "Limber",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Retaliate",
+                "Sky Uppercut",
+                "Acrobatics",
+                "Fake Out"
+            ],
+            "index": 146
+        }
+    },
+    "Galvantula": {
+        "Bug Catcher Angelo": {
+            "level": 32,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Compound Eyes",
+            "nature": "Naughty",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Discharge",
+                "X-Scissor",
+                "Throat Chop",
+                "Sticky Web"
+            ],
+            "index": 147
+        },
+        "Bug Catcher Doug": {
+            "level": 62,
+            "ivs": null,
+            "item": "Magnet",
+            "ability": "Compound Eyes",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Thunderbolt",
+                "Bug Buzz",
+                "Energy Ball",
+                "Electroweb"
+            ],
+            "index": 461
+        },
+        "Guitarist Kendall": {
+            "level": 75,
+            "ivs": null,
+            "item": "Charti Berry",
+            "ability": "Compound Eyes",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Thunderbolt",
+                "Bug Buzz",
+                "Volt Switch",
+                "Sticky Web"
+            ],
+            "index": 804
+        }
+    },
+    "Crustle": {
+        "Bug Catcher Angelo": {
+            "level": 30,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Sturdy",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Rock Wrecker",
+                "X-Scissor",
+                "Rock Slide",
+                "Counter"
+            ],
+            "index": 148
+        },
+        "Picnicker Heidi": {
+            "level": 52,
+            "ivs": null,
+            "item": "Wide Lens",
+            "ability": "Weak Armor",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Stone Edge",
+                "Leech Life",
+                "Rock Slide",
+                "Knock Off"
+            ],
+            "index": 406
+        }
+    },
+    "Rabsca": {
+        "Bug Catcher Angelo": {
+            "level": 30,
+            "ivs": null,
+            "item": "Bug Gem",
+            "ability": "Synchronize",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Bug Buzz",
+                "Extrasensory",
+                "Power Gem",
+                "Confuse Ray"
+            ],
+            "index": 149
+        }
+    },
+    "Pincurchin": {
+        "Youngster Ben": {
+            "level": 32,
+            "ivs": null,
+            "item": "Terrain Extender",
+            "ability": "Electric Surge",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Zing Zap",
+                "Liquidation",
+                "Poison Jab",
+                "Thunder Wave"
+            ],
+            "index": 151
+        },
+        "Pokefan Annika": {
+            "level": 38,
+            "ivs": null,
+            "item": "Terrain Extender",
+            "ability": "Electric Surge",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Rising Voltage",
+                "Muddy Water",
+                "Poison Jab",
+                "Thunder Wave"
+            ],
+            "index": 295
+        },
+        "Hex Maniac Sylvia and Psychic Hannah": {
+            "level": 70,
+            "ivs": {
+                "sp": 0
+            },
+            "item": "Terrain Extender",
+            "ability": "Electric Surge",
+            "nature": "Quiet",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Rising Voltage",
+                "Muddy Water",
+                "Reversal",
+                "Toxic Spikes"
+            ],
+            "index": 701
+        }
+    },
+    "Dedenne": {
+        "Youngster Ben": {
+            "level": 31,
+            "ivs": null,
+            "item": "Sitrus Berry",
+            "ability": "Cheek Pouch",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Rising Voltage",
+                "Dazzling Gleam",
+                "Grass Knot",
+                "Volt Switch"
+            ],
+            "index": 152
+        }
+    },
+    "Togedemaru": {
+        "Youngster Ben": {
+            "level": 31,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Iron Barbs",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Zing Zap",
+                "Iron Head",
+                "U-turn",
+                "Magnet Rise"
+            ],
+            "index": 153
+        }
+    },
+    "Rotom": {
+        "Youngster Ben": {
+            "level": 31,
+            "ivs": null,
+            "item": "Electric Gem",
+            "ability": "Levitate",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Discharge",
+                "Hex",
+                "Thunder Wave",
+                "Will-O-Wisp"
+            ],
+            "index": 154
+        }
+    },
+    "Zweilous": {
+        "Guitarist Kirk": {
+            "level": 31,
+            "ivs": null,
+            "item": "Roseli Berry",
+            "ability": "Hustle",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Dragon Pulse",
+                "Dark Pulse",
+                "Hyper Voice",
+                "Thunder Fang"
+            ],
+            "index": 155
+        }
+    },
+    "Manectric": {
+        "Guitarist Kirk": {
+            "level": 30,
+            "ivs": null,
+            "item": "Throat Spray",
+            "ability": "Galvanize",
+            "nature": "Rash",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Hyper Voice",
+                "Flamethrower",
+                "Psychic Fangs",
+                "Ice Fang"
+            ],
+            "index": 157
+        },
+        "Brendan One": {
+            "level": 38,
+            "ivs": null,
+            "item": "Eject Pack",
+            "ability": "Galvanize",
+            "nature": "Naive",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Hyper Voice",
+                "Volt Switch",
+                "Overheat",
+                "Psychic Fangs"
+            ],
+            "index": 279
+        },
+        "Kindler Jeff": {
+            "level": 75,
+            "ivs": null,
+            "item": "Air Balloon",
+            "ability": "Galvanize",
+            "nature": "Lonely",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Hyper Voice",
+                "Overheat",
+                "Volt Switch",
+                "Ice Fang"
+            ],
+            "index": 866
+        }
+    },
+    "Crabominable": {
+        "Battle Girl Vivian": {
+            "level": 31,
+            "ivs": null,
+            "item": "Expert Belt",
+            "ability": "Hyper Cutter",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Drain Punch",
+                "Ice Punch",
+                "Thunder Punch",
+                "Ice Shard"
+            ],
+            "index": 158
+        }
+    },
+    "Diggersby": {
+        "Battle Girl Vivian": {
+            "level": 28,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Huge Power",
+            "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Stomping Tantrum",
+                "Body Slam",
+                "Brick Break",
+                "Thunder Punch"
+            ],
+            "index": 159
+        },
+        "Picnicker Becky": {
+            "level": 53,
+            "ivs": null,
+            "item": "Normal Gem",
+            "ability": "Huge Power",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Earthquake",
+                "Body Slam",
+                "Wild Charge",
+                "Fire Punch"
+            ],
+            "index": 387
+        },
+        "Psychic Blake and Psychic Samantha": {
+            "level": 68,
+            "ivs": {
+                "sp": 0
+            },
+            "item": "Room Service",
+            "ability": "Huge Power",
+            "nature": "Brave",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Body Slam",
+                "Stomping Tantrum",
+                "Hammer Arm",
+                "Zen Headbutt"
+            ],
+            "index": 694
+        }
+    },
+    "Toxtricity-Low-Key": {
+        "Battle Girl Vivian": {
+            "level": 30,
+            "ivs": null,
+            "item": "Punching Glove",
+            "ability": "Technician",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Thunder Punch",
+                "Fire Punch",
+                "Drain Punch",
+                "Trailblaze"
+            ],
+            "index": 161
+        },
+        "Bug Maniac Cale": {
+            "level": 70,
+            "ivs": null,
+            "item": "Throat Spray",
+            "ability": "Punk Rock",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Overdrive",
+                "Hyper Voice",
+                "Sludge Wave",
+                "Scary Face"
+            ],
+            "index": 595
+        }
+    },
+    "Victreebel": {
+        "Guitarist Shawn": {
+            "level": 32,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Chlorophyll",
+            "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Leaf Tornado",
+                "Venoshock",
+                "Knock Off",
+                "Toxic"
+            ],
+            "index": 162
+        }
+    },
+    "Golem-Alola": {
+        "Guitarist Shawn": {
+            "level": 30,
+            "ivs": null,
+            "item": "Magnet",
+            "ability": "Sturdy",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Thunder Punch",
+                "Rock Slide",
+                "Iron Head",
+                "Stomping Tantrum"
+            ],
+            "index": 163
+        },
+        "Hex Maniac Sylvia and Psychic Hannah": {
+            "level": 68,
+            "ivs": {
+                "sp": 0
+            },
+            "item": "Electric Gem",
+            "ability": "Galvanize",
+            "nature": "Brave",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Explosion",
+                "Body Slam",
+                "Rock Slide",
+                "Fire Punch"
+            ],
+            "index": 703
+        }
+    },
+    "Armarouge": {
+        "Guitarist Shawn": {
+            "level": 30,
+            "ivs": null,
+            "item": "Clear Amulet",
+            "ability": "Flash Fire",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Psyshock",
+                "Mystical Fire",
+                "Flash Cannon",
+                "Night Shade"
+            ],
+            "index": 164
+        },
+        "Sidney": {
+            "level": 55,
+            "ivs": null,
+            "item": "White Herb",
+            "ability": "Mega Launcher",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Armor Cannon",
+                "Psychic",
+                "Aura Sphere",
+                "Dark Pulse"
+            ],
+            "index": 382
+        },
+        "Swimmer Declan": {
+            "level": 68,
+            "ivs": null,
+            "item": "Weakness Policy",
+            "ability": "Weak Armor",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Flamethrower",
+                "Psychic",
+                "Weather Ball",
+                "Calm Mind"
+            ],
+            "index": 647
+        },
+        "Leader Tate & Liza": {
+            "level": 70,
+            "ivs": null,
+            "item": "Weakness Policy",
+            "ability": "Weak Armor",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Psychic",
+                "Flamethrower",
+                "Dark Pulse",
+                "Aura Sphere"
+            ],
+            "index": 719
+        },
+        "Battler Girl Danielle": {
+            "level": 75,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Weak Armor",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Heat Wave",
+                "Psychic",
+                "Aura Sphere",
+                "Flame Charge"
+            ],
+            "index": 873
+        }
+    },
+    "Jolteon": {
+        "Guitarist Shawn": {
+            "level": 30,
+            "ivs": null,
+            "item": "Air Balloon",
+            "ability": "Volt Absorb",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Thunderbolt",
+                "Alluring Voice",
+                "Swift",
+                "Thunder Wave"
+            ],
+            "index": 165
+        },
+        "Collector Damon": {
+            "level": 53,
+            "ivs": null,
+            "item": "Weakness Policy",
+            "ability": "Volt Absorb",
+            "nature": "Timid",
+            "teraType": "Grass",
+            "status": "Healthy",
+            "moves": [
+                "Thunderbolt",
+                "Tera Blast",
+                "Shadow Ball",
+                "Substitute"
+            ],
+            "index": 361
+        },
+        "Gentleman Walter": {
+            "level": 68,
+            "ivs": null,
+            "item": "Air Balloon",
+            "ability": "Quick Feet",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Thunderbolt",
+                "Round",
+                "Alluring Voice",
+                "Shadow Ball"
+            ],
+            "index": 617
+        },
+        "Swimmer Isabella": {
+            "level": 68,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Volt Absorb",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Discharge",
+                "Weather Ball",
+                "Alluring Voice",
+                "Calm Mind"
+            ],
+            "index": 670
+        },
+        "Cooltrainer Katelynn": {
+            "level": 89,
+            "ivs": null,
+            "item": "Wise Glasses",
+            "ability": "Volt Absorb",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Thunderbolt",
+                "Weather Ball",
+                "Alluring Voice",
+                "Electroweb"
+            ],
+            "index": 924
+        }
+    },
+    "Persian": {
+        "Guitarist Shawn": {
+            "level": 30,
+            "ivs": null,
+            "item": "Loaded Dice",
+            "ability": "Technician",
+            "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Fury Swipes",
+                "Aerial Ace",
+                "Shock Wave",
+                "Fake Out"
+            ],
+            "index": 166
+        }
+    },
+    "Emolga": {
+        "Leader Wattson": {
+            "level": 32,
+            "ivs": null,
+            "item": "Wise Glasses",
+            "ability": "Motor Drive",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Thunderbolt",
+                "Energy Ball",
+                "Air Slash",
+                "U-turn"
+            ],
+            "index": 167
+        },
+        "Cooltrainer Marcel": {
+            "level": 70,
+            "ivs": null,
+            "item": "Covert Cloak",
+            "ability": "Motor Drive",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Thunderbolt",
+                "Air Slash",
+                "Energy Ball",
+                "Volt Switch"
+            ],
+            "index": 622
+        },
+        "Cooltrainer Gerald": {
+            "level": 77,
+            "ivs": null,
+            "item": "Life Orb",
+            "ability": "Static",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Discharge",
+                "Air Slash",
+                "Energy Ball",
+                "Thunder Wave"
+            ],
+            "index": 878
+        }
+    },
+    "Sandy Shocks": {
+        "Leader Wattson": {
+            "level": 30,
+            "ivs": {
+                "at": 30,
+                "sa": 30,
+                "sp": 30
+            },
+            "item": "Lum Berry",
+            "ability": "Protosynthesis",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Discharge",
+                "Scorching Sands",
+                "Power Gem",
+                "Hidden Power Fire"
+            ],
+            "index": 168
+        },
+        "Challenger Phoebe": {
+            "level": 75,
+            "ivs": null,
+            "item": "Booster Energy",
+            "ability": "Protosynthesis",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Earth Power",
+                "Thunderbolt",
+                "Tri Attack",
+                "Flash Cannon"
+            ],
+            "index": 861
+        },
+        "Elite Four Jasmine": {
+            "level": 90,
+            "ivs": null,
+            "item": "Booster Energy",
+            "ability": "Protosynthesis",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Earth Power",
+                "Thunderbolt",
+                "Flash Cannon",
+                "Tri Attack"
+            ],
+            "index": 1030
+        }
+    },
+    "Luxray": {
+        "Leader Wattson": {
+            "level": 30,
+            "ivs": null,
+            "item": "Electric Gem",
+            "ability": "Strong Jaw",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Thunder Fang",
+                "Crunch",
+                "Ice Fang",
+                "Scary Face"
+            ],
+            "index": 169
+        },
+        "Picknicker Diana and Camper Ethan": {
+            "level": 38,
+            "ivs": null,
+            "item": "Electric Gem",
+            "ability": "Guts",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Poisoned",
+            "moves": [
+                "Thunder Fang",
+                "Psychic Fangs",
+                "Crunch",
+                "Howl"
+            ],
+            "index": 273
+        },
+        "Psychic Virgil and Gentleman Nate": {
+            "level": 68,
+            "ivs": {
+                "sp": 0
+            },
+            "item": "Iron Ball",
+            "ability": "Intimidate",
+            "nature": "Brave",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Zing Zap",
+                "Psychic Fangs",
+                "Ice Fang",
+                "Howl"
+            ],
+            "index": 695
+        }
+    },
+    "Arctozolt": {
+        "Leader Wattson": {
+            "level": 31,
+            "ivs": null,
+            "item": "White Herb",
+            "ability": "Volt Absorb",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Bolt Beak",
+                "Icicle Crash",
+                "Bulldoze",
+                "Rock Tomb"
+            ],
+            "index": 170
+        },
+        "Swimmer Sharon and Swimmer Nolen": {
+            "level": 70,
+            "ivs": null,
+            "item": "Clear Amulet",
+            "ability": "Slush Rush",
+            "nature": "Hasty",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Icicle Crash",
+                "Bolt Beak",
+                "Freeze-Dry",
+                "Stone Edge"
+            ],
+            "index": 633
+        }
+    },
+    "Dracozolt": {
+        "Leader Wattson": {
+            "level": 31,
+            "ivs": null,
+            "item": "Magnet",
+            "ability": "Volt Absorb",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Dragon Claw",
+                "Thunder Punch",
+                "High Horsepower",
+                "Thunder Wave"
+            ],
+            "index": 171
+        },
+        "Ruin Maniac Bryan": {
+            "level": 52,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Sand Rush",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Bolt Beak",
+                "Dragon Claw",
+                "Earthquake",
+                "Stone Edge"
+            ],
+            "index": 402
+        }
+    },
+    "Pawmot": {
+        "Leader Wattson": {
+            "level": 32,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Iron Fist",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Double Shock",
+                "Drain Punch",
+                "Thunder Punch",
+                "Seed Bomb"
+            ],
+            "index": 172
+        },
+        "Battle Girl Aisha": {
+            "level": 75,
+            "ivs": null,
+            "item": "Muscle Band",
+            "ability": "Iron Fist",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Double Shock",
+                "Close Combat",
+                "Play Rough",
+                "Ice Punch"
+            ],
+            "index": 795
+        },
+        "Cooltrainer Owen": {
+            "level": 89,
+            "ivs": null,
+            "item": "Punching Glove",
+            "ability": "Iron Fist",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Close Combat",
+                "Double Shock",
+                "Ice Punch",
+                "Thunder Punch"
+            ],
+            "index": 965
+        }
+    },
+    "Hippowdon": {
+        "Camper Tyron and Kindler Hayden": {
+            "level": 40,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Sand Stream",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Stomping Tantrum",
+                "Crunch",
+                "Thunder Fang",
+                "Fire Fang"
+            ],
+            "index": 173
+        },
+        "Camper Drew": {
+            "level": 52,
+            "ivs": null,
+            "item": "Leftovers",
+            "ability": "Sand Force",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Earthquake",
+                "Stone Edge",
+                "Substitute",
+                "Slack Off"
+            ],
+            "index": 411
+        },
+        "Swimmer Kara": {
+            "level": 77,
+            "ivs": null,
+            "item": "Aguav Berry",
+            "ability": "Sand Force",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "High Horsepower",
+                "Rock Slide",
+                "Ice Fang",
+                "Thunder Fang"
+            ],
+            "index": 759
+        },
+        "Cooltrainer Quincy": {
+            "level": 90,
+            "ivs": null,
+            "item": "Sitrus Berry",
+            "ability": "Sand Stream",
+            "nature": "Careful",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "High Horsepower",
+                "Stone Edge",
+                "Recover",
+                "Protect"
+            ],
+            "index": 927
+        }
+    },
+    "Lycanroc": {
+        "Camper Tyron and Kindler Hayden": {
+            "level": 38,
+            "ivs": null,
+            "item": "Life Orb",
+            "ability": "Sand Rush",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Rock Slide",
+                "Stomping Tantrum",
+                "Sucker Punch",
+                "Accelerock"
+            ],
+            "index": 175
+        },
+        "Picnicker Heidi": {
+            "level": 52,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Sand Rush",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Stone Edge",
+                "Drill Run",
+                "Psychic Fangs",
+                "Ice Fang"
+            ],
+            "index": 404
+        },
+        "Collector Hector and Hex Maniac Nadia": {
+            "level": 53,
+            "ivs": null,
+            "item": "Covert Cloak",
+            "ability": "Sand Rush",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Stone Edge",
+                "Close Combat",
+                "Play Rough",
+                "Crunch"
+            ],
+            "index": 426
+        }
+    },
+    "Stoutland": {
+        "Camper Tyron and Kindler Hayden": {
+            "level": 38,
+            "ivs": null,
+            "item": "Covert Cloak",
+            "ability": "Sand Rush",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Body Slam",
+                "Crunch",
+                "Stomping Tantrum",
+                "Reversal"
+            ],
+            "index": 176
+        },
+        "Camper Drew": {
+            "level": 52,
+            "ivs": null,
+            "item": "Chople Berry",
+            "ability": "Sand Rush",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Retaliate",
+                "Play Rough",
+                "Brick Break",
+                "Work Up"
+            ],
+            "index": 409
+        },
+        "Hiker Eli": {
+            "level": 75,
+            "ivs": null,
+            "item": "Silk Scarf",
+            "ability": "Sand Rush",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Retaliate",
+                "Play Rough",
+                "Rock Tomb",
+                "Attract"
+            ],
+            "index": 891
+        }
+    },
+    "Ninetales-Alola": {
+        "Aroma Lady Celina and Picnicker Bianca": {
+            "level": 40,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Snow Warning",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Moonblast",
+                "Ice Beam",
+                "Freeze-Dry",
+                "Icy Wind"
+            ],
+            "index": 177
+        },
+        "Beauty Tiffany": {
+            "level": 38,
+            "ivs": null,
+            "item": "Light Clay",
+            "ability": "Snow Warning",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Ice Beam",
+                "Moonblast",
+                "Freeze-Dry",
+                "Aurora Veil"
+            ],
+            "index": 299
+        },
+        "Gentleman Walter": {
+            "level": 68,
+            "ivs": null,
+            "item": "Expert Belt",
+            "ability": "Snow Cloak",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Moonblast",
+                "Ice Beam",
+                "Round",
+                "Chilling Water"
+            ],
+            "index": 619
+        },
+        "Cooltrainer Albert": {
+            "level": 89,
+            "ivs": null,
+            "item": "Light Clay",
+            "ability": "Snow Warning",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Blizzard",
+                "Moonblast",
+                "Freeze-Dry",
+                "Aurora Veil"
+            ],
+            "index": 915
+        }
+    },
+    "Sandslash-Alola": {
+        "Aroma Lady Celina and Picnicker Bianca": {
+            "level": 38,
+            "ivs": null,
+            "item": "Rowap Berry",
+            "ability": "Slush Rush",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Ice Punch",
+                "Iron Head",
+                "Drill Run",
+                "Ice Shard"
+            ],
+            "index": 178
+        },
+        "Swimmer Spencer": {
+            "level": 70,
+            "ivs": null,
+            "item": "Flying Gem",
+            "ability": "Slush Rush",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Icicle Crash",
+                "Iron Head",
+                "Rock Slide",
+                "Aerial Ace"
+            ],
+            "index": 653
+        },
+        "Cooltrainer Albert": {
+            "level": 89,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Slush Rush",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Icicle Crash",
+                "Iron Head",
+                "Rock Slide",
+                "Spiky Shield"
+            ],
+            "index": 916
+        }
+    },
+    "Beartic": {
+        "Aroma Lady Celina and Picnicker Bianca": {
+            "level": 38,
+            "ivs": null,
+            "item": "Muscle Band",
+            "ability": "Slush Rush",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Ice Punch",
+                "Brick Break",
+                "Throat Chop",
+                "Heavy Slam"
+            ],
+            "index": 179
+        },
+        "Beauty Tiffany": {
+            "level": 38,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Slush Rush",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Icicle Crash",
+                "Liquidation",
+                "Throat Chop",
+                "Reversal"
+            ],
+            "index": 301
+        }
+    },
+    "Politoed": {
+        "Camper Travis and Cooltrainer Wilton": {
+            "level": 40,
+            "ivs": null,
+            "item": "Iapapa Berry",
+            "ability": "Drizzle",
+            "nature": "Calm",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Scald",
+                "Ice Beam",
+                "Earth Power",
+                "Hypnosis"
+            ],
+            "index": 181
+        },
+        "Leader Juan": {
+            "level": 39,
+            "ivs": null,
+            "item": "Iapapa Berry",
+            "ability": "Drizzle",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Scald",
+                "Ice Beam",
+                "Earth Power",
+                "Hypnosis"
+            ],
+            "index": 308
+        },
+        "Pokemon Ranger Mara": {
+            "level": 75,
+            "ivs": null,
+            "item": "Assault Vest",
+            "ability": "Drizzle",
+            "nature": "Bold",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Scald",
+                "Ice Beam",
+                "Earth Power",
+                "Psychic"
+            ],
+            "index": 828
+        },
+        "Cooltrainer Katelynn": {
+            "level": 90,
+            "ivs": null,
+            "item": "Aguav Berry",
+            "ability": "Drizzle",
+            "nature": "Bold",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Hydro Pump",
+                "Ice Beam",
+                "Sleep Talk",
+                "Rest"
+            ],
+            "index": 921
+        }
+    },
+    "Mantine": {
+        "Camper Travis and Cooltrainer Wilton": {
+            "level": 38,
+            "ivs": null,
+            "item": "Wacan Berry",
+            "ability": "Swift Swim",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Air Slash",
+                "Surf",
+                "Ice Beam",
+                "Confuse Ray"
+            ],
+            "index": 183
+        },
+        "Parasol Lady Rose": {
+            "level": 64,
+            "ivs": null,
+            "item": "Life Orb",
+            "ability": "Swift Swim",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Hurricane",
+                "Surf",
+                "Ice Beam",
+                "Roost"
+            ],
+            "index": 497
+        }
+    },
+    "Drednaw": {
+        "Camper Travis and Cooltrainer Wilton": {
+            "level": 38,
+            "ivs": null,
+            "item": "Covert Cloak",
+            "ability": "Swift Swim",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Liquidation",
+                "Rock Slide",
+                "Skitter Smack",
+                "High Horsepower"
+            ],
+            "index": 184
+        }
+    },
+    "Conkeldurr": {
+        "Hiker Brice and Hiker Trent": {
+            "level": 38,
+            "ivs": null,
+            "item": "Expert Belt",
+            "ability": "Iron Fist",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Drain Punch",
+                "Thunder Punch",
+                "Poison Jab",
+                "Stomping Tantrum"
+            ],
+            "index": 185
+        },
+        "Psychic Brandi": {
+            "level": 75,
+            "ivs": null,
+            "item": "Assault Vest",
+            "ability": "Iron Fist",
+            "nature": "Careful",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Drain Punch",
+                "Poison Jab",
+                "Ice Punch",
+                "Knock Off"
+            ],
+            "index": 837
+        }
+    },
+    "Duraludon": {
+        "Hiker Brice and Hiker Trent": {
+            "level": 38,
+            "ivs": null,
+            "item": "Covert Cloak",
+            "ability": "Stalwart",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Dragon Claw",
+                "Iron Head",
+                "Stone Edge",
+                "Thunder Wave"
+            ],
+            "index": 186
+        },
+        "Cooltrainer Jennifer": {
+            "level": 68,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Light Metal",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Flash Cannon",
+                "Dragon Pulse",
+                "Thunderbolt",
+                "Body Press"
+            ],
+            "index": 558
+        }
+    },
+    "Bombirdier": {
+        "Hiker Brice and Hiker Trent": {
+            "level": 40,
+            "ivs": null,
+            "item": "Black Glasses",
+            "ability": "Rocky Payload",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Dual Wingbeat",
+                "Knock Off",
+                "Stone Edge",
+                "Roost"
+            ],
+            "index": 187
+        },
+        "Bird Keeper Hugh": {
+            "level": 64,
+            "ivs": null,
+            "item": "Black Glasses",
+            "ability": "Rocky Payload",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Knock Off",
+                "Dual Wingbeat",
+                "Stone Edge",
+                "Sucker Punch"
+            ],
+            "index": 478
+        },
+        "Picnicker Ashley": {
+            "level": 64,
+            "ivs": null,
+            "item": "Sharp Beak",
+            "ability": "Big Pecks",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Dual Wingbeat",
+                "Knock Off",
+                "Stone Edge",
+                "Hone Claws"
+            ],
+            "index": 516
+        },
+        "Swimmer Richard": {
+            "level": 75,
+            "ivs": null,
+            "item": "Loaded Dice",
+            "ability": "Rocky Payload",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Knock Off",
+                "Dual Wingbeat",
+                "Rock Blast",
+                "Stealth Rock"
+            ],
+            "index": 760
+        },
+        "Guitarist Kendall": {
+            "level": 77,
+            "ivs": null,
+            "item": "Life Orb",
+            "ability": "Rocky Payload",
+            "nature": "Jolly",
+            "teraType": "Rock",
+            "status": "Healthy",
+            "moves": [
+                "Rock Slide",
+                "Dual Wingbeat",
+                "Knock Off",
+                "Foul Play"
+            ],
+            "index": 809
+        }
+    },
+    "Donphan": {
+        "Hiker Brice and Hiker Trent": {
+            "level": 38,
+            "ivs": null,
+            "item": "Grass Gem",
+            "ability": "Sturdy",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "High Horsepower",
+                "Seed Bomb",
+                "Ice Spinner",
+                "Ice Shard"
+            ],
+            "index": 188
+        },
+        "Leader Steven": {
+            "level": 53,
+            "ivs": null,
+            "item": "Clear Amulet",
+            "ability": "Sturdy",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "High Horsepower",
+                "Ice Spinner",
+                "Seed Bomb",
+                "Ice Shard"
+            ],
+            "index": 434
+        },
+        "Ranger Jackson": {
+            "level": 63,
+            "ivs": null,
+            "item": "Clear Amulet",
+            "ability": "Sturdy",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "High Horsepower",
+                "Stone Edge",
+                "Seed Bomb",
+                "Ice Shard"
+            ],
+            "index": 474
+        },
+        "Psychic Presont and Psychic Maura": {
+            "level": 68,
+            "ivs": {
+                "sp": 0
+            },
+            "item": "Leftovers",
+            "ability": "Sturdy",
+            "nature": "Brave",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "High Horsepower",
+                "Play Rough",
+                "Ice Spinner",
+                "Protect"
+            ],
+            "index": 687
+        }
+    },
+    "Turtonator": {
+        "Kindler Bryant": {
+            "level": 38,
+            "ivs": null,
+            "item": "Quick Claw",
+            "ability": "Shell Armor",
+            "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Flamethrower",
+                "Dragon Pulse",
+                "Scorching Sands",
+                "Scale Shot"
+            ],
+            "index": 189
+        },
+        "Ruin Maniac Bryan": {
+            "level": 55,
+            "ivs": null,
+            "item": "Eject Pack",
+            "ability": "Shell Armor",
+            "nature": "Quiet",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Draco Meteor",
+                "Overheat"
+            ],
+            "index": 399
+        },
+        "Cooltrainer Halle": {
+            "level": 90,
+            "ivs": null,
+            "item": "Air Balloon",
+            "ability": "Shell Armor",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Fire Blast",
+                "Dragon Pulse",
+                "Flash Cannon",
+                "Shell Smash"
+            ],
+            "index": 1008
+        }
+    },
+    "Heatmor": {
+        "Kindler Bryant": {
+            "level": 38,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "White Smoke",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Overheat",
+                "Fire Lash",
+                "Stomping Tantrum",
+                "Rock Slide"
+            ],
+            "index": 190
+        },
+        "Hex Maniac Kathleen and Psychic Nicholas": {
+            "level": 68,
+            "ivs": {
+                "sp": 0
+            },
+            "item": "Weakness Policy",
+            "ability": "White Smoke",
+            "nature": "Quiet",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Burning Jealousy",
+                "Scorching Sands",
+                "Giga Drain",
+                "Drain Punch"
+            ],
+            "index": 708
+        },
+        "Bug Maniac Axle": {
+            "level": 75,
+            "ivs": null,
+            "item": "Jaboca Berry",
+            "ability": "White Smoke",
+            "nature": "Hardy",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Overheat",
+                "Fire Punch",
+                "Thunder Punch",
+                "Drain Punch"
+            ],
+            "index": 875
+        }
+    },
+    "Weezing": {
+        "Kindler Bryant": {
+            "level": 38,
+            "ivs": null,
+            "item": "Sitrus Berry",
+            "ability": "Levitate",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Sludge Bomb",
+                "Heat Wave",
+                "Shadow Ball",
+                "Explosion"
+            ],
+            "index": 191
+        },
+        "Ninja Boy Takashi": {
+            "level": 64,
+            "ivs": null,
+            "item": "Wise Glasses",
+            "ability": "Levitate",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Sludge Bomb",
+                "Thunderbolt",
+                "Dark Pulse",
+                "Destiny Bond"
+            ],
+            "index": 490
+        }
+    },
+    "Rotom-Heat": {
+        "Kindler Bryant": {
+            "level": 38,
+            "ivs": null,
+            "item": "White Herb",
+            "ability": "Levitate",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Overheat",
+                "Thunderbolt",
+                "Volt Switch",
+                "Thunder Wave"
+            ],
+            "index": 192
+        }
+    },
+    "Vileplume": {
+        "Lady Shayla": {
+            "level": 38,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Chlorophyll",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Energy Ball",
+                "Sludge Bomb",
+                "Moonblast",
+                "Moonlight"
+            ],
+            "index": 193
+        },
+        "Ranger Luella": {
+            "level": 53,
+            "ivs": null,
+            "item": "Quick Claw",
+            "ability": "Chlorophyll",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Sludge Bomb",
+                "Giga Drain",
+                "Moonblast",
+                "Moonlight"
+            ],
+            "index": 371
+        }
+    },
+    "Appletun": {
+        "Lady Shayla": {
+            "level": 38,
+            "ivs": null,
+            "item": "Quick Claw",
+            "ability": "Thick Fat",
+            "nature": "Quiet",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Apple Acid",
+                "Dragon Pulse",
+                "Heavy Slam",
+                "Growth"
+            ],
+            "index": 194
+        }
+    },
+    "Arboliva": {
+        "Lady Shayla": {
+            "level": 38,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Seed Sower",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Hyper Voice",
+                "Giga Drain",
+                "Earth Power",
+                "Mirror Coat"
+            ],
+            "index": 195
+        }
+    },
+    "Rotom-Mow": {
+        "Lady Shayla": {
+            "level": 38,
+            "ivs": null,
+            "item": "White Herb",
+            "ability": "Levitate",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Leaf Storm",
+                "Thunderbolt",
+                "Volt Switch",
+                "Thunder Wave"
+            ],
+            "index": 196
+        },
+        "Aroma Lady Mia": {
+            "level": 53,
+            "ivs": null,
+            "item": "Eject Pack",
+            "ability": "Levitate",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Leaf Storm",
+                "Thunderbolt",
+                "Volt Switch",
+                "Shadow Ball"
+            ],
+            "index": 315
+        }
+    },
+    "Farigiraf": {
+        "Picnicker Irene": {
+            "level": 38,
+            "ivs": null,
+            "item": "Throat Spray",
+            "ability": "Cud Chew",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Hyper Voice",
+                "Twin Beam",
+                "Energy Ball",
+                "Nasty Plot"
+            ],
+            "index": 197
+        },
+        "Aroma Lady Mia": {
+            "level": 53,
+            "ivs": null,
+            "item": "Throat Spray",
+            "ability": "Armor Tail",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Hyper Voice",
+                "Twin Beam",
+                "Thunderbolt",
+                "Agility"
+            ],
+            "index": 316
+        },
+        "Moxi and Gian": {
+            "level": 0,
+            "ivs": null,
+            "item": "Colbur Berry",
+            "ability": "Sap Sipper",
+            "nature": "Bold",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Skill Swap",
+                "Thunderbolt",
+                "Expanding Force",
+                "Energy Ball"
+            ],
+            "index": 437
+        },
+        "Kyra": {
+            "level": 70,
+            "ivs": null,
+            "item": "Aguav Berry",
+            "ability": "Armor Tail",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Hyper Voice",
+                "Twin Beam",
+                "Light Screen",
+                "Reflect"
+            ],
+            "index": 584
+        },
+        "Gentleman Walter": {
+            "level": 68,
+            "ivs": null,
+            "item": "Silk Scarf",
+            "ability": "Armor Tail",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Twin Beam",
+                "Round",
+                "Foul Play",
+                "Future Sight"
+            ],
+            "index": 615
+        },
+        "Psychic Blake and Psychic Samantha": {
+            "level": 68,
+            "ivs": {
+                "sp": 0
+            },
+            "item": "Throat Spray",
+            "ability": "Armor Tail",
+            "nature": "Quiet",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Hyper Voice",
+                "Psychic Noise",
+                "Energy Ball",
+                "Shadow Ball"
+            ],
+            "index": 692
+        }
+    },
+    "Sudowoodo": {
+        "Picnicker Irene": {
+            "level": 38,
+            "ivs": null,
+            "item": "Quick Claw",
+            "ability": "Sturdy",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Stone Edge",
+                "Earthquake",
+                "Drain Punch",
+                "Trailblaze"
+            ],
+            "index": 199
+        },
+        "Camper Brandan": {
+            "level": 55,
+            "ivs": null,
+            "item": "Quick Claw",
+            "ability": "Sturdy",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Stone Edge",
+                "Earthquake",
+                "Ice Punch",
+                "Thunder Punch"
+            ],
+            "index": 395
+        },
+        "Pokemon Breeder Myles": {
+            "level": 70,
+            "ivs": null,
+            "item": "Quick Claw",
+            "ability": "Sturdy",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Stone Edge",
+                "Hammer Arm",
+                "High Horsepower",
+                "Ice Punch"
+            ],
+            "index": 603
+        }
+    },
+    "Blastoise": {
+        "Picnicker Irene": {
+            "level": 38,
+            "ivs": null,
+            "item": "Power Herb",
+            "ability": "Torrent",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Waterfall",
+                "Ice Spinner",
+                "Zen Headbutt",
+                "Skull Bash"
+            ],
+            "index": 201
+        },
+        "Ranger Jackson": {
+            "level": 62,
+            "ivs": null,
+            "item": "White Herb",
+            "ability": "Rain Dish",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Liquidation",
+                "Ice Spinner",
+                "Zen Headbutt",
+                "Shell Smash"
+            ],
+            "index": 472
+        },
+        "Psychic Virgil and Gentleman Nate": {
+            "level": 70,
+            "ivs": {
+                "sp": 0
+            },
+            "item": "Covert Cloak",
+            "ability": "Torrent",
+            "nature": "Brave",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Liquidation",
+                "Ice Spinner",
+                "Rock Slide",
+                "Fake Out"
+            ],
+            "index": 700
+        }
+    },
+    "Scolipede": {
+        "Camper Beau": {
+            "level": 40,
+            "ivs": null,
+            "item": "Clear Amulet",
+            "ability": "Speed Boost",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "X-Scissor",
+                "Poison Jab",
+                "Earthquake",
+                "Throat Chop"
+            ],
+            "index": 202
+        },
+        "Ruin Maniac Gaben": {
+            "level": 53,
+            "ivs": null,
+            "item": "Clear Amulet",
+            "ability": "Speed Boost",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "X-Scissor",
+                "Poison Jab",
+                "Stomping Tantrum",
+                "Rock Slide"
+            ],
+            "index": 352
+        },
+        "Swimmer Spencer": {
+            "level": 68,
+            "ivs": null,
+            "item": "White Herb",
+            "ability": "Speed Boost",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "X-Scissor",
+                "Poison Jab",
+                "Smart Strike",
+                "Swords Dance"
+            ],
+            "index": 652
+        }
+    },
+    "Gogoat": {
+        "Camper Beau": {
+            "level": 40,
+            "ivs": null,
+            "item": "Miracle Seed",
+            "ability": "Sap Sipper",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Seed Bomb",
+                "Earthquake",
+                "Rock Slide",
+                "Milk Drink"
+            ],
+            "index": 203
+        },
+        "Ranger Catherine": {
+            "level": 62,
+            "ivs": null,
+            "item": "Miracle Seed",
+            "ability": "Grass Pelt",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Grassy Glide",
+                "Wild Charge",
+                "Stomping Tantrum",
+                "Synthesis"
+            ],
+            "index": 467
+        }
+    },
+    "Krookodile": {
+        "Camper Beau": {
+            "level": 40,
+            "ivs": null,
+            "item": "Dark Gem",
+            "ability": "Intimidate",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Crunch",
+                "Stomping Tantrum",
+                "Low Sweep",
+                "Dragon Tail"
+            ],
+            "index": 204
+        },
+        "Ace Trainer Duke": {
+            "level": 53,
+            "ivs": null,
+            "item": "Assault Vest",
+            "ability": "Moxie",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Earthquake",
+                "Knock Off",
+                "Stone Edge",
+                "Poison Jab"
+            ],
+            "index": 336
+        },
+        "Battle Girl Aisha": {
+            "level": 75,
+            "ivs": null,
+            "item": "Assault Vest",
+            "ability": "Intimidate",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Earthquake",
+                "Knock Off",
+                "Stone Edge",
+                "Dragon Claw"
+            ],
+            "index": 796
+        },
+        "Cooltrainer MBF": {
+            "level": 90,
+            "ivs": null,
+            "item": "Sitrus Berry",
+            "ability": "Intimidate",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "High Horsepower",
+                "Crunch",
+                "Gunk Shot",
+                "Hone Claws"
+            ],
+            "index": 976
+        }
+    },
+    "Dubwool": {
+        "Camper Beau": {
+            "level": 40,
+            "ivs": null,
+            "item": "Sitrus Berry",
+            "ability": "Fluffy",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Retaliate",
+                "Grassy Glide",
+                "Payback",
+                "Reversal"
+            ],
+            "index": 205
+        },
+        "Ranger Catherine": {
+            "level": 62,
+            "ivs": null,
+            "item": "Grassy Seed",
+            "ability": "Fluffy",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Body Slam",
+                "Grassy Glide",
+                "Wild Charge",
+                "Swords Dance"
+            ],
+            "index": 468
+        }
+    },
+    "Aggron": {
+        "Poke Maniac Wyatt": {
+            "level": 40,
+            "ivs": null,
+            "item": "Quick Claw",
+            "ability": "Sturdy",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Iron Head",
+                "Rock Slide",
+                "Ice Punch",
+                "Stealth Rock"
+            ],
+            "index": 206
+        }
+    },
+    "Carnivine": {
+        "Poke Maniac Wyatt": {
+            "level": 38,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Levitate",
+            "nature": "Brave",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Power Whip",
+                "Knock Off",
+                "Sludge Bomb",
+                "Growth"
+            ],
+            "index": 207
+        }
+    },
+    "Quaquaval": {
+        "Poke Maniac Wyatt": {
+            "level": 38,
+            "ivs": null,
+            "item": "Flying Gem",
+            "ability": "Moxie",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Aqua Cutter",
+                "Brick Break",
+                "Acrobatics",
+                "Aqua Jet"
+            ],
+            "index": 208
+        },
+        "Leader Juan": {
+            "level": 39,
+            "ivs": null,
+            "item": "Flying Gem",
+            "ability": "Moxie",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Brick Break",
+                "Aqua Cutter",
+                "Acrobatics",
+                "Roost"
+            ],
+            "index": 311
+        },
+        "Parasol Lady Katrina": {
+            "level": 75,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Moxie",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Aqua Step",
+                "Close Combat",
+                "Knock Off",
+                "Ice Spinner"
+            ],
+            "index": 799
+        },
+        "Aqua Leader Archie": {
+            "level": 89,
+            "ivs": null,
+            "item": "Flying Gem",
+            "ability": "Torrent",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Close Combat",
+                "Aqua Step",
+                "Aqua Jet",
+                "Acrobatics"
+            ],
+            "index": 1024
+        }
+    },
+    "Durant": {
+        "Poke Maniac Wyatt": {
+            "level": 38,
+            "ivs": null,
+            "item": "Occa Berry",
+            "ability": "Swarm",
+            "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "First Impression",
+                "X-Scissor",
+                "Iron Head",
+                "Stomping Tantrum"
+            ],
+            "index": 209
+        }
+    },
+    "Houndoom": {
+        "Camper Lawrence": {
+            "level": 38,
+            "ivs": null,
+            "item": "Life Orb",
+            "ability": "Unnerve",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Body Slam",
+                "Fire Fang",
+                "Psychic Fangs",
+                "Thunder Fang"
+            ],
+            "index": 210
+        }
+    },
+    "Ampharos": {
+        "Camper Lawrence": {
+            "level": 38,
+            "ivs": null,
+            "item": "Leftovers",
+            "ability": "Static",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Thunderbolt",
+                "Dragon Pulse",
+                "Power Gem",
+                "Thunder Wave"
+            ],
+            "index": 211
+        },
+        "Ranger Catherine": {
+            "level": 62,
+            "ivs": null,
+            "item": "Air Balloon",
+            "ability": "Static",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Thunderbolt",
+                "Focus Blast",
+                "Dragon Pulse",
+                "Thunder Wave"
+            ],
+            "index": 469
+        },
+        "Swimmer Richard": {
+            "level": 75,
+            "ivs": {
+                "hp": 30,
+                "sa": 30
+            },
+            "item": "Power Herb",
+            "ability": "Static",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Meteor Beam",
+                "Thunderbolt",
+                "Hidden Power Grass",
+                "Dazzling Gleam"
+            ],
+            "index": 761
+        }
+    },
+    "Pinsir": {
+        "Camper Lawrence": {
+            "level": 38,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Moxie",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "X-Scissor",
+                "Close Combat",
+                "Stone Edge",
+                "Swords Dance"
+            ],
+            "index": 213
+        },
+        "Swimmer Santiago": {
+            "level": 75,
+            "ivs": null,
+            "item": "Coba Berry",
+            "ability": "Mold Breaker",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "X-Scissor",
+                "Storm Throw",
+                "Body Slam",
+                "Swords Dance"
+            ],
+            "index": 746
+        }
+    },
+    "Grimmsnarl": {
+        "Ninja Boy Lao and Ninja Boy Lung": {
+            "level": 38,
+            "ivs": null,
+            "item": "Covert Cloak",
+            "ability": "Prankster",
+            "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "False Surrender",
+                "Spirit Break",
+                "Light Screen",
+                "Reflect"
+            ],
+            "index": 214
+        },
+        "Lady Ruby": {
+            "level": 53,
+            "ivs": null,
+            "item": "Clear Amulet",
+            "ability": "Prankster",
+            "nature": "Careful",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Bulk Up",
+                "Sucker Punch",
+                "Play Rough",
+                "Hammer Arm"
+            ],
+            "index": 366
+        },
+        "Camper Drew": {
+            "level": 55,
+            "ivs": null,
+            "item": "Light Clay",
+            "ability": "Prankster",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Spirit Break",
+                "Lash Out",
+                "Light Screen",
+                "Reflect"
+            ],
+            "index": 408
+        },
+        "Swimmer Jenny": {
+            "level": 68,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Prankster",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "False Surrender",
+                "Spirit Break",
+                "Light Screen",
+                "Reflect"
+            ],
+            "index": 658
+        },
+        "Hex Maniac Kathleen and Psychic Nicholas": {
+            "level": 70,
+            "ivs": {
+                "sp": 0
+            },
+            "item": "Fairy Feather",
+            "ability": "Prankster",
+            "nature": "Brave",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Throat Chop",
+                "Spirit Break",
+                "Hammer Arm",
+                "Fake Out"
+            ],
+            "index": 709
+        },
+        "Cooltrainer Red": {
+            "level": 90,
+            "ivs": null,
+            "item": "Light Clay",
+            "ability": "Prankster",
+            "nature": "Bold",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Foul Play",
+                "Body Press",
+                "Light Screen",
+                "Reflect"
+            ],
+            "index": 993
+        }
+    },
+    "Typhlosion-Hisui": {
+        "Ninja Boy Lao and Ninja Boy Lung": {
+            "level": 38,
+            "ivs": null,
+            "item": "Bright Powder",
+            "ability": "Frisk",
+            "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Burning Jealousy",
+                "Infernal Parade",
+                "Thunder Punch",
+                "Will-O-Wisp"
+            ],
+            "index": 215
+        },
+        "Swimmer Tanya": {
+            "level": 68,
+            "ivs": null,
+            "item": "Life Orb",
+            "ability": "Blaze",
+            "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Flamethrower",
+                "Poltergeist",
+                "Shadow Ball",
+                "Extrasensory"
+            ],
+            "index": 642
+        }
+    },
+    "Banette": {
+        "Ninja Boy Lao and Ninja Boy Lung": {
+            "level": 40,
+            "ivs": null,
+            "item": "Quick Claw",
+            "ability": "Cursed Body",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Shadow Force",
+                "Shadow Claw",
+                "Gunk Shot",
+                "Will-O-Wisp"
+            ],
+            "index": 216
+        },
+        "Hex Maniac Tammy": {
+            "level": 70,
+            "ivs": {
+                "sp": 0
+            },
+            "item": "Muscle Band",
+            "ability": "Cursed Body",
+            "nature": "Brave",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Poltergeist",
+                "Shadow Claw",
+                "Gunk Shot",
+                "Protect"
+            ],
+            "index": 578
+        },
+        "Swimmer Susie": {
+            "level": 75,
+            "ivs": null,
+            "item": "Power Herb",
+            "ability": "Cursed Body",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Phantom Force",
+                "Shadow Claw",
+                "Gunk Shot",
+                "Knock Off"
+            ],
+            "index": 768
+        }
+    },
+    "Cacturne": {
+        "Ninja Boy Lao and Ninja Boy Lung": {
+            "level": 40,
+            "ivs": null,
+            "item": "Focus Band",
+            "ability": "Water Absorb",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Energy Ball",
+                "Dark Pulse",
+                "Focus Blast",
+                "Destiny Bond"
+            ],
+            "index": 217
+        },
+        "Camper Brandan": {
+            "level": 52,
+            "ivs": null,
+            "item": "Grass Gem",
+            "ability": "Sand Veil",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Seed Bomb",
+                "Knock Off",
+                "Poison Jab",
+                "Spiky Shield"
+            ],
+            "index": 396
+        },
+        "Swimmer Robyn": {
+            "level": 75,
+            "ivs": null,
+            "item": "White Herb",
+            "ability": "Sand Veil",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Needle Arm",
+                "Leaf Storm",
+                "Focus Blast",
+                "Dark Pulse"
+            ],
+            "index": 740
+        }
+    },
+    "Rapidash": {
+        "Twins Tori & Tia": {
+            "level": 38,
+            "ivs": null,
+            "item": "Soft Sand",
+            "ability": "Flame Body",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Flare Blitz",
+                "Smart Strike",
+                "High Horsepower",
+                "Morning Sun"
+            ],
+            "index": 218
+        },
+        "Aroma Lady Mia": {
+            "level": 53,
+            "ivs": null,
+            "item": "Liechi Berry",
+            "ability": "Flame Body",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Flare Blitz",
+                "Double-Edge",
+                "High Horsepower",
+                "Flame Charge"
+            ],
+            "index": 314
+        }
+    },
+    "Rapidash-Galar": {
+        "Twins Tori & Tia": {
+            "level": 38,
+            "ivs": null,
+            "item": "Soft Sand",
+            "ability": "Pastel Veil",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Play Rough",
+                "Psycho Cut",
+                "High Horsepower",
+                "Morning Sun"
+            ],
+            "index": 219
+        },
+        "Kindler Jeff": {
+            "level": 75,
+            "ivs": null,
+            "item": "Kebia Berry",
+            "ability": "Pastel Veil",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Play Rough",
+                "Zen Headbutt",
+                "High Horsepower",
+                "Will-O-Wisp"
+            ],
+            "index": 867
+        }
+    },
+    "Weavile": {
+        "Twins Tori & Tia": {
+            "level": 38,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Pressure",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Throat Chop",
+                "Ice Punch",
+                "X-Scissor",
+                "Fake Out"
+            ],
+            "index": 220
+        },
+        "Tuber Roy": {
+            "level": 68,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Pressure",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Icicle Crash",
+                "Knock Off",
+                "Low Kick",
+                "Ice Shard"
+            ],
+            "index": 637
+        },
+        "Swimmer Grace": {
+            "level": 70,
+            "ivs": null,
+            "item": "Choice Band",
+            "ability": "Pressure",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Icicle Crash",
+                "Throat Chop"
+            ],
+            "index": 656
+        },
+        "Cooltrainer Katelynn": {
+            "level": 89,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Pressure",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Icicle Crash",
+                "Knock Off",
+                "Poison Jab",
+                "Fake Out"
+            ],
+            "index": 925
+        }
+    },
+    "Sneasler": {
+        "Twins Tori & Tia": {
+            "level": 38,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Unburden",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Poison Jab",
+                "Brick Break",
+                "X-Scissor",
+                "Fake Out"
+            ],
+            "index": 221
+        },
+        "Jessica": {
+            "level": 68,
+            "ivs": null,
+            "item": "Psychic Seed",
+            "ability": "Unburden",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Sky Uppercut",
+                "Dire Claw",
+                "Acrobatics",
+                "Throat Chop"
+            ],
+            "index": 582
+        },
+        "Aroma Lady Rachel": {
+            "level": 89,
+            "ivs": null,
+            "item": "Grassy Seed",
+            "ability": "Unburden",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Dire Claw",
+                "Close Combat",
+                "Acrobatics",
+                "Fake Out"
+            ],
+            "index": 942
+        },
+        "Cooltrainer Halle": {
+            "level": 90,
+            "ivs": null,
+            "item": "Misty Seed",
+            "ability": "Unburden",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Close Combat",
+                "Dire Claw",
+                "Acrobatics",
+                "Swords Dance"
+            ],
+            "index": 1010
+        },
+        "Elite Four Janine": {
+            "level": 89,
+            "ivs": null,
+            "item": "Flying Gem",
+            "ability": "Unburden",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Dire Claw",
+                "Drain Punch",
+                "Acrobatics",
+                "Fake Out"
+            ],
+            "index": 1043
+        }
+    },
+    "Musharna": {
+        "Hex Maniac Madeline": {
+            "level": 38,
+            "ivs": {
+                "sp": 0
+            },
+            "item": "Covert Cloak",
+            "ability": "Telepathy",
+            "nature": "Relaxed",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Psychic",
+                "Moonblast",
+                "Recover",
+                "Trick Room"
+            ],
+            "index": 222
+        }
+    },
+    "Perrserker": {
+        "Hex Maniac Madeline": {
+            "level": 38,
+            "ivs": {
+                "sp": 0
+            },
+            "item": "Focus Sash",
+            "ability": "Battle Armor",
+            "nature": "Brave",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Iron Head",
+                "Close Combat",
+                "Play Rough",
+                "Fake Out"
+            ],
+            "index": 223
+        },
+        "Ace Trainer Duke": {
+            "level": 53,
+            "ivs": null,
+            "item": "Choice Scarf",
+            "ability": "Tough Claws",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Iron Head",
+                "Play Rough",
+                "U-turn",
+                "Knock Off"
+            ],
+            "index": 333
+        }
+    },
+    "Huntail": {
+        "Hex Maniac Madeline": {
+            "level": 38,
+            "ivs": {
+                "sp": 0
+            },
+            "item": "Mystic Water",
+            "ability": "Water Veil",
+            "nature": "Brave",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Liquidation",
+                "Crunch",
+                "Ice Fang",
+                "Super Fang"
+            ],
+            "index": 224
+        },
+        "Swimmer Robyn": {
+            "level": 75,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Water Veil",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Liquidation",
+                "Crunch",
+                "Ice Fang",
+                "Coil"
+            ],
+            "index": 741
+        }
+    },
+    "Marowak-Alola": {
+        "Hex Maniac Madeline": {
+            "level": 38,
+            "ivs": {
+                "sp": 0
+            },
+            "item": "Clear Amulet",
+            "ability": "Cursed Body",
+            "nature": "Brave",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Shadow Bone",
+                "Fire Punch",
+                "Bonemerang",
+                "Thunder Punch"
+            ],
+            "index": 225
+        },
+        "Swimmer Robyn": {
+            "level": 75,
+            "ivs": null,
+            "item": "Thick Club",
+            "ability": "Rock Head",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Shadow Bone",
+                "Bonemerang",
+                "Fire Punch",
+                "Thunder Punch"
+            ],
+            "index": 739
+        }
+    },
+    "Maractus": {
+        "Hex Maniac Madeline": {
+            "level": 38,
+            "ivs": {
+                "sp": 0
+            },
+            "item": "Grass Gem",
+            "ability": "Storm Drain",
+            "nature": "Brave",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Leaf Storm",
+                "Seed Bomb",
+                "Drain Punch",
+                "Spiky Shield"
+            ],
+            "index": 226
+        }
+    },
+    "Rillaboom": {
+        "Picknicker Sophie": {
+            "level": 38,
+            "ivs": null,
+            "item": "Clear Amulet",
+            "ability": "Grassy Surge",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Drum Beating",
+                "Hammer Arm",
+                "High Horsepower",
+                "Fake Out"
+            ],
+            "index": 227
+        },
+        "Ranger Jackson": {
+            "level": 62,
+            "ivs": null,
+            "item": "Grassy Seed",
+            "ability": "Overgrow",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Grassy Glide",
+                "High Horsepower",
+                "Hammer Arm",
+                "Acrobatics"
+            ],
+            "index": 473
+        },
+        "Presley and Auron": {
+            "level": 70,
+            "ivs": null,
+            "item": "Assault Vest",
+            "ability": "Grassy Surge",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Fake Out",
+                "Grassy Glide",
+                "Knock Off",
+                "High Horsepower"
+            ],
+            "index": 672
+        },
+        "Psychic Virgil and Gentleman Nate": {
+            "level": 68,
+            "ivs": {
+                "sp": 0
+            },
+            "item": "Terrain Extender",
+            "ability": "Grassy Surge",
+            "nature": "Brave",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Grassy Glide",
+                "Hammer Arm",
+                "High Horsepower",
+                "Fake Out"
+            ],
+            "index": 698
+        },
+        "Cooltrainer Caroline": {
+            "level": 90,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Overgrow",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Grassy Glide",
+                "Fake Out",
+                "High Horsepower",
+                "U-turn"
+            ],
+            "index": 981
+        }
+    },
+    "Slowking-Galar": {
+        "Picknicker Sophie": {
+            "level": 39,
+            "ivs": null,
+            "item": "Leftovers",
+            "ability": "Curious Medicine",
+            "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Sludge Bomb",
+                "Eerie Spell",
+                "Scald",
+                "Yawn"
+            ],
+            "index": 230
+        },
+        "Hex Maniac Tammy": {
+            "level": 68,
+            "ivs": {
+                "sp": 0
+            },
+            "item": "Leftovers",
+            "ability": "Own Tempo",
+            "nature": "Quiet",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Sludge Bomb",
+                "Eerie Spell",
+                "Chilling Water",
+                "Slack Off"
+            ],
+            "index": 576
+        },
+        "Battle Girl Aisha": {
+            "level": 75,
+            "ivs": null,
+            "item": "Quick Claw",
+            "ability": "Own Tempo",
+            "nature": "Bold",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Sludge Wave",
+                "Future Sight",
+                "Surf",
+                "Slack Off"
+            ],
+            "index": 794
+        }
+    },
+    "Hitmontop": {
+        "Picknicker Sophie": {
+            "level": 39,
+            "ivs": null,
+            "item": "Expert Belt",
+            "ability": "Intimidate",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Close Combat",
+                "Triple Axel",
+                "Drill Run",
+                "Fake Out"
+            ],
+            "index": 231
+        },
+        "Pokemon Breeder Myles": {
+            "level": 70,
+            "ivs": null,
+            "item": "Sitrus Berry",
+            "ability": "Intimidate",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Close Combat",
+                "Throat Chop",
+                "Rock Slide",
+                "Bullet Punch"
+            ],
+            "index": 601
+        },
+        "Psychic Blake and Psychic Samantha": {
+            "level": 70,
+            "ivs": {
+                "sp": 0
+            },
+            "item": "Wide Lens",
+            "ability": "Intimidate",
+            "nature": "Brave",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Close Combat",
+                "Triple Axel",
+                "Protect",
+                "Fake Out"
+            ],
+            "index": 691
+        },
+        "Swimmer Richard": {
+            "level": 75,
+            "ivs": null,
+            "item": "Choice Band",
+            "ability": "Scrappy",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Rolling Kick",
+                "Triple Axel",
+                "Earthquake"
+            ],
+            "index": 763
+        }
+    },
+    "Azumarill": {
+        "Fisherman Claude": {
+            "level": 38,
+            "ivs": null,
+            "item": "Expert Belt",
+            "ability": "Huge Power",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Play Rough",
+                "Waterfall",
+                "Ice Spinner",
+                "Aqua Jet"
+            ],
+            "index": 232
+        },
+        "Pokemon Breeder Myles": {
+            "level": 70,
+            "ivs": null,
+            "item": "Misty Seed",
+            "ability": "Huge Power",
+            "nature": "Rash",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Misty Explosion",
+                "Aqua Tail",
+                "Play Rough",
+                "Ice Punch"
+            ],
+            "index": 602
+        },
+        "Tuber Roy": {
+            "level": 68,
+            "ivs": null,
+            "item": "Fairy Feather",
+            "ability": "Huge Power",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Play Rough",
+                "Liquidation",
+                "Ice Spinner",
+                "Aqua Jet"
+            ],
+            "index": 638
+        },
+        "Cooltrainer Tyler": {
+            "level": 74,
+            "ivs": null,
+            "item": "Sitrus Berry",
+            "ability": "Huge Power",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Play Rough",
+                "Waterfall",
+                "Aqua Jet",
+                "Belly Drum"
+            ],
+            "index": 843
+        }
+    },
+    "Wugtrio": {
+        "Fisherman Claude": {
+            "level": 38,
+            "ivs": null,
+            "item": "Choice Band",
+            "ability": "Gooey",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Triple Dive",
+                "Final Gambit"
+            ],
+            "index": 234
+        }
+    },
+    "Qwilfish": {
+        "Fisherman Claude": {
+            "level": 38,
+            "ivs": null,
+            "item": "Poison Gem",
+            "ability": "Intimidate",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Waterfall",
+                "Poison Jab",
+                "Fell Stinger",
+                "Aqua Jet"
+            ],
+            "index": 235
+        }
+    },
+    "Tatsugiri": {
+        "Fisherman Claude": {
+            "level": 39,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Storm Drain",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Surf",
+                "Dragon Pulse",
+                "Icy Wind",
+                "Mirror Coat"
+            ],
+            "index": 236
+        }
+    },
+    "Torkoal": {
+        "Kindler Bernie": {
+            "level": 38,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Drought",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Heat Wave",
+                "Solar Beam",
+                "Earth Power",
+                "Stealth Rock"
+            ],
+            "index": 237
+        },
+        "Kindler Ryker": {
+            "level": 75,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Drought",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Earth Power",
+                "Heat Wave",
+                "Solar Beam",
+                "Stealth Rock"
+            ],
+            "index": 822
+        },
+        "Leader Flannery": {
+            "level": 77,
+            "ivs": null,
+            "item": "Covert Cloak",
+            "ability": "Drought",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Weather Ball",
+                "Solar Beam",
+                "Earth Power",
+                "Protect"
+            ],
+            "index": 904
+        },
+        "Aroma Lady Rachel": {
+            "level": 90,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Drought",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Heat Wave",
+                "Earth Power",
+                "Body Press",
+                "Stealth Rock"
+            ],
+            "index": 939
+        }
+    },
+    "Coalossal": {
+        "Kindler Bernie": {
+            "level": 38,
+            "ivs": null,
+            "item": "Power Herb",
+            "ability": "Steam Engine",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Meteor Beam",
+                "Power Gem",
+                "Incinerate",
+                "Solar Beam"
+            ],
+            "index": 238
+        }
+    },
+    "Castform": {
+        "Kindler Bernie": {
+            "level": 39,
+            "ivs": null,
+            "item": "Life Orb",
+            "ability": "Forecast",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Fire Blast",
+                "Ice Beam",
+                "Thunderbolt",
+                "Energy Ball"
+            ],
+            "index": 239
+        }
+    },
+    "Bellossom": {
+        "Kindler Bernie": {
+            "level": 39,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Chlorophyll",
+            "nature": "Hasty",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Solar Beam",
+                "Moonblast",
+                "Weather Ball",
+                "Growth"
+            ],
+            "index": 240
+        },
+        "Swimmer Tanya": {
+            "level": 70,
+            "ivs": null,
+            "item": "Wise Glasses",
+            "ability": "Healer",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Energy Ball",
+                "Moonblast",
+                "Weather Ball",
+                "Quiver Dance"
+            ],
+            "index": 645
+        }
+    },
+    "Overqwil": {
+        "Fisherman Nolan": {
+            "level": 38,
+            "ivs": null,
+            "item": "Sitrus Berry",
+            "ability": "Intimidate",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Crunch",
+                "Poison Jab",
+                "Barb Barrage",
+                "Toxic Spikes"
+            ],
+            "index": 241
+        },
+        "Parasol Lady Rose": {
+            "level": 63,
+            "ivs": null,
+            "item": "Clear Amulet",
+            "ability": "Intimidate",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Gunk Shot",
+                "Throat Chop",
+                "Waterfall",
+                "Destiny Bond"
+            ],
+            "index": 494
+        },
+        "Guitarist Kendall": {
+            "level": 75,
+            "ivs": null,
+            "item": "Wide Lens",
+            "ability": "Poison Point",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Gunk Shot",
+                "Crunch",
+                "Liquidation",
+                "Destiny Bond"
+            ],
+            "index": 807
+        }
+    },
+    "Slowking": {
+        "Fisherman Nolan": {
+            "level": 38,
+            "ivs": null,
+            "item": "Leftovers",
+            "ability": "Regenerator",
+            "nature": "Relaxed",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Psychic",
+                "Scald",
+                "Chilly Reception",
+                "Slack Off"
+            ],
+            "index": 243
+        }
+    },
+    "Walrein": {
+        "Fisherman Nolan": {
+            "level": 39,
+            "ivs": null,
+            "item": "Expert Belt",
+            "ability": "Ice Body",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Liquidation",
+                "Avalanche",
+                "Earthquake",
+                "Attract"
+            ],
+            "index": 244
+        },
+        "Swimmer Allison": {
+            "level": 75,
+            "ivs": null,
+            "item": "Chesto Berry",
+            "ability": "Thick Fat",
+            "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Surf",
+                "Ice Beam",
+                "Earthquake",
+                "Rest"
+            ],
+            "index": 733
+        }
+    },
+    "Basculin": {
+        "Fisherman Kai": {
+            "level": 38,
+            "ivs": null,
+            "item": "Life Orb",
+            "ability": "Adaptability",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Liquidation",
+                "Take Down",
+                "Crunch",
+                "Aqua Jet"
+            ],
+            "index": 245
+        }
+    },
+    "Veluza": {
+        "Fisherman Kai": {
+            "level": 38,
+            "ivs": null,
+            "item": "Scope Lens",
+            "ability": "Sharpness",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Aqua Cutter",
+                "Psycho Cut",
+                "Night Slash",
+                "Slash"
+            ],
+            "index": 246
+        },
+        "Swimmer Allison": {
+            "level": 75,
+            "ivs": null,
+            "item": "Assault Vest",
+            "ability": "Sharpness",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Liquidation",
+                "Psycho Cut",
+                "Night Slash",
+                "Crunch"
+            ],
+            "index": 732
+        }
+    },
+    "Starmie": {
+        "Fisherman Kai": {
+            "level": 38,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Analytic",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Surf",
+                "Psychic",
+                "Power Gem",
+                "Confuse Ray"
+            ],
+            "index": 247
+        },
+        "Leader Juan": {
+            "level": 39,
+            "ivs": null,
+            "item": "Wise Glasses",
+            "ability": "Natural Cure",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Thunder",
+                "Surf",
+                "Psychic",
+                "Icy Wind"
+            ],
+            "index": 312
+        },
+        "Lass Julia and Camper Rhett": {
+            "level": 55,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Analytic",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Scald",
+                "Psyshock",
+                "Thunderbolt",
+                "Ice Beam"
+            ],
+            "index": 422
+        },
+        "Lady Annie": {
+            "level": 75,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Illuminate",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Surf",
+                "Psychic",
+                "Power Gem",
+                "Reflect"
+            ],
+            "index": 811
+        },
+        "Cooltrainer Owen": {
+            "level": 89,
+            "ivs": null,
+            "item": "Mystic Water",
+            "ability": "Analytic",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Surf",
+                "Psyshock",
+                "Ice Beam",
+                "Thunderbolt"
+            ],
+            "index": 966
+        },
+        "Elite Four Misty": {
+            "level": 90,
+            "ivs": null,
+            "item": "Life Orb",
+            "ability": "Analytic",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Psychic",
+                "Scald",
+                "Thunderbolt",
+                "Rapid Spin"
+            ],
+            "index": 1051
+        }
+    },
+    "Dondozo": {
+        "Fisherman Kai": {
+            "level": 39,
+            "ivs": null,
+            "item": "Leftovers",
+            "ability": "Unaware",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Liquidation",
+                "Earthquake",
+                "Zen Headbutt",
+                "Ice Fang"
+            ],
+            "index": 248
+        }
+    },
+    "Roserade": {
+        "Teammates Tyra & Ivy": {
+            "level": 42,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Poison Point",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Sludge Bomb",
+                "Energy Ball",
+                "Extrasensory",
+                "Dazzling Gleam"
+            ],
+            "index": 249
+        },
+        "Parasol Lady Rose": {
+            "level": 62,
+            "ivs": {
+                "sp": 30
+            },
+            "item": "Black Sludge",
+            "ability": "Technician",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Sludge Bomb",
+                "Magical Leaf",
+                "Hidden Power Ice",
+                "Weather Ball"
+            ],
+            "index": 495
+        },
+        "Gentleman Walter": {
+            "level": 68,
+            "ivs": null,
+            "item": "Wise Glasses",
+            "ability": "Technician",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Sludge Bomb",
+                "Giga Drain",
+                "Extrasensory",
+                "Round"
+            ],
+            "index": 618
+        },
+        "Cooltrainer Quincy": {
+            "level": 89,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Natural Cure",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Energy Ball",
+                "Sludge Bomb",
+                "Weather Ball",
+                "Sleep Powder"
+            ],
+            "index": 930
+        },
+        "Elite Four Whitney": {
+            "level": 89,
+            "ivs": null,
+            "item": "Power Herb",
+            "ability": "Poison Point",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Solar Beam",
+                "Energy Ball",
+                "Sludge Bomb",
+                "Extrasensory"
+            ],
+            "index": 1039
+        }
+    },
+    "Golem": {
+        "Teammates Tyra & Ivy": {
+            "level": 42,
+            "ivs": null,
+            "item": "Covert Cloak",
+            "ability": "Sturdy",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Stone Edge",
+                "Stomping Tantrum",
+                "Hammer Arm",
+                "Fire Punch"
+            ],
+            "index": 250
+        },
+        "Hiker Eric": {
+            "level": 75,
+            "ivs": null,
+            "item": "Quick Claw",
+            "ability": "Sturdy",
+            "nature": "Adamant",
+            "teraType": "Flying",
+            "status": "Healthy",
+            "moves": [
+                "Tera Blast",
+                "Earthquake",
+                "Stone Edge",
+                "Thunder Punch"
+            ],
+            "index": 791
+        }
+    },
+    "Electabuzz": {
+        "Picknicker Nancy": {
+            "level": 38,
+            "ivs": null,
+            "item": "Eviolite",
+            "ability": "Static",
+            "nature": "Bold",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Thunderbolt",
+                "Psychic",
+                "Charge Beam",
+                "Follow Me"
+            ],
+            "index": 251
+        },
+        "Pokemon Breeder Pat": {
+            "level": 70,
+            "ivs": null,
+            "item": "Eviolite",
+            "ability": "Static",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Thunder Punch",
+                "Cross Chop",
+                "Fire Punch",
+                "Ice Punch"
+            ],
+            "index": 597
+        }
+    },
+    "Primarina": {
+        "Picknicker Nancy": {
+            "level": 38,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Liquid Voice",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Hyper Voice",
+                "Dazzling Gleam",
+                "Ice Beam",
+                "Sing"
+            ],
+            "index": 252
+        },
+        "Fisherman Wade": {
+            "level": 64,
+            "ivs": null,
+            "item": "Throat Spray",
+            "ability": "Liquid Voice",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Hyper Voice",
+                "Moonblast",
+                "Ice Beam",
+                "Sing"
+            ],
+            "index": 450
+        },
+        "Swimmer Jenny": {
+            "level": 68,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Torrent",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Sparkling Aria",
+                "Moonblast",
+                "Weather Ball",
+                "Flip Turn"
+            ],
+            "index": 660
+        },
+        "Cooltrainer Charlie": {
+            "level": 89,
+            "ivs": null,
+            "item": "Throat Spray",
+            "ability": "Torrent",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Sparkling Aria",
+                "Alluring Voice",
+                "Psychic Noise",
+                "Icy Wind"
+            ],
+            "index": 960
+        }
+    },
+    "Magmar": {
+        "Picknicker Nancy": {
+            "level": 38,
+            "ivs": null,
+            "item": "Eviolite",
+            "ability": "Flame Body",
+            "nature": "Bold",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Flamethrower",
+                "Psychic",
+                "Scorching Sands",
+                "Follow Me"
+            ],
+            "index": 253
+        },
+        "Pokemon Breeder Pat": {
+            "level": 70,
+            "ivs": null,
+            "item": "Eviolite",
+            "ability": "Flame Body",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Overheat",
+                "Fire Punch",
+                "Cross Chop",
+                "Thunder Punch"
+            ],
+            "index": 598
+        }
+    },
+    "Tsareena": {
+        "Picknicker Nancy": {
+            "level": 38,
+            "ivs": null,
+            "item": "Wide Lens",
+            "ability": "Queenly Majesty",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Trop Kick",
+                "Knock Off",
+                "Triple Axel",
+                "Low Kick"
+            ],
+            "index": 254
+        },
+        "Kyra": {
+            "level": 68,
+            "ivs": null,
+            "item": "Wide Lens",
+            "ability": "Queenly Majesty",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Power Whip",
+                "Play Rough",
+                "Triple Axel",
+                "Low Sweep"
+            ],
+            "index": 586
+        }
+    },
+    "Torterra": {
+        "Picknicker Charlotte": {
+            "level": 38,
+            "ivs": null,
+            "item": "Quick Claw",
+            "ability": "Overgrow",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Earthquake",
+                "Seed Bomb",
+                "Stone Edge",
+                "Stealth Rock"
+            ],
+            "index": 256
+        },
+        "Hex Maniac Sylvia and Psychic Hannah": {
+            "level": 68,
+            "ivs": {
+                "sp": 0
+            },
+            "item": "Yache Berry",
+            "ability": "Battle Armor",
+            "nature": "Brave",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "High Horsepower",
+                "Seed Bomb",
+                "Rock Slide",
+                "Giga Drain"
+            ],
+            "index": 706
+        }
+    },
+    "Golisopod": {
+        "Picknicker Charlotte": {
+            "level": 38,
+            "ivs": null,
+            "item": "Silver Powder",
+            "ability": "Emergency Exit",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "First Impression",
+                "X-Scissor",
+                "Razor Shell",
+                "Aqua Jet"
+            ],
+            "index": 258
+        },
+        "Bug Maniac Jeffrey": {
+            "level": 68,
+            "ivs": null,
+            "item": "Scope Lens",
+            "ability": "Emergency Exit",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "First Impression",
+                "X-Scissor",
+                "Razor Shell",
+                "Aqua Jet"
+            ],
+            "index": 556
+        }
+    },
+    "Klinklang": {
+        "Picknicker Charlotte": {
+            "level": 38,
+            "ivs": null,
+            "item": "Steel Gem",
+            "ability": "Clear Body",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Gear Grind",
+                "Wild Charge",
+                "Assurance",
+                "Shift Gear"
+            ],
+            "index": 259
+        }
+    },
+    "Infernape": {
+        "Camper Shane": {
+            "level": 38,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Iron Fist",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Fire Punch",
+                "Drain Punch",
+                "Thunder Punch",
+                "Stealth Rock"
+            ],
+            "index": 261
+        },
+        "Pokefan Vanessa": {
+            "level": null,
+            "ivs": null,
+            "item": "Air Balloon",
+            "ability": "Iron Fist",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Fire Punch",
+                "Drain Punch",
+                "Thunder Punch",
+                "Bulk Up"
+            ],
+            "index": 614
+        },
+        "Kindler Jeff": {
+            "level": 77,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Blaze",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Fire Punch",
+                "Drain Punch",
+                "Fake Out",
+                "Stealth Rock"
+            ],
+            "index": 864
+        },
+        "Expert Magik": {
+            "level": 89,
+            "ivs": null,
+            "item": "Life Orb",
+            "ability": "Blaze",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Close Combat",
+                "Flare Blitz",
+                "Poison Jab",
+                "U-turn"
+            ],
+            "index": 947
+        }
+    },
+    "Vaporeon": {
+        "Camper Shane": {
+            "level": 38,
+            "ivs": null,
+            "item": "Leftovers",
+            "ability": "Water Absorb",
+            "nature": "Impish",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Scald",
+                "Alluring Voice",
+                "Shadow Ball",
+                "Trailblaze"
+            ],
+            "index": 262
+        }
+    },
+    "Mudsdale": {
+        "Camper Shane": {
+            "level": 38,
+            "ivs": null,
+            "item": "Aguav Berry",
+            "ability": "Stamina",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "High Horsepower",
+                "Heavy Slam",
+                "Body Press",
+                "Low Kick"
+            ],
+            "index": 264
+        }
+    },
+    "Copperajah": {
+        "Camper Shane": {
+            "level": 38,
+            "ivs": null,
+            "item": "Metal Coat",
+            "ability": "Heavy Metal",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Iron Head",
+                "High Horsepower",
+                "Play Rough",
+                "Zen Headbutt"
+            ],
+            "index": 265
+        },
+        "Lass Julia and Camper Rhett": {
+            "level": 53,
+            "ivs": null,
+            "item": "Covert Cloak",
+            "ability": "Heavy Metal",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Heavy Slam",
+                "Headlong Rush",
+                "Double-Edge",
+                "Power Whip"
+            ],
+            "index": 420
+        }
+    },
+    "Empoleon": {
+        "Picnicker Angelina": {
+            "level": 38,
+            "ivs": null,
+            "item": "Leftovers",
+            "ability": "Torrent",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Surf",
+                "Flash Cannon",
+                "Roost",
+                "Stealth Rock"
+            ],
+            "index": 266
+        },
+        "Fisherman Barny": {
+            "level": 62,
+            "ivs": null,
+            "item": "Chople Berry",
+            "ability": "Competitive",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Scald",
+                "Flash Cannon",
+                "Air Slash",
+                "Roost"
+            ],
+            "index": 444
+        },
+        "Expert Magik": {
+            "level": 90,
+            "ivs": null,
+            "item": "Shuca Berry",
+            "ability": "Torrent",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Surf",
+                "Flash Cannon",
+                "Ice Beam",
+                "Stealth Rock"
+            ],
+            "index": 946
+        },
+        "Cooltrainer Caroline": {
+            "level": 89,
+            "ivs": null,
+            "item": "Life Orb",
+            "ability": "Torrent",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Hydro Pump",
+                "Ice Beam",
+                "Stealth Rock",
+                "Flash Cannon"
+            ],
+            "index": 982
+        }
+    },
+    "Leafeon": {
+        "Picnicker Angelina": {
+            "level": 38,
+            "ivs": null,
+            "item": "Loaded Dice",
+            "ability": "Technician",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Bullet Seed",
+                "X-Scissor",
+                "Trailblaze",
+                "Yawn"
+            ],
+            "index": 267
+        }
+    },
+    "Pyroar": {
+        "Picnicker Angelina": {
+            "level": 38,
+            "ivs": null,
+            "item": "Power Herb",
+            "ability": "Unnerve",
+            "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Flamethrower",
+                "Hyper Voice",
+                "Solar Beam",
+                "Will-O-Wisp"
+            ],
+            "index": 268
+        }
+    },
+    "Staraptor": {
+        "Picknicker Diana and Camper Ethan": {
+            "level": 38,
+            "ivs": null,
+            "item": "Flying Gem",
+            "ability": "Intimidate",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Take Down",
+                "Acrobatics",
+                "Close Combat",
+                "U-turn"
+            ],
+            "index": 271
+        },
+        "Bird Keeper Humberto": {
+            "level": 64,
+            "ivs": null,
+            "item": "Clear Amulet",
+            "ability": "Intimidate",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Brave Bird",
+                "Close Combat",
+                "Steel Wing",
+                "Roost"
+            ],
+            "index": 507
+        }
+    },
+    "Arcanine": {
+        "Picknicker Diana and Camper Ethan": {
+            "level": 38,
+            "ivs": null,
+            "item": "Fire Gem",
+            "ability": "Intimidate",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Temper Flare",
+                "Play Rough",
+                "Extreme Speed",
+                "Howl"
+            ],
+            "index": 272
+        },
+        "Hiker Marcos and Picnicker Daisy": {
+            "level": 53,
+            "ivs": null,
+            "item": "Charcoal",
+            "ability": "Intimidate",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Temper Flare",
+                "Play Rough",
+                "Iron Head",
+                "Extreme Speed"
+            ],
+            "index": 415
+        },
+        "Lorenzo and Jenna": {
+            "level": 68,
+            "ivs": null,
+            "item": "Clear Amulet",
+            "ability": "Intimidate",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Temper Flare",
+                "Close Combat",
+                "Play Rough",
+                "Extreme Speed"
+            ],
+            "index": 567
+        },
+        "Sr/Jr Kate & Joy": {
+            "level": 68,
+            "ivs": null,
+            "item": "Charcoal",
+            "ability": "Justified",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Temper Flare",
+                "Play Rough",
+                "Crunch",
+                "Extreme Speed"
+            ],
+            "index": 609
+        },
+        "Cooltrainer Teddy": {
+            "level": 75,
+            "ivs": null,
+            "item": "Eject Pack",
+            "ability": "Intimidate",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Overheat",
+                "Flare Blitz",
+                "Play Rough",
+                "Extreme Speed"
+            ],
+            "index": 855
+        },
+        "Expert Keegan": {
+            "level": 75,
+            "ivs": null,
+            "item": "Sitrus Berry",
+            "ability": "Intimidate",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Temper Flare",
+                "Play Rough",
+                "Extreme Speed",
+                "Morning Sun"
+            ],
+            "index": 901
+        },
+        "Aroma Lady Rachel": {
+            "level": 89,
+            "ivs": null,
+            "item": "Assault Vest",
+            "ability": "Intimidate",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Flare Blitz",
+                "Close Combat",
+                "Extreme Speed",
+                "Play Rough"
+            ],
+            "index": 944
+        },
+        "Cooltrainer Caroline": {
+            "level": 89,
+            "ivs": null,
+            "item": "Aguav Berry",
+            "ability": "Intimidate",
+            "nature": "Mild",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Overheat",
+                "Extreme Speed",
+                "Play Rough",
+                "Flare Blitz"
+            ],
+            "index": 983
+        }
+    },
+    "Kangaskhan": {
+        "Picknicker Diana and Camper Ethan": {
+            "level": 38,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Inner Focus",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Headbutt",
+                "Hammer Arm",
+                "Rock Tomb",
+                "Fake Out"
+            ],
+            "index": 274
+        },
+        "Parasol Lady Angelica": {
+            "level": 68,
+            "ivs": null,
+            "item": "Silk Scarf",
+            "ability": "Scrappy",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Last Resort",
+                "Fake Out"
+            ],
+            "index": 541
+        },
+        "Swimmer Chad": {
+            "level": 68,
+            "ivs": null,
+            "item": "Normal Gem",
+            "ability": "Scrappy",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Double-Edge",
+                "Body Slam",
+                "Hammer Arm",
+                "Crunch"
+            ],
+            "index": 665
+        },
+        "Hex Maniac Kathleen and Psychic Nicholas": {
+            "level": 68,
+            "ivs": {
+                "sa": 0,
+                "sp": 0
+            },
+            "item": "Iron Ball",
+            "ability": "Inner Focus",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Body Slam",
+                "Crunch",
+                "Fake Out",
+                "Surf"
+            ],
+            "index": 712
+        },
+        "Swimmer Rodney": {
+            "level": 75,
+            "ivs": null,
+            "item": "Punching Glove",
+            "ability": "Scrappy",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Double-Edge",
+                "Drain Punch",
+                "Fire Punch",
+                "Ice Punch"
+            ],
+            "index": 751
+        }
+    },
+    "Meowstic-F": {
+        "Picknicker Diana and Camper Ethan": {
+            "level": 38,
+            "ivs": null,
+            "item": "Wise Glasses",
+            "ability": "Mystic Charm",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Psychic",
+                "Energy Ball",
+                "Future Sight",
+                "Fake Out"
+            ],
+            "index": 275
+        }
+    },
+    "Tinkaton": {
+        "Picknicker Diana and Camper Ethan": {
+            "level": 38,
+            "ivs": null,
+            "item": "Covert Cloak",
+            "ability": "Own Tempo",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Gigaton Hammer",
+                "Play Rough",
+                "Ice Hammer",
+                "Fake Out"
+            ],
+            "index": 276
+        },
+        "Collector Damon": {
+            "level": 53,
+            "ivs": null,
+            "item": "Fairy Feather",
+            "ability": "Own Tempo",
+            "nature": "Impish",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Gigaton Hammer",
+                "Play Rough",
+                "Ice Hammer",
+                "Stealth Rock"
+            ],
+            "index": 359
+        },
+        "Moxi and Gian": {
+            "level": -2,
+            "ivs": null,
+            "item": "Steel Gem",
+            "ability": "Mold Breaker",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Gigaton Hammer",
+                "Play Rough",
+                "Knock Off",
+                "Swords Dance"
+            ],
+            "index": 439
+        },
+        "Swimmer Jenny": {
+            "level": 68,
+            "ivs": null,
+            "item": "Muscle Band",
+            "ability": "Own Tempo",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Play Rough",
+                "Iron Head",
+                "Ice Hammer",
+                "Stone Edge"
+            ],
+            "index": 661
+        },
+        "Swimmer Talia": {
+            "level": 75,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Own Tempo",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Gigaton Hammer",
+                "Play Rough",
+                "Iron Head",
+                "Ice Hammer"
+            ],
+            "index": 771
+        },
+        "Cooltrainer Gerald": {
+            "level": 75,
+            "ivs": null,
+            "item": "Fairy Gem",
+            "ability": "Mold Breaker",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Gigaton Hammer",
+                "Play Rough",
+                "Fake Out",
+                "Stealth Rock"
+            ],
+            "index": 879
+        },
+        "Cooltrainer Quincy": {
+            "level": 89,
+            "ivs": null,
+            "item": "Metal Coat",
+            "ability": "Own Tempo",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Gigaton Hammer",
+                "Play Rough",
+                "Ice Hammer",
+                "Fake Out"
+            ],
+            "index": 929
+        },
+        "Cooltrainer Terra": {
+            "level": 90,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Mold Breaker",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Stealth Rock",
+                "Gigaton Hammer",
+                "Play Rough",
+                "Knock Off"
+            ],
+            "index": 987
+        }
+    },
+    "Cradily": {
+        "Brendan One": {
+            "level": 38,
+            "ivs": null,
+            "item": "Leftovers",
+            "ability": "Storm Drain",
+            "nature": "Calm",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Power Gem",
+                "Giga Drain",
+                "Mirror Coat",
+                "Stealth Rock"
+            ],
+            "index": 277
+        }
+    },
+    "Swampert": {
+        "Brendan One": {
+            "level": 40,
+            "ivs": null,
+            "item": "Rindo Berry",
+            "ability": "Torrent",
+            "nature": "Careful",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "High Horsepower",
+                "Waterfall",
+                "Hammer Arm",
+                "Rock Slide"
+            ],
+            "index": 281
+        },
+        "Moxi and Gian": {
+            "level": 0,
+            "ivs": null,
+            "item": "Rindo Berry",
+            "ability": "Torrent",
+            "nature": "Careful",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Protect",
+                "High Horsepower",
+                "Liquidation",
+                "Stone Edge"
+            ],
+            "index": 440
+        }
+    },
+    "Chi-Yu": {
+        "Brendan One": {
+            "level": 40,
+            "ivs": null,
+            "item": "Black Glasses",
+            "ability": "Beads Of Ruin",
+            "nature": "Hardy",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Incinerate",
+                "Snarl",
+                "Hex",
+                "Flame Charge"
+            ],
+            "index": 282
+        },
+        "Brendan Two": {
+            "level": 70,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Beads Of Ruin",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Lava Plume",
+                "Dark Pulse",
+                "Psychic",
+                "Flame Charge"
+            ],
+            "index": 632
+        },
+        "Brendan Three": {
+            "level": 90,
+            "ivs": null,
+            "item": "White Herb",
+            "ability": "Beads Of Ruin",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Overheat",
+                "Dark Pulse",
+                "Psychic",
+                "Nasty Plot"
+            ],
+            "index": 914
+        }
+    },
+    "Feraligatr": {
+        "Beauty Connie": {
+            "level": 38,
+            "ivs": null,
+            "item": "Life Orb",
+            "ability": "Sheer Force",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Liquidation",
+                "Crunch",
+                "Ice Fang",
+                "Aqua Jet"
+            ],
+            "index": 283
+        },
+        "Cooltrainer Jennifer": {
+            "level": 70,
+            "ivs": null,
+            "item": "Never-Melt Ice",
+            "ability": "Torrent",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Liquidation",
+                "Earthquake",
+                "Crunch",
+                "Ice Punch"
+            ],
+            "index": 561
+        }
+    },
+    "Gyarados": {
+        "Beauty Connie": {
+            "level": 38,
+            "ivs": null,
+            "item": "Sharp Beak",
+            "ability": "Moxie",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Bounce",
+                "Waterfall",
+                "Ice Fang",
+                "Dragon Dance"
+            ],
+            "index": 285
+        },
+        "Hiker Jay": {
+            "level": 55,
+            "ivs": null,
+            "item": "Muscle Band",
+            "ability": "Intimidate",
+            "nature": "Impish",
+            "teraType": "Flying",
+            "status": "Healthy",
+            "moves": [
+                "Waterfall",
+                "Tera Blast",
+                "Earthquake",
+                "Dragon Dance"
+            ],
+            "index": 379
+        },
+        "Parasol Lady Katrina": {
+            "level": 77,
+            "ivs": null,
+            "item": "Wacan Berry",
+            "ability": "Moxie",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Lash Out",
+                "Waterfall",
+                "Dragon Dance",
+                "Earthquake"
+            ],
+            "index": 802
+        }
+    },
+    "Dragonair": {
+        "Beauty Connie": {
+            "level": 40,
+            "ivs": null,
+            "item": "Eviolite",
+            "ability": "Marvel Scale",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Burned",
+            "moves": [
+                "Surf",
+                "Thunderbolt",
+                "Ice Beam",
+                "Thunder Wave"
+            ],
+            "index": 286
+        }
+    },
+    "Lapras": {
+        "Lass Andrea": {
+            "level": 38,
+            "ivs": null,
+            "item": "Assault Vest",
+            "ability": "Shell Armor",
+            "nature": "Bold",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Surf",
+                "Ice Beam",
+                "Thunderbolt",
+                "Icy Wind"
+            ],
+            "index": 287
+        },
+        "Parasol Lady Angelica": {
+            "level": 72,
+            "ivs": null,
+            "item": "Ground Gem",
+            "ability": "Water Absorb",
+            "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Surf",
+                "Freeze-Dry",
+                "Thunderbolt",
+                "Drill Run"
+            ],
+            "index": 538
+        },
+        "Swimmer Tanya": {
+            "level": 70,
+            "ivs": null,
+            "item": "Assault Vest",
+            "ability": "Shell Armor",
+            "nature": "Bold",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Blizzard",
+                "Surf",
+                "Thunderbolt",
+                "Freeze-Dry"
+            ],
+            "index": 644
+        },
+        "Cooltrainer Albert": {
+            "level": 89,
+            "ivs": null,
+            "item": "Leftovers",
+            "ability": "Shell Armor",
+            "nature": "Quiet",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Ice Beam",
+                "Liquidation",
+                "Thunderbolt",
+                "Ancient Power"
+            ],
+            "index": 919
+        }
+    },
+    "Cinccino": {
+        "Lass Andrea": {
+            "level": 38,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Skill Link",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Tail Slap",
+                "Bullet Seed",
+                "Rock Blast",
+                "Triple Axel"
+            ],
+            "index": 288
+        },
+        "Psychic Brandi": {
+            "level": 75,
+            "ivs": null,
+            "item": "Loaded Dice",
+            "ability": "Technician",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Tail Slap",
+                "Rock Blast",
+                "Bullet Seed",
+                "Triple Axel"
+            ],
+            "index": 836
+        },
+        "Cooltrainer Shannon": {
+            "level": 90,
+            "ivs": null,
+            "item": "Wide Lens",
+            "ability": "Skill Link",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Tail Slap",
+                "Rock Blast",
+                "Bullet Seed",
+                "Triple Axel"
+            ],
+            "index": 955
+        }
+    },
+    "Virizion": {
+        "Lass Andrea": {
+            "level": 38,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Justified",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Aura Sphere",
+                "Giga Drain",
+                "Air Slash",
+                "Calm Mind"
+            ],
+            "index": 289
+        }
+    },
+    "Greninja": {
+        "Lass Andrea": {
+            "level": 39,
+            "ivs": null,
+            "item": "Loaded Dice",
+            "ability": "Torrent",
+            "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Water Shuriken",
+                "Night Slash",
+                "Extrasensory",
+                "U-turn"
+            ],
+            "index": 290
+        },
+        "Ninja Boy Takashi": {
+            "level": 62,
+            "ivs": null,
+            "item": "Loaded Dice",
+            "ability": "Protean",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Water Shuriken",
+                "Dark Pulse",
+                "Ice Beam",
+                "Extrasensory"
+            ],
+            "index": 492
+        },
+        "Ninja Boy Hideo": {
+            "level": 60,
+            "ivs": null,
+            "item": "Loaded Dice",
+            "ability": "Torrent",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Water Shuriken",
+                "Dark Pulse",
+                "Extrasensory",
+                "Mud Shot"
+            ],
+            "index": 506
+        },
+        "Ninja Boy Riley": {
+            "level": 68,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Battle Bond",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Water Shuriken",
+                "Dark Pulse",
+                "Extrasensory",
+                "Shadow Sneak"
+            ],
+            "index": 542
+        },
+        "Cooltrainer Terra": {
+            "level": 89,
+            "ivs": null,
+            "item": "Water Gem",
+            "ability": "Battle Bond",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Hydro Pump",
+                "Grass Knot",
+                "Ice Beam",
+                "Dark Pulse"
+            ],
+            "index": 992
+        },
+        "Elite Four Janine": {
+            "level": 89,
+            "ivs": null,
+            "item": "Loaded Dice",
+            "ability": "Torrent",
+            "nature": "NATURE_HARDY",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Water Shuriken",
+                "Dark Pulse",
+                "Gunk Shot",
+                "Ice Beam"
+            ],
+            "index": 1041
+        }
+    },
+    "Silvally-Water": {
+        "Lady Daphne": {
+            "level": 38,
+            "ivs": null,
+            "item": "Water Memory",
+            "ability": "Rks System",
+            "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Multi-Attack",
+                "X-Scissor",
+                "Rock Slide",
+                "Tri Attack"
+            ],
+            "index": 291
+        }
+    },
+    "Swanna": {
+        "Lady Daphne": {
+            "level": 38,
+            "ivs": null,
+            "item": "Wise Glasses",
+            "ability": "No Guard",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Hydro Pump",
+                "Hurricane",
+                "Blizzard",
+                "U-turn"
+            ],
+            "index": 293
+        }
+    },
+    "Kingdra": {
+        "Lady Daphne": {
+            "level": 40,
+            "ivs": null,
+            "item": "Scope Lens",
+            "ability": "Sniper",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Draco Meteor",
+                "Liquidation",
+                "Breaking Swipe",
+                "Focus Energy"
+            ],
+            "index": 294
+        }
+    },
+    "Dhelmise": {
+        "Pokefan Annika": {
+            "level": 38,
+            "ivs": null,
+            "item": "Quick Claw",
+            "ability": "Steelworker",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Power Whip",
+                "Poltergeist",
+                "Shadow Claw",
+                "Anchor Shot"
+            ],
+            "index": 296
+        },
+        "Pokemon Ranger Mara": {
+            "level": 75,
+            "ivs": null,
+            "item": "Bright Powder",
+            "ability": "Steelworker",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Rock Slide",
+                "Anchor Shot",
+                "Poltergeist",
+                "Power Whip"
+            ],
+            "index": 830
+        }
+    },
+    "Lanturn": {
+        "Pokefan Annika": {
+            "level": 40,
+            "ivs": null,
+            "item": "Air Balloon",
+            "ability": "Volt Absorb",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Surf",
+                "Rising Voltage",
+                "Ice Beam",
+                "Volt Switch"
+            ],
+            "index": 297
+        },
+        "Hex Maniac Sylvia and Psychic Hannah": {
+            "level": 68,
+            "ivs": {
+                "sp": 0
+            },
+            "item": "Leftovers",
+            "ability": "Volt Absorb",
+            "nature": "Quiet",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Hydro Pump",
+                "Rising Voltage",
+                "Volt Switch",
+                "Ice Beam"
+            ],
+            "index": 705
+        },
+        "Guitarist Kendall": {
+            "level": 77,
+            "ivs": null,
+            "item": "Assault Vest",
+            "ability": "Volt Absorb",
+            "nature": "Bold",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Surf",
+                "Thunderbolt",
+                "Ice Beam",
+                "Electroweb"
+            ],
+            "index": 808
+        }
+    },
+    "Dewgong": {
+        "Beauty Tiffany": {
+            "level": 38,
+            "ivs": null,
+            "item": "Assault Vest",
+            "ability": "Ice Body",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Blizzard",
+                "Hydro Pump",
+                "Alluring Voice",
+                "Flip Turn"
+            ],
+            "index": 300
+        },
+        "Tuber Roy": {
+            "level": 68,
+            "ivs": null,
+            "item": "Quick Claw",
+            "ability": "Ice Body",
+            "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Hydro Pump",
+                "Blizzard",
+                "Alluring Voice",
+                "Knock Off"
+            ],
+            "index": 639
+        }
+    },
+    "Mamoswine": {
+        "Beauty Tiffany": {
+            "level": 39,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Thick Fat",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "High Horsepower",
+                "Icicle Crash",
+                "Knock Off",
+                "Ice Shard"
+            ],
+            "index": 302
+        },
+        "Hiker Jay": {
+            "level": 53,
+            "ivs": null,
+            "item": "Assault Vest",
+            "ability": "Thick Fat",
+            "nature": "Impish",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "High Horsepower",
+                "Icicle Crash",
+                "Ice Shard",
+                "Trailblaze"
+            ],
+            "index": 377
+        },
+        "Swimmer Grace": {
+            "level": 68,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Thick Fat",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "High Horsepower",
+                "Icicle Crash",
+                "Trailblaze",
+                "Stealth Rock"
+            ],
+            "index": 654
+        },
+        "Brendan Three": {
+            "level": 89,
+            "ivs": null,
+            "item": "Muscle Band",
+            "ability": "Thick Fat",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Earthquake",
+                "Icicle Crash",
+                "Stone Edge",
+                "Ice Shard"
+            ],
+            "index": 913
+        }
+    },
+    "Pelipper": {
+        "Beauty Bridget": {
+            "level": 40,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Drizzle",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Hurricane",
+                "Weather Ball",
+                "Tailwind",
+                "U-turn"
+            ],
+            "index": 303
+        },
+        "Parasol Lady Katrina": {
+            "level": 77,
+            "ivs": null,
+            "item": "Bright Powder",
+            "ability": "Drizzle",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Hurricane",
+                "Weather Ball",
+                "Ice Beam",
+                "Tailwind"
+            ],
+            "index": 798
+        }
+    },
+    "Gorebyss": {
+        "Beauty Bridget": {
+            "level": 38,
+            "ivs": null,
+            "item": "Throat Spray",
+            "ability": "Swift Swim",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Sparkling Aria",
+                "Alluring Voice",
+                "Psychic Noise",
+                "Attract"
+            ],
+            "index": 304
+        },
+        "Lass Julia and Camper Rhett": {
+            "level": 53,
+            "ivs": null,
+            "item": "Covert Cloak",
+            "ability": "Swift Swim",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Hydro Pump",
+                "Ice Beam",
+                "Psychic",
+                "Icy Wind"
+            ],
+            "index": 423
+        },
+        "Swimmer Jenny": {
+            "level": 70,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Swift Swim",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Blizzard",
+                "Surf",
+                "Psychic",
+                "Shell Smash"
+            ],
+            "index": 662
+        }
+    },
+    "Phione": {
+        "Beauty Bridget": {
+            "level": 38,
+            "ivs": null,
+            "item": "Leftovers",
+            "ability": "Hydration",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Surf",
+                "Alluring Voice",
+                "Grass Knot",
+                "Flip Turn"
+            ],
+            "index": 305
+        }
+    },
+    "Bellibolt": {
+        "Beauty Bridget": {
+            "level": 38,
+            "ivs": null,
+            "item": "Iapapa Berry",
+            "ability": "Electromorphosis",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Thunder",
+                "Muddy Water",
+                "Mud Shot",
+                "Slack Off"
+            ],
+            "index": 306
+        },
+        "Parasol Lady Angelica": {
+            "level": 68,
+            "ivs": null,
+            "item": "Leftovers",
+            "ability": "Electromorphosis",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Parabolic Charge",
+                "Weather Ball",
+                "Hyper Voice",
+                "Thunder Wave"
+            ],
+            "index": 540
+        },
+        "Hex Maniac Sylvia and Psychic Hannah": {
+            "level": 68,
+            "ivs": {
+                "sp": 0
+            },
+            "item": "Shuca Berry",
+            "ability": "Electromorphosis",
+            "nature": "Quiet",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Rising Voltage",
+                "Muddy Water",
+                "Slack Off",
+                "Reflect"
+            ],
+            "index": 704
+        },
+        "Kindler Ryker": {
+            "level": 75,
+            "ivs": null,
+            "item": "Shuca Berry",
+            "ability": "Electromorphosis",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Discharge",
+                "Weather Ball",
+                "Reflect",
+                "Slack Off"
+            ],
+            "index": 823
+        }
+    },
+    "Basculegion-F": {
+        "Leader Juan": {
+            "level": 38,
+            "ivs": null,
+            "item": "Water Gem",
+            "ability": "Swift Swim",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Shadow Ball",
+                "Water Pulse",
+                "Ice Beam",
+                "Flip Turn"
+            ],
+            "index": 309
+        },
+        "Cooltrainer Katelynn": {
+            "level": 89,
+            "ivs": null,
+            "item": "Life Orb",
+            "ability": "Swift Swim",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Shadow Ball",
+                "Water Pulse",
+                "Ice Beam",
+                "Pain Split"
+            ],
+            "index": 923
+        }
+    },
+    "Archaludon": {
+        "Leader Juan": {
+            "level": 40,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Stalwart",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Electro Shot",
+                "Dragon Pulse",
+                "Flash Cannon",
+                "Aura Sphere"
+            ],
+            "index": 313
+        },
+        "Parasol Lady Katrina": {
+            "level": 75,
+            "ivs": null,
+            "item": "Assault Vest",
+            "ability": "Stamina",
+            "nature": "Calm",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Electro Shot",
+                "Flash Cannon",
+                "Dragon Pulse",
+                "Aura Sphere"
+            ],
+            "index": 801
+        },
+        "Cooltrainer Caroline": {
+            "level": 89,
+            "ivs": null,
+            "item": "White Herb",
+            "ability": "Stamina",
+            "nature": "Relaxed",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Body Press",
+                "Flash Cannon",
+                "Draco Meteor",
+                "Foul Play"
+            ],
+            "index": 984
+        }
+    },
+    "Machamp": {
+        "Aroma Lady Mia": {
+            "level": 53,
+            "ivs": null,
+            "item": "Custap Berry",
+            "ability": "No Guard",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Dynamic Punch",
+                "Stone Edge",
+                "Poison Jab",
+                "Seismic Toss"
+            ],
+            "index": 317
+        },
+        "Swimmer Katie": {
+            "level": 75,
+            "ivs": null,
+            "item": "Clear Amulet",
+            "ability": "Guts",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Drain Punch",
+                "Rock Slide",
+                "Knock Off",
+                "Poison Jab"
+            ],
+            "index": 749
+        }
+    },
+    "Muk-Alola": {
+        "Aroma Lady Mia": {
+            "level": 53,
+            "ivs": null,
+            "item": "Quick Claw",
+            "ability": "Poison Touch",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Poison Jab",
+                "Knock Off",
+                "Ice Punch",
+                "Shadow Sneak"
+            ],
+            "index": 318
+        }
+    },
+    "Flygon": {
+        "Aroma Lady Mia": {
+            "level": 55,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Levitate",
+            "nature": "Adamant",
+            "teraType": "Bug",
+            "status": "Healthy",
+            "moves": [
+                "Earthquake",
+                "Dragon Darts",
+                "Tera Blast",
+                "Dragon Dance"
+            ],
+            "index": 319
+        },
+        "Bird Keeper Humberto": {
+            "level": 62,
+            "ivs": null,
+            "item": "Yache Berry",
+            "ability": "Levitate",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Earthquake",
+                "Dragon Claw",
+                "First Impression",
+                "Dual Wingbeat"
+            ],
+            "index": 508
+        },
+        "Camper Flint and Bird Keeper Edwardo": {
+            "level": 62,
+            "ivs": null,
+            "item": "Normal Gem",
+            "ability": "Levitate",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Earth Power",
+                "Dragon Pulse",
+                "Boomburst",
+                "Roost"
+            ],
+            "index": 522
+        },
+        "Swimmer Katie": {
+            "level": 77,
+            "ivs": null,
+            "item": "Yache Berry",
+            "ability": "Levitate",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Earthquake",
+                "Dragon Darts",
+                "Thunder Punch",
+                "Dragon Dance"
+            ],
+            "index": 750
+        },
+        "Pokemon Ranger Tyree": {
+            "level": 73,
+            "ivs": null,
+            "item": "Yache Berry",
+            "ability": "Levitate",
+            "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Draco Meteor",
+                "Dragon Darts",
+                "Earthquake",
+                "First Impression"
+            ],
+            "index": 784
+        },
+        "Bug Maniac Axle": {
+            "level": 75,
+            "ivs": null,
+            "item": "Yache Berry",
+            "ability": "Levitate",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Earthquake",
+                "Dragon Claw",
+                "Fire Punch",
+                "Protect"
+            ],
+            "index": 877
+        }
+    },
+    "Shiftry": {
+        "Ace Trainer Cap": {
+            "level": 55,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Wind Rider",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Tailwind",
+                "Reversal",
+                "Knock Off",
+                "Leaf Blade"
+            ],
+            "index": 320
+        },
+        "Lorenzo and Jenna": {
+            "level": 68,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Chlorophyll",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Leaf Blade",
+                "Foul Play",
+                "Night Slash",
+                "Fake Out"
+            ],
+            "index": 564
+        }
+    },
+    "Quagsire": {
+        "Ace Trainer Cap": {
+            "level": 55,
+            "ivs": null,
+            "item": "Rindo Berry",
+            "ability": "Water Absorb",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Avalanche",
+                "Curse",
+                "Earthquake",
+                "Liquidation"
+            ],
+            "index": 321
+        }
+    },
+    "Dodrio": {
+        "Ace Trainer Cap": {
+            "level": 55,
+            "ivs": null,
+            "item": "Ground Gem",
+            "ability": "Technician",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Brave Bird",
+                "Double-Edge",
+                "Swords Dance",
+                "Drill Run"
+            ],
+            "index": 322
+        },
+        "Bird Keeper Humberto": {
+            "level": 62,
+            "ivs": null,
+            "item": "Muscle Band",
+            "ability": "Technician",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Drill Peck",
+                "Drill Run",
+                "Double Hit",
+                "Swords Dance"
+            ],
+            "index": 510
+        }
+    },
+    "Orthworm": {
+        "Ace Trainer Cap": {
+            "level": 55,
+            "ivs": null,
+            "item": "Leftovers",
+            "ability": "Earth Eater",
+            "nature": "Careful",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Iron Head",
+                "Earthquake",
+                "Body Press",
+                "Coil"
+            ],
+            "index": 324
+        }
+    },
+    "Vanilluxe": {
+        "Ace Trainer Cap": {
+            "level": 55,
+            "ivs": null,
+            "item": "Choice Specs",
+            "ability": "Snow Warning",
+            "nature": "Timid",
+            "teraType": "Ice",
+            "status": "Healthy",
+            "moves": [
+                "Ice Beam",
+                "Freeze-Dry"
+            ],
+            "index": 325
+        }
+    },
+    "Thundurus": {
+        "Parasol Lady Daina": {
+            "level": 53,
+            "ivs": null,
+            "item": "Flying Gem",
+            "ability": "Prankster",
+            "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Thunder Punch",
+                "Hammer Arm",
+                "Acrobatics",
+                "U-turn"
+            ],
+            "index": 326
+        }
+    },
+    "Zoroark": {
+        "Parasol Lady Daina": {
+            "level": 53,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Illusion",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Night Daze",
+                "Extrasensory",
+                "Flamethrower",
+                "Calm Mind"
+            ],
+            "index": 327
+        },
+        "Cooltrainer Cristin": {
+            "level": 68,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Illusion",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Night Daze",
+                "Extrasensory",
+                "Burning Jealousy",
+                "Nasty Plot"
+            ],
+            "index": 588
+        },
+        "Gentleman Walter": {
+            "level": 68,
+            "ivs": null,
+            "item": "Black Glasses",
+            "ability": "Eclipsate",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Round",
+                "Flamethrower",
+                "Extrasensory",
+                "Night Shade"
+            ],
+            "index": 616
+        }
+    },
+    "Mesprit": {
+        "Parasol Lady Daina": {
+            "level": 53,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Levitate",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Zen Headbutt",
+                "Drain Punch",
+                "Light Screen",
+                "Reflect"
+            ],
+            "index": 328
+        }
+    },
+    "Excadrill": {
+        "Parasol Lady Daina": {
+            "level": 53,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Sand Rush",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Iron Head",
+                "Drill Run",
+                "Brick Break",
+                "Rapid Spin"
+            ],
+            "index": 329
+        },
+        "Picnicker Heidi": {
+            "level": 52,
+            "ivs": null,
+            "item": "Covert Cloak",
+            "ability": "Sand Rush",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Drill Run",
+                "Iron Head",
+                "Rock Slide",
+                "Substitute"
+            ],
+            "index": 407
+        },
+        "Collector Hector and Hex Maniac Nadia": {
+            "level": 53,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Sand Rush",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Drill Run",
+                "Iron Head",
+                "Stone Edge",
+                "Poison Jab"
+            ],
+            "index": 425
+        },
+        "Cooltrainer Quincy": {
+            "level": 89,
+            "ivs": null,
+            "item": "Covert Cloak",
+            "ability": "Sand Rush",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Earthquake",
+                "High Horsepower",
+                "Iron Head",
+                "Rock Slide"
+            ],
+            "index": 932
+        },
+        "Cooltrainer Edgar": {
+            "level": 89,
+            "ivs": null,
+            "item": "Steel Gem",
+            "ability": "Sand Rush",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Iron Head",
+                "Earthquake",
+                "Swords Dance",
+                "X-Scissor"
+            ],
+            "index": 938
+        }
+    },
+    "Sinistcha": {
+        "Parasol Lady Daina": {
+            "level": 55,
+            "ivs": null,
+            "item": "Wise Glasses",
+            "ability": "Hospitality",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Matcha Gotcha",
+                "Shadow Ball",
+                "Scald",
+                "Giga Drain"
+            ],
+            "index": 330
+        }
+    },
+    "Scizor": {
+        "Parasol Lady Daina": {
+            "level": 53,
+            "ivs": null,
+            "item": "Bug Gem",
+            "ability": "Technician",
+            "nature": "Careful",
+            "teraType": "Flying",
+            "status": "Healthy",
+            "moves": [
+                "Dual Wingbeat",
+                "Bug Bite",
+                "Bullet Punch",
+                "Double Hit"
+            ],
+            "index": 331
+        },
+        "Bug Maniac Brent": {
+            "level": 62,
+            "ivs": null,
+            "item": "Metal Coat",
+            "ability": "Technician",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Bug Bite",
+                "Bullet Punch",
+                "Dual Wingbeat",
+                "Trailblaze"
+            ],
+            "index": 483
+        },
+        "Picnicker Ashley": {
+            "level": 62,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Technician",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Bug Bite",
+                "Bullet Punch",
+                "Dual Wingbeat",
+                "U-turn"
+            ],
+            "index": 515
+        }
+    },
+    "Gothitelle": {
+        "Ace Trainer Duke": {
+            "level": 53,
+            "ivs": null,
+            "item": "Blunder Policy",
+            "ability": "Competitive",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Psychic",
+                "Focus Blast",
+                "Calm Mind",
+                "Thunderbolt"
+            ],
+            "index": 334
+        },
+        "Pokefan Vanessa": {
+            "level": 70,
+            "ivs": null,
+            "item": "Life Orb",
+            "ability": "Shadow Tag",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Future Sight",
+                "Psychic",
+                "Energy Ball",
+                "Dark Pulse"
+            ],
+            "index": 613
+        },
+        "Psychic Blake and Psychic Samantha": {
+            "level": 70,
+            "ivs": {
+                "sp": 0
+            },
+            "item": "Wide Lens",
+            "ability": "Shadow Tag",
+            "nature": "Quiet",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Psychic",
+                "Focus Blast",
+                "Hypnosis",
+                "Fake Out"
+            ],
+            "index": 690
+        },
+        "Swimmer Rodney": {
+            "level": 75,
+            "ivs": null,
+            "item": "Assault Vest",
+            "ability": "Shadow Tag",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Psychic",
+                "Dark Pulse",
+                "Aura Sphere",
+                "Energy Ball"
+            ],
+            "index": 752
+        }
+    },
+    "Guzzlord": {
+        "Ace Trainer Duke": {
+            "level": 53,
+            "ivs": null,
+            "item": "Roseli Berry",
+            "ability": "Beast Boost",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Earthquake",
+                "Knock Off",
+                "Dragon Claw",
+                "Heavy Slam"
+            ],
+            "index": 335
+        }
+    },
+    "Decidueye-Hisui": {
+        "Ace Trainer Duke": {
+            "level": 55,
+            "ivs": null,
+            "item": "Assault Vest",
+            "ability": "Scrappy",
+            "nature": "Impish",
+            "teraType": "Flying",
+            "status": "Healthy",
+            "moves": [
+                "Close Combat",
+                "Brave Bird",
+                "Leaf Blade",
+                "Sucker Punch"
+            ],
+            "index": 337
+        }
+    },
+    "Noivern": {
+        "Ranger Emory": {
+            "level": 53,
+            "ivs": null,
+            "item": "Life Orb",
+            "ability": "Infiltrator",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Dragon Pulse",
+                "Air Slash",
+                "Hyper Voice",
+                "U-turn"
+            ],
+            "index": 339
+        },
+        "Camper Flint and Bird Keeper Edwardo": {
+            "level": 62,
+            "ivs": null,
+            "item": "Silk Scarf",
+            "ability": "Infiltrator",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Dragon Pulse",
+                "Air Slash",
+                "Boomburst",
+                "Flamethrower"
+            ],
+            "index": 521
+        },
+        "Kindler Ryker": {
+            "level": 75,
+            "ivs": null,
+            "item": "Covert Cloak",
+            "ability": "Aerilate",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Hyper Voice",
+                "Heat Wave",
+                "Solar Beam",
+                "Dragon Pulse"
+            ],
+            "index": 826
+        }
+    },
+    "Cloyster": {
+        "Ranger Emory": {
+            "level": 53,
+            "ivs": null,
+            "item": "Never-Melt Ice",
+            "ability": "Skill Link",
+            "nature": "Careful",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Icicle Spear",
+                "Razor Shell",
+                "Rock Blast",
+                "Ice Shard"
+            ],
+            "index": 340
+        },
+        "Swimmer Katie": {
+            "level": 75,
+            "ivs": null,
+            "item": "Assault Vest",
+            "ability": "Skill Link",
+            "nature": "Careful",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Icicle Spear",
+                "Rock Blast",
+                "Liquidation",
+                "Smart Strike"
+            ],
+            "index": 747
+        }
+    },
+    "Obstagoon": {
+        "Ranger Emory": {
+            "level": 53,
+            "ivs": null,
+            "item": "Bright Powder",
+            "ability": "Defiant",
+            "nature": "Careful",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Knock Off",
+                "Body Slam",
+                "Revenge",
+                "Obstruct"
+            ],
+            "index": 341
+        }
+    },
+    "Mienshao": {
+        "Ranger Emory": {
+            "level": 53,
+            "ivs": null,
+            "item": "Muscle Band",
+            "ability": "Inner Focus",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Drain Punch",
+                "Knock Off",
+                "Poison Jab",
+                "Ice Spinner"
+            ],
+            "index": 342
+        },
+        "Cooltrainer Shannon": {
+            "level": 89,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Inner Focus",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Close Combat",
+                "Poison Jab",
+                "Ice Spinner",
+                "Fake Out"
+            ],
+            "index": 953
+        }
+    },
+    "Venusaur": {
+        "Ranger Emory": {
+            "level": 55,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Overgrow",
+            "nature": "Timid",
+            "teraType": "Fire",
+            "status": "Healthy",
+            "moves": [
+                "Sludge Bomb",
+                "Energy Ball",
+                "Tera Blast",
+                "Venoshock"
+            ],
+            "index": 343
+        },
+        "Guitarist Fabian": {
+            "level": 63,
+            "ivs": null,
+            "item": "Wide Lens",
+            "ability": "Overgrow",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Terrain Pulse",
+                "Sludge Bomb",
+                "Earth Power",
+                "Sleep Powder"
+            ],
+            "index": 500
+        },
+        "Lorenzo and Jenna": {
+            "level": 68,
+            "ivs": null,
+            "item": "Covert Cloak",
+            "ability": "Chlorophyll",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Solar Beam",
+                "Sludge Bomb",
+                "Weather Ball",
+                "Sleep Powder"
+            ],
+            "index": 563
+        },
+        "Hex Maniac Sylvia and Psychic Hannah": {
+            "level": 68,
+            "ivs": {
+                "sp": 0
+            },
+            "item": "Room Service",
+            "ability": "Overgrow",
+            "nature": "Quiet",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Energy Ball",
+                "Sludge Bomb",
+                "Earth Power",
+                "Terrain Pulse"
+            ],
+            "index": 702
+        },
+        "Cooltrainer Teddy": {
+            "level": 77,
+            "ivs": null,
+            "item": "Expert Belt",
+            "ability": "Overgrow",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Sludge Bomb",
+                "Giga Drain",
+                "Earth Power",
+                "Sleep Powder"
+            ],
+            "index": 856
+        },
+        "Aroma Lady Rachel": {
+            "level": 89,
+            "ivs": null,
+            "item": "Life Orb",
+            "ability": "Chlorophyll",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Solar Beam",
+                "Sludge Bomb",
+                "Weather Ball",
+                "Growth"
+            ],
+            "index": 941
+        }
+    },
+    "Boltund": {
+        "Breeder Melinda": {
+            "level": 53,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Strong Jaw",
+            "nature": "Impish",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Thunder Fang",
+                "Ice Fang",
+                "Play Rough",
+                "Thunder Wave"
+            ],
+            "index": 344
+        }
+    },
+    "Glimmora": {
+        "Breeder Melinda": {
+            "level": 53,
+            "ivs": null,
+            "item": "Power Herb",
+            "ability": "Toxic Debris",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Meteor Beam",
+                "Power Gem",
+                "Sludge Bomb",
+                "Earth Power"
+            ],
+            "index": 345
+        },
+        "Picnicker Becky": {
+            "level": 55,
+            "ivs": null,
+            "item": "Focus Band",
+            "ability": "Toxic Debris",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Sludge Wave",
+                "Power Gem",
+                "Energy Ball",
+                "Stealth Rock"
+            ],
+            "index": 386
+        },
+        "Black Belt Damien": {
+            "level": 75,
+            "ivs": null,
+            "item": "Air Balloon",
+            "ability": "Toxic Debris",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Sludge Bomb",
+                "Earth Power",
+                "Energy Ball",
+                "Stealth Rock"
+            ],
+            "index": 817
+        },
+        "Elite Four Janine": {
+            "level": 89,
+            "ivs": null,
+            "item": "Assault Vest",
+            "ability": "Toxic Debris",
+            "nature": "Bold",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Sludge Bomb",
+                "Power Gem",
+                "Earth Power",
+                "Mortal Spin"
+            ],
+            "index": 1042
+        }
+    },
+    "Sawk": {
+        "Breeder Melinda": {
+            "level": 53,
+            "ivs": null,
+            "item": "Eject Button",
+            "ability": "Sturdy",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Drain Punch",
+                "Retaliate",
+                "Poison Jab",
+                "Low Sweep"
+            ],
+            "index": 346
+        },
+        "Ruin Maniac Bryan": {
+            "level": 52,
+            "ivs": null,
+            "item": "Safety Goggles",
+            "ability": "Sturdy",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Close Combat",
+                "Stone Edge",
+                "Throat Chop",
+                "Counter"
+            ],
+            "index": 401
+        }
+    },
+    "Alcremie": {
+        "Breeder Melinda": {
+            "level": 55,
+            "ivs": null,
+            "item": "Choice Specs",
+            "ability": "Sweet Veil",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Misty Explosion"
+            ],
+            "index": 348
+        },
+        "Aidan and Athena": {
+            "level": 75,
+            "ivs": null,
+            "item": "Quick Claw",
+            "ability": "Sweet Veil",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Dazzling Gleam",
+                "Draining Kiss",
+                "Psychic",
+                "Decorate"
+            ],
+            "index": 726
+        }
+    },
+    "Heracross": {
+        "Breeder Melinda": {
+            "level": 53,
+            "ivs": null,
+            "item": "Loaded Dice",
+            "ability": "Swarm",
+            "nature": "Adamant",
+            "teraType": "Rock",
+            "status": "Healthy",
+            "moves": [
+                "Rock Blast",
+                "Pin Missile",
+                "Arm Thrust",
+                "Bullet Seed"
+            ],
+            "index": 349
+        },
+        "Battle Girl Callie": {
+            "level": 68,
+            "ivs": null,
+            "item": "Coba Berry",
+            "ability": "Moxie",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Megahorn",
+                "Close Combat",
+                "Stone Edge",
+                "Smart Strike"
+            ],
+            "index": 547
+        },
+        "Expert Magik": {
+            "level": 89,
+            "ivs": null,
+            "item": "Choice Scarf",
+            "ability": "Guts",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Megahorn",
+                "Close Combat",
+                "Stone Edge",
+                "High Horsepower"
+            ],
+            "index": 949
+        }
+    },
+    "Samurott-Hisui": {
+        "Ruin Maniac Gaben": {
+            "level": 53,
+            "ivs": null,
+            "item": "Assault Vest",
+            "ability": "Sharpness",
+            "nature": "Naive",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Aqua Cutter",
+                "Sacred Sword",
+                "Ceaseless Edge",
+                "Air Slash"
+            ],
+            "index": 350
+        },
+        "Picnicker Heidi": {
+            "level": 52,
+            "ivs": null,
+            "item": "Safety Goggles",
+            "ability": "Sharpness",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Liquidation",
+                "Ceaseless Edge",
+                "Sacred Sword",
+                "Aqua Jet"
+            ],
+            "index": 405
+        },
+        "Expert Keegan": {
+            "level": 75,
+            "ivs": null,
+            "item": "Scope Lens",
+            "ability": "Sharpness",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Ceaseless Edge",
+                "Razor Shell",
+                "Retaliate",
+                "Detect"
+            ],
+            "index": 898
+        }
+    },
+    "Mandibuzz": {
+        "Ruin Maniac Gaben": {
+            "level": 53,
+            "ivs": null,
+            "item": "Leftovers",
+            "ability": "Big Pecks",
+            "nature": "Bold",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Tailwind",
+                "Toxic",
+                "Roost",
+                "Foul Play"
+            ],
+            "index": 351
+        },
+        "Bird Keeper Darius": {
+            "level": 64,
+            "ivs": null,
+            "item": "Quick Claw",
+            "ability": "Big Pecks",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Dark Pulse",
+                "Air Slash",
+                "Toxic",
+                "Roost"
+            ],
+            "index": 524
+        }
+    },
+    "Hydrapple": {
+        "Ruin Maniac Gaben": {
+            "level": 53,
+            "ivs": null,
+            "item": "Quick Claw",
+            "ability": "Supersweet Syrup",
+            "nature": "Bold",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Body Press",
+                "Energy Ball",
+                "Fickle Beam",
+                "Earth Power"
+            ],
+            "index": 353
+        }
+    },
+    "Diancie": {
+        "Ruin Maniac Gaben": {
+            "level": 53,
+            "ivs": null,
+            "item": "Babiri Berry",
+            "ability": "Clear Body",
+            "nature": "Impish",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Diamond Storm",
+                "Body Press",
+                "Play Rough",
+                "Rock Polish"
+            ],
+            "index": 354
+        }
+    },
+    "Chandelure": {
+        "Ruin Maniac Gaben": {
+            "level": 55,
+            "ivs": null,
+            "item": "Air Balloon",
+            "ability": "Flame Body",
+            "nature": "Timid",
+            "teraType": "Steel",
+            "status": "Healthy",
+            "moves": [
+                "Energy Ball",
+                "Flamethrower",
+                "Psychic",
+                "Shadow Ball"
+            ],
+            "index": 355
+        },
+        "Pokemon Ranger Tyree": {
+            "level": 75,
+            "ivs": null,
+            "item": "Choice Scarf",
+            "ability": "Infiltrator",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Heat Wave",
+                "Energy Ball"
+            ],
+            "index": 782
+        }
+    },
+    "Cyclizar": {
+        "Collector Damon": {
+            "level": 55,
+            "ivs": null,
+            "item": "Sitrus Berry",
+            "ability": "Shed Skin",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Shed Tail",
+                "Dragon Pulse",
+                "Hyper Voice",
+                "U-turn"
+            ],
+            "index": 356
+        },
+        "Cooltrainer Terra": {
+            "level": 89,
+            "ivs": null,
+            "item": "Sitrus Berry",
+            "ability": "Regenerator",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Shed Tail",
+                "Dragon Rush",
+                "Iron Head",
+                "Rain Dance"
+            ],
+            "index": 990
+        }
+    },
+    "Delphox": {
+        "Collector Damon": {
+            "level": 53,
+            "ivs": null,
+            "item": "Expert Belt",
+            "ability": "Blaze",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Psyshock",
+                "Mystical Fire",
+                "Dazzling Gleam",
+                "Will-O-Wisp"
+            ],
+            "index": 358
+        }
+    },
+    "Drapion": {
+        "Collector Damon": {
+            "level": 53,
+            "ivs": null,
+            "item": "Scope Lens",
+            "ability": "Sniper",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Cross Poison",
+                "Night Slash",
+                "Bug Bite",
+                "Toxic Spikes"
+            ],
+            "index": 360
+        },
+        "Bug Catcher Doug": {
+            "level": 62,
+            "ivs": null,
+            "item": "Scope Lens",
+            "ability": "Sniper",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Night Slash",
+                "Cross Poison",
+                "X-Scissor",
+                "Fell Stinger"
+            ],
+            "index": 460
+        },
+        "Swimmer Rodney": {
+            "level": 77,
+            "ivs": null,
+            "item": "Scope Lens",
+            "ability": "Sniper",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Cross Poison",
+                "Night Slash",
+                "Knock Off",
+                "X-Scissor"
+            ],
+            "index": 754
+        }
+    },
+    "Munkidori": {
+        "Lady Ruby": {
+            "level": 53,
+            "ivs": null,
+            "item": "Covert Cloak",
+            "ability": "Toxic Chain",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Psychic",
+                "Sludge Bomb",
+                "Focus Blast",
+                "Grass Knot"
+            ],
+            "index": 362
+        }
+    },
+    "Zoroark-Hisui": {
+        "Lady Ruby": {
+            "level": 53,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Illusion",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Nasty Plot",
+                "Bitter Malice",
+                "Hyper Voice",
+                "Focus Blast"
+            ],
+            "index": 363
+        },
+        "Expert Timothy": {
+            "level": 0,
+            "ivs": null,
+            "item": "Spell Tag",
+            "ability": "Illusion",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Hyper Voice",
+                "Bitter Malice",
+                "Dark Pulse",
+                "Extrasensory"
+            ],
+            "index": 680
+        }
+    },
+    "Jellicent": {
+        "Lady Ruby": {
+            "level": 53,
+            "ivs": null,
+            "item": "Weakness Policy",
+            "ability": "Cursed Body",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Scald",
+                "Ice Beam",
+                "Shadow Ball",
+                "Energy Ball"
+            ],
+            "index": 364
+        }
+    },
+    "Sharpedo": {
+        "Lady Ruby": {
+            "level": 53,
+            "ivs": null,
+            "item": "Dark Gem",
+            "ability": "Strong Jaw",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Crunch",
+                "Waterfall",
+                "Psychic Fangs",
+                "Ice Fang"
+            ],
+            "index": 365
+        }
+    },
+    "Clodsire": {
+        "Lady Ruby": {
+            "level": 53,
+            "ivs": null,
+            "item": "Quick Claw",
+            "ability": "Water Absorb",
+            "nature": "Adamant",
+            "teraType": "Ground",
+            "status": "Healthy",
+            "moves": [
+                "Poison Jab",
+                "Earthquake",
+                "Curse",
+                "Liquidation"
+            ],
+            "index": 367
+        },
+        "Camper Patrick": {
+            "level": 64,
+            "ivs": null,
+            "item": "Wide Lens",
+            "ability": "Water Absorb",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Megahorn",
+                "Poison Jab",
+                "Stomping Tantrum",
+                "Liquidation"
+            ],
+            "index": 485
+        }
+    },
+    "Lycanroc-Dusk": {
+        "Ranger Luella": {
+            "level": 55,
+            "ivs": null,
+            "item": "Red Card",
+            "ability": "Tough Claws",
+            "nature": "Impish",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Rock Slide",
+                "Play Rough",
+                "Drill Run",
+                "Stealth Rock"
+            ],
+            "index": 368
+        },
+        "Pokefan Vanessa": {
+            "level": 68,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Tough Claws",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Stone Edge",
+                "High Horsepower",
+                "Play Rough",
+                "Reversal"
+            ],
+            "index": 612
+        }
+    },
+    "Sigilyph": {
+        "Ranger Luella": {
+            "level": 53,
+            "ivs": null,
+            "item": "Assault Vest",
+            "ability": "Wonder Skin",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Psychic",
+                "Air Slash",
+                "Alluring Voice",
+                "Tailwind"
+            ],
+            "index": 369
+        }
+    },
+    "Houndstone": {
+        "Ranger Luella": {
+            "level": 53,
+            "ivs": null,
+            "item": "Sitrus Berry",
+            "ability": "Sand Rush",
+            "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Last Respects",
+                "Poltergeist",
+                "Psychic Fangs",
+                "Body Press"
+            ],
+            "index": 372
+        },
+        "Psychic Virgil and Gentleman Nate": {
+            "level": 68,
+            "ivs": {
+                "sp": 0
+            },
+            "item": "Leftovers",
+            "ability": "Fluffy",
+            "nature": "Brave",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Last Respects",
+                "Psychic Fangs",
+                "Play Rough",
+                "Howl"
+            ],
+            "index": 696
+        }
+    },
+    "Mismagius": {
+        "Ranger Luella": {
+            "level": 53,
+            "ivs": null,
+            "item": "Expert Belt",
+            "ability": "Levitate",
+            "nature": "Timid",
+            "teraType": "Fairy",
+            "status": "Healthy",
+            "moves": [
+                "Shadow Ball",
+                "Psychic",
+                "Dazzling Gleam",
+                "Mystical Fire"
+            ],
+            "index": 373
+        }
+    },
+    "Cobalion": {
+        "Hiker Jay": {
+            "level": 53,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Justified",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Sacred Sword",
+                "Iron Head",
+                "Megahorn",
+                "Stealth Rock"
+            ],
+            "index": 374
+        },
+        "Expert Timothy": {
+            "level": 0,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Justified",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Sacred Sword",
+                "Iron Head",
+                "Retaliate",
+                "Swords Dance"
+            ],
+            "index": 682
+        }
+    },
+    "Rhyperior": {
+        "Hiker Jay": {
+            "level": 53,
+            "ivs": null,
+            "item": "Focus Band",
+            "ability": "Lightning Rod",
+            "nature": "Careful",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Drill Run",
+                "Rock Slide",
+                "Ice Punch",
+                "Body Press"
+            ],
+            "index": 375
+        },
+        "Hex Maniac Kathleen and Psychic Nicholas": {
+            "level": 68,
+            "ivs": {
+                "sa": 0,
+                "sp": 0
+            },
+            "item": "Covert Cloak",
+            "ability": "Lightning Rod",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Drill Run",
+                "Rock Slide",
+                "Fire Punch",
+                "Surf"
+            ],
+            "index": 710
+        }
+    },
+    "Tapu Bulu": {
+        "Hiker Jay": {
+            "level": 53,
+            "ivs": null,
+            "item": "Kebia Berry",
+            "ability": "Telepathy",
+            "nature": "Careful",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Horn Leech",
+                "High Horsepower",
+                "Darkest Lariat",
+                "Nature's Madness"
+            ],
+            "index": 376
+        }
+    },
+    "Kabutops": {
+        "Hiker Jay": {
+            "level": 53,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Sharpness",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Razor Shell",
+                "Rock Slide",
+                "X-Scissor",
+                "Rapid Spin"
+            ],
+            "index": 378
+        },
+        "Bug Maniac Jeffrey": {
+            "level": 68,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Swift Swim",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Stone Edge",
+                "Liquidation",
+                "Leech Life",
+                "Aqua Jet"
+            ],
+            "index": 555
+        },
+        "Battler Girl Danielle": {
+            "level": 75,
+            "ivs": null,
+            "item": "Flying Gem",
+            "ability": "Sharpness",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Razor Shell",
+                "Rock Slide",
+                "Aerial Ace",
+                "Protect"
+            ],
+            "index": 870
+        }
+    },
+    "Ogerpon": {
+        "Sidney": {
+            "level": 53,
+            "ivs": null,
+            "item": "Scope Lens",
+            "ability": "Inner Focus",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Ivy Cudgel",
+                "Superpower",
+                "Knock Off",
+                "Spiky Shield"
+            ],
+            "index": 380
+        }
+    },
+    "Samurott": {
+        "Sidney": {
+            "level": 55,
+            "ivs": null,
+            "item": "Assault Vest",
+            "ability": "Torrent",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Liquidation",
+                "Sacred Sword",
+                "Knock Off",
+                "X-Scissor"
+            ],
+            "index": 383
+        }
+    },
+    "Urshifu": {
+        "Sidney": {
+            "level": 53,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Unseen Fist",
+            "nature": "Careful",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Wicked Blow",
+                "Close Combat",
+                "Poison Jab",
+                "Bulk Up"
+            ],
+            "index": 384
+        }
+    },
+    "Hydreigon": {
+        "Sidney": {
+            "level": 55,
+            "ivs": null,
+            "item": "Pecha Berry",
+            "ability": "Levitate",
+            "nature": "Timid",
+            "teraType": "Poison",
+            "status": "Poisoned",
+            "moves": [
+                "Belch",
+                "Dragon Pulse",
+                "Dark Pulse",
+                "Tailwind"
+            ],
+            "index": 385
+        },
+        "Battle Girl Aisha": {
+            "level": 75,
+            "ivs": null,
+            "item": "Roseli Berry",
+            "ability": "Levitate",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Dragon Pulse",
+                "Dark Pulse",
+                "Fire Blast",
+                "Tailwind"
+            ],
+            "index": 792
+        },
+        "Cooltrainer Dianne": {
+            "level": 89,
+            "ivs": null,
+            "item": "Eject Pack",
+            "ability": "Levitate",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Draco Meteor",
+                "Dragon Pulse",
+                "Flamethrower",
+                "Flash Cannon"
+            ],
+            "index": 971
+        }
+    },
+    "Steelix": {
+        "Picnicker Becky": {
+            "level": 53,
+            "ivs": null,
+            "item": "Quick Claw",
+            "ability": "Sturdy",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Earthquake",
+                "Heavy Slam",
+                "Thunder Fang",
+                "Dragon Tail"
+            ],
+            "index": 388
+        }
+    },
+    "Lunatone": {
+        "Picnicker Becky": {
+            "level": 53,
+            "ivs": null,
+            "item": "Power Herb",
+            "ability": "Levitate",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Meteor Beam",
+                "Weather Ball",
+                "Psychic",
+                "Ice Beam"
+            ],
+            "index": 389
+        }
+    },
+    "Gigalith": {
+        "Hiker Devan": {
+            "level": 53,
+            "ivs": null,
+            "item": "Loaded Dice",
+            "ability": "Sturdy",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Rock Blast",
+                "Body Press",
+                "Earthquake",
+                "Stealth Rock"
+            ],
+            "index": 390
+        }
+    },
+    "Ting-Lu": {
+        "Hiker Devan": {
+            "level": 53,
+            "ivs": null,
+            "item": "Aguav Berry",
+            "ability": "Vessel Of Ruin",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Earthquake",
+                "Lash Out",
+                "Body Press",
+                "Stealth Rock"
+            ],
+            "index": 391
+        }
+    },
+    "Reuniclus": {
+        "Hiker Devan": {
+            "level": 53,
+            "ivs": null,
+            "item": "Life Orb",
+            "ability": "Magic Guard",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Psychic",
+                "Focus Blast",
+                "Shadow Ball",
+                "Grass Knot"
+            ],
+            "index": 392
+        },
+        "Ninja Boy Hideo": {
+            "level": 64,
+            "ivs": null,
+            "item": "Grassy Seed",
+            "ability": "Regenerator",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Psychic",
+                "Aura Sphere",
+                "Energy Ball",
+                "Shadow Ball"
+            ],
+            "index": 502
+        }
+    },
+    "Magmortar": {
+        "Hiker Devan": {
+            "level": 53,
+            "ivs": null,
+            "item": "Safety Goggles",
+            "ability": "Flame Body",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Flamethrower",
+                "Weather Ball",
+                "Psychic",
+                "Aura Sphere"
+            ],
+            "index": 393
+        },
+        "Swimmer Reed": {
+            "level": 75,
+            "ivs": null,
+            "item": "Sitrus Berry",
+            "ability": "Flame Body",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Lava Plume",
+                "Belch",
+                "Scorching Sands",
+                "Acid Spray"
+            ],
+            "index": 737
+        },
+        "Hiker Eric": {
+            "level": 75,
+            "ivs": null,
+            "item": "Custap Berry",
+            "ability": "Flame Body",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Flamethrower",
+                "Belch",
+                "Psychic",
+                "Scorching Sands"
+            ],
+            "index": 787
+        }
+    },
+    "Carbink": {
+        "Hiker Devan": {
+            "level": 55,
+            "ivs": null,
+            "item": "Choice Scarf",
+            "ability": "Sturdy",
+            "nature": "Bold",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Body Press"
+            ],
+            "index": 394
+        }
+    },
+    "Gliscor": {
+        "Ruin Maniac Bryan": {
+            "level": 52,
+            "ivs": null,
+            "item": "Flying Gem",
+            "ability": "Hyper Cutter",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "High Horsepower",
+                "Acrobatics",
+                "Rock Slide",
+                "U-turn"
+            ],
+            "index": 400
+        },
+        "Leader Winona": {
+            "level": 63,
+            "ivs": null,
+            "item": "Flying Gem",
+            "ability": "Hyper Cutter",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Earthquake",
+                "Acrobatics",
+                "Crabhammer",
+                "U-turn"
+            ],
+            "index": 533
+        },
+        "Brendan Two": {
+            "level": 70,
+            "ivs": null,
+            "item": "Yache Berry",
+            "ability": "Hyper Cutter",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Earthquake",
+                "Dual Wingbeat",
+                "Knock Off",
+                "Stealth Rock"
+            ],
+            "index": 627
+        },
+        "Cooltrainer Red": {
+            "level": 89,
+            "ivs": null,
+            "item": "Toxic Orb",
+            "ability": "Poison Heal",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Earthquake",
+                "Dual Wingbeat",
+                "Stealth Rock",
+                "Protect"
+            ],
+            "index": 995
+        }
+    },
+    "Kleavor": {
+        "Picnicker Heidi": {
+            "level": 55,
+            "ivs": null,
+            "item": "Clear Amulet",
+            "ability": "Sharpness",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "X-Scissor",
+                "Stone Axe",
+                "Night Slash",
+                "Aerial Ace"
+            ],
+            "index": 403
+        },
+        "Hiker Eric": {
+            "level": 75,
+            "ivs": null,
+            "item": "Focus Band",
+            "ability": "Sharpness",
+            "nature": "Careful",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "X-Scissor",
+                "Stone Axe",
+                "Dual Wingbeat",
+                "Tailwind"
+            ],
+            "index": 786
+        }
+    },
+    "Sirfetch\u2019d": {
+        "Camper Drew": {
+            "level": 52,
+            "ivs": null,
+            "item": "Leek",
+            "ability": "Scrappy",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Close Combat",
+                "Leaf Blade",
+                "Dual Wingbeat",
+                "Focus Energy"
+            ],
+            "index": 410
+        },
+        "Swimmer Chad": {
+            "level": 68,
+            "ivs": null,
+            "item": "Eject Pack",
+            "ability": "Scrappy",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Close Combat",
+                "Leaf Blade",
+                "Dual Wingbeat",
+                "Knock Off"
+            ],
+            "index": 664
+        }
+    },
+    "Granbull": {
+        "Hiker Marcos and Picnicker Daisy": {
+            "level": 53,
+            "ivs": null,
+            "item": "Clear Amulet",
+            "ability": "Intimidate",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Play Rough",
+                "Close Combat",
+                "Iron Tail",
+                "Super Fang"
+            ],
+            "index": 413
+        }
+    },
+    "Toedscruel": {
+        "Hiker Marcos and Picnicker Daisy": {
+            "level": 53,
+            "ivs": null,
+            "item": "White Herb",
+            "ability": "Mycelium Might",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Leaf Storm",
+                "Energy Ball",
+                "Earth Power",
+                "Sludge Bomb"
+            ],
+            "index": 417
+        }
+    },
+    "Emboar": {
+        "Lass Julia and Camper Rhett": {
+            "level": 53,
+            "ivs": null,
+            "item": "Expert Belt",
+            "ability": "Blaze",
+            "nature": "Brave",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Overheat",
+                "Fire Punch",
+                "Drain Punch",
+                "High Horsepower"
+            ],
+            "index": 419
+        },
+        "Swimmer Talia": {
+            "level": 75,
+            "ivs": null,
+            "item": "Assault Vest",
+            "ability": "Blaze",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Fire Punch",
+                "Drain Punch",
+                "Stomping Tantrum",
+                "Knock Off"
+            ],
+            "index": 774
+        }
+    },
+    "Revavroom": {
+        "Lass Julia and Camper Rhett": {
+            "level": 53,
+            "ivs": null,
+            "item": "Air Balloon",
+            "ability": "Filter",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Spin Out",
+                "Poison Jab",
+                "Zen Headbutt",
+                "Shift Gear"
+            ],
+            "index": 421
+        },
+        "Cooltrainer Marcel": {
+            "level": 68,
+            "ivs": null,
+            "item": "Air Balloon",
+            "ability": "Filter",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Spin Out",
+                "Poison Jab",
+                "High Horsepower",
+                "Shift Gear"
+            ],
+            "index": 625
+        },
+        "Hiker Eli": {
+            "level": 75,
+            "ivs": null,
+            "item": "Air Balloon",
+            "ability": "Overcoat",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Spin Out",
+                "Iron Head",
+                "Poison Jab",
+                "Shift Gear"
+            ],
+            "index": 890
+        }
+    },
+    "Golurk": {
+        "Collector Hector and Hex Maniac Nadia": {
+            "level": 53,
+            "ivs": null,
+            "item": "Punching Glove",
+            "ability": "Iron Fist",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "High Horsepower",
+                "Shadow Punch",
+                "Drain Punch",
+                "Ice Punch"
+            ],
+            "index": 427
+        },
+        "Hex Maniac Kathleen and Psychic Nicholas": {
+            "level": 68,
+            "ivs": {
+                "sp": 0
+            },
+            "item": "Weakness Policy",
+            "ability": "Iron Fist",
+            "nature": "Sassy",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "High Horsepower",
+                "Shadow Punch",
+                "Hammer Arm",
+                "Thunder Punch"
+            ],
+            "index": 707
+        }
+    },
+    "Tyranitar": {
+        "Collector Hector and Hex Maniac Nadia": {
+            "level": 55,
+            "ivs": null,
+            "item": "Clear Amulet",
+            "ability": "Sand Stream",
+            "nature": "Sassy",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Stone Edge",
+                "Crunch",
+                "High Horsepower",
+                "Ice Punch"
+            ],
+            "index": 428
+        },
+        "Hiker Eli": {
+            "level": 77,
+            "ivs": null,
+            "item": "Chople Berry",
+            "ability": "Sand Stream",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Rock Slide",
+                "Knock Off",
+                "Fire Fang",
+                "Stealth Rock"
+            ],
+            "index": 888
+        },
+        "Cooltrainer Edgar": {
+            "level": 89,
+            "ivs": null,
+            "item": "Focus Band",
+            "ability": "Sand Stream",
+            "nature": "Impish",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Stone Edge",
+                "Knock Off",
+                "Counter",
+                "Stealth Rock"
+            ],
+            "index": 933
+        }
+    },
+    "Gholdengo": {
+        "Collector Hector and Hex Maniac Nadia": {
+            "level": 53,
+            "ivs": null,
+            "item": "White Herb",
+            "ability": "Good As Gold",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Make It Rain",
+                "Flash Cannon",
+                "Shadow Ball",
+                "Thunderbolt"
+            ],
+            "index": 429
+        },
+        "Guitarist Dalton": {
+            "level": 62,
+            "ivs": null,
+            "item": "White Herb",
+            "ability": "Good As Gold",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Make It Rain",
+                "Flash Cannon",
+                "Shadow Ball",
+                "Thunderbolt"
+            ],
+            "index": 458
+        },
+        "Challenger Phoebe": {
+            "level": 75,
+            "ivs": null,
+            "item": "White Herb",
+            "ability": "Good As Gold",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Make It Rain",
+                "Flash Cannon",
+                "Shadow Ball",
+                "Nasty Plot"
+            ],
+            "index": 862
+        }
+    },
+    "Landorus": {
+        "Leader Steven": {
+            "level": 53,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Sand Force",
+            "nature": "Naive",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Earth Power",
+                "Sludge Bomb",
+                "Extrasensory",
+                "Stealth Rock"
+            ],
+            "index": 431
+        }
+    },
+    "Metagross": {
+        "Leader Steven": {
+            "level": 53,
+            "ivs": null,
+            "item": "Shuca Berry",
+            "ability": "Clear Body",
+            "nature": "Careful",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Meteor Mash",
+                "Psychic Fangs",
+                "Earthquake",
+                "Agility"
+            ],
+            "index": 432
+        },
+        "Hiker Eric": {
+            "level": 75,
+            "ivs": null,
+            "item": "Muscle Band",
+            "ability": "Clear Body",
+            "nature": "Careful",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Meteor Mash",
+                "Psychic Fangs",
+                "Earthquake",
+                "Agility"
+            ],
+            "index": 789
+        },
+        "Cooltrainer Shannon": {
+            "level": 89,
+            "ivs": null,
+            "item": "Weakness Policy",
+            "ability": "Clear Body",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Meteor Mash",
+                "Psychic Fangs",
+                "Ice Punch",
+                "Rock Slide"
+            ],
+            "index": 952
+        },
+        "Elite Four Jasmine": {
+            "level": 89,
+            "ivs": null,
+            "item": "Air Balloon",
+            "ability": "Clear Body",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Meteor Mash",
+                "Psychic Fangs",
+                "Ice Punch",
+                "Trailblaze"
+            ],
+            "index": 1032
+        }
+    },
+    "Goodra-Hisui": {
+        "Leader Steven": {
+            "level": 53,
+            "ivs": null,
+            "item": "Sitrus Berry",
+            "ability": "Gooey",
+            "nature": "Bold",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Flash Cannon",
+                "Muddy Water",
+                "Sludge Bomb",
+                "Acid Spray"
+            ],
+            "index": 433
+        },
+        "Pokemon Ranger Mara": {
+            "level": 77,
+            "ivs": null,
+            "item": "Wacan Berry",
+            "ability": "Sap Sipper",
+            "nature": "Modest",
+            "teraType": "Water",
+            "status": "Healthy",
+            "moves": [
+                "Thunder",
+                "Weather Ball",
+                "Ice Beam",
+                "Flash Cannon"
+            ],
+            "index": 833
+        },
+        "Cooltrainer Katelynn": {
+            "level": 89,
+            "ivs": null,
+            "item": "Leftovers",
+            "ability": "Gooey",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Dragon Pulse",
+                "Flash Cannon",
+                "Sludge Bomb",
+                "Protect"
+            ],
+            "index": 926
+        }
+    },
+    "Iron Treads": {
+        "Leader Steven": {
+            "level": 55,
+            "ivs": null,
+            "item": "Muscle Band",
+            "ability": "Protosynthesis",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Iron Head",
+                "Stomping Tantrum",
+                "Rock Slide",
+                "Knock Off"
+            ],
+            "index": 435
+        },
+        "Cooltrainer Marcel": {
+            "level": 68,
+            "ivs": null,
+            "item": "Misty Seed",
+            "ability": "Quark Drive",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Iron Head",
+                "Stomping Tantrum",
+                "Ice Spinner",
+                "Knock Off"
+            ],
+            "index": 621
+        },
+        "Cooltrainer Teddy": {
+            "level": 77,
+            "ivs": null,
+            "item": "Chople Berry",
+            "ability": "Quark Drive",
+            "nature": "Impish",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Earthquake",
+                "Iron Head",
+                "Ice Spinner",
+                "Stealth Rock"
+            ],
+            "index": 853
+        },
+        "Expert Keegan": {
+            "level": 75,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Quark Drive",
+            "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Iron Head",
+                "Ice Fang",
+                "Rock Slide",
+                "Stealth Rock"
+            ],
+            "index": 897
+        }
+    },
+    "Great Tusk": {
+        "Leader Steven": {
+            "level": 55,
+            "ivs": null,
+            "item": "White Herb",
+            "ability": "Protosynthesis",
+            "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Headlong Rush",
+                "Close Combat",
+                "Stone Edge",
+                "Rapid Spin"
+            ],
+            "index": 436
+        },
+        "Lorenzo and Jenna": {
+            "level": 68,
+            "ivs": null,
+            "item": "Covert Cloak",
+            "ability": "Protosynthesis",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Headlong Rush",
+                "Close Combat",
+                "Ice Spinner",
+                "Rapid Spin"
+            ],
+            "index": 568
+        },
+        "Psychic Brandi": {
+            "level": 75,
+            "ivs": null,
+            "item": "Eject Pack",
+            "ability": "Protosynthesis",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Headlong Rush",
+                "Close Combat",
+                "Ice Spinner",
+                "Stealth Rock"
+            ],
+            "index": 835
+        }
+    },
+    "Gengar": {
+        "Moxi and Gian": {
+            "level": -2,
+            "ivs": null,
+            "item": "Expert Belt",
+            "ability": "Cursed Body",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Hypnosis",
+                "Sludge Bomb",
+                "Shadow Ball",
+                "Focus Blast"
+            ],
+            "index": 438
+        },
+        "Swimmer Chad": {
+            "level": 70,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Cursed Body",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Sludge Wave",
+                "Shadow Ball",
+                "Destiny Bond",
+                "Hypnosis"
+            ],
+            "index": 666
+        },
+        "Pokemon Ranger Shirley": {
+            "level": 75,
+            "ivs": null,
+            "item": "Spell Tag",
+            "ability": "Cursed Body",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Sludge Bomb",
+                "Shadow Ball",
+                "Energy Ball",
+                "Destiny Bond"
+            ],
+            "index": 846
+        },
+        "Elite Four Janine": {
+            "level": 89,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Cursed Body",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Sludge Bomb",
+                "Hex",
+                "Psychic",
+                "Thunderbolt"
+            ],
+            "index": 1045
+        }
+    },
+    "Flamigo": {
+        "Moxi and Gian": {
+            "level": -2,
+            "ivs": null,
+            "item": "Flying Gem",
+            "ability": "Scrappy",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Acrobatics",
+                "Close Combat",
+                "Tailwind",
+                "Throat Chop"
+            ],
+            "index": 441
+        },
+        "Cooltrainer Jennifer": {
+            "level": 68,
+            "ivs": null,
+            "item": "Eject Pack",
+            "ability": "Scrappy",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Close Combat",
+                "Acrobatics",
+                "Dual Wingbeat"
+            ],
+            "index": 560
+        }
+    },
+    "Avalugg-Hisui": {
+        "Moxi and Gian": {
+            "level": -2,
+            "ivs": null,
+            "item": "Choice Band",
+            "ability": "Sturdy",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Mountain Gale",
+                "Rock Slide"
+            ],
+            "index": 442
+        },
+        "Swimmer Kelly": {
+            "level": 75,
+            "ivs": null,
+            "item": "Red Card",
+            "ability": "Sturdy",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Body Press",
+                "Mountain Gale",
+                "Stone Edge",
+                "Stealth Rock"
+            ],
+            "index": 775
+        }
+    },
+    "Basculin-Blue-Striped": {
+        "Fisherman Barny": {
+            "level": 62,
+            "ivs": null,
+            "item": "Mystic Water",
+            "ability": "Rock Head",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Wave Crash",
+                "Double-Edge",
+                "Aqua Jet"
+            ],
+            "index": 445
+        }
+    },
+    "Bruxish": {
+        "Fisherman Barny": {
+            "level": 62,
+            "ivs": null,
+            "item": "Expert Belt",
+            "ability": "Strong Jaw",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Psychic Fangs",
+                "Liquidation",
+                "Crunch",
+                "Ice Fang"
+            ],
+            "index": 446
+        }
+    },
+    "Ursaring": {
+        "Aroma Lady Rose": {
+            "level": 63,
+            "ivs": null,
+            "item": "Chople Berry",
+            "ability": "Quick Feet",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Poisoned",
+            "moves": [
+                "Facade",
+                "Hammer Arm",
+                "High Horsepower",
+                "Play Rough"
+            ],
+            "index": 451
+        }
+    },
+    "Tropius": {
+        "Aroma Lady Rose": {
+            "level": 65,
+            "ivs": null,
+            "item": "Yache Berry",
+            "ability": "Harvest",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Leaf Blade",
+                "Dragon Hammer",
+                "Zen Headbutt",
+                "Dragon Dance"
+            ],
+            "index": 452
+        }
+    },
+    "Ribombee": {
+        "Aroma Lady Rose": {
+            "level": 65,
+            "ivs": null,
+            "item": "Kebia Berry",
+            "ability": "Shield Dust",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Pollen Puff",
+                "Moonblast",
+                "Energy Ball",
+                "Quiver Dance"
+            ],
+            "index": 453
+        }
+    },
+    "Grumpig": {
+        "Aroma Lady Rose": {
+            "level": 65,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Thick Fat",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Psychic",
+                "Power Gem",
+                "Dazzling Gleam",
+                "Nasty Plot"
+            ],
+            "index": 454
+        }
+    },
+    "Iron Hands": {
+        "Guitarist Dalton": {
+            "level": 64,
+            "ivs": null,
+            "item": "Assault Vest",
+            "ability": "Quark Drive",
+            "nature": "Careful",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Drain Punch",
+                "Thunder Punch",
+                "Ice Punch",
+                "Seismic Toss"
+            ],
+            "index": 455
+        },
+        "Elite Four Whitney": {
+            "level": 89,
+            "ivs": null,
+            "item": "Punching Glove",
+            "ability": "Quark Drive",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Drain Punch",
+                "Thunder Punch",
+                "Ice Punch",
+                "Fake Out"
+            ],
+            "index": 1038
+        }
+    },
+    "Baxcalibur": {
+        "Guitarist Dalton": {
+            "level": 62,
+            "ivs": null,
+            "item": "Leftovers",
+            "ability": "Thermal Exchange",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Dragon Claw",
+                "Ice Punch",
+                "Stomping Tantrum",
+                "Breaking Swipe"
+            ],
+            "index": 456
+        },
+        "Swimmer Sharon and Swimmer Nolen": {
+            "level": 68,
+            "ivs": null,
+            "item": "Covert Cloak",
+            "ability": "Thermal Exchange",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Dragon Claw",
+                "Ice Punch",
+                "Dragon Tail",
+                "High Horsepower"
+            ],
+            "index": 636
+        },
+        "Swimmer Allison": {
+            "level": 75,
+            "ivs": null,
+            "item": "Loaded Dice",
+            "ability": "Thermal Exchange",
+            "nature": "Impish",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Glaive Rush",
+                "Icicle Spear",
+                "Body Press",
+                "Aerial Ace"
+            ],
+            "index": 731
+        },
+        "Pokemon Ranger Shirley": {
+            "level": 75,
+            "ivs": null,
+            "item": "Charti Berry",
+            "ability": "Thermal Exchange",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Glaive Rush",
+                "Icicle Crash",
+                "Ice Shard",
+                "Dragon Dance"
+            ],
+            "index": 849
+        },
+        "Champion May": {
+            "level": 89,
+            "ivs": null,
+            "item": "Weakness Policy",
+            "ability": "Thermal Exchange",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Glaive Rush",
+                "Icicle Crash",
+                "Earthquake",
+                "Ice Shard"
+            ],
+            "index": 1057
+        }
+    },
+    "Ceruledge": {
+        "Guitarist Dalton": {
+            "level": 62,
+            "ivs": null,
+            "item": "Spell Tag",
+            "ability": "Weak Armor",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Bitter Blade",
+                "Shadow Claw",
+                "Dragon Claw",
+                "Shadow Sneak"
+            ],
+            "index": 457
+        },
+        "Presley and Auron": {
+            "level": 68,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Weak Armor",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Bitter Blade",
+                "Poltergeist",
+                "Close Combat",
+                "Will-O-Wisp"
+            ],
+            "index": 677
+        },
+        "Leader Flannery": {
+            "level": 77,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Weak Armor",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Bitter Blade",
+                "Poltergeist",
+                "Solar Blade",
+                "Flame Charge"
+            ],
+            "index": 903
+        }
+    },
+    "Butterfree": {
+        "Bug Catcher Doug": {
+            "level": 65,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Tinted Lens",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Bug Buzz",
+                "Energy Ball",
+                "Tailwind",
+                "Sleep Powder"
+            ],
+            "index": 459
+        }
+    },
+    "Volcarona": {
+        "Bug Catcher Doug": {
+            "level": 62,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Flame Body",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Bug Buzz",
+                "Giga Drain",
+                "Air Slash",
+                "Quiver Dance"
+            ],
+            "index": 462
+        },
+        "Leader Winona": {
+            "level": 64,
+            "ivs": null,
+            "item": "Charti Berry",
+            "ability": "Flame Body",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Bug Buzz",
+                "Fiery Dance",
+                "Air Slash",
+                "Giga Drain"
+            ],
+            "index": 537
+        },
+        "Cooltrainer Tyler": {
+            "level": 75,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Flame Body",
+            "nature": "Modest",
+            "teraType": "Grass",
+            "status": "Healthy",
+            "moves": [
+                "Bug Buzz",
+                "Fiery Dance",
+                "Giga Drain",
+                "Quiver Dance"
+            ],
+            "index": 845
+        },
+        "Cooltrainer Charlie": {
+            "level": 89,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Flame Body",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Heat Wave",
+                "Bug Buzz",
+                "Giga Drain",
+                "Quiver Dance"
+            ],
+            "index": 961
+        }
+    },
+    "Dragonite": {
+        "Fisherman Chris": {
+            "level": 60,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Multiscale",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Thunder",
+                "Ice Beam",
+                "Weather Ball",
+                "Extreme Speed"
+            ],
+            "index": 463
+        },
+        "Elite Four Misty": {
+            "level": 89,
+            "ivs": null,
+            "item": "Leftovers",
+            "ability": "Multiscale",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Dragon Claw",
+                "Dual Wingbeat",
+                "Aqua Tail",
+                "Stomping Tantrum"
+            ],
+            "index": 1047
+        }
+    },
+    "Palafin": {
+        "Fisherman Chris": {
+            "level": 62,
+            "ivs": null,
+            "item": "Choice Scarf",
+            "ability": "Zero To Hero",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Liquidation",
+                "Flip Turn"
+            ],
+            "index": 465
+        },
+        "Psychic Brandi": {
+            "level": 75,
+            "ivs": null,
+            "item": "Choice Scarf",
+            "ability": "Zero To Hero",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Liquidation",
+                "Ice Punch",
+                "Drain Punch",
+                "Flip Turn"
+            ],
+            "index": 834
+        },
+        "Cooltrainer Red": {
+            "level": 90,
+            "ivs": null,
+            "item": "Assault Vest",
+            "ability": "Zero To Hero",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Liquidation",
+                "Flip Turn",
+                "Drain Punch",
+                "Ice Punch"
+            ],
+            "index": 994
+        }
+    },
+    "Basculegion": {
+        "Fisherman Chris": {
+            "level": 62,
+            "ivs": null,
+            "item": "Liechi Berry",
+            "ability": "Swift Swim",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Phantom Force",
+                "Liquidation",
+                "Crunch",
+                "Whirlpool"
+            ],
+            "index": 466
+        },
+        "Pokemon Ranger Mara": {
+            "level": 75,
+            "ivs": null,
+            "item": "Life Orb",
+            "ability": "Swift Swim",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Liquidation",
+                "Last Respects",
+                "Crunch",
+                "Ice Fang"
+            ],
+            "index": 832
+        },
+        "Aqua Leader Archie": {
+            "level": 89,
+            "ivs": null,
+            "item": "Clear Amulet",
+            "ability": "Swift Swim",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Liquidation",
+                "Phantom Force",
+                "Psychic Fangs",
+                "Flip Turn"
+            ],
+            "index": 1027
+        }
+    },
+    "Miltank": {
+        "Ranger Catherine": {
+            "level": 62,
+            "ivs": null,
+            "item": "Silk Scarf",
+            "ability": "Scrappy",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Body Slam",
+                "Play Rough",
+                "Body Press",
+                "Milk Drink"
+            ],
+            "index": 470
+        },
+        "Swimmer Santiago": {
+            "level": 75,
+            "ivs": null,
+            "item": "Normal Gem",
+            "ability": "Scrappy",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Body Slam",
+                "Body Press",
+                "High Horsepower",
+                "Milk Drink"
+            ],
+            "index": 745
+        }
+    },
+    "Okidogi": {
+        "Ranger Catherine": {
+            "level": 64,
+            "ivs": null,
+            "item": "Expert Belt",
+            "ability": "Guard Dog",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Poison Jab",
+                "Drain Punch",
+                "Crunch",
+                "Scary Face"
+            ],
+            "index": 471
+        }
+    },
+    "Tyrantrum": {
+        "Ranger Jackson": {
+            "level": 63,
+            "ivs": null,
+            "item": "Grassy Seed",
+            "ability": "Strong Jaw",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Stone Edge",
+                "Dragon Claw",
+                "High Horsepower",
+                "Psychic Fangs"
+            ],
+            "index": 475
+        }
+    },
+    "Aerodactyl": {
+        "Bird Keeper Hugh": {
+            "level": 62,
+            "ivs": null,
+            "item": "King\u2019s Rock",
+            "ability": "Unnerve",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Dual Wingbeat",
+                "Rock Blast",
+                "Iron Head",
+                "Thunder Fang"
+            ],
+            "index": 476
+        },
+        "Bird Keeper Darius": {
+            "level": 62,
+            "ivs": null,
+            "item": "Power Herb",
+            "ability": "Unnerve",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Sky Attack",
+                "Dual Wingbeat",
+                "Rock Slide",
+                "Iron Head"
+            ],
+            "index": 526
+        },
+        "Swimmer Isabella": {
+            "level": 68,
+            "ivs": null,
+            "item": "Flying Gem",
+            "ability": "Pressure",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Rock Slide",
+                "Dual Wingbeat",
+                "Steel Wing",
+                "Attract"
+            ],
+            "index": 668
+        }
+    },
+    "Salamence": {
+        "Bird Keeper Hugh": {
+            "level": 64,
+            "ivs": null,
+            "item": "Yache Berry",
+            "ability": "Moxie",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Hydro Pump",
+                "Hurricane",
+                "Hyper Voice",
+                "Roost"
+            ],
+            "index": 479
+        },
+        "Parasol Lady Katrina": {
+            "level": 75,
+            "ivs": null,
+            "item": "Yache Berry",
+            "ability": "Moxie",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Earthquake",
+                "Dragon Dance",
+                "Dragon Claw",
+                "Dual Wingbeat"
+            ],
+            "index": 800
+        },
+        "Cooltrainer Shannon": {
+            "level": 89,
+            "ivs": null,
+            "item": "Covert Cloak",
+            "ability": "Intimidate",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Dragon Claw",
+                "Dual Wingbeat",
+                "Bulldoze",
+                "Tailwind"
+            ],
+            "index": 951
+        }
+    },
+    "Beedrill": {
+        "Bug Maniac Brent": {
+            "level": 65,
+            "ivs": null,
+            "item": "Quick Claw",
+            "ability": "Swarm",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Poison Jab",
+                "X-Scissor",
+                "Drill Run",
+                "Toxic Spikes"
+            ],
+            "index": 480
+        }
+    },
+    "Vikavolt": {
+        "Bug Maniac Brent": {
+            "level": 62,
+            "ivs": null,
+            "item": "Grassy Seed",
+            "ability": "Levitate",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Thunderbolt",
+                "Bug Buzz",
+                "Air Slash",
+                "Roost"
+            ],
+            "index": 482
+        },
+        "Bug Maniac Cale": {
+            "level": 68,
+            "ivs": null,
+            "item": "Charti Berry",
+            "ability": "Levitate",
+            "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Thunderbolt",
+                "Bug Buzz",
+                "Air Slash",
+                "Sticky Web"
+            ],
+            "index": 591
+        },
+        "Swimmer Susie": {
+            "level": 75,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Levitate",
+            "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Thunderbolt",
+                "Bug Buzz",
+                "Energy Ball",
+                "Air Slash"
+            ],
+            "index": 765
+        },
+        "Pokemon Ranger Shirley": {
+            "level": 75,
+            "ivs": null,
+            "item": "Charti Berry",
+            "ability": "Levitate",
+            "nature": "Calm",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Thunderbolt",
+                "Bug Buzz",
+                "Energy Ball",
+                "Sticky Web"
+            ],
+            "index": 847
+        }
+    },
+    "Forretress": {
+        "Camper Patrick": {
+            "level": 63,
+            "ivs": null,
+            "item": "Iapapa Berry",
+            "ability": "Sturdy",
+            "nature": "Sassy",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Gyro Ball",
+                "Volt Switch",
+                "Stone Edge",
+                "Stealth Rock"
+            ],
+            "index": 484
+        }
+    },
+    "Wo-Chien": {
+        "Camper Patrick": {
+            "level": 62,
+            "ivs": null,
+            "item": "Tanga Berry",
+            "ability": "Tablets Of Ruin",
+            "nature": "Calm",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Foul Play",
+                "Leaf Storm",
+                "Body Press",
+                "Substitute"
+            ],
+            "index": 486
+        }
+    },
+    "Yanmega": {
+        "Camper Patrick": {
+            "level": 64,
+            "ivs": null,
+            "item": "Scope Lens",
+            "ability": "Speed Boost",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Signal Beam",
+                "Air Cutter",
+                "Hidden Power Fighting",
+                "Hypnosis"
+            ],
+            "index": 488
+        },
+        "Expert Jared": {
+            "level": 62,
+            "ivs": null,
+            "item": "Scope Lens",
+            "ability": "Speed Boost",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Bug Buzz",
+                "Air Cutter",
+                "Giga Drain",
+                "U-turn"
+            ],
+            "index": 531
+        }
+    },
+    "Kecleon": {
+        "Ninja Boy Takashi": {
+            "level": 64,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Protean",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Body Slam",
+                "Drain Punch",
+                "Shadow Claw",
+                "Fake Out"
+            ],
+            "index": 489
+        }
+    },
+    "Sceptile": {
+        "Ninja Boy Takashi": {
+            "level": 62,
+            "ivs": null,
+            "item": "Grassy Seed",
+            "ability": "Unburden",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Leaf Storm",
+                "Leaf Blade",
+                "X-Scissor",
+                "Acrobatics"
+            ],
+            "index": 491
+        },
+        "Brendan Two": {
+            "level": 70,
+            "ivs": null,
+            "item": "White Herb",
+            "ability": "Unburden",
+            "nature": "Naive",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Leaf Storm",
+                "Acrobatics",
+                "Earthquake",
+                "Focus Blast"
+            ],
+            "index": 629
+        }
+    },
+    "Skeledirge": {
+        "Ninja Boy Takashi": {
+            "level": 62,
+            "ivs": null,
+            "item": "Utility Umbrella",
+            "ability": "Blaze",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Torch Song",
+                "Shadow Ball",
+                "Alluring Voice",
+                "Substitute"
+            ],
+            "index": 493
+        },
+        "Gentleman Walter": {
+            "level": 70,
+            "ivs": null,
+            "item": "Quick Claw",
+            "ability": "Blaze",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Torch Song",
+                "Shadow Ball",
+                "Alluring Voice",
+                "Round"
+            ],
+            "index": 620
+        },
+        "Aidan and Athena": {
+            "level": 75,
+            "ivs": null,
+            "item": "Eject Pack",
+            "ability": "Blaze",
+            "nature": "Quiet",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Overheat",
+                "Torch Song",
+                "Shadow Ball",
+                "Alluring Voice"
+            ],
+            "index": 728
+        },
+        "Kindler Ryker": {
+            "level": 75,
+            "ivs": null,
+            "item": "Quick Claw",
+            "ability": "Blaze",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Torch Song",
+                "Shadow Ball",
+                "Solar Beam",
+                "Earth Power"
+            ],
+            "index": 825
+        }
+    },
+    "Brute Bonnet": {
+        "Parasol Lady Rose": {
+            "level": 63,
+            "ivs": null,
+            "item": "Booster Energy",
+            "ability": "Protosynthesis",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Seed Bomb",
+                "Lash Out",
+                "Sucker Punch",
+                "Spore"
+            ],
+            "index": 496
+        }
+    },
+    "Exploud": {
+        "Guitarist Fabian": {
+            "level": 62,
+            "ivs": null,
+            "item": "Normal Gem",
+            "ability": "Scrappy",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Boomburst",
+                "Terrain Pulse",
+                "Extrasensory"
+            ],
+            "index": 498
+        }
+    },
+    "Silvally-Electric": {
+        "Guitarist Fabian": {
+            "level": 63,
+            "ivs": null,
+            "item": "Electric Memory",
+            "ability": "Rks System",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Multi-Attack",
+                "Tri Attack",
+                "Flash Cannon",
+                "Air Slash"
+            ],
+            "index": 501
+        }
+    },
+    "Bisharp": {
+        "Ninja Boy Hideo": {
+            "level": 62,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Defiant",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Iron Head",
+                "Throat Chop",
+                "X-Scissor",
+                "Scary Face"
+            ],
+            "index": 503
+        },
+        "Pokemon Ranger Tyree": {
+            "level": 75,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Defiant",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Iron Head",
+                "Sucker Punch",
+                "Metal Burst",
+                "Stealth Rock"
+            ],
+            "index": 780
+        }
+    },
+    "Dusknoir": {
+        "Ninja Boy Hideo": {
+            "level": 62,
+            "ivs": null,
+            "item": "Punching Glove",
+            "ability": "Pressure",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Shadow Punch",
+                "Ice Punch",
+                "Thunder Punch",
+                "Destiny Bond"
+            ],
+            "index": 504
+        }
+    },
+    "Serperior": {
+        "Ninja Boy Hideo": {
+            "level": 60,
+            "ivs": null,
+            "item": "Focus Band",
+            "ability": "Contrary",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Leaf Storm",
+                "Dragon Pulse",
+                "Knock Off",
+                "Glare"
+            ],
+            "index": 505
+        }
+    },
+    "Solrock": {
+        "Bird Keeper Humberto": {
+            "level": 62,
+            "ivs": null,
+            "item": "Flying Gem",
+            "ability": "Levitate",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Stone Edge",
+                "Zen Headbutt",
+                "Flare Blitz",
+                "Acrobatics"
+            ],
+            "index": 509
+        },
+        "Kindler Jeff": {
+            "level": 75,
+            "ivs": null,
+            "item": "Blunder Policy",
+            "ability": "Levitate",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Zen Headbutt",
+                "Rock Slide",
+                "Flare Blitz",
+                "Hypnosis"
+            ],
+            "index": 868
+        }
+    },
+    "Rotom-Fan": {
+        "Bird Keeper Humberto": {
+            "level": 62,
+            "ivs": null,
+            "item": "Sharp Beak",
+            "ability": "Levitate",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Thunderbolt",
+                "Air Slash",
+                "Shadow Ball",
+                "Thunder Wave"
+            ],
+            "index": 511
+        },
+        "Hex Maniac Cole": {
+            "level": 75,
+            "ivs": null,
+            "item": "Rocky Helmet",
+            "ability": "Levitate",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Discharge",
+                "Air Slash",
+                "Hex",
+                "Thunder Wave"
+            ],
+            "index": 885
+        }
+    },
+    "Dragapult": {
+        "Picnicker Ashley": {
+            "level": 62,
+            "ivs": null,
+            "item": "Light Clay",
+            "ability": "Clear Body",
+            "nature": "Hardy",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Dragon Claw",
+                "Shadow Ball",
+                "Reflect",
+                "Light Screen"
+            ],
+            "index": 512
+        },
+        "Swimmer Kara": {
+            "level": 75,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Clear Body",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Dragon Pulse",
+                "Shadow Ball",
+                "Fire Blast",
+                "Dragon Tail"
+            ],
+            "index": 756
+        },
+        "Cooltrainer Teddy": {
+            "level": 77,
+            "ivs": null,
+            "item": "Spell Tag",
+            "ability": "Clear Body",
+            "nature": "Serious",
+            "teraType": "Ghost",
+            "status": "Healthy",
+            "moves": [
+                "Dragon Darts",
+                "Tera Blast",
+                "Flamethrower",
+                "U-turn"
+            ],
+            "index": 857
+        },
+        "Cooltrainer Albert": {
+            "level": 90,
+            "ivs": null,
+            "item": "Choice Band",
+            "ability": "Clear Body",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Dragon Darts"
+            ],
+            "index": 917
+        }
+    },
+    "Azelf": {
+        "Picnicker Ashley": {
+            "level": 62,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Levitate",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Psychic",
+                "Dazzling Gleam",
+                "Future Sight",
+                "Stealth Rock"
+            ],
+            "index": 513
+        },
+        "Cooltrainer Owen": {
+            "level": 89,
+            "ivs": null,
+            "item": "Electric Seed",
+            "ability": "Levitate",
+            "nature": "Hasty",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Acrobatics",
+                "Psychic",
+                "Dazzling Gleam",
+                "Stealth Rock"
+            ],
+            "index": 964
+        }
+    },
+    "Weezing-Galar": {
+        "Picnicker Ashley": {
+            "level": 62,
+            "ivs": null,
+            "item": "Life Orb",
+            "ability": "Levitate",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Strange Steam",
+                "Sludge Bomb",
+                "Heat Wave",
+                "Destiny Bond"
+            ],
+            "index": 514
+        },
+        "Ninja Boy Riley": {
+            "level": 70,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Levitate",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Strange Steam",
+                "Sludge Bomb",
+                "Thunderbolt",
+                "Dark Pulse"
+            ],
+            "index": 545
+        },
+        "Jessica": {
+            "level": 70,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Neutralizing Gas",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Strange Steam",
+                "Sludge Bomb",
+                "Fire Blast",
+                "Dark Pulse"
+            ],
+            "index": 581
+        },
+        "Swimmer Robyn": {
+            "level": 77,
+            "ivs": null,
+            "item": "Fairy Feather",
+            "ability": "Levitate",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Misty Explosion",
+                "Strange Steam",
+                "Sludge Wave",
+                "Fire Blast"
+            ],
+            "index": 742
+        },
+        "Cooltrainer Halle": {
+            "level": 90,
+            "ivs": null,
+            "item": "Babiri Berry",
+            "ability": "Levitate",
+            "nature": "Sassy",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Gunk Shot",
+                "Play Rough",
+                "Toxic Spikes",
+                "Will-O-Wisp"
+            ],
+            "index": 1005
+        }
+    },
+    "Decidueye": {
+        "Camper Flint and Bird Keeper Edwardo": {
+            "level": 64,
+            "ivs": null,
+            "item": "Sharp Beak",
+            "ability": "Overgrow",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Spirit Shackle",
+                "Leaf Blade",
+                "Dual Wingbeat",
+                "Roost"
+            ],
+            "index": 517
+        },
+        "Cooltrainer Tyler": {
+            "level": 76,
+            "ivs": null,
+            "item": "Expert Belt",
+            "ability": "Overgrow",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Leaf Blade",
+                "Spirit Shackle",
+                "Dual Wingbeat",
+                "Shadow Sneak"
+            ],
+            "index": 842
+        },
+        "Cooltrainer Shannon": {
+            "level": 90,
+            "ivs": null,
+            "item": "Flying Gem",
+            "ability": "Long Reach",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Leaf Storm",
+                "Leaf Blade",
+                "Spirit Shackle",
+                "Acrobatics"
+            ],
+            "index": 954
+        }
+    },
+    "Medicham": {
+        "Camper Flint and Bird Keeper Edwardo": {
+            "level": 64,
+            "ivs": null,
+            "item": "Expert Belt",
+            "ability": "Telepathy",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Close Combat",
+                "Zen Headbutt",
+                "Stone Edge",
+                "Fake Out"
+            ],
+            "index": 518
+        },
+        "Psychic Presont and Psychic Maura": {
+            "level": 70,
+            "ivs": {
+                "sp": 0
+            },
+            "item": "Room Service",
+            "ability": "Pure Power",
+            "nature": "Brave",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Zen Headbutt",
+                "Drain Punch",
+                "Thunder Punch",
+                "Ice Punch"
+            ],
+            "index": 685
+        }
+    },
+    "Gardevoir": {
+        "Camper Flint and Bird Keeper Edwardo": {
+            "level": 62,
+            "ivs": null,
+            "item": "Covert Cloak",
+            "ability": "Telepathy",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Moonblast",
+                "Psychic",
+                "Hyper Voice",
+                "Thunderbolt"
+            ],
+            "index": 519
+        },
+        "Parasol Lady Clarissa": {
+            "level": 68,
+            "ivs": null,
+            "item": "Kebia Berry",
+            "ability": "Pixilate",
+            "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Psychic",
+                "Dazzling Gleam",
+                "Shadow Ball",
+                "Calm Mind"
+            ],
+            "index": 551
+        },
+        "Aidan and Athena": {
+            "level": 77,
+            "ivs": null,
+            "item": "Throat Spray",
+            "ability": "Pixilate",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Hyper Voice",
+                "Expanding Force",
+                "Psyshock",
+                "Mystical Fire"
+            ],
+            "index": 730
+        },
+        "Pokemon Ranger Tyree": {
+            "level": 73,
+            "ivs": null,
+            "item": "Focus Band",
+            "ability": "Pixilate",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Hyper Voice",
+                "Psychic",
+                "Draining Kiss",
+                "Calm Mind"
+            ],
+            "index": 781
+        },
+        "Cooltrainer Albert": {
+            "level": 89,
+            "ivs": null,
+            "item": "Kebia Berry",
+            "ability": "Pixilate",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Hyper Voice",
+                "Psychic",
+                "Draining Kiss",
+                "Destiny Bond"
+            ],
+            "index": 918
+        }
+    },
+    "Swellow": {
+        "Camper Flint and Bird Keeper Edwardo": {
+            "level": 64,
+            "ivs": null,
+            "item": "Choice Specs",
+            "ability": "Scrappy",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Boomburst",
+                "Air Slash"
+            ],
+            "index": 520
+        },
+        "Hiker Eric": {
+            "level": 75,
+            "ivs": null,
+            "item": "Life Orb",
+            "ability": "Scrappy",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Boomburst",
+                "Air Slash",
+                "Heat Wave",
+                "U-turn"
+            ],
+            "index": 790
+        }
+    },
+    "Skarmory": {
+        "Bird Keeper Darius": {
+            "level": 64,
+            "ivs": null,
+            "item": "Red Card",
+            "ability": "Sturdy",
+            "nature": "Careful",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Body Press",
+                "Drill Peck",
+                "Spikes",
+                "Stealth Rock"
+            ],
+            "index": 523
+        },
+        "Drewd": {
+            "level": 90,
+            "ivs": null,
+            "item": "Red Card",
+            "ability": "Sturdy",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Drill Peck",
+                "Stealth Rock",
+                "Spikes",
+                "Roost"
+            ],
+            "index": 1011
+        }
+    },
+    "Braviary": {
+        "Bird Keeper Darius": {
+            "level": 62,
+            "ivs": null,
+            "item": "White Herb",
+            "ability": "Defiant",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Brave Bird",
+                "Close Combat",
+                "Crush Claw",
+                "Bulk Up"
+            ],
+            "index": 525
+        }
+    },
+    "Silvally-Flying": {
+        "Expert Jared": {
+            "level": 64,
+            "ivs": null,
+            "item": "Flying Memory",
+            "ability": "Rks System",
+            "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Multi-Attack",
+                "Flamethrower",
+                "Ice Beam",
+                "Thunderbolt"
+            ],
+            "index": 527
+        }
+    },
+    "Drampa": {
+        "Expert Jared": {
+            "level": 62,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Berserk",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Hyper Voice",
+                "Dragon Pulse",
+                "Extrasensory",
+                "Icy Wind"
+            ],
+            "index": 528
+        },
+        "Cooltrainer Halle": {
+            "level": 90,
+            "ivs": null,
+            "item": "Custap Berry",
+            "ability": "Berserk",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Hyper Voice",
+                "Flamethrower",
+                "Ice Beam",
+                "Roost"
+            ],
+            "index": 1007
+        }
+    },
+    "Archeops": {
+        "Expert Jared": {
+            "level": 62,
+            "ivs": null,
+            "item": "Flying Gem",
+            "ability": "Defeatist",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Rock Slide",
+                "Acrobatics",
+                "Dragon Claw",
+                "Substitute"
+            ],
+            "index": 529
+        }
+    },
+    "Naganadel": {
+        "Expert Jared": {
+            "level": 62,
+            "ivs": null,
+            "item": "Wise Glasses",
+            "ability": "Beast Boost",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Venoshock",
+                "Dragon Breath",
+                "Air Slash",
+                "Toxic"
+            ],
+            "index": 530
+        },
+        "Drewd": {
+            "level": 90,
+            "ivs": null,
+            "item": "Life Orb",
+            "ability": "Beast Boost",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Dragon Pulse",
+                "Flamethrower",
+                "Sludge Wave",
+                "Dark Pulse"
+            ],
+            "index": 1015
+        },
+        "Elite Four Janine": {
+            "level": 90,
+            "ivs": null,
+            "item": "Covert Cloak",
+            "ability": "Beast Boost",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Sludge Bomb",
+                "Dragon Pulse",
+                "Flamethrower",
+                "Venoshock"
+            ],
+            "index": 1046
+        }
+    },
+    "Zapdos-Galar": {
+        "Leader Winona": {
+            "level": 64,
+            "ivs": null,
+            "item": "Sharp Beak",
+            "ability": "Defiant",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Thunderous Kick",
+                "Drill Peck",
+                "Stomping Tantrum",
+                "Knock Off"
+            ],
+            "index": 532
+        },
+        "Brendan Three": {
+            "level": 89,
+            "ivs": null,
+            "item": "Eject Pack",
+            "ability": "Defiant",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Close Combat",
+                "Brave Bird",
+                "Thunderous Kick",
+                "Trailblaze"
+            ],
+            "index": 910
+        }
+    },
+    "Articuno-Galar": {
+        "Leader Winona": {
+            "level": 64,
+            "ivs": null,
+            "item": "Sharp Beak",
+            "ability": "Competitive",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Freezing Glare",
+                "Air Slash",
+                "Shadow Ball",
+                "Hypnosis"
+            ],
+            "index": 534
+        },
+        "Elite Four Janine": {
+            "level": 89,
+            "ivs": null,
+            "item": "Expert Belt",
+            "ability": "Competitive",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Freezing Glare",
+                "Air Slash",
+                "Shadow Ball",
+                "Ancient Power"
+            ],
+            "index": 1044
+        }
+    },
+    "Moltres-Galar": {
+        "Leader Winona": {
+            "level": 64,
+            "ivs": null,
+            "item": "Sharp Beak",
+            "ability": "Berserk",
+            "nature": "Bold",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Fiery Wrath",
+                "Air Slash",
+                "Aura Sphere",
+                "Detect"
+            ],
+            "index": 535
+        },
+        "Champion May": {
+            "level": 89,
+            "ivs": null,
+            "item": "Aguav Berry",
+            "ability": "Berserk",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Fiery Wrath",
+                "Air Slash",
+                "Ancient Power",
+                "Roost"
+            ],
+            "index": 1056
+        }
+    },
+    "Corviknight": {
+        "Leader Winona": {
+            "level": 63,
+            "ivs": null,
+            "item": "Rocky Helmet",
+            "ability": "Unnerve",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Drill Peck",
+                "Iron Head",
+                "Body Press",
+                "Retaliate"
+            ],
+            "index": 536
+        }
+    },
+    "Omastar": {
+        "Parasol Lady Angelica": {
+            "level": 68,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Swift Swim",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Surf",
+                "Earth Power",
+                "Ice Beam",
+                "Shell Smash"
+            ],
+            "index": 539
+        }
+    },
+    "Iron Jugulis": {
+        "Ninja Boy Riley": {
+            "level": 68,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Quark Drive",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Hurricane",
+                "Hydro Pump",
+                "Dark Pulse",
+                "Knock Off"
+            ],
+            "index": 543
+        }
+    },
+    "Crobat": {
+        "Ninja Boy Riley": {
+            "level": 70,
+            "ivs": null,
+            "item": "Scope Lens",
+            "ability": "Inner Focus",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Cross Poison",
+                "Dual Wingbeat",
+                "Leech Life",
+                "Steel Wing"
+            ],
+            "index": 544
+        }
+    },
+    "Keldeo": {
+        "Battle Girl Callie": {
+            "level": 70,
+            "ivs": null,
+            "item": "Assault Vest",
+            "ability": "Justified",
+            "nature": "Bold",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Muddy Water",
+                "Aura Sphere",
+                "Ice Beam",
+                "Aqua Jet"
+            ],
+            "index": 546
+        }
+    },
+    "Rotom-Wash": {
+        "Parasol Lady Clarissa": {
+            "level": 68,
+            "ivs": null,
+            "item": "Leftovers",
+            "ability": "Levitate",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Hydro Pump",
+                "Thunder",
+                "Volt Switch",
+                "Thunder Wave"
+            ],
+            "index": 550
+        },
+        "Elite Four Jasmine": {
+            "level": 90,
+            "ivs": null,
+            "item": "Sitrus Berry",
+            "ability": "Levitate",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Hydro Pump",
+                "Thunderbolt",
+                "Signal Beam",
+                "Electroweb"
+            ],
+            "index": 1033
+        }
+    },
+    "Seismitoad": {
+        "Parasol Lady Clarissa": {
+            "level": 68,
+            "ivs": null,
+            "item": "Rindo Berry",
+            "ability": "Swift Swim",
+            "nature": "Mild",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Surf",
+                "Earth Power",
+                "Ice Punch",
+                "Mud Shot"
+            ],
+            "index": 552
+        }
+    },
+    "Heliolisk": {
+        "Parasol Lady Clarissa": {
+            "level": 70,
+            "ivs": null,
+            "item": "Iapapa Berry",
+            "ability": "Dry Skin",
+            "nature": "Impish",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Thunder",
+                "Hyper Voice",
+                "Weather Ball",
+                "Thunder Wave"
+            ],
+            "index": 553
+        },
+        "Aroma Lady Rachel": {
+            "level": 90,
+            "ivs": null,
+            "item": "Throat Spray",
+            "ability": "Solar Power",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Thunderbolt",
+                "Overdrive",
+                "Solar Beam",
+                "Weather Ball"
+            ],
+            "index": 940
+        }
+    },
+    "Goodra": {
+        "Cooltrainer Jennifer": {
+            "level": 68,
+            "ivs": null,
+            "item": "Iapapa Berry",
+            "ability": "Hydration",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Dragon Pulse",
+                "Sludge Wave",
+                "Weather Ball",
+                "Mud Shot"
+            ],
+            "index": 559
+        }
+    },
+    "Lurantis": {
+        "Cooltrainer Jennifer": {
+            "level": 70,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Contrary",
+            "nature": "Rash",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Leaf Storm",
+                "Superpower",
+                "Weather Ball",
+                "X-Scissor"
+            ],
+            "index": 562
+        }
+    },
+    "Ninetales": {
+        "Lorenzo and Jenna": {
+            "level": 70,
+            "ivs": null,
+            "item": "Wide Lens",
+            "ability": "Drought",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Fire Blast",
+                "Solar Beam",
+                "Hex",
+                "Will-O-Wisp"
+            ],
+            "index": 566
+        },
+        "Tuber Roy": {
+            "level": 70,
+            "ivs": null,
+            "item": "Ice Gem",
+            "ability": "Flash Fire",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Heat Wave",
+                "Weather Ball",
+                "Extrasensory",
+                "Nasty Plot"
+            ],
+            "index": 640
+        },
+        "Kindler Jeff": {
+            "level": 75,
+            "ivs": null,
+            "item": "Eject Pack",
+            "ability": "Flash Fire",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Overheat",
+                "Extrasensory",
+                "Hex",
+                "Will-O-Wisp"
+            ],
+            "index": 865
+        }
+    },
+    "Regirock": {
+        "Ruin Maniac Chip": {
+            "level": 70,
+            "ivs": null,
+            "item": "Muscle Band",
+            "ability": "Clear Body",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Rock Slide",
+                "Stomping Tantrum",
+                "Drain Punch",
+                "Stealth Rock"
+            ],
+            "index": 569
+        }
+    },
+    "Registeel": {
+        "Ruin Maniac Chip": {
+            "level": 70,
+            "ivs": null,
+            "item": "Muscle Band",
+            "ability": "Clear Body",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Iron Head",
+                "Earthquake",
+                "Hammer Arm",
+                "Counter"
+            ],
+            "index": 570
+        }
+    },
+    "Regice": {
+        "Ruin Maniac Chip": {
+            "level": 70,
+            "ivs": null,
+            "item": "Chesto Berry",
+            "ability": "Clear Body",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Ice Beam",
+                "Thunderbolt",
+                "Rest",
+                "Sleep Talk"
+            ],
+            "index": 571
+        }
+    },
+    "Regidrago": {
+        "Ruin Maniac Chip": {
+            "level": 70,
+            "ivs": null,
+            "item": "Expert Belt",
+            "ability": "Dragons Maw",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Fire Fang",
+                "Ice Fang",
+                "Thunder Fang",
+                "Dragon Dance"
+            ],
+            "index": 572
+        }
+    },
+    "Regieleki": {
+        "Ruin Maniac Chip": {
+            "level": 70,
+            "ivs": {
+                "sp": 30
+            },
+            "item": "Air Balloon",
+            "ability": "Transistor",
+            "nature": "Quiet",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Discharge",
+                "Extreme Speed",
+                "Hidden Power Ice",
+                "Acrobatics"
+            ],
+            "index": 573
+        }
+    },
+    "Cresselia": {
+        "Hex Maniac Tammy": {
+            "level": 68,
+            "ivs": {
+                "sp": 0
+            },
+            "item": "Covert Cloak",
+            "ability": "Levitate",
+            "nature": "Relaxed",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Psychic",
+                "Moonblast",
+                "Moonlight",
+                "Trick Room"
+            ],
+            "index": 574
+        }
+    },
+    "Aromatisse": {
+        "Hex Maniac Tammy": {
+            "level": 70,
+            "ivs": {
+                "sp": 0
+            },
+            "item": "Misty Seed",
+            "ability": "Healer",
+            "nature": "Quiet",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Moonblast",
+                "Psychic",
+                "Energy Ball",
+                "Draining Kiss"
+            ],
+            "index": 577
+        }
+    },
+    "Indeedee": {
+        "Jessica": {
+            "level": 70,
+            "ivs": null,
+            "item": "Terrain Extender",
+            "ability": "Psychic Surge",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Psychic",
+                "Tera Blast",
+                "Light Screen",
+                "Reflect"
+            ],
+            "index": 579
+        }
+    },
+    "Slaking": {
+        "Jessica": {
+            "level": 68,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Truant",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Body Slam",
+                "Drain Punch",
+                "Play Rough",
+                "Knock Off"
+            ],
+            "index": 580
+        }
+    },
+    "Urshifu-Rapid-Strike": {
+        "Kyra": {
+            "level": 68,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Unseen Fist",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Close Combat",
+                "Surging Strikes",
+                "Ice Spinner",
+                "Poison Jab"
+            ],
+            "index": 583
+        },
+        "Drewd": {
+            "level": 89,
+            "ivs": null,
+            "item": "Assault Vest",
+            "ability": "Unseen Fist",
+            "nature": "Careful",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Surging Strikes",
+                "Drain Punch",
+                "Ice Spinner",
+                "Thunder Punch"
+            ],
+            "index": 1013
+        }
+    },
+    "Cinderace": {
+        "Kyra": {
+            "level": 68,
+            "ivs": null,
+            "item": "Misty Seed",
+            "ability": "Blaze",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Blaze Kick",
+                "Acrobatics",
+                "Headbutt",
+                "Reversal"
+            ],
+            "index": 585
+        },
+        "Swimmer Grace": {
+            "level": 70,
+            "ivs": null,
+            "item": "Flying Gem",
+            "ability": "Blaze",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Blaze Kick",
+                "Double-Edge",
+                "Acrobatics",
+                "Bulk Up"
+            ],
+            "index": 657
+        }
+    },
+    "Iron Moth": {
+        "Cooltrainer Cristin": {
+            "level": 68,
+            "ivs": null,
+            "item": "Air Balloon",
+            "ability": "Quark Drive",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Sludge Wave",
+                "Fiery Dance",
+                "Bug Buzz",
+                "Discharge"
+            ],
+            "index": 587
+        },
+        "Leader Flannery": {
+            "level": 77,
+            "ivs": null,
+            "item": "Air Balloon",
+            "ability": "Quark Drive",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Heat Wave",
+                "Fiery Dance",
+                "Bug Buzz",
+                "Energy Ball"
+            ],
+            "index": 908
+        },
+        "Cooltrainer Owen": {
+            "level": 89,
+            "ivs": null,
+            "item": "Air Balloon",
+            "ability": "Quark Drive",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Heat Wave",
+                "Energy Ball",
+                "Sludge Wave",
+                "U-turn"
+            ],
+            "index": 967
+        },
+        "Cooltrainer Terra": {
+            "level": 89,
+            "ivs": null,
+            "item": "Booster Energy",
+            "ability": "Quark Drive",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Psychic",
+                "Sludge Wave",
+                "Energy Ball",
+                "Fiery Dance"
+            ],
+            "index": 988
+        }
+    },
+    "Slurpuff": {
+        "Cooltrainer Cristin": {
+            "level": 68,
+            "ivs": null,
+            "item": "Misty Seed",
+            "ability": "Unburden",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Misty Explosion",
+                "Draining Kiss",
+                "Flamethrower",
+                "Calm Mind"
+            ],
+            "index": 589
+        }
+    },
+    "Typhlosion": {
+        "Cooltrainer Cristin": {
+            "level": 70,
+            "ivs": null,
+            "item": "Fire Gem",
+            "ability": "Blaze",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Flamethrower",
+                "Extrasensory",
+                "Shadow Ball",
+                "Scorching Sands"
+            ],
+            "index": 590
+        },
+        "Cooltrainer Mitchell": {
+            "level": 89,
+            "ivs": null,
+            "item": "Power Herb",
+            "ability": "Blaze",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Eruption",
+                "Solar Beam",
+                "Nature Power",
+                "Flamethrower"
+            ],
+            "index": 1003
+        }
+    },
+    "Clawitzer": {
+        "Bug Maniac Cale": {
+            "level": 68,
+            "ivs": null,
+            "item": "Wise Glasses",
+            "ability": "Mega Launcher",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Water Pulse",
+                "Dark Pulse",
+                "Aura Sphere",
+                "Terrain Pulse"
+            ],
+            "index": 592
+        },
+        "Presley and Auron": {
+            "level": 68,
+            "ivs": null,
+            "item": "Choice Scarf",
+            "ability": "Mega Launcher",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Terrain Pulse",
+                "Water Pulse",
+                "Dark Pulse",
+                "Aura Sphere"
+            ],
+            "index": 673
+        },
+        "Cooltrainer Mitchell": {
+            "level": 90,
+            "ivs": null,
+            "item": "Expert Belt",
+            "ability": "Mega Launcher",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Terrain Pulse",
+                "Water Pulse",
+                "Aura Sphere",
+                "Ice Beam"
+            ],
+            "index": 1002
+        }
+    },
+    "Mimikyu": {
+        "Bug Maniac Cale": {
+            "level": 68,
+            "ivs": null,
+            "item": "Custap Berry",
+            "ability": "Disguise",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Play Rough",
+                "Shadow Claw",
+                "Wood Hammer",
+                "Destiny Bond"
+            ],
+            "index": 594
+        },
+        "Magma Leader Maxie": {
+            "level": 89,
+            "ivs": null,
+            "item": "Spell Tag",
+            "ability": "Disguise",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Play Rough",
+                "Shadow Claw",
+                "Wood Hammer",
+                "Dazzling Gleam"
+            ],
+            "index": 1019
+        }
+    },
+    "Snorlax": {
+        "Pokemon Breeder Pat": {
+            "level": 70,
+            "ivs": null,
+            "item": "Sitrus Berry",
+            "ability": "Gluttony",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Body Slam",
+                "Crunch",
+                "Heavy Slam",
+                "High Horsepower"
+            ],
+            "index": 600
+        }
+    },
+    "Chimecho": {
+        "Pokemon Breeder Myles": {
+            "level": 72,
+            "ivs": null,
+            "item": "Sitrus Berry",
+            "ability": "Levitate",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Psychic",
+                "Dazzling Gleam",
+                "Charge Beam",
+                "Recover"
+            ],
+            "index": 604
+        }
+    },
+    "Roselia": {
+        "Pokemon Breeder Myles": {
+            "level": 72,
+            "ivs": null,
+            "item": "Eviolite",
+            "ability": "Poison Point",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Sludge Bomb",
+                "Energy Ball",
+                "Extrasensory",
+                "Dazzling Gleam"
+            ],
+            "index": 605
+        }
+    },
+    "Terrakion": {
+        "Sr/Jr Kate & Joy": {
+            "level": 68,
+            "ivs": null,
+            "item": "Normal Gem",
+            "ability": "Justified",
+            "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Stone Edge",
+                "Sacred Sword",
+                "Retaliate"
+            ],
+            "index": 610
+        },
+        "Black Belt Damien": {
+            "level": 75,
+            "ivs": null,
+            "item": "Eject Button",
+            "ability": "Justified",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Sacred Sword",
+                "Rock Slide",
+                "Retaliate",
+                "Quick Attack"
+            ],
+            "index": 819
+        }
+    },
+    "Magearna": {
+        "Pokefan Vanessa": {
+            "level": 68,
+            "ivs": null,
+            "item": "Quick Claw",
+            "ability": "Soul Heart",
+            "nature": "Calm",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Moonblast",
+                "Flash Cannon",
+                "Psychic",
+                "Aurora Beam"
+            ],
+            "index": 611
+        },
+        "Cooltrainer Mitchell": {
+            "level": 89,
+            "ivs": null,
+            "item": "Custap Berry",
+            "ability": "Soul Heart",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Aura Sphere",
+                "Misty Explosion",
+                "Psychic",
+                "Substitute"
+            ],
+            "index": 1000
+        }
+    },
+    "Incineroar": {
+        "Cooltrainer Marcel": {
+            "level": 68,
+            "ivs": null,
+            "item": "Assault Vest",
+            "ability": "Intimidate",
+            "nature": "Impish",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Blaze Kick",
+                "Darkest Lariat",
+                "Leech Life",
+                "Fake Out"
+            ],
+            "index": 623
+        },
+        "Psychic Presont and Psychic Maura": {
+            "level": 68,
+            "ivs": {
+                "sp": 0
+            },
+            "item": "Sitrus Berry",
+            "ability": "Intimidate",
+            "nature": "Brave",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Darkest Lariat",
+                "Blaze Kick",
+                "Leech Life",
+                "Drain Punch"
+            ],
+            "index": 684
+        }
+    },
+    "Roaring Moon": {
+        "Cooltrainer Marcel": {
+            "level": 68,
+            "ivs": null,
+            "item": "Flying Gem",
+            "ability": "Protosynthesis",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Dragon Claw",
+                "Crunch",
+                "Acrobatics",
+                "Dragon Dance"
+            ],
+            "index": 626
+        }
+    },
+    "Latios": {
+        "Brendan Two": {
+            "level": 68,
+            "ivs": null,
+            "item": "Expert Belt",
+            "ability": "Levitate",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Dragon Pulse",
+                "Luster Purge",
+                "Aura Sphere",
+                "Calm Mind"
+            ],
+            "index": 628
+        }
+    },
+    "Magnezone": {
+        "Brendan Two": {
+            "level": 68,
+            "ivs": {
+                "hp": 30,
+                "sa": 30
+            },
+            "item": "Occa Berry",
+            "ability": "Sturdy",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Thunderbolt",
+                "Body Press",
+                "Hidden Power Grass",
+                "Metal Sound"
+            ],
+            "index": 630
+        },
+        "Lady Annie": {
+            "level": 75,
+            "ivs": null,
+            "item": "Expert Belt",
+            "ability": "Sturdy",
+            "nature": "Calm",
+            "teraType": "Water",
+            "status": "Healthy",
+            "moves": [
+                "Discharge",
+                "Flash Cannon",
+                "Tera Blast",
+                "Light Screen"
+            ],
+            "index": 815
+        }
+    },
+    "Iron Valiant": {
+        "Brendan Two": {
+            "level": 68,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Quark Drive",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Moonblast",
+                "Aura Sphere",
+                "Psychic",
+                "Calm Mind"
+            ],
+            "index": 631
+        },
+        "Leader Tate & Liza": {
+            "level": 70,
+            "ivs": null,
+            "item": "Booster Energy",
+            "ability": "Quark Drive",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Spirit Break",
+                "Brick Break",
+                "Psycho Cut",
+                "Fire Punch"
+            ],
+            "index": 724
+        },
+        "Cooltrainer Owen": {
+            "level": 89,
+            "ivs": null,
+            "item": "Clear Amulet",
+            "ability": "Quark Drive",
+            "nature": "Rash",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Close Combat",
+                "Moonblast",
+                "Thunderbolt",
+                "Liquidation"
+            ],
+            "index": 968
+        },
+        "Cooltrainer Dianne": {
+            "level": 89,
+            "ivs": null,
+            "item": "Booster Energy",
+            "ability": "Quark Drive",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Close Combat",
+                "Spirit Break",
+                "Liquidation",
+                "Knock Off"
+            ],
+            "index": 970
+        }
+    },
+    "Mr. Rime": {
+        "Swimmer Sharon and Swimmer Nolen": {
+            "level": 70,
+            "ivs": null,
+            "item": "Salac Berry",
+            "ability": "Ice Body",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Psyshock",
+                "Freeze-Dry",
+                "Shadow Ball",
+                "Fake Out"
+            ],
+            "index": 635
+        }
+    },
+    "Cramorant": {
+        "Tuber Roy": {
+            "level": 70,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Gulp Missile",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Surf",
+                "Weather Ball",
+                "Air Slash",
+                "Agility"
+            ],
+            "index": 641
+        }
+    },
+    "Slowbro-Galar": {
+        "Swimmer Tanya": {
+            "level": 68,
+            "ivs": null,
+            "item": "Quick Claw",
+            "ability": "Quick Draw",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Sludge Bomb",
+                "Psychic",
+                "Blizzard",
+                "Slack Off"
+            ],
+            "index": 643
+        },
+        "Hex Maniac Cole": {
+            "level": 77,
+            "ivs": null,
+            "item": "Wide Lens",
+            "ability": "Quick Draw",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Gunk Shot",
+                "Fire Blast",
+                "Scald",
+                "Slack Off"
+            ],
+            "index": 883
+        }
+    },
+    "Frosmoth": {
+        "Swimmer Declan": {
+            "level": 68,
+            "ivs": null,
+            "item": "Quick Claw",
+            "ability": "Ice Scales",
+            "nature": "Bold",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Blizzard",
+                "Bug Buzz",
+                "Air Slash",
+                "Aurora Veil"
+            ],
+            "index": 646
+        },
+        "Pokemon Ranger Mara": {
+            "level": 77,
+            "ivs": null,
+            "item": "Choice Scarf",
+            "ability": "Ice Scales",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Weather Ball",
+                "Ice Beam",
+                "Bug Buzz"
+            ],
+            "index": 829
+        }
+    },
+    "Articuno": {
+        "Swimmer Declan": {
+            "level": 70,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Snow Cloak",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Air Slash",
+                "Freeze-Dry",
+                "Extrasensory",
+                "U-turn"
+            ],
+            "index": 649
+        }
+    },
+    "Alakazam": {
+        "Swimmer Spencer": {
+            "level": 68,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Synchronize",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Psychic",
+                "Focus Blast",
+                "Dazzling Gleam",
+                "Reflect"
+            ],
+            "index": 650
+        },
+        "Swimmer Kelly": {
+            "level": 75,
+            "ivs": null,
+            "item": "Electric Gem",
+            "ability": "Synchronize",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Psychic",
+                "Shadow Ball",
+                "Shock Wave",
+                "Grass Knot"
+            ],
+            "index": 777
+        },
+        "Psychic Brandi": {
+            "level": 75,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Synchronize",
+            "nature": "Timid",
+            "teraType": "Fire",
+            "status": "Healthy",
+            "moves": [
+                "Psychic",
+                "Dazzling Gleam",
+                "Tera Blast",
+                "Future Sight"
+            ],
+            "index": 839
+        }
+    },
+    "Charizard": {
+        "Swimmer Spencer": {
+            "level": 68,
+            "ivs": null,
+            "item": "Focus Band",
+            "ability": "Blaze",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Flamethrower",
+                "Air Slash",
+                "Weather Ball",
+                "Counter"
+            ],
+            "index": 651
+        }
+    },
+    "Scrafty": {
+        "Swimmer Grace": {
+            "level": 68,
+            "ivs": null,
+            "item": "Focus Band",
+            "ability": "Moxie",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Close Combat",
+                "Payback",
+                "Poison Jab",
+                "Reversal"
+            ],
+            "index": 655
+        }
+    },
+    "Glalie": {
+        "Swimmer Jenny": {
+            "level": 68,
+            "ivs": null,
+            "item": "Focus Band",
+            "ability": "Inner Focus",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Icicle Crash",
+                "Earthquake",
+                "Crunch",
+                "Explosion"
+            ],
+            "index": 659
+        }
+    },
+    "Rotom-Frost": {
+        "Swimmer Chad": {
+            "level": 68,
+            "ivs": null,
+            "item": "Salac Berry",
+            "ability": "Levitate",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Blizzard",
+                "Thunderbolt",
+                "Hex",
+                "Volt Switch"
+            ],
+            "index": 663
+        }
+    },
+    "Cryogonal": {
+        "Swimmer Isabella": {
+            "level": 68,
+            "ivs": null,
+            "item": "Light Clay",
+            "ability": "Levitate",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Ice Beam",
+                "Freeze-Dry",
+                "Ancient Power",
+                "Aurora Veil"
+            ],
+            "index": 667
+        }
+    },
+    "Kommo-o": {
+        "Swimmer Isabella": {
+            "level": 68,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Soundproof",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Drain Punch",
+                "Poison Jab",
+                "Thunder Punch",
+                "Dragon Dance"
+            ],
+            "index": 669
+        },
+        "Battle Girl Aisha": {
+            "level": 75,
+            "ivs": null,
+            "item": "White Herb",
+            "ability": "Bulletproof",
+            "nature": "Adamant",
+            "teraType": "Steel",
+            "status": "Healthy",
+            "moves": [
+                "Close Combat",
+                "Dragon Claw",
+                "Iron Head",
+                "Dragon Dance"
+            ],
+            "index": 797
+        },
+        "Cooltrainer Red": {
+            "level": 89,
+            "ivs": null,
+            "item": "Throat Spray",
+            "ability": "Overcoat",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Clanging Scales",
+                "Aura Sphere",
+                "Boomburst",
+                "Flash Cannon"
+            ],
+            "index": 996
+        }
+    },
+    "Cetitan": {
+        "Swimmer Isabella": {
+            "level": 69,
+            "ivs": null,
+            "item": "Sitrus Berry",
+            "ability": "Slush Rush",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Ice Spinner",
+                "High Horsepower",
+                "Ice Shard",
+                "Belly Drum"
+            ],
+            "index": 671
+        },
+        "Pokemon Ranger Tyree": {
+            "level": 73,
+            "ivs": null,
+            "item": "Assault Vest",
+            "ability": "Thick Fat",
+            "nature": "Adamant",
+            "teraType": "Ice",
+            "status": "Healthy",
+            "moves": [
+                "Icicle Crash",
+                "High Horsepower",
+                "Knock Off",
+                "Ice Shard"
+            ],
+            "index": 785
+        }
+    },
+    "Kingambit": {
+        "Presley and Auron": {
+            "level": 68,
+            "ivs": null,
+            "item": "Life Orb",
+            "ability": "Supreme Overlord",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Kowtow Cleave",
+                "Sucker Punch",
+                "Iron Head",
+                "Brick Break"
+            ],
+            "index": 674
+        },
+        "Lady Annie": {
+            "level": 75,
+            "ivs": null,
+            "item": "Black Glasses",
+            "ability": "Supreme Overlord",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Kowtow Cleave",
+                "Iron Head",
+                "Sucker Punch",
+                "Zen Headbutt"
+            ],
+            "index": 814
+        },
+        "Cooltrainer MBF": {
+            "level": 90,
+            "ivs": null,
+            "item": "Chople Berry",
+            "ability": "Supreme Overlord",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Kowtow Cleave",
+                "Iron Head",
+                "Sucker Punch",
+                "Swords Dance"
+            ],
+            "index": 980
+        },
+        "Drewd": {
+            "level": 90,
+            "ivs": null,
+            "item": "Quick Claw",
+            "ability": "Supreme Overlord",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Kowtow Cleave",
+                "Iron Head",
+                "Zen Headbutt",
+                "Low Kick"
+            ],
+            "index": 1016
+        }
+    },
+    "Ogerpon-Cornerstone": {
+        "Presley and Auron": {
+            "level": 68,
+            "ivs": null,
+            "item": "Cornerstone Mask",
+            "ability": "Sturdy",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Ivy Cudgel",
+                "U-turn",
+                "Spiky Shield",
+                "Horn Leech"
+            ],
+            "index": 675
+        }
+    },
+    "Kyurem": {
+        "Expert Timothy": {
+            "level": 0,
+            "ivs": null,
+            "item": "Loaded Dice",
+            "ability": "Pressure",
+            "nature": "Hardy",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Icicle Spear",
+                "Earth Power",
+                "Flash Cannon",
+                "Icy Wind"
+            ],
+            "index": 678
+        }
+    },
+    "Blaziken": {
+        "Expert Timothy": {
+            "level": 0,
+            "ivs": null,
+            "item": "Eject Pack",
+            "ability": "Speed Boost",
+            "nature": "Rash",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Close Combat",
+                "Overheat",
+                "Blaze Kick",
+                "Protect"
+            ],
+            "index": 679
+        },
+        "Aidan and Athena": {
+            "level": 75,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Speed Boost",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Flamethrower",
+                "Aura Sphere",
+                "Scorching Sands",
+                "Protect"
+            ],
+            "index": 729
+        },
+        "Champion May": {
+            "level": 90,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Speed Boost",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Close Combat",
+                "Blaze Kick",
+                "Thunder Punch",
+                "Swords Dance"
+            ],
+            "index": 1058
+        }
+    },
+    "Braviary-Hisui": {
+        "Expert Timothy": {
+            "level": 0,
+            "ivs": null,
+            "item": "Life Orb",
+            "ability": "Tinted Lens",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Esper Wing",
+                "Air Slash",
+                "Heat Wave",
+                "Future Sight"
+            ],
+            "index": 681
+        }
+    },
+    "Hatterene": {
+        "Psychic Presont and Psychic Maura": {
+            "level": 68,
+            "ivs": {
+                "sp": 0
+            },
+            "item": "Fairy Gem",
+            "ability": "Magic Bounce",
+            "nature": "Quiet",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Expanding Force",
+                "Dazzling Gleam",
+                "Draining Kiss",
+                "Mystical Fire"
+            ],
+            "index": 683
+        }
+    },
+    "Indeedee-F": {
+        "Psychic Presont and Psychic Maura": {
+            "level": 68,
+            "ivs": {
+                "sp": 0
+            },
+            "item": "Terrain Extender",
+            "ability": "Psychic Surge",
+            "nature": "Quiet",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Expanding Force",
+                "Hyper Voice",
+                "Alluring Voice",
+                "Psychic Terrain"
+            ],
+            "index": 686
+        }
+    },
+    "Hypno": {
+        "Psychic Presont and Psychic Maura": {
+            "level": 70,
+            "ivs": {
+                "sp": 0
+            },
+            "item": "Life Orb",
+            "ability": "Inner Focus",
+            "nature": "Quiet",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Expanding Force",
+                "Focus Blast",
+                "Dazzling Gleam",
+                "Hypnosis"
+            ],
+            "index": 688
+        }
+    },
+    "Togekiss": {
+        "Psychic Blake and Psychic Samantha": {
+            "level": 70,
+            "ivs": {
+                "sp": 0
+            },
+            "item": "Fairy Feather",
+            "ability": "Aerilate",
+            "nature": "Bold",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Alluring Voice",
+                "Tera Blast",
+                "Flamethrower",
+                "Follow Me"
+            ],
+            "index": 689
+        },
+        "Swimmer Kelly": {
+            "level": 77,
+            "ivs": null,
+            "item": "Throat Spray",
+            "ability": "Aerilate",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Alluring Voice",
+                "Hyper Voice",
+                "Flamethrower",
+                "Aura Sphere"
+            ],
+            "index": 778
+        },
+        "Hex Maniac Cole": {
+            "level": 75,
+            "ivs": null,
+            "item": "Blunder Policy",
+            "ability": "Serene Grace",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Air Slash",
+                "Fire Blast",
+                "Extrasensory",
+                "Ancient Power"
+            ],
+            "index": 884
+        },
+        "Cooltrainer Dianne": {
+            "level": 90,
+            "ivs": null,
+            "item": "Flying Gem",
+            "ability": "Serene Grace",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Air Slash",
+                "Draining Kiss",
+                "Psyshock",
+                "Nasty Plot"
+            ],
+            "index": 974
+        },
+        "Elite Four Misty": {
+            "level": 90,
+            "ivs": null,
+            "item": "Fairy Feather",
+            "ability": "Aerilate",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Hyper Voice",
+                "Dazzling Gleam",
+                "Fire Blast",
+                "Tri Attack"
+            ],
+            "index": 1052
+        }
+    },
+    "Sylveon": {
+        "Psychic Blake and Psychic Samantha": {
+            "level": 68,
+            "ivs": {
+                "sp": 0
+            },
+            "item": "Fairy Feather",
+            "ability": "Pixilate",
+            "nature": "Quiet",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Hyper Voice",
+                "Psychic",
+                "Draining Kiss",
+                "Light Screen"
+            ],
+            "index": 693
+        },
+        "Elite Four Whitney": {
+            "level": 90,
+            "ivs": null,
+            "item": "Kebia Berry",
+            "ability": "Pixilate",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Hyper Voice",
+                "Psychic",
+                "Mystical Fire",
+                "Protect"
+            ],
+            "index": 1037
+        }
+    },
+    "Camerupt": {
+        "Psychic Virgil and Gentleman Nate": {
+            "level": 70,
+            "ivs": {
+                "sp": 0
+            },
+            "item": "Focus Sash",
+            "ability": "Magma Armor",
+            "nature": "Brave",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Temper Flare",
+                "Stomping Tantrum",
+                "Zen Headbutt",
+                "Howl"
+            ],
+            "index": 697
+        },
+        "Hiker Eli": {
+            "level": 75,
+            "ivs": null,
+            "item": "Quick Claw",
+            "ability": "Magma Armor",
+            "nature": "Quiet",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Eruption",
+                "Heat Wave",
+                "Earth Power",
+                "Ancient Power"
+            ],
+            "index": 889
+        }
+    },
+    "Druddigon": {
+        "Hex Maniac Kathleen and Psychic Nicholas": {
+            "level": 68,
+            "ivs": {
+                "sa": 0,
+                "sp": 0
+            },
+            "item": "Covert Cloak",
+            "ability": "Sheer Force",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Dragon Claw",
+                "Poison Jab",
+                "Crunch",
+                "Surf"
+            ],
+            "index": 711
+        }
+    },
+    "Amoonguss": {
+        "Gentleman Clifford and Psychic Macey": {
+            "level": 68,
+            "ivs": {
+                "sp": 0
+            },
+            "item": "Sitrus Berry",
+            "ability": "Effect Spore",
+            "nature": "Quiet",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Energy Ball",
+                "Sludge Bomb",
+                "Pollen Puff",
+                "Spore"
+            ],
+            "index": 717
+        }
+    },
+    "Bronzong": {
+        "Gentleman Clifford and Psychic Macey": {
+            "level": 68,
+            "ivs": {
+                "sp": 0
+            },
+            "item": "Occa Berry",
+            "ability": "Levitate",
+            "nature": "Brave",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Gyro Ball",
+                "Body Press",
+                "Future Sight",
+                "Hypnosis"
+            ],
+            "index": 718
+        }
+    },
+    "Tapu Lele": {
+        "Leader Tate & Liza": {
+            "level": 69,
+            "ivs": null,
+            "item": "Big Root",
+            "ability": "Telepathy",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Moonblast",
+                "Extrasensory",
+                "Shadow Ball",
+                "Draining Kiss"
+            ],
+            "index": 720
+        },
+        "Cooltrainer Dianne": {
+            "level": 89,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Telepathy",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Psychic",
+                "Moonblast",
+                "Focus Blast",
+                "Thunderbolt"
+            ],
+            "index": 969
+        },
+        "Elite Four Jasmine": {
+            "level": 89,
+            "ivs": null,
+            "item": "Covert Cloak",
+            "ability": "Telepathy",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Moonblast",
+                "Psychic",
+                "Energy Ball",
+                "Draining Kiss"
+            ],
+            "index": 1031
+        }
+    },
+    "Iron Crown": {
+        "Leader Tate & Liza": {
+            "level": 68,
+            "ivs": null,
+            "item": "Throat Spray",
+            "ability": "Quark Drive",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Psychic Noise",
+                "Tachyon Cutter",
+                "Air Slash",
+                "Future Sight"
+            ],
+            "index": 721
+        },
+        "Cooltrainer Red": {
+            "level": 89,
+            "ivs": null,
+            "item": "Booster Energy",
+            "ability": "Quark Drive",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Expanding Force",
+                "Tachyon Cutter",
+                "Focus Blast",
+                "Volt Switch"
+            ],
+            "index": 998
+        }
+    },
+    "Iron Leaves": {
+        "Leader Tate & Liza": {
+            "level": 68,
+            "ivs": null,
+            "item": "Power Herb",
+            "ability": "Quark Drive",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Solar Blade",
+                "Leaf Blade",
+                "Psyblade",
+                "X-Scissor"
+            ],
+            "index": 722
+        },
+        "Brendan Three": {
+            "level": 89,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Quark Drive",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Leaf Blade",
+                "Psyblade",
+                "Sacred Sword",
+                "X-Scissor"
+            ],
+            "index": 911
+        }
+    },
+    "Iron Boulder": {
+        "Leader Tate & Liza": {
+            "level": 68,
+            "ivs": null,
+            "item": "Psychic Seed",
+            "ability": "Quark Drive",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Mighty Cleave",
+                "Zen Headbutt",
+                "Sacred Sword",
+                "Protect"
+            ],
+            "index": 723
+        },
+        "Cooltrainer Quincy": {
+            "level": 89,
+            "ivs": null,
+            "item": "Booster Energy",
+            "ability": "Quark Drive",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Mighty Cleave",
+                "Zen Headbutt",
+                "Sacred Sword",
+                "X-Scissor"
+            ],
+            "index": 928
+        }
+    },
+    "Espathra": {
+        "Aidan and Athena": {
+            "level": 75,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Speed Boost",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Expanding Force",
+                "Dazzling Gleam",
+                "Lumina Crash",
+                "Protect"
+            ],
+            "index": 725
+        }
+    },
+    "Dudunsparce": {
+        "Swimmer Allison": {
+            "level": 77,
+            "ivs": null,
+            "item": "Scope Lens",
+            "ability": "Serene Grace",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Hyper Drill",
+                "Drill Run",
+                "Poison Jab",
+                "Dragon Tail"
+            ],
+            "index": 734
+        }
+    },
+    "Silvally-Grass": {
+        "Swimmer Reed": {
+            "level": 75,
+            "ivs": null,
+            "item": "Grass Memory",
+            "ability": "Rks System",
+            "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Multi-Attack",
+                "Flamethrower",
+                "Ice Beam",
+                "Thunderbolt"
+            ],
+            "index": 735
+        }
+    },
+    "Milotic": {
+        "Swimmer Reed": {
+            "level": 75,
+            "ivs": null,
+            "item": "Iapapa Berry",
+            "ability": "Marvel Scale",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Surf",
+                "Ice Beam",
+                "Draining Kiss",
+                "Hypnosis"
+            ],
+            "index": 736
+        },
+        "Black Belt Damien": {
+            "level": 75,
+            "ivs": null,
+            "item": "Leftovers",
+            "ability": "Marvel Scale",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Scald",
+                "Ice Beam",
+                "Alluring Voice",
+                "Recover"
+            ],
+            "index": 820
+        }
+    },
+    "Eelektross": {
+        "Swimmer Reed": {
+            "level": 75,
+            "ivs": null,
+            "item": "Leftovers",
+            "ability": "Levitate",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Thunder Punch",
+                "Drain Punch",
+                "Fire Punch",
+                "Coil"
+            ],
+            "index": 738
+        }
+    },
+    "Seviper": {
+        "Swimmer Santiago": {
+            "level": 75,
+            "ivs": null,
+            "item": "Expert Belt",
+            "ability": "Infiltrator",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Sludge Wave",
+                "Flamethrower",
+                "Dark Pulse",
+                "Giga Drain"
+            ],
+            "index": 743
+        }
+    },
+    "Ursaluna": {
+        "Swimmer Santiago": {
+            "level": 75,
+            "ivs": null,
+            "item": "Flame Orb",
+            "ability": "Bulletproof",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "High Horsepower",
+                "Body Slam",
+                "Play Rough",
+                "Fire Punch"
+            ],
+            "index": 744
+        },
+        "Expert Keegan": {
+            "level": 75,
+            "ivs": null,
+            "item": "Eject Pack",
+            "ability": "Bulletproof",
+            "nature": "Careful",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Headlong Rush",
+                "Close Combat",
+                "Ice Punch",
+                "Trailblaze"
+            ],
+            "index": 899
+        }
+    },
+    "Muk": {
+        "Swimmer Katie": {
+            "level": 75,
+            "ivs": null,
+            "item": "Jaboca Berry",
+            "ability": "Poison Touch",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Poison Jab",
+                "Fire Punch",
+                "Ice Punch",
+                "Knock Off"
+            ],
+            "index": 748
+        },
+        "Bug Maniac Axle": {
+            "level": 75,
+            "ivs": null,
+            "item": "Quick Claw",
+            "ability": "Poison Touch",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Poison Jab",
+                "Crunch",
+                "Drain Punch",
+                "Ice Punch"
+            ],
+            "index": 876
+        }
+    },
+    "Wyrdeer": {
+        "Swimmer Kara": {
+            "level": 75,
+            "ivs": null,
+            "item": "Twisted Spoon",
+            "ability": "Intimidate",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Body Slam",
+                "Psyshield Bash",
+                "Earthquake",
+                "Future Sight"
+            ],
+            "index": 757
+        }
+    },
+    "Centiskorch": {
+        "Swimmer Kara": {
+            "level": 75,
+            "ivs": null,
+            "item": "Fire Gem",
+            "ability": "White Smoke",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Burn Up",
+                "Fire Lash",
+                "X-Scissor",
+                "Knock Off"
+            ],
+            "index": 758
+        }
+    },
+    "Pecharunt": {
+        "Swimmer Richard": {
+            "level": 77,
+            "ivs": null,
+            "item": "Leftovers",
+            "ability": "Poison Puppeteer",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Malignant Chain",
+                "Shadow Ball",
+                "Foul Play",
+                "Night Shade"
+            ],
+            "index": 764
+        }
+    },
+    "Xatu": {
+        "Swimmer Susie": {
+            "level": 75,
+            "ivs": null,
+            "item": "Wise Glasses",
+            "ability": "Synchronize",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Psychic",
+                "Air Slash",
+                "Dazzling Gleam",
+                "Future Sight"
+            ],
+            "index": 767
+        }
+    },
+    "Garganacl": {
+        "Swimmer Susie": {
+            "level": 77,
+            "ivs": null,
+            "item": "Leftovers",
+            "ability": "Purifying Salt",
+            "nature": "Careful",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Salt Cure",
+                "Ice Punch",
+                "Fire Punch",
+                "Recover"
+            ],
+            "index": 769
+        }
+    },
+    "Octillery": {
+        "Swimmer Talia": {
+            "level": 75,
+            "ivs": null,
+            "item": "Wacan Berry",
+            "ability": "Sniper",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Water Spout",
+                "Fire Blast",
+                "Sludge Wave",
+                "Ice Beam"
+            ],
+            "index": 770
+        }
+    },
+    "Fezandipiti": {
+        "Swimmer Talia": {
+            "level": 75,
+            "ivs": null,
+            "item": "Flying Gem",
+            "ability": "Toxic Chain",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Gunk Shot",
+                "Play Rough",
+                "Acrobatics",
+                "Lash Out"
+            ],
+            "index": 772
+        }
+    },
+    "Brambleghast": {
+        "Swimmer Kelly": {
+            "level": 77,
+            "ivs": null,
+            "item": "Muscle Band",
+            "ability": "Wind Rider",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Poltergeist",
+                "Seed Bomb",
+                "Skitter Smack",
+                "Rollout"
+            ],
+            "index": 779
+        }
+    },
+    "Inteleon": {
+        "Battle Girl Aisha": {
+            "level": 75,
+            "ivs": null,
+            "item": "Scope Lens",
+            "ability": "Sniper",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Snipe Shot",
+                "Ice Beam",
+                "Light Screen",
+                "Reflect"
+            ],
+            "index": 793
+        }
+    },
+    "Stakataka": {
+        "Parasol Lady Katrina": {
+            "level": 77,
+            "ivs": {
+                "sp": 0
+            },
+            "item": "Quick Claw",
+            "ability": "Beast Boost",
+            "nature": "Brave",
+            "teraType": "Steel",
+            "status": "Healthy",
+            "moves": [
+                "Earthquake",
+                "Gyro Ball",
+                "Body Press",
+                "Rock Slide"
+            ],
+            "index": 803
+        }
+    },
+    "Magneton": {
+        "Guitarist Kendall": {
+            "level": 75,
+            "ivs": null,
+            "item": "Air Balloon",
+            "ability": "Magnet Pull",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Thunderbolt",
+                "Flash Cannon",
+                "Light Screen",
+                "Reflect"
+            ],
+            "index": 805
+        }
+    },
+    "Dugtrio": {
+        "Guitarist Kendall": {
+            "level": 75,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Sand Veil",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Earthquake",
+                "Rock Slide",
+                "Sucker Punch",
+                "Stealth Rock"
+            ],
+            "index": 806
+        }
+    },
+    "Flutter Mane": {
+        "Lady Annie": {
+            "level": 75,
+            "ivs": null,
+            "item": "Booster Energy",
+            "ability": "Protosynthesis",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Dazzling Gleam",
+                "Draining Kiss",
+                "Shadow Ball",
+                "Mystical Fire"
+            ],
+            "index": 810
+        },
+        "Cooltrainer MBF": {
+            "level": 89,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Protosynthesis",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Shadow Ball",
+                "Dazzling Gleam",
+                "Mystical Fire",
+                "Protect"
+            ],
+            "index": 977
+        },
+        "Cooltrainer Mitchell": {
+            "level": 89,
+            "ivs": null,
+            "item": "Booster Energy",
+            "ability": "Protosynthesis",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Moonblast",
+                "Draining Kiss",
+                "Shadow Ball",
+                "Mystical Fire"
+            ],
+            "index": 1004
+        },
+        "Champion May": {
+            "level": 89,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Protosynthesis",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Moonblast",
+                "Shadow Ball",
+                "Thunderbolt",
+                "Mystical Fire"
+            ],
+            "index": 1054
+        }
+    },
+    "Tangrowth": {
+        "Lady Annie": {
+            "level": 75,
+            "ivs": null,
+            "item": "Quick Claw",
+            "ability": "Leaf Guard",
+            "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Power Whip",
+                "Giga Drain",
+                "Ancient Power",
+                "Knock Off"
+            ],
+            "index": 812
+        }
+    },
+    "Darmanitan": {
+        "Lady Annie": {
+            "level": 75,
+            "ivs": null,
+            "item": "Life Orb",
+            "ability": "Sheer Force",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Fire Punch",
+                "Rock Slide",
+                "Earthquake",
+                "U-turn"
+            ],
+            "index": 813
+        }
+    },
+    "Silvally-Fighting": {
+        "Black Belt Damien": {
+            "level": 75,
+            "ivs": null,
+            "item": "Fighting Memory",
+            "ability": "Rks System",
+            "nature": "Hardy",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Multi-Attack",
+                "Draco Meteor",
+                "Psychic Fangs",
+                "Crunch"
+            ],
+            "index": 816
+        }
+    },
+    "Garchomp": {
+        "Black Belt Damien": {
+            "level": 75,
+            "ivs": null,
+            "item": "Rocky Helmet",
+            "ability": "Rough Skin",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Earthquake",
+                "Dragon Claw",
+                "Fire Fang",
+                "Stealth Rock"
+            ],
+            "index": 818
+        },
+        "Cooltrainer Edgar": {
+            "level": 89,
+            "ivs": null,
+            "item": "Life Orb",
+            "ability": "Sand Veil",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Scale Shot",
+                "Swords Dance",
+                "Earthquake",
+                "Stone Edge"
+            ],
+            "index": 936
+        },
+        "Cooltrainer Mitchell": {
+            "level": 89,
+            "ivs": null,
+            "item": "Yache Berry",
+            "ability": "Rough Skin",
+            "nature": "Lonely",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Stealth Rock",
+                "Earthquake",
+                "Stone Edge",
+                "Draco Meteor"
+            ],
+            "index": 999
+        }
+    },
+    "Talonflame": {
+        "Black Belt Damien": {
+            "level": 77,
+            "ivs": null,
+            "item": "Life Orb",
+            "ability": "Gale Wings",
+            "nature": "Adamant",
+            "teraType": "Ground",
+            "status": "Healthy",
+            "moves": [
+                "Tera Blast",
+                "Dual Wingbeat",
+                "Overheat",
+                "U-turn"
+            ],
+            "index": 821
+        }
+    },
+    "Arcanine-Hisui": {
+        "Kindler Ryker": {
+            "level": 75,
+            "ivs": null,
+            "item": "Air Balloon",
+            "ability": "Rock Head",
+            "nature": "Naive",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Flare Blitz",
+                "Head Smash",
+                "Extreme Speed",
+                "Close Combat"
+            ],
+            "index": 824
+        }
+    },
+    "Exeggutor": {
+        "Kindler Ryker": {
+            "level": 77,
+            "ivs": null,
+            "item": "Life Orb",
+            "ability": "Chlorophyll",
+            "nature": "Modest",
+            "teraType": "Fire",
+            "status": "Healthy",
+            "moves": [
+                "Solar Beam",
+                "Psychic",
+                "Tera Blast",
+                "Future Sight"
+            ],
+            "index": 827
+        }
+    },
+    "Porygon-Z": {
+        "Psychic Brandi": {
+            "level": 75,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Adaptability",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Tri Attack",
+                "Thunderbolt",
+                "Ice Beam",
+                "Nasty Plot"
+            ],
+            "index": 838
+        }
+    },
+    "Latias": {
+        "Cooltrainer Tyler": {
+            "level": 75,
+            "ivs": null,
+            "item": "Spell Tag",
+            "ability": "Levitate",
+            "nature": "Bold",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Mist Ball",
+                "Shadow Ball",
+                "Light Screen",
+                "Reflect"
+            ],
+            "index": 840
+        },
+        "Expert Magik": {
+            "level": 89,
+            "ivs": null,
+            "item": "Soul Dew",
+            "ability": "Levitate",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Mist Ball",
+                "Dragon Pulse",
+                "Aura Sphere",
+                "Alluring Voice"
+            ],
+            "index": 948
+        },
+        "Champion May": {
+            "level": 89,
+            "ivs": null,
+            "item": "Soul Dew",
+            "ability": "Levitate",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Mist Ball",
+                "Dragon Pulse",
+                "Alluring Voice",
+                "Calm Mind"
+            ],
+            "index": 1055
+        }
+    },
+    "Nihilego": {
+        "Cooltrainer Tyler": {
+            "level": 75,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Beast Boost",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Power Gem",
+                "Sludge Bomb",
+                "Grass Knot",
+                "Stealth Rock"
+            ],
+            "index": 841
+        },
+        "Cooltrainer Charlie": {
+            "level": 89,
+            "ivs": null,
+            "item": "Power Herb",
+            "ability": "Beast Boost",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Meteor Beam",
+                "Sludge Wave",
+                "Thunderbolt",
+                "Stealth Rock"
+            ],
+            "index": 958
+        }
+    },
+    "Meganium": {
+        "Pokemon Ranger Shirley": {
+            "level": 75,
+            "ivs": null,
+            "item": "Custap Berry",
+            "ability": "Overgrow",
+            "nature": "Brave",
+            "teraType": null,
+            "status": "Poisoned",
+            "moves": [
+                "Leaf Storm",
+                "Petal Blizzard",
+                "Earthquake",
+                "Facade"
+            ],
+            "index": 848
+        }
+    },
+    "Entei": {
+        "Pokemon Ranger Shirley": {
+            "level": 75,
+            "ivs": null,
+            "item": "Aguav Berry",
+            "ability": "Pressure",
+            "nature": "Careful",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Sacred Fire",
+                "Stone Edge",
+                "Extreme Speed",
+                "Trailblaze"
+            ],
+            "index": 850
+        },
+        "Cooltrainer Shannon": {
+            "level": 89,
+            "ivs": null,
+            "item": "Sitrus Berry",
+            "ability": "Inner Focus",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Sacred Fire",
+                "Stone Edge",
+                "Extreme Speed",
+                "Flame Charge"
+            ],
+            "index": 956
+        }
+    },
+    "Landorus-Therian": {
+        "Pokemon Ranger Shirley": {
+            "level": 75,
+            "ivs": null,
+            "item": "Wide Lens",
+            "ability": "Intimidate",
+            "nature": "Rash",
+            "teraType": "Flying",
+            "status": "Healthy",
+            "moves": [
+                "Sandsear Storm",
+                "Tera Blast",
+                "Extrasensory",
+                "U-turn"
+            ],
+            "index": 851
+        },
+        "Elite Four Jasmine": {
+            "level": 89,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Intimidate",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Stomping Tantrum",
+                "Hammer Arm",
+                "Rock Slide",
+                "U-turn"
+            ],
+            "index": 1029
+        }
+    },
+    "Zapdos": {
+        "Cooltrainer Teddy": {
+            "level": 77,
+            "ivs": null,
+            "item": "Aguav Berry",
+            "ability": "Pressure",
+            "nature": "Bold",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Thunderbolt",
+                "Air Slash",
+                "Heat Wave",
+                "Roost"
+            ],
+            "index": 852
+        },
+        "Cooltrainer Quincy": {
+            "level": 89,
+            "ivs": null,
+            "item": "Safety Goggles",
+            "ability": "Pressure",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Thunderbolt",
+                "Air Slash",
+                "Weather Ball",
+                "Heat Wave"
+            ],
+            "index": 931
+        }
+    },
+    "Suicune": {
+        "Challenger Phoebe": {
+            "level": 75,
+            "ivs": null,
+            "item": "Sitrus Berry",
+            "ability": "Pressure",
+            "nature": "Bold",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Surf",
+                "Ice Beam",
+                "Recover",
+                "Tailwind"
+            ],
+            "index": 858
+        }
+    },
+    "Chien-Pao": {
+        "Challenger Phoebe": {
+            "level": 77,
+            "ivs": null,
+            "item": "Choice Band",
+            "ability": "Sword Of Ruin",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Ice Spinner",
+                "Lash Out"
+            ],
+            "index": 859
+        }
+    },
+    "Terapagos-Terastal": {
+        "Challenger Phoebe": {
+            "level": 77,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Tera Shift",
+            "nature": "Timid",
+            "teraType": "Stellar",
+            "status": "Healthy",
+            "moves": [
+                "Tera Starstorm",
+                "Dazzling Gleam",
+                "Earth Power",
+                "Energy Ball"
+            ],
+            "index": 863
+        },
+        "Elite Four Whitney": {
+            "level": 90,
+            "ivs": null,
+            "item": "Leftovers",
+            "ability": "Tera Shell",
+            "nature": "Bold",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Tera Starstorm",
+                "Earth Power",
+                "Aura Sphere",
+                "Dark Pulse"
+            ],
+            "index": 1040
+        }
+    },
+    "Hitmonchan": {
+        "Battler Girl Danielle": {
+            "level": 77,
+            "ivs": null,
+            "item": "Expert Belt",
+            "ability": "Iron Fist",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Drain Punch",
+                "Mach Punch",
+                "Bullet Punch",
+                "Fake Out"
+            ],
+            "index": 869
+        }
+    },
+    "Pangoro": {
+        "Battler Girl Danielle": {
+            "level": 75,
+            "ivs": null,
+            "item": "Bright Powder",
+            "ability": "Iron Fist",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Knock Off",
+                "Circle Throw",
+                "Poison Jab",
+                "Bullet Punch"
+            ],
+            "index": 872
+        }
+    },
+    "Orbeetle": {
+        "Bug Maniac Axle": {
+            "level": 77,
+            "ivs": null,
+            "item": "Light Clay",
+            "ability": "Swarm",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Psychic",
+                "Bug Buzz",
+                "Light Screen",
+                "Reflect"
+            ],
+            "index": 874
+        }
+    },
+    "Mabosstiff": {
+        "Cooltrainer Gerald": {
+            "level": 75,
+            "ivs": null,
+            "item": "Aguav Berry",
+            "ability": "Stakeout",
+            "nature": "Careful",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Crunch",
+                "Play Rough",
+                "Body Slam",
+                "Hone Claws"
+            ],
+            "index": 880
+        }
+    },
+    "Meowstic": {
+        "Cooltrainer Gerald": {
+            "level": 75,
+            "ivs": null,
+            "item": "Wise Glasses",
+            "ability": "Mystic Charm",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Psychic",
+                "Energy Ball",
+                "Dark Pulse",
+                "Alluring Voice"
+            ],
+            "index": 881
+        }
+    },
+    "Simisear": {
+        "Dragon Tamer Jace": {
+            "level": 77,
+            "ivs": null,
+            "item": "Liechi Berry",
+            "ability": "Blaze",
+            "nature": "Hasty",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Fire Blast",
+                "Superpower",
+                "Knock Off",
+                "Natural Gift"
+            ],
+            "index": 892
+        }
+    },
+    "Dipplin": {
+        "Dragon Tamer Jace": {
+            "level": 77,
+            "ivs": null,
+            "item": "Eviolite",
+            "ability": "Supersweet Syrup",
+            "nature": "Calm",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Giga Drain",
+                "Dragon Breath",
+                "Pollen Puff",
+                "Recover"
+            ],
+            "index": 893
+        }
+    },
+    "Uxie": {
+        "Dragon Tamer Jace": {
+            "level": 75,
+            "ivs": null,
+            "item": "Leftovers",
+            "ability": "Levitate",
+            "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Psychic",
+                "Drain Punch",
+                "Draining Kiss",
+                "Future Sight"
+            ],
+            "index": 895
+        }
+    },
+    "Zekrom": {
+        "Dragon Tamer Jace": {
+            "level": 75,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Teravolt",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Fusion Bolt",
+                "Dragon Claw",
+                "Zen Headbutt",
+                "Rock Tomb"
+            ],
+            "index": 896
+        }
+    },
+    "Electivire": {
+        "Expert Keegan": {
+            "level": 75,
+            "ivs": null,
+            "item": "Rowap Berry",
+            "ability": "Iron Fist",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Thunder Punch",
+                "Ice Punch",
+                "Hammer Arm",
+                "Reflect"
+            ],
+            "index": 900
+        },
+        "Cooltrainer Charlie": {
+            "level": 89,
+            "ivs": null,
+            "item": "Shuca Berry",
+            "ability": "Iron Fist",
+            "nature": "Hasty",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Thunder Punch",
+                "Ice Punch",
+                "Earthquake",
+                "Low Kick"
+            ],
+            "index": 957
+        }
+    },
+    "Reshiram": {
+        "Expert Keegan": {
+            "level": 77,
+            "ivs": null,
+            "item": "Haban Berry",
+            "ability": "Turboblaze",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Fusion Flare",
+                "Dragon Pulse",
+                "Earth Power",
+                "Dragon Tail"
+            ],
+            "index": 902
+        }
+    },
+    "Walking Wake": {
+        "Leader Flannery": {
+            "level": 75,
+            "ivs": null,
+            "item": "Charcoal",
+            "ability": "Protosynthesis",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Hydro Steam",
+                "Dragon Pulse",
+                "Flamethrower",
+                "Sleep Talk"
+            ],
+            "index": 905
+        },
+        "Aroma Lady Rachel": {
+            "level": 89,
+            "ivs": null,
+            "item": "White Herb",
+            "ability": "Protosynthesis",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Hydro Steam",
+                "Draco Meteor",
+                "Flamethrower",
+                "Protect"
+            ],
+            "index": 943
+        },
+        "Cooltrainer MBF": {
+            "level": 89,
+            "ivs": null,
+            "item": "White Herb",
+            "ability": "Protosynthesis",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Hydro Steam",
+                "Draco Meteor",
+                "Flamethrower",
+                "Protect"
+            ],
+            "index": 979
+        }
+    },
+    "Raging Bolt": {
+        "Leader Flannery": {
+            "level": 75,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Protosynthesis",
+            "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Thunderbolt",
+                "Dragon Pulse",
+                "Solar Beam",
+                "Ancient Power"
+            ],
+            "index": 906
+        },
+        "Aqua Leader Archie": {
+            "level": 89,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Protosynthesis",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Thunderbolt",
+                "Thunderclap",
+                "Dragon Pulse",
+                "Calm Mind"
+            ],
+            "index": 1026
+        }
+    },
+    "Gouging Fire": {
+        "Leader Flannery": {
+            "level": 75,
+            "ivs": null,
+            "item": "Leftovers",
+            "ability": "Protosynthesis",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Dragon Claw",
+                "Temper Flare",
+                "Stomping Tantrum",
+                "Burning Bulwark"
+            ],
+            "index": 907
+        },
+        "Magma Leader Maxie": {
+            "level": 89,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Protosynthesis",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Dragon Claw",
+                "Temper Flare",
+                "Earthquake",
+                "Howl"
+            ],
+            "index": 1020
+        }
+    },
+    "Miraidon": {
+        "Brendan Three": {
+            "level": 89,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Hadron Engine",
+            "nature": "Rash",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Electro Drift",
+                "Dragon Pulse",
+                "Overheat",
+                "Dazzling Gleam"
+            ],
+            "index": 909
+        }
+    },
+    "Genesect": {
+        "Brendan Three": {
+            "level": 89,
+            "ivs": null,
+            "item": "Shock Drive",
+            "ability": "Download",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Techno Blast",
+                "Bug Buzz",
+                "Flash Cannon",
+                "Flamethrower"
+            ],
+            "index": 912
+        }
+    },
+    "Enamorus-Therian": {
+        "Cooltrainer Edgar": {
+            "level": 89,
+            "ivs": null,
+            "item": "Leftovers",
+            "ability": "Overcoat",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Draining Kiss",
+                "Moonblast",
+                "Calm Mind",
+                "Mystical Fire"
+            ],
+            "index": 934
+        }
+    },
+    "Ferrothorn": {
+        "Cooltrainer Edgar": {
+            "level": 90,
+            "ivs": null,
+            "item": "Quick Claw",
+            "ability": "Iron Barbs",
+            "nature": "Relaxed",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Power Whip",
+                "Body Press",
+                "Gyro Ball",
+                "Curse"
+            ],
+            "index": 935
+        }
+    },
+    "Dracovish": {
+        "Cooltrainer Edgar": {
+            "level": 90,
+            "ivs": null,
+            "item": "Choice Band",
+            "ability": "Sand Rush",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Fishious Rend"
+            ],
+            "index": 937
+        }
+    },
+    "Heatran": {
+        "Expert Magik": {
+            "level": 89,
+            "ivs": null,
+            "item": "Focus Sash",
+            "ability": "Flash Fire",
+            "nature": "Serious",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Magma Storm",
+                "Flash Cannon",
+                "Earth Power",
+                "Flame Charge"
+            ],
+            "index": 945
+        }
+    },
+    "Jirachi": {
+        "Expert Magik": {
+            "level": 89,
+            "ivs": null,
+            "item": "Power Herb",
+            "ability": "Serene Grace",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Meteor Beam",
+                "Psychic",
+                "Flash Cannon",
+                "Calm Mind"
+            ],
+            "index": 950
+        }
+    },
+    "Kartana": {
+        "Cooltrainer Dianne": {
+            "level": 90,
+            "ivs": null,
+            "item": "Life Orb",
+            "ability": "Beast Boost",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Leaf Blade",
+                "Sacred Sword",
+                "Psycho Cut",
+                "Swords Dance"
+            ],
+            "index": 973
+        }
+    },
+    "Comfey": {
+        "Cooltrainer Caroline": {
+            "level": 89,
+            "ivs": null,
+            "item": "Life Orb",
+            "ability": "Triage",
+            "nature": "Bold",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Calm Mind",
+                "Draining Kiss",
+                "Knock Off",
+                "U-turn"
+            ],
+            "index": 986
+        }
+    },
+    "Shaymin-Sky": {
+        "Cooltrainer Terra": {
+            "level": 89,
+            "ivs": null,
+            "item": "Grass Gem",
+            "ability": "Serene Grace",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Seed Flare",
+                "Air Slash",
+                "Earth Power",
+                "Grass Whistle"
+            ],
+            "index": 989
+        }
+    },
+    "Marshadow": {
+        "Cooltrainer Terra": {
+            "level": 89,
+            "ivs": null,
+            "item": "Eject Pack",
+            "ability": "Technician",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Close Combat",
+                "Spectral Thief",
+                "Shadow Sneak",
+                "Knock Off"
+            ],
+            "index": 991
+        }
+    },
+    "Meowscarada": {
+        "Cooltrainer Red": {
+            "level": 89,
+            "ivs": null,
+            "item": "Life Orb",
+            "ability": "Protean",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Flower Trick",
+                "Knock Off",
+                "Play Rough",
+                "U-turn"
+            ],
+            "index": 997
+        }
+    },
+    "Scream Tail": {
+        "Cooltrainer Halle": {
+            "level": 90,
+            "ivs": null,
+            "item": "Booster Energy",
+            "ability": "Protosynthesis",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Misty Explosion",
+                "Psychic",
+                "Stealth Rock",
+                "Thunder Wave"
+            ],
+            "index": 1006
+        }
+    },
+    "Enamorus": {
+        "Cooltrainer Halle": {
+            "level": 90,
+            "ivs": null,
+            "item": "Life Orb",
+            "ability": "Contrary",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Springtide Storm",
+                "Hurricane",
+                "Earth Power",
+                "Mystical Fire"
+            ],
+            "index": 1009
+        }
+    },
+    "Darmanitan-Galar": {
+        "Drewd": {
+            "level": 90,
+            "ivs": null,
+            "item": "Focus Band",
+            "ability": "Zen Mode",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Icicle Crash",
+                "Fire Punch",
+                "Stone Edge",
+                "Belly Drum"
+            ],
+            "index": 1014
+        }
+    },
+    "Groudon": {
+        "Magma Leader Maxie": {
+            "level": 89,
+            "ivs": null,
+            "item": "Wide Lens",
+            "ability": "Drought",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Precipice Blades",
+                "Fire Punch",
+                "Thunder Punch",
+                "Hammer Arm"
+            ],
+            "index": 1017
+        }
+    },
+    "Honchkrow": {
+        "Magma Leader Maxie": {
+            "level": 89,
+            "ivs": null,
+            "item": "Wise Glasses",
+            "ability": "Super Luck",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Dark Pulse",
+                "Air Slash",
+                "Heat Wave",
+                "U-turn"
+            ],
+            "index": 1018
+        }
+    },
+    "Scovillain": {
+        "Magma Leader Maxie": {
+            "level": 89,
+            "ivs": null,
+            "item": "Chesto Berry",
+            "ability": "Chlorophyll",
+            "nature": "Hardy",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Solar Beam",
+                "Flamethrower",
+                "Zen Headbutt",
+                "Rest"
+            ],
+            "index": 1021
+        }
+    },
+    "Ogerpon-Hearthflame": {
+        "Magma Leader Maxie": {
+            "level": 90,
+            "ivs": null,
+            "item": "Hearthflame Mask",
+            "ability": "Mold Breaker",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Ivy Cudgel",
+                "Horn Leech",
+                "Superpower",
+                "Spiky Shield"
+            ],
+            "index": 1022
+        }
+    },
+    "Kyogre": {
+        "Aqua Leader Archie": {
+            "level": 89,
+            "ivs": null,
+            "item": "Wide Lens",
+            "ability": "Drizzle",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Origin Pulse",
+                "Thunder",
+                "Ice Beam",
+                "Ancient Power"
+            ],
+            "index": 1023
+        }
+    },
+    "Eiscue": {
+        "Aqua Leader Archie": {
+            "level": 89,
+            "ivs": null,
+            "item": "Muscle Band",
+            "ability": "Ice Face",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Ice Spinner",
+                "Freeze-Dry",
+                "Head Smash",
+                "Liquidation"
+            ],
+            "index": 1025
+        }
+    },
+    "Ogerpon-Wellspring": {
+        "Aqua Leader Archie": {
+            "level": 90,
+            "ivs": null,
+            "item": "Wellspring Mask",
+            "ability": "Water Absorb",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Ivy Cudgel",
+                "Horn Leech",
+                "Superpower",
+                "Spiky Shield"
+            ],
+            "index": 1028
+        }
+    },
+    "Melmetal": {
+        "Elite Four Jasmine": {
+            "level": 90,
+            "ivs": null,
+            "item": "White Herb",
+            "ability": "Iron Fist",
+            "nature": "Careful",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Double Iron Bash",
+                "Thunder Punch",
+                "Superpower",
+                "Protect"
+            ],
+            "index": 1034
+        }
+    },
+    "Ursaluna-Bloodmoon": {
+        "Elite Four Whitney": {
+            "level": 89,
+            "ivs": null,
+            "item": "Lum Berry",
+            "ability": "Minds Eye",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Blood Moon",
+                "Earth Power",
+                "Moonblast",
+                "Moonlight"
+            ],
+            "index": 1035
+        }
+    },
+    "Tornadus": {
+        "Elite Four Whitney": {
+            "level": 89,
+            "ivs": null,
+            "item": "Mental Herb",
+            "ability": "Prankster",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Air Slash",
+                "Extrasensory",
+                "Knock Off",
+                "Tailwind"
+            ],
+            "index": 1036
+        }
+    },
+    "Iron Bundle": {
+        "Elite Four Misty": {
+            "level": 89,
+            "ivs": null,
+            "item": "Booster Energy",
+            "ability": "Quark Drive",
+            "nature": "Modest",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Freeze-Dry",
+                "Water Pulse",
+                "Flip Turn",
+                "Air Cutter"
+            ],
+            "index": 1048
+        }
+    },
+    "Zeraora": {
+        "Elite Four Misty": {
+            "level": 89,
+            "ivs": null,
+            "item": "White Herb",
+            "ability": "Volt Absorb",
+            "nature": "Adamant",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Plasma Fists",
+                "Close Combat",
+                "Ice Punch",
+                "Fake Out"
+            ],
+            "index": 1049
+        }
+    },
+    "Manaphy": {
+        "Elite Four Misty": {
+            "level": 89,
+            "ivs": null,
+            "item": "Mystic Water",
+            "ability": "Hydration",
+            "nature": "Timid",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Scald",
+                "Energy Ball",
+                "Ice Beam",
+                "Protect"
+            ],
+            "index": 1050
+        }
+    },
+    "Koraidon": {
+        "Champion May": {
+            "level": 89,
+            "ivs": null,
+            "item": "Haban Berry",
+            "ability": "Orichalcum Pulse",
+            "nature": "Jolly",
+            "teraType": null,
+            "status": "Healthy",
+            "moves": [
+                "Collision Course",
+                "Dragon Claw",
+                "Flare Blitz",
+                "Iron Head"
+            ],
+            "index": 1053
+        }
+    }
+}

@@ -476,14 +476,19 @@ const SV = SS.concat([
   'Ability Shield',
   'Booster Energy',
   'Clear Amulet',
+  'Cornerstone Mask',
   'Covert Cloak',
+  'Fairy Feather',
+  'Hearthflame Mask',
   'Loaded Dice',
   'Malicious Armor',
+  'Metal Alloy',
   'Mirror Herb',
   'Punching Glove',
   'Lustrous Globe',
   'Griseous Core',
   'Strange Ball',
+  'Wellspring Mask',
 ]);
 
 const BERRIES: {[berry: string]: {t: I.TypeName; p: number}} = {

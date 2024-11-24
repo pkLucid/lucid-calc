@@ -9,6 +9,7 @@ export declare function computeFinalStats(gen: Generation, attacker: Pokemon, de
 export declare function getFinalSpeed(gen: Generation, pokemon: Pokemon, field: Field, side: Side): number;
 export declare function getMoveEffectiveness(gen: Generation, move: Move, type: TypeName, isGhostRevealed?: boolean, isGravity?: boolean, isRingTarget?: boolean): number;
 export declare function checkAirLock(pokemon: Pokemon, field: Field): void;
+export declare function checkTeraformZero(pokemon: Pokemon, field: Field): void;
 export declare function checkForecast(pokemon: Pokemon, weather?: Weather): void;
 export declare function checkItem(pokemon: Pokemon, magicRoomActive?: boolean): void;
 export declare function checkWonderRoom(pokemon: Pokemon, wonderRoomActive?: boolean): void;
@@ -16,6 +17,7 @@ export declare function checkIntimidate(gen: Generation, source: Pokemon, target
 export declare function checkDownload(source: Pokemon, target: Pokemon, wonderRoomActive?: boolean): void;
 export declare function checkIntrepidSword(source: Pokemon, gen: Generation): void;
 export declare function checkDauntlessShield(source: Pokemon, gen: Generation): void;
+export declare function checkEmbody(source: Pokemon, gen: Generation): void;
 export declare function checkInfiltrator(pokemon: Pokemon, affectedSide: Side): void;
 export declare function checkSeedBoost(pokemon: Pokemon, field: Field): void;
 export declare function checkMultihitBoost(gen: Generation, attacker: Pokemon, defender: Pokemon, move: Move, field: Field, desc: RawDesc, usedWhiteHerb?: boolean): boolean;
