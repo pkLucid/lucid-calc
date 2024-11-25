@@ -199,7 +199,9 @@ function displayDamageHits(damage) {
 	// Fixed Damage
 	if (typeof damage === 'number') return damage;
 	// Standard Damage
-	if (damage.length > 2) return damage.join(', ');
+	if (damage.length > 2) {
+		return damage.slice(0, 7).join(', ') + ', <<' + damage[7] + '>>, ' + damage.slice(8,16).join(', ');
+	}
 	// Fixed Parental Bond Damage
 	if (typeof damage[0] === 'number' && typeof damage[1] === 'number') {
 		return '1st Hit: ' + damage[0] + '; 2nd Hit: ' + damage[1];
