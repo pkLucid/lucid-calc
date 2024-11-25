@@ -464,7 +464,7 @@ var ADV_PATCH = {
     'Bullet Seed': { bp: 10, type: 'Grass', multihit: [2, 5] },
     Camouflage: { bp: 0, category: 'Status', type: 'Normal' },
     Charge: { bp: 0, category: 'Status', type: 'Electric' },
-    Covet: { bp: 40, type: 'Normal' },
+    Covet: { bp: 40, type: 'Fairy' },
     Dive: { bp: 60, type: 'Water', makesContact: true },
     'Doom Desire': { bp: 120, type: 'Steel' },
     Extrasensory: { bp: 80, type: 'Psychic' },
